@@ -1,8 +1,8 @@
 # Die schwedischen Expeditionen nach Spitzbergen und Bären-Eiland
 
-<img align="right" height="150" src="https://github.com/kogo59/Reisen_im_Ostindischen_Archipel_in_den_Jahren_1865_und_1866/blob/main/images/cover.jpg">
+<img align="right" height="150" src="https://github.com/kogo59/Die_schwedischen_Expeditionen_nach_Spitzbergen_und_Baeren_Eiland/blob/main/images/cover.jpg">
 
-This is a git repository of the source files for the book "Reisen im Ostindischen Archipel in den Jahren 1865 und 1866".
+This is a git repository of the source files for the book "RDie schwedischen Expeditionen nach Spitzbergen und Bären-Eiland".
 
 Authors:
 
