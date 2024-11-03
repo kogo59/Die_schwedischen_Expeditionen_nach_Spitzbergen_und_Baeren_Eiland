@@ -1,0 +1,4 @@
+﻿% Die schwedischen Expeditionen nach Spitzbergen und Bären-Eiland.
+% Otto Martin Torell (1828-1900); Adolf Eric Nordenskiöld (1832-1901) Übersetzer: Ludwig Passarge (1825-1912)
+% 1869, Hermann Costenoble, Jena. 
+ <br/><br/>Dieses Werk basiert auf dem Digitalisat vom [MDZ](https://www.digitale-sammlungen.de/de/view/bsb10465324?page=,1) und ist Public Domain Der [Urheber](https://de.wikipedia.org/wiki/Adolf_Erik_Nordenski%C3%B6ld) dieses Werks ist 1901 gestorben; es ist daher gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers. Dieses Werk ist gemeinfrei in den Vereinigten Staaten, weil es vor dem 1. Januar 1929 veröffentlicht wurde.
