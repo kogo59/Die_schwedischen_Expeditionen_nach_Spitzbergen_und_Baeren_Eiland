@@ -2,7 +2,7 @@
 # Verzeichniß der Illustrationen.
 
 ## Größere. 
-* [Die drei Kronen](ch001.xhtml#b001)
+* [Die drei Kronen](ch003.xhtml#b035)
 * Oestliche norwegische Insel
 * Walrosse
 * Gletscher im Innern der Magdalenenbucht
@@ -13,7 +13,7 @@
 
 ## In den Text gedruckte.
 * [Procellaria glacialis](ch003.xhtml#b017) (Mallemuck, Sturmvogel, Seepferd)
-* Prinz Charles Vorland
+* [Prinz Charles Vorland](ch003.xhtml#b034)
 * Lunnen (Mormon arcticus)
 * Das Schiff im Eise (Magdalena)
 * Aeolus in Treurenberg-Bai

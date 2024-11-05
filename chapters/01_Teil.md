@@ -492,7 +492,6 @@ sich auf die Seite zu legen, und mit einem „Gott nehme Sie in seinen gnädigen
 Schutz“ — verabschiedete sich unser Lootse. Um 8 Uhr hatten wir Loppen und Arnö
 hinter uns und entfernten uns mehr und mehr von Europas Festland. —
 
-
 Im Logbuch des Aeolus liest man: von 4 bis 8 Uhr starker Seegang, und für die
 acht folgenden Stunden: starkes Rollen. Die See bot uns ihren Gruß so kräftig,
 daß bald der Eine und Andere das Deck verließ und die einsame Stille seiner Koje
@@ -541,7 +540,7 @@ Seine gewöhnliche Nahrung sind die unzähligen Schalthiere und Mollusken, von
 denen das Meer immer wimmelt. In dem Magen eines von uns geschossenen fanden wir
 die schöne Schnecke Limaeina arctieca.
 
-:::: { .wrap-80 .break-after .caption }
+:::: { .wrap-80 .caption }
 ![Procellaria glacialis.](Die_schwedischen_Expeditionen_017.jpg "Procellaria glacialis"){#b017}
 ::::
 
@@ -589,13 +588,563 @@ näherten wir uns dieser Insel mehr und mehr. Die große Zahl von Alken, welche
 nunmehr ununterbrochen unser Schiff umschwärmten, gaben uns zu erkennen, daß ein
 arktisches Land vor unseren Blicken lag.
 
+:::
+
 :::: align-center
 ***
 ::::
 
 
+## <small>Zweites Kapitel.</small><br />Bären-Eiland und Spitzbergen.
+
+::: justified
+
+:::: fs-xs
+Bären-Eiland. — Seine Geschichte. — Klimatische Verhältnisse. — Eis und
+Strömungen. — Tiefmessungen. — Jagd während einer Eisfahrt. — Ankunft auf
+Spitzbergen. — Das Schiff ankert zwischen Amsterdam-Eiland und Vogelsang.<br
+/><br />
+::::
+
+Bären-Eiland kam — wie schon bemerkt — am 12. Mai, nachdem wir nicht ganz zwei
+Tage uns auf hoher See befunden, in Sicht. Da wir mit aller Macht nach Norden
+hinstrebten, um noch alle der projectirten Eisfahrt günstigen Umstände zu
+benutzen, so war beschlossen worden, die Reise durch eine Landung auf dieser
+Insel nicht zu verzögern. Als aber der Wind am Nachmittage nachließ und wir nur
+äußerst langsam vorwärts kamen, änderten wir unsern Plan und richteten unsern
+Cours nach der Insel, um, so weit die Zeit es gestattete, dieses vollkommen
+isolirte Eiland, das in so vielen Beziehungen lehrreiche Beobachtungen und
+Resultate in Aussicht stellte, zu untersuchen. Magdalena, welche sich um Mittag
+in 74° 1´ nördl. Br. und 17° 15´ östl. L. befand, also nördlicher als Aeolus,
+dessen Lage zu eben der Zeit 73° 59´ 7“ nördl. Br. und 17° 22´ 3“ östl. L., war
+schon am Vormittage auf Treibeis gestoßen. Vom Aeolus aus wurde dagegen das
+erste Eisstück erst ungefähr um 5 Uhr Nachmittags wahrgenommen. Während wir
+gegen den Ostwind kreuzten, um die Nordküste der Insel zu erreichen,
+durchschnitten wir mehrere Bänder des sogenannten „Strandeises“ oder
+„Baieneises“, welches dicht am Lande noch als Packeis festlag. Wir wagten es
+nicht mit dem Boote in dieses Eis einzudringen. Denn wenn es uns auch glückte
+an's Land zu kommen, so hatte voraussichtlich eine solche Excursion doch einen
+zu langen Aufenthalt im Gefolge. Nachdem wir einen Theil der Nacht nach Westen
+gerudert, machten wir am 13. wieder einen Versuch, uns der Insel zu nähern. Da
+aber das Treibeis und die übrigen Verhältnisse unverändert waren, so blieb es
+bei dem Entschlusse, nicht an Land zu gehen.
+
+Obwohl in leichten Nebel gehüllt, traten uns doch die Umrisse der Insel
+erkennbar entgegen. Sie stellt sich als ein dunkles, steil in's Meer
+abstürzendes, tafelförmiges Felsland dar, das sich nördlich ziemlich schnell zu
+einem weiten Flachlande herabsenkt. Die kegelartige Klippe, welche sich südlich
+neben der Insel erhebt, nennen die Norweger „Stappen“. Keilhau erzählt, daß er
+Gull Island, die früher viel besprochene Insel, auf welcher man einst einige
+Bleierzgänge für Silber gehalten hatte, nicht habe finden können, und sagt, auch
+die norwegischen Seefahrer wüßten die Lage von Gull Island nicht anzugeben.
+Diese Insel ist indessen nichts weiter als ein unbedeutender Fels an der
+Südostküste.
+
+Die Ufer der Insel sind in kurzen Zeiträumen erheblichen Veränderungen
+unterworfen gewesen. Nach Keilhau — dessen Beschreibung, neben der von Marmier
+und Scoresby, wir folgen, da unsere eigene Kenntniß eine sehr geringe — ist
+Bären-Eiland rings an der Küste von Steinpfeilern umgeben, deren schon in
+älteren Berichten Erwähnung geschieht. Sie entstehen dadurch, daß das
+Felsgestein verwittert, zusammenstürzt und Steinpyramiden übrig läßt, welche
+eine Zeit lang, ruinenartig, von der Macht des Frostes und der Zerstörung der
+Wogen Zeugniß ablegen, um endlich angefressen und verwitternd im Meere zu
+verschwinden. Gewöhnlich stürzt das Inselplateau steil in's Meer. Doch findet
+man hier und da schmale, niedrige Landstreifen und Strandwälle, an denen es
+möglich ist, an Land zu kommen.
+
+Das Plateau fällt von Süden nach Norden ab. Die höchste Höhe von 2 bis 300 Fuß
+erreicht es im Südosten, doch überragt von zweien Bergmassen. Der östliche von
+ihnen, Mount Misery, wurde von der französischen Expedition bei deren Besuche
+der Insel im Jahre 1839 gemessen. Er ist 1,200 Fuß hoch. Im Uebrigen bietet das
+Land keine auffälligen Gegensätze dar, es seien denn die Schneeflecke
+(Bären-Eiland hat keine wirklichen Gletscher), welche in den Vertiefungen
+vorkommen, der sie umgebende farblose, fast schwarze Erdboden und die kleinen
+Seen auf dem Bergplateau. Aber einen so widrigen Eindruck, wie ältere
+Beschreibungen es darstellen, macht es keinesweges. Denn auch hier findet man
+freundliche grüne Flecke, und der Blick über das weite grenzenlose Meer, welches
+die phantastischen Strandklippen umrauscht, erfrischt den Blick.
+
+Keilhau berichtet, daß er am Fuße des Mount Misery ein kleines Thal angetroffen,
+reichlich von einem Bache bewässert, mit einer Grasoase, welche in einer
+Ausdehnung von mehreren Hundert Fuß Länge und 400 Fuß Breite den Steinboden mit
+fußhohem Grase bedeckte. Hier wuchsen Kinder der hochnordischen Flora:
+Cardamine, Polygonum viviparum und Saxifraga cernua und entfalteten hier und da
+selbst ihre zarten Blüthen. Rhododendrum lapponicum erreicht hier — nach
+Malmgren, der die Insel 1864 besuchte — seine Nordgrenze. Keilhau sammelte
+achtzehn verschiedene Arten höherer Pflanzen und dreiundzwanzig Kryptogamen.
+
+Unter den größeren Wasserläufen der Insel ist der Engelsk-Elf (Engländerfluß)
+nach einem an seiner Mündung begrabenen Engländer benannt. Ganz nahe dieser
+Stelle treten zwischen den übrigen Steinlagen des hohen Ufers zwei
+Steinkohlenflötze zu Tage. Auch an der Ostküste, der sogenannten
+Steinkohlenbucht, kommen vier Steinkohlenschichten über einander in gleichen
+Abständen vor. Außer dieser Formation — dem Product eines einst milderen Klimas,
+treten am häufigsten Thonschiefer, Sand- und Kalkstein — letzterer Petrefacten
+führend — auf und geringe Spuren von Bleierz^[^0200]^.
+
+Das Streben der Menschen nach Gewinn hat dieser kleinen Insel eine Geschichte
+verliehen. Sie wurde den 8. Juni 1596^[^0201]^ von dem berühmten Holländer
+Barents entdeckt, auf dessen dritter und letzter Reise, von welcher er selber
+nicht mehr zurückkehren sollte, indem er sein Grab auf der ungastlichen Küste
+Novaja Semljas fand. Drei Tage lang hielt er sich mit seiner Begleitung auf
+Bären-Eiland auf. Zu Lande erbeutete man außer einer großen Menge von Vogeleiern
+nichts; aber auf dem Wasser tödtete man einen Bären von 12 Fuß Länge, ein
+Ereigniß, das der Insel den Namen gab^[^0202]^.
+
+Als er am 1. Juli von seiner höchst merkwürdigen Nordreise, auf welcher auch
+Spitzbergen entdeckt wurde, zur Insel zurückkehrte, betrat er sie nicht. Die
+Uneinigkeit, die zwischen Barents und John Cornelisson Rijp, dem Befehlshaber
+auf dem zweiten Schiffe der Expedition, herrschte, bewirkte, daß die beiden
+Schiffe sich trennten und das eine nach Osten, das andere nach Norden ging. Mehr
+als sieben Jahre blieb die Insel nun unbesucht, bis am 17. August 1603^[^0203]^ der
+Engländer Stefan Bennet zu ihr kam, ausgesandt von Francis Cherie im Interesse
+des Handels mit den Lappmarken und zu weiteren Entdeckungsfahrten. Er gab der
+Insel nach seinem Patron den Namen Cherie Island^[^0204]^. Obwohl die ganze Beute
+nur aus zweien Füchsen, einem Stücke Bleierz und einigen Walroßzähnen bestand,
+kehrte er doch im folgenden Jahre dorthin zurück und ward der Veranlasser aller
+jener auf die Ausbeutung des Polarmeeres gerichteten, gewinnbringenden
+Unternehmungen, deren sich die Völker Europas nach seiner Reise, mit einander
+wetteifernd, hingaben. An Vögeln fand man auf dieser Insel eine solche Menge,
+daß sie den Erdboden dicht bedeckten. Wenn sie aber aufflogen, verdunkelten sie
+die Sonne. Man stieß auf Tausende von Walrossen. Auch in den folgenden Jahren
+blieben die Verhältnisse unverändert, und das Thier wurde ein Ziel regelmäßiger
+Jagdzüge. Immer vortheilhafter ward diese Jagd, seitdem man in der Art und Weise
+das Walroß zu tödten erfahrener geworden, und nicht blos auf die Zähne, sondern
+auch auf den Speck und das Fell des Thieres ausging. Als Beispiel, wie
+unermeßlich gewinnbringend diese Jagden waren, wollen wir anführen, daß man
+einmal im Jahre 1608 in weniger als sieben Stunden 900 bis 1,000 Walrosse
+erlegte. Auf einem der beiden Schiffe, welche damals bei Bären-Eiland waren,
+versuchte man sogar zwei lebendige junge Walrosse nach England zu bringen; aber
+das eine starb schon unterwegs; dem andern ward zwar die Ehre zu Theil bei Hofe
+„präsentirt“ zu werden, doch unterlag es gleichfalls den fremdartigen
+Verhältnissen.
+
+Im folgenden Jahre, das heißt 1609, waren die Engländer wieder an der Insel. Sie
+wurde von der schon 1555^[^0205]^ gegründeten Handelsgesellschaft für die nordischen
+Länder förmlich in Besitz genommen. Diese sogenannte Moscovy Company oder Russia
+Company hieß ursprünglich Company for the discovery of unknown countries^[^0206]^. Man
+fing wieder eine große Menge Bären und Füchse, und entdeckte nicht blos das oben
+erwähnte Bleierz auf Gull Island, sondern auch Steinkohlen. Dieser Fund ist von
+um so größerem Interesse, als man in unseren Tagen von dem Vorkommen der
+Steinkohle in viel nördlicheren Regionen Gewißheit erlangt hat. Poole, von der
+Gesellschaft im folgenden Jahre ausgesandt, um weiter im Norden neue
+Entdeckungen zu machen und es mit dem Walfischfange zu versuchen, fand selbst
+auf Spitzbergen Steinkohlen, „die ganz gut brannten“^[^0207]^.
+
+Diese Reise Poole's sammt seiner folgenden im Jahre 1611 war die Veranlassung,
+daß man aufhörte ausschließlich Walrosse zu jagen und die Wale zu verfolgen
+begann. Infolge dieser weit vortheilhafteren Jagd war man genöthigt, das Feld
+der Thätigkeit weiter nach Norden an die West- und Nordküste Spitzbergens zu
+verlegen. Zwar wurde Bären-Eiland noch oft von Engländern und Holländern
+besucht, aber die Insel verlor ihren Werth als Jagdplatz im Vergleich mit
+Spitzbergen, bis die Walfische dort auch beinahe ganz ausgerottet waren und
+Seehunde nebst Walrossen wieder als gute Beute betrachtet wurden. Seit dem Jahre
+1820, da man den Walfischfang in diesen Gegenden als beendigt ansehen darf,
+begannen die Norweger und Russen — so ziemlich die einzigen Nationen, die noch
+nach Spitzbergen fuhren — wieder den Walroßfang bei Bären-Eiland zu betreiben,
+aber so unklug und schonungslos, daß man jetzt kaum noch eins dieser
+merkwürdigen Thiere in der Nähe der Insel zu sehen bekommt. Noch 1827 sah
+Keilhau eine Heerde Walrosse auf dem Strande der Insel; aber wahrscheinlich
+waren es die letzten Jahre ihres Erscheinens in größerer Menge. Denn man
+überwinterte damals oft auf der Insel und setzte das Werk der Vernichtung das
+ganze Jahr hindurch fort. Keine Art von Thieren wurde verschmäht: Vögel, Füchse,
+Bären und Walrosse, alles fiel der Gier nach Gewinn zum Opfer. Ja man mordete,
+blos um zu morden, unbekümmert, ob man alle Beute mit sich fortschaffen konnte.
+Auf dem Strande ließ man ganze Haufen von Cadavern zurück, ohne zu bedenken, daß
+diese Stellen von den noch übrig gebliebenen Thieren gescheut werden müßten. Auf
+diese Weise hat bei Bären-Eiland der Walroßfang schon lange aufgehört eine Quelle
+des Reichthums zu sein. Dafür haben später in seiner Umgebung die unternehmenden
+norwegischen Fischer ihre Thätigkeit entfaltet, obwohl größere Unternehmungen
+noch nicht in Gang gekommen sind. Aber der Anfang verspricht Bedeutendes und
+verdient die Aufmerksamkeit der die Fischerei treibenden Nationen. Malmgren
+theilt von seiner letzten Reise mit, daß gewisse im Handel sehr gesuchte
+Fischarten hier in großer Menge vorkommen: der Dorsch (Gadus morrhua), Flundern
+oder Queiten (Hippoglossus maximus), ferner Gadus aeglefinus, der für die
+Thranbereitung so wichtige Hai; der Haakjäring (Scymnus mierocephalus), von dem
+nur die Leber gebraucht wird, und der kleine leckere, zugleich farbenprächtige
+Königsfisch (Sebastes norvegicus).
+
+Die Haakjäringsfischerei wird nunmehr schon jährlich mit mehreren Fahrzeugen von
+Ost- und Westfinmarken betrieben, und nicht blos hier, sondern zuweilen auch an
+Spitzbergens Westküste, selbst bis zum 78. Grade nördlicher Breite. Glaubwürdige
+Eismeerfahrer wissen zu erzählen, daß der Dorsch sich im Frühling bei
+Bären-Eiland in so ungeheuren Massen versammelt, wie in Finmarken und bei den
+Lofoten, welche man dort „Dorschberge“ nennt. Die Hälleflunder soll hier sehr
+zahlreich vorkommen. Der Capitän, welcher im Jahre 1864 die schwedische
+Expedition nach Spitzbergen führte, erzählte, er habe einmal mit Angeln im Laufe
+einer kleinen Stunde nicht weniger als dreißig große Flundern gefangen, von
+denen keine unter 20, mehrere aber mehr als 40 Pfund schwer waren. Darum
+sprechen auch die Walroßjäger auf ihrer Rückkehr zuweilen bei der Insel an, um,
+wenn das Wetter es zuläßt, Hälleflundern zu fangen. Denn von allen Fischen in
+Finmarken wird dieser Fisch am höchsten geschätzt.
+
+Auch der Lodde (Mallotus villosus), den man als Köder bei der Dorschfischerei
+benutzt, kommt hier wahrscheinlich in großen Zügen vor; und daß der Häring nicht
+fehlt, beweist die Wahrnehmung Malmgren's im Jahre 1864, der ihn südwestlich von
+Spitzbergen vorfand. Kurz es spricht Alles dafür, daß Bären-Eiland noch eine
+große Zukunft haben wird, wenn auch nicht in dem Grade, als die fischreichen
+Küsten und Bänke der Lofoten, der Shetlandsinseln und Newfoundlands.
+
+Zu den Leuten, von welchen man bestimmt weiß, daß sie auf der Insel freiwillig
+überwintert haben, gehört auch der Schiffer, mit welchem Keilhau reiste. Er war
+in den Wintern von 1824 auf 25 und 1825 auf 26 dort gewesen, ohne daß ein
+Einziger von seinen acht Leuten krank geworden. Freilich sind Ueberwinterungen
+nicht immer so glücklich abgelaufen; manche von Tromsö und Hammerfest mit aller
+nur denkbaren Vorsicht ausgerüsteten Expeditionen sind dem Skorbut zum Opfer
+gefallen. Die größte Gefahr liegt nicht in dem Klima, sondern in der ungewohnten
+Lebensweise während der kalten, düstern Winterzeit.
+
+Von Bären-Eilands klimatischen Verhältnissen hat man keine genauere Kenntniß.
+Wer längere Zeit dort zugebracht, hat keine meteorologischen Beobachtungen
+angestellt; wer aber solche gemacht, hat sich nur ganz kurze Zeit dort
+aufgehalten, so Keilhau 1827 nur einige Tage, und die französische Expedition
+unter Gaimard nur einige Stunden. Indessen hat man allen Grund anzunehmen, daß
+das Klima der Insel weit rauher sei, als seine Lage vermuthen lasse.
+
+Alle Reiseberichte stimmen darin überein, daß die Temperatur in der Nähe
+Bären-Eilands sinkt. Die Nebel werden häufiger. In den Monaten Mai, Juni und
+Juli trifft man gewöhnlich noch Eis im Meere an.
+
+Als Hudson, eben so bekannt durch seine Reise und Entdeckungen in den arktischen
+Regionen, wie durch sein unglückliches Ende, das erste Mal in die Nähe der Insel
+kam, überfiel ihn ein Sturm und Nebelwetter. Doch ließ es bald nach und er
+konnte sie wahrnehmen. Poole, von dem wir schon oben sprachen, hat Bären-Eiland
+oft besucht und meint, Spitzbergen habe ein milderes Klima. Buchan und der
+berühmte John Franklin, ein zweiter arktischer Märtyrer, erlebten auf ihrer
+Reise am 24. Mai 1818 in der Nähe Bären-Eilands einen Sturm. In der Richtung
+nach Spitzbergen lag das Eis so fest, daß es unmöglich war hindurch zu kommen.
+Clavering und Sabine trafen auf ihrer Fahrt nach Spitzbergen am 27. Juni 1823
+das erste Eis bei dieser Insel an, auch überfiel sie hier ein starker Sturm. Die
+französische Expedition versuchte 1838 bei ihrer Rückkehr von Spitzbergen auf
+Bären-Eiland zu landen, stieß aber überall auf Eis. Auch nachdem sie durch das
+Treibeis gelangt, fand sie — es war am 8. August — noch die ganze Insel mit Eis
+umgeben, so daß es unmöglich war, ihr näher zu kommen. Lord Dufferin traf
+bereits in sechs Meilen Entfernung auf Eis, und hatte schon vorher vernommen, es
+würde immer kälter, je mehr man sich der Insel näherte. Das Eis erstreckte sich
+in westlicher Richtung ungefähr 140 Meilen weit und zog sich dann nördlich nach
+Spitzbergen hin. Diese Wahrnehmung wurde Ende Juli und Anfang August gemacht.
+Auch Torell und Nordenskiöld stießen hier 1858 auf Eis. Lovén wurde 1837 durch
+Nebel und Stürme gehindert an Land zu steigen. Er theilt auch mit, daß die
+Spitzbergenfahrer vor dem Fahrwasser hier allen Respect hätten — was auch wir
+erfuhren — und daß im Jahre vorher Spitzbergen und diese Insel durch eine
+Eisbank verbunden gewesen wären. Auch die Passage nach dem östlichen Spitzbergen
+war durch Eis gesperrt, wie er selber, weiter nördlich in 75° 8´ nördl. Breite,
+sich überzeugte.
+
+Auch wir — wie schon berichtet — stießen bei Bären-Eiland auf Eis und hatten auf
+unserer Weiterfahrt nach Spitzbergen noch lange damit zu kämpfen. Die Grenze
+ging ungefähr in der Richtung nach Nordwesten. Während wir in der Nähe der Insel
+segelten, war dieselbe zeitweise in Nebel gehüllt; die Temperatur der Luft und
+des Wassers nahm aber merklich ab, als wir uns ihr näherten. Beweis: unsere
+Journale, die wir nach Maury's Vorschlag führten, nachdem wir Norwegens Küste
+verlassen hatten. Am 10. und 11. Mai betrug die Temperatur der Luft zwischen +2°
+und +4° C., sie fiel aber, als wir uns der Insel näherten, unter 0, und hielt
+sich die ganze Zeit über, die wir in ihrer Nähe kreuzten, nämlich am 12. und 13.
+Mai, zwischen —1,~4~° und —5° C. Als wir uns von ihr entfernten, stieg sie
+wiederum und sank während zweier Tage, da wir nach Norden und Nordwesten
+segelten, nicht unter —1,~4~° C. Beim Wasser war dieser Temperaturwechsel noch
+auffallender, während die Temperatur der Luft zwischen +2° und +4,~2~° C.
+schwankte, fiel die des Wassers unter den Nullpunkt und hielt sich zwischen —1°
+und —1,~6~° C. Sobald wir uns aber von der Insel entfernten, stieg sie auf
++2,~6~° bis 3,~3~° C. und hielt sich auf dieser Höhe, selbst als wir uns den
+Küsten Spitzbergens näherten. Hier sank sie wieder aus anderen Ursachen, aber
+doch sehr selten so tief als bei Bären-Eiland.
+
+Diese auffallende niedrige Temperatur der Luft und des Wassers rührt nicht blos
+vom Treibeise her; denn wir trafen Eis im Wasser, dessen Temperatur über 0° war,
+zum Beispiel am 14. Mai, wo wir längere Zeit durch Treibeis segelten, während
+das Meerwasser 3° Wärme hatte. Da wir auf unserm Course in nordwestlicher
+Richtung wärmeres Wasser, in der Richtung nach Osten und Nordosten aber kälteres
+antrafen, so folgt daraus, daß das letztere aus diesen Gegenden kommt. Personen,
+die auf Bären-Eiland überwintert haben, theilen mit, das Meer befinde sich
+zuweilen rings um die Insel, den größeren Theil des Winters über, frei von
+Treibeis und friere blos an den Küsten zu; das Treibeis komme aber immer aus
+Norden, Nordosten und Osten. Der Schiffer, welcher — nach Keilhau — auf
+Bären-Eiland überwinterte und über die klimatischen Verhältnisse dieses Winters
+berichtete, sagt, in der Weihnachtswoche sei Regen und Schnee gefallen, der
+April aber der kälteste Monat gewesen, weil das Eis da erst die Insel rings
+eingeschlossen. Im Mai brach es auf, das erste Treibeis aber erschien im Juli,
+von Nordost kommend. Erwägt man, daß der Golfstrom mit seinem wärmeren Wasser
+seine östliche Grenze westlich von der Insel hat, so wird man erkennen, daß der
+Grund für die Erniedrigung der Temperatur während der Sommermonate in diesen
+eigenthümlichen Verhältnissen der Insel zu finden ist. —
+
+Das Eis, welches wir bis dahin durchsegelt hatten, bestand aus Treibeis oder
+größeren und kleineren aufeinander gehäuften Eisstücken. Werden die Eisblöcke
+durch den Einfluß des Windes und der Wellen dicht auf einander gestapelt, so
+nennt man sie Packeis oder „Schraubeneis“, englisch „nummocks.“ Solch ein
+Packeis bildet gewöhnlich ein undurchdringliches Hinderniß. Aber bei
+Bären-Eiland trafen wir nur auf loses, sogenanntes „segelbares“ Treibeis.
+
+Ein solches Segeln durch Eis erfordert immerhin eine eigene Methode und große
+Erfahrung. Am oberen Ende des Mastes ist eine Tonne befestigt, in welcher sich
+ein des Eises kundiger Mann befindet. Er ist der Späher, des Schiffes Auge
+gleichsam, und schaut sich nach den Lücken um, durch welche man gelangen kann;
+seinem Wink folgen Schiffer und Steuermann; auf sein Wort hört Jeder; alle Mann
+befinden sich auf Deck, um, wenn es erforderlich, das Fahrzeug weiter zu
+schieben, oder seine Flanken gegen den Anprall der schwersten Eisblöcke zu
+schützen; immer unter Geschrei und Lärmen, unterbrochen von des Ausschauenden
+„luff“ und „fall“, der warnenden Stimme aus der Höhe. Der Wind mag immerhin
+kräftig wehen, das Meer bleibt ruhig, weil die ziehenden Massen die
+Wellenbildung verhindern; nur ein Sturm vermag eine Art Dünung zu erzeugen.
+Sonst wäre auch die Gefahr zu groß. Das Fahrzeug wendet sich hierhin und
+dorthin. Zuweilen findet es einen etwas freien Weg. Dennoch muß es sich manchen
+Stoß gefallen lassen und bedarf seines verstärkten Steven und Buges und seiner
+inneren Verkleidung. Des Steuermanns ganze Aufmerksamkeit aber ist auf das
+Steuer gerichtet und daß es keinen Schaden nehme. Für die Meisten von uns war es
+etwas Neues, als das Fahrzeug gegen einen 0Eisblock prallte und in seinen Fugen
+erbebte. Einer äußerte: „Das wird fortan unsere Musik sein!“ Und in der That,
+wir gewöhnten uns bald daran. Ein kleineres Schiff hat vor einem größeren den
+Vortheil voraus, daß es verhältnißmäßig fester ist und seinen Weg leichter durch
+das Eis findet. Das Eis selbst verfehlte nicht auf unsere ungewohnten Augen
+einen neuen eigenthümlichen Eindruck zu machen. Wie sehr auch manche
+Reiseschriftsteller die Größe und die vielgestaltigen Formen der Eisstücke
+übertrieben haben, das Schauspiel fesselt uns doch wunderbar. Man glaubt eine
+weite Schärenflur schwimmender Inseln vor sich zu haben im mannigfaltigen
+Wechsel von Formen und Farben. Bald ist es ein von zwei unförmlichen Pfeilern
+getragener Block, nicht unähnlich einem Riesenmonumente, bald ein ungeheurer
+Pocal oder ein Schiffssegel. Jetzt erscheint ein Tisch oder Pilz mit
+smaragdgrünem Fuß und schöngestaltetem schneeweißen Hute, bald darauf ein Schwan
+mit graziösem Halse und weißen Schwingen. Oft ist die Oberfläche der Eisstücke
+wagrecht und eben, oft aber das eine Ende heruntergedrückt und das andere steht
+zerklüftet in die Höhe. Die Bruchflächen wechseln von Blau zu Grün; Schnee
+bedeckt die Oberfläche, zuweilen auch ein schmutziger, erdiger Grus der Küsten,
+von welchen die Eisblöcke ausgegangen sind. Auch wenn das Meer ruhig ist,
+gleiten doch diese Erscheinungen mit den Strömungen an uns vorüber. Bald liegt
+das seltsame Bild in den Strahlen der tiefstehenden Mitternachtssonne vor uns,
+bald hier und da in den Nebel des arktischen Meeres gehüllt. Wenn die Wellen,
+unermüdlich an den Blockkanten leckend, einen Theil des Eises fortspülen,
+entstehen jene sonderbaren Gestaltungen: nach obenhin überhangende Massen, unter
+der Oberfläche des Wassers aber vortretende Spitzen und Kanten, dem
+unvorsichtigen Schiffer heimlich Verderben bereitend. —
+
+Den 13. Mai um Mittag befanden wir uns in 74° 25´ nördl. Br. und 17° 3´ östl. L.
+Wir waren also durch das Kreuzen am letzten Tage ein wenig nördlicher und
+westlicher gekommen. Der Wind wehte den ganzen Tag über aus Norden; das Wetter
+war kalt; dann und wann fiel etwas Schnee. Bären-Eiland verloren wir Nachmittags
+aus dem Gesicht. Die „Seepferde“ zeigten sich seltener, die Alken dagegen
+häufiger. Die ersteren folgten noch immer im Fahrwasser, die Alken flogen dem
+Schiffe entgegen, tauchten unter dessen Kiel unter und erschienen nach einer
+Weile wieder ein Ende seitwärts.
+
+Den 14. Mai Vormittags trafen wir Treibeis noch häufig, sogenanntes Baieneis,
+oder, wie die Spitzbergenfahrer es auch nennen, „diesjähriges Eis.“ Der Wind
+wehte aus Nordnordost. Wir kreuzten und änderten unsern Cours, je nach der Lage
+des Eises. Um Mittag befanden wir uns in 74° 40´ nördl. Br. und 15° 14´ östl. L.
+Sobald wir aus dem Eise gelangten, das hier in einem 3 Grad warmen Wasser
+schwamm, wurde es still; zuweilen kamen Windstöße aus Westen, Süden und
+Südwesten; auch schneite es ein wenig. Später sprang der Wind nach Norden herum,
+blieb nördlich und nahm gegen Abend zu. Die Zoologen fingen zahlreiche
+Mollusken, Crustaceen und Medusen, die in ungeheuren Mengen hier das Meer
+bevölkern.
+
+Die Temperatur, welche sich bis zum 14. Morgens eben so niedrig wie bei
+Bären-Eiland gehalten, stieg am Tage etwas, ohne doch im Laufe des 15. +0,~2~ C.
+zu übersteigen. Am Morgen stießen wir wieder auf ein Eisband. Der Wind verblieb
+in derselben Richtung und Stärke, ging aber gegen Abend nach Nordosten herum und
+wurde matter. Es schneite beinahe den ganzen Tag. Am Mittage befand sich
+Magdalena in 74° 45´ nördl. Br. und Nachmittags 4 Uhr in 13° 59´ östl. L. Den
+15. zeigten sich uns zum ersten Male Walfische. Wir hörten ihr Blasen schon aus
+weiter Ferne. Sie kamen uns ganz nahe, steuerten geradesweges auf das Fahrzeug
+los und folgten ihm zu zwei, drei und vieren eine Weile. In ihrer scheinbaren
+Unbeweglichkeit glichen sie kolossalen auf dem Meere treibenden Balken. Es waren
+Finwale, dem Delphingeschlecht Hyperoodon angehörig, mit stumpfer Stirn und
+aufrecht stehenden, nach hinten gerichteten Rückenflossen, nach oben zu
+grünlichgrau, nach unten zu heller. 
+
+Am Mittag des 16. waren wir in 74° 59´ nördl. Br. und 11° 11´ östl. L. Der Wind
+wehte aus Nordnordost, also uns dauernd entgegen; gegen die Nacht hin ging er
+nach Westen herum. Die Temperatur blieb dieselbe wie am Tage vorher, doch stieg
+sie etwas gegen den Mittag hin. Nachmittags schneite es unbeträchtlich. Am Abend
+um 9 Uhr nahmen wir den Cours nach Nordost. Am 17. Vormittags 2 Uhr wurde von
+der Magdalena die zweite Flasche ausgeworfen. Mittags befanden wir uns in 75°
+18´ nördl. Br. und 11° 19´ östl. L. Der Jahrestag der norwegischen Verfassung
+wurde mit Ausflaggen des Schiffes und einer Extraverpflegung gefeiert. Der Wind
+nahm mehr und mehr ab. Ein Segel wurde sichtbar; am folgenden Tage kamen zwei in
+Sicht. An diesen Tagen empfingen wir Besuch von Schneesperlingen (Emberiza
+nivalis), die aus dem Süden zurückkehrten und sich auf dem Takelwerk und Deck
+des Schiffes niederließen. Es befanden sich unter ihnen auch einige ein Jahr
+alte Junge. Sie schienen sehr ermüdet und zeigten nicht die geringste
+Furchtsamkeit. Nach einer kurzen Ruhe setzten sie ihren Flug nach Norden fort.
+
+Den 17. und 18. war der Wind fast immer schwach und das Meer ruhig. Torell
+beschloß daher auf dem Aeolus eine Tiefenmessung vorzunehmen. Um aus der
+bedeutenden Tiefe des Oceans Proben vom Grunde und mit denselben — wie man
+hoffte — ein oder das andere Thier oder Gewächs, die dort unten noch leben
+könnten, heraufzuholen, war die Expedition mit zwei, unter Chydenius' Leitung in
+Tromsö sorgfältig verfertigten Apparaten versehen. Der eine war ein Instrument
+für Tiefmessungen nach Brooke's Modell, der andere ein Bodenhauer, in der
+Hauptsache mit demjenigen übereinstimmend, welcher kurz vorher auf dem Fahrzeug
+Bulldog benutzt war und unter dem Namen Bulldog Aachine bekannt ist, nur mit
+wesentlichen Verbesserungen. Von einem mit fünf Matrosen bemannten Boote aus
+bewirkte Chydenius die Messung, während Aeolus in der Nähe kreuzte. Sie währte
+von 4 bis 9 Uhr Nachmittags. Mit der Bulldog-Maschine wurde bei 1,200 Faden der
+Grund erreicht, jedoch wirkte der Apparat nicht. Das Aufwinden erforderte zwei
+Stunden Zeit. Nach einer Weile wurde er wieder hinabgelassen, diesesmal mit
+Brooke's Apparat, der den Grund in 1,320 Faden Tiefe erreichte. Ein wenig Thon
+und kleine, beinahe mikroskopische Thiere: Polythalamien, waren die ganze
+Ausbeute.
+
+Den 18. Nachmittags wurde die Tiefmessung in ungefähr 75° 40´ nördl. Br. und 12°
+31´ östl. L. erneuert. Mit Brooke's Apparat erreichte man den Boden bei 1,000
+Faden, mit der Bulldog-Maschine bei 1,050 Faden, da die zum Senken des Apparats
+bestimmten Kugeln bei 50 Faden Tiefe verloren gingen und erst wieder neue vom
+Aeolus geholt werden mußten. Der Apparat bewies sich als vollständig brauchbar,
+woran man, trotz früherer Versuche, nach den Erfahrungen des letzten Tages hatte
+zweifeln müssen. Nach der Rückkehr wurde die Ausbeute untersucht. Der
+heraufgezogene Thon bestand aus verschiedenen Lagen mit Organismen, unter
+anderen Aneliden und Holothurien, Thierklassen, die man früher in so bedeutender
+Tiefe nicht angetroffen. Wir waren mit dem Funde natürlich sehr zufrieden. —
+
+Mittlerweile hatte sich ein Schneewetter erhoben. Die beiden Fahrzeuge konnten
+sich nicht mehr wahrnehmen und steuerten jedes für sich nach dem verabredeten
+Punkte. Die Finwale, die uns schon seit dem 15. Gesellschaft geleistet, hatten
+aufgehört. Die Zone des Eismeeres, in welchem sie sich aufhielten, hatte eine
+wechselnde Temperatur von +2,~5~° und +3,~8~° C. und die Farbe des Wassers war
+eine schöne azurblaue. Als wir uns aber den 18. Mai in 75° 45´ nördl. Br. und
+12° 31´ östl. L. befanden, sank die Temperatur, zwischen 0° und —1,~3~° C.
+schwankend, und das Wasser zeigte eine schmutziggrüne Farbe, die zum großen
+Theile von einer Menge mikroskopischer, schleimiger, übelriechender Algen, aus
+den Familien der Diatomaceen und Desmidiaceen, herrührte. Wir hatten die Grenze
+des an seiner blauen Farbe erkennbaren Golfstromes und des eigentlichen
+Eismeeres überschritten. Finwale ließen sich erst wieder im September auf
+unserer Rückreise in 78° nördl. Br. sehen. Auch dort betrug die Temperatur des
+Wassers ungefähr +3,~8~° C. Diese Beobachtung ist interessant. Sie macht es
+wahrscheinlich, daß Finwale sich niemals im kälteren Wasser aufhalten, und daß
+dieser Wärmegrad die Grenze ihres Vorkommens nach Norden hin bestimmt. Doch muß
+man sich vergegenwärtigen, daß diese Grenze im Sommer einige Grade nördlicher
+liegt als im Winter.
+
+Der 19. Mai war ein sehr schöner Tag, obwohl der Thermometer nicht über den
+Gefrierpunkt stieg und der Wind, wie früher, aus Norden wehte. Um Mitternacht
+erblickten wir zum ersten Male die Sonne vollkommen klar im Norden, wie sie ihre
+Strahlen über das Meer und das Treibeis goß, welches wir in der zweiten
+Nachthälfte durchsegelten.
+
+Wie sehr auch der Anblick der Mitternachtssonne von denjenigen gepriesen wird,
+welche oft weite Reisen machen, blos um während einer einzigen Nacht ihre
+Herrlichkeit von einem hohen Berge zu schauen, so kann doch ihre großartige
+Schönheit und ihr heilbringender Nutzen nirgends so bewundert und erkannt
+werden, als in diesen Regionen, wo sie — wenn auch oft in Nebel gehüllt — nicht
+mehr untergeht und der einzige Leitstern inmitten des polaren Eismeeres ist.
+
+Das erste Mal berechnete Nordenskiöld hier die Polhöhe nach der
+Mitternachtssonne und fand sie 75° 49´. In der Nacht zum 20., da Aeolus sich in
+76° 9´ nördl. Br. und 11° 49´ östl. L. befand, wurde die Beobachtung wiederholt.
+Treibeis, welches den ganzen vorhergehenden Tag erst im Osten, dann im Südosten
+sichtbar gewesen, später im Norden, trafen wir wieder an. Wir segelten beinahe
+den ganzen Tag darin. Es war nur mit Schnee bedeckt und viel großartiger und
+mannigfaltiger gestaltet als bei Bären-Eiland. Schaaren von Rotjes (Mergulus
+Alle) und Teisten (Uria grylle) wimmelten fliegend und tauchend zwischen dem
+Treibeise; das Wetter war das schönste von der Welt, obwohl die Temperatur den
+ganzen Tag —1° nicht überstieg. Der Wind ließ nach und Nordenskiöld, Malmgren
+und Chydenius fuhren auf die Jagd nach Vögeln. Das Boot war bald hinabgelassen
+und glitt zwischen den hohen Eismassen auf der ruhigen Wasserfläche dahin. Daß
+eine schwache Dünung vorhanden, konnte man erkennen, wenn das Wasser an die
+Eisblöcke spülte und diese seinen Schwingungen langsam folgten. Die Luft war
+klar und blau, der Himmel hier und da mit Wölkchen bestreut; in Verbindung mit
+den durchsichtigen blauen Bruchflächen des Eises verlieh er der ganzen Umgebung
+zugleich entzückende Schönheit und feierlichen Ernst. Aeolus kam nur unmerklich
+vorwärts, die Segel hingen schlaff herab, die lungernde Besatzung blickte in die
+Nähe und Weite, und die Vögel kamen furchtlos dem Schiffe ganz nahe. Alles
+athmete Frieden und Ruhe, allein unterbrochen von vereinzelten Schüssen und dem
+Flügelschlage der aufgescheuchten Vögel. Dann wieder dieselbe feierliche Stille.
+Nachdem die Drei etwa zehn Rotjes und einige Teiste erlegt und zur Genüge das
+Eis und die Scenerie betrachtet hatten, die sich übrigens von der Oberfläche des
+Wassers aus weit besser ausnahm, als vom Deck des Schiffes, kehrten sie an Bord
+zurück. Der Wind sprang nach Südost herum, eine gute Brise füllte die Segel, und
+in rascherer Fahrt als bis dahin fuhren wir nach Norden.
+
+Aus der Erscheinung der Vögel konnten wir schließen, daß wir uns nicht fern von
+Land befänden, und in der That am Mittage kam es in Sicht. Schon Vormittags
+hatte man auf dem Aeolus geglaubt, den Schimmer eines aufdämmernden Landes
+wahrzunehmen. Auch ein Segel erschien nordnordöstlich, doch nicht das Fahrzeug
+unserer Gefährten, nach denen wir ununterbrochen bis 10 Uhr Abends ausschauten.
+Endlich zeigte sich uns im Nordwesten die bekannte Gestalt der Magdalena.
+
+Die Slupe hatte nach der Trennung vom Aeolus ihren Cours mehr westlich genommen,
+überall, wo sie auf Treibeis gestoßen, sich etwas nach Westen und Norden
+gehalten, und so — weniger vom Eise belästigt — einen Vorsprung vor uns erlangt.
+Den 19. traf sie wiederholt auf Eis und warf zwei Flaschen aus; den 20. befand
+sie sich in 76° 21´ nördl. Br. und 9° 17´ östl. L. Wie Aeolus war sie durch
+blaue und grüne Strömungen gekommen, mitunter rückwärts getrieben, ohne jedoch
+von Dünungen beunruhigt zu werden. Es hatten sich Wale gezeigt, einige ganz
+nahe, immer aber nur von unbedeutender Größe. Fern im Osten nahm man den
+Schimmer von einem Schneelande wahr, das ein Neuling leicht für bloße
+Wolkenhaufen gehalten haben würde, aber die Kundigen behaupteten, es wären die
+schneebedeckten Spitzen der Bellsundstinde.
+
+Das Land, welches am vergangenen Tage nur das geübte Seemannsauge oder die
+Phantasie zu erblicken glaubte, wurde am 21. wirklich wahrgenommen und zeigte
+sich immer deutlicher. Es war Spitzbergen.
+
+Nachdem die beiden Schiffe mit dem frischen Südost nach Norden gesteuert,
+befanden sie sich Mittags ziemlich nahe bei einander und gemäß Messung des
+soeben aus den Wellen aufgetauchten Landes in 77° 54´ nördl. Br. und 10° 35´
+östl. L., übereinstimmend mit der Coursberechnung der Logbücher.
+
+:::: { .wrap-80  .caption }
+![Prinz Charles Vorland.](Die_schwedischen_Expeditionen_034.jpg "Prinz Charles Vorland."){#b034}
+::::
+
+Morgens um 5½ Uhr erkannte man von der Slupe aus deutlich die Bergspitzen um den
+Bellsund und Eisfjord, um 9 Uhr aber erblickte man von beiden Schiffen Prinz
+Charles Vorland. Mittags sahen wir schon deutlich die noch schneebedeckten
+Spitzen und segelten Nachmittags mit günstigem Winde längs seiner
+langgestreckten Küste. Das Land erinnerte sehr an Norwegen, wie wir es in seiner
+Wintertracht verlassen hatten, nur deuteten die in's Meer senkrecht abstürzenden
+Gletscher mit ihrer schönen grünblauen Farbe auf ein weit kälteres Klima. Eine
+niedrige, nicht erhebliche Landstrecke theilt die Insel in zwei Gruppen wild
+zerrissener, wenngleich nicht sehr hoher Alpen. Aus dem wilden Chaos von Spitzen
+und Kämmen erhebt sich hier und da ein vereinzeltes Berghaupt, der gewaltige,
+doppelgipfelige „Sortepynt“ (die alte Swart-Hoek der Holländer), dessen dunkle
+Felsmassen mit dem ihn rings umgebenden Schnee contrastiren, und der prächtige
+sattelförmige 4,600 Fuß hohe Berg am Nordende der Insel, von Kopf bis zum Fuß in
+einen einzigen Schneemantel gehüllt. Der Wind wehte besonders Nachmittags
+durchdringend kalt, die Temperatur schwankte zwischen —3° und —4° C., aber das
+Meer war vollkommen eisfrei, mit Ausnahme eines kleinen Stückes schwimmenden
+Gletschereises. Die Temperatur des Wassers von Bären-Eiland bis Prinz Charles
+Vorland war nicht unter —0,~4~ C. gewesen, mit Ausnahme der Fahrt durch das Eis
+am 2., wo die Beobachtungen —0,~2~ und —0,~3~° C. ergaben.
+
+:::: { .wrap-100  .caption }
+![Die drei Kronen.](Die_schwedischen_Expeditionen_035.jpg "Die drei Kronen."){#b035}
+::::
+
+Am 21. Mai Abends 8 Uhr passirten wir die Nordspitze des Vorlandes. Die Luft
+zeigte jene außerordentliche Klarheit und Durchsichtigkeit, welche diesen
+Gegenden eigenthümlich ist. Als wir kurz darauf an den Oeffnungen der Kings-Aand
+Croß-Bai vorübersegelten, zeigten sich uns, im Gegensatz zu den wilden
+Bergspitzen des Vorlandes und der übrigen Umgebungen, die sogenannten drei,
+Kronen, welche sich gleich drei Pyramiden, weit im Osten, im Grunde der
+Kings-Bai, aus dem meilenweiten Gletscherbette erhellen. Sie waren ganz mit
+Schnee bedeckt, mit Ausnahme der beinahe senkrechten Abfälle, welche gleich
+rothen Bändern in dem Sonnenscheine leuchteten und sich scharf von der glänzend
+weißen Schneehülle abhoben.
+
+Dann folgte eine Strecke von etwa 15 englischen Meilen, welche fast ganz von
+einem einzigen ungeheuren Gletscher eingenommen wird, nur hier und da
+unterbrochen und getheilt von aufragenden Felsgraten. Darum wird er „die sieben
+Eisberge“ genannt. Die unerhörte Eismasse stürzt in steilen Abbrüchen und Wänden
+in's Meer; nach dem Innern des Landes zu zieht sie sich unabsehbar hin. 
+
+Am Morgen des 22. passirten wir Magdalena-Hook, Deenes-Eiland und
+Amsterdam-Eiland mit seiner nördlichen, berüchtigten Spitze Yakluyts Headland.
+Die Slupe erhielt den Befehl, wenn möglich einen Hafen bei den Norskder (Norway
+Islands) oder bei Cloven Cliff aufzusuchen. Aber sie traf bald auf Packeis,
+welches nördlich von „Vogelsang“ zwischen dem Festlande, den Norsköer und Cloven
+Cliff festlag und, so weit das Auge reichte, nach Norden und Nordwesten sich
+erstreckte. Es wurde daher beschlossen, einen Ankerplatz nördlich von
+Amsterdam-Eiland aufzusuchen und von dort aus im Boot die Lage des Eises zu
+erforschen. Der Wind nahm mehr und mehr ab und hörte schließlich ganz auf. Am
+Nachmittage warf Aeolus neben der Magdalena, die einen Vorsprung von einigen
+Stunden gehabt, bei zwölf Faden Tiefe vor Amsterdam-Eiland Anker. Vier andere
+Fahrzeuge, welche wir schon am Morgen in Sicht bekommen, lagen in unserer Nähe,
+da auch sie wegen des Eises nicht weiter vordringen konnten. Es waren
+Walroßfänger von Hammerfest und Tromsö.
 
 :::
+
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
@@ -607,4 +1156,21 @@ arktisches Land vor unseren Blicken lag.
 
 [^0103]: [Sabine's Brief vom 8. Februar 1826 an Davies Gilbert in Beechey Voyage of discovery towards the north pole. London 1843. p. 344.]{.footnote}
 
+[^0200]: [True description of three voyages by the North-East towards Catay and China undertaken by the Dutch in the years 1594, 1595 and 1596 by Gerrit de Veer. Amsterdam 1598. Edited by Ch. Beke. Works issued by the Yakluyt Society. London 1853.]{.footnote}
 
+[^0201]: [Der 9. Juni wird gewöhnlich als der Tag, an welchem Bären-Eiland entdeckt worden, angesehen; aber aus Gerrit de Veer's Reisebericht ist ersichtlich, daß man die Insel am 8. wahrnahm, ihr am 9. nahe kam und am 10. landete.
+G. de V. S. 74. 75.]{.footnote}
+
+[^0202]: [Der ursprüngliche Name lautete Het Beyren Eylandt. G. de V. S. 76.]{.footnote}
+
+[^0203]: [Nach Scoresby und J. Barrow in dessen Arbeit: A chronological history of voyages into the aretie regions. London 1818 p. 218. Nach Ch. Beke 1604.]{.footnote}
+
+[^0204]: [Cherie Island ist später corrumpirt in Cherry Island. Die Russen nennen die Insel nach Beke's Angabe Medvyed.]{.footnote}
+
+[^0205]: [Nach Xavier Marmier in dessen Bericht über die französische Expedition war sie 1606 gegründet.]{.footnote}
+
+[^0206]: [Scoresby, An account etc. Tom. II, pag. 20.]{.footnote}
+
+[^0207]: [Barrow, A chronological history etc. p. 224.]{.footnote}
+
+::::

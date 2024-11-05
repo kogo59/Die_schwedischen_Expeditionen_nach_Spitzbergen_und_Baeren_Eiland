@@ -4,7 +4,7 @@ OUTPUT_FILENAME = Die_schwedischen_Expeditionen_nach_Spitzbergen_und_Baeren_Eila
 TITLE_NAME = "Die schwedischen Expeditionen nach Spitzbergen und Bären-Eiland"
 METADATA = metadata.yml
 CHAPTERS = chapters/*.md
-TOC = --toc --toc-depth=3 
+TOC = --toc --toc-depth=4 
 IMAGES_FOLDER = images
 IMAGES = $(IMAGES_FOLDER)/*
 COVER_IMAGE = $(IMAGES_FOLDER)/cover.jpg
