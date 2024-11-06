@@ -1145,6 +1145,807 @@ Walroßfänger von Hammerfest und Tromsö.
 
 :::
 
+:::: align-center
+***
+::::
+
+
+## <small>Drittes Kapitel.</small><br /> Die Nordküste von Spitzbergen.
+ 
+:::: fs-xs
+Bootfahrt behufs Untersuchung des Eises. — Walroß-- und Seehundsjagd. Ausflug
+zum Amsterdam-Eiland. — Eine Bootfahrt nach Norden. — Besuch der Kobbe-Bai. —
+Ein Süßwassersee. — Segeln nach Norden und längs der Nordküste von Spitzbergen.
+— Sturm und Kreuzen in der Wijde-Bai. — Süßwasserseen. — Ankunft in der
+Treurenberg-Bai.
+ <br /><br />
+::::
+
+
+::: justified
+
+Wie sonderbar es auch dem ungewohnten Auge erscheint: die Lage des Treibeises
+wird von Wind und Strömung oft urplötzlich verändert, und es bildet sich ein
+Weg, wo man es am wenigsten erwartete. Es kam uns darauf an, bald zu erfahren,
+ob wir noch irgend eine Aussicht hätten, nordwärts von Spitzbergen weiter zu
+kommen. Kaum war daher der Anker gefallen und das Schiffsdeck von den Booten
+klar gemacht, als eine Bootpartie zu diesem Zwecke ausgesandt wurde. Sie bestand
+aus Dunér, Chyenius und drei in diesen Gewässern am meisten fahrkundigen
+Männern: dem Lootsen Uusimaa, dem Harpunirer vom Aeolus, Hellstad, und einem
+Matrosen von der Magdalena. Sie sollten an der großen Norskö landen, um
+magnetische Beobachtungen anzustellen, an demselben Punkte, wo Sabine es schon
+vor 38 Jahren gethan, während die Mannschaft vom höchsten Punkte der Insel die
+Lage des Eises nach Osten hin zu erkunden hätte. Nachdem dieselben das Schiff um
+5 Uhr Nachmittags am 22. Mai verlassen hatten, versuchten sie zuerst zwischen
+der Insel Vogelsang und dem festen Lande nach Osten vorzudringen, doch war
+dieses wegen des Treibeises, das den Sund ausgefüllt und ein norwegisches
+Fahrzeug fest eingeschlossen hatte, unmöglich. Man wandte sich daher nach
+Nordost, um Cloven Cliff oder die Norsköer von Westen zu erreichen; doch
+vergebens. Auch der Versuch, von Norden aus zu ihnen zu gelangen, wurde durch
+das Treibeis zunichte. Die Boote mußten zwischen über die Eisstücke gezogen
+werden;, und man kam so langsam vorwärts, daß man schließlich einsah, auf die
+Weise sei das Ziel nicht zu erreichen. Dazu war die Temperatur während der
+stillen kalten Nacht bis auf —1,~5~° C. gesunken, so daß sowohl im offenen
+Wasser wie zwischen den Eisstücken sich Eis bildete, welches das Rudern je
+länger desto schwieriger und schließlich unmöglich zu machen drohte, denn die
+neugebildeten Eisnadeln erschwerten es mehr und mehr. Mittlerweile konnte man
+von 10 bis 12 Fuß hohen Eisstücken aus die Beschaffenheit der Eisfelder, selbst
+bis Grey-Hook hin, ganz deutlich erkennen. Jenseits dieser Spitze zeigte sich
+eine offene Rinne, aber der Weg bis dahin war von einem breiten Eisgürtel
+geschlossen, der, so weit das Auge reichte, sich nach Norbdosten fortsetzte.
+Dieses Eis erschien überall zerbrochen, und da nirgends ein zusammenhängendes
+Eisfeld zu erblicken, so konnte man allerdings vermuthen, daß es unserm Schiffe
+den Weg nicht verschließen werde, wenn nur ein Ost- oder Südostwind ihm zu Hülfe
+käme. Da die Partie es unmöglich fand, nach Nordosten vorzudringen, so wandte
+sie sich nach Nordwesten, wo beinahe das ganze Meer offen schien. Nur hier und
+da ließ sich ein vereinzeltes Eisstück sehen. Als sie ungefähr den 80. Grad
+erreicht hatten — nach der Entfernung von Cloven Cliff gerechnet — und das Eis
+mehr gepackt auftrat, während der Treibeisgürtel im Nordosten sich unverändert
+zeigte, ruderten sie zu einem Schiffe, das sich die ganze Zeit über von einem
+schwachen Winde hatte treiben lassen. Der Führer desselben, der erfahrene Quäne
+Mattilas, theilte ihnen mit, daß auch im Norden die Passage durch ein Eisband
+vollkommen geschlossen sei, was man auch vom Mastkorb aus deutlich wahrnehmen
+konnte. Mit dieser Nachricht wandten sie zu ihrem Fahrzeuge zurück, anfangs von
+einer aus Norden wehenden Brise begünstigt. Dann wurde es still und sie mußten
+zu den Rudern greifen. Am Morgen des 23. Mai 7 Uhr waren sie dann wieder an
+Bord.
+
+:::: { .wrap-100  .caption }
+![Oestliche norwegische Insel. <small>Nordspitze.</small>](Die_schwedischen_Expeditionen_036.jpg "Oestliche norwegische Insel. <small>Nordspitze.</small>"){#b036}
+::::
+
+Während der ganzen Fahrt bis zur Höhe von Vogelsang hatten sich keine anderen
+Thiexre gezeigt als Alken und Teiste, die in ungeheuren Schaaren nach Norden
+zogen, um ihre alten Brutplätze aufzusuchen. In derselben Nacht erblickte man
+vom Schiffe aus große Schaaren von Gänsen (Anser Berniela), die nach Nordosten,
+vielleicht zu einem noch nördlicheren Lande als Spitzbergen strebten. Die
+Walroßjäger sind von der Existenz eines solchen Landes vollkommen überzeugt,
+denn wie weit man auch nach Norden vordringe, solche Schaaren ziehender Vögel
+sehe man in raschem Fluge immer weiter ihren Weg nehmen.
+
+„Als wir noch ganz mit dieser Hypothese beschäftigt waren, deren Feststellung
+der Zukunft vorbehalten ist, wurden wir durch ein Abenteuer unterbrochen, das um
+so weniger unbeschrieben bleiben darf, als es für uns den ganzen Reiz der
+Neuheit hatte. Zwei von der Besatzung waren, wie schon erwähnt, Harpunirer und
+gehörten zu den besten Walroßjägern. Die mit Spitzkugeln geladenen Gewehre lagen
+zur Hand, die blankgeschliffenen Lanzen und sorgfältig aufgewickelten Fangleinen
+an ihren bestimmten Stellen, und die Harpunen hingen vorne neben dem sitzenden
+Harpunirer, der ebenso wie der nicht minder geschickte Lootse welcher mit dem
+hintersten Ruderpaar das Boot steuerte — eifrig nach der erwarteten Beute
+spähte.
+
+„Bis dahin war uns nichts zu Gesicht gekommen. Nun aber gab der Ruderer zu
+erkennen, daß in der Ferne, wohin er mit seiner Hand wies, Walrosse wären. In
+der angedeuteten Richtung nahm man in der That auf dem Eise zwei schwarze Punkte
+wahr, die ein ungeübtes Auge, bei einem solchen Abstande, niemals beachtet und
+noch weniger für Thiere gehalten haben würde. Die Jäger behaupteten indessen, es
+wären zwei auf einem Eisblock schlafende Walrosse; wir setzten daher unsere
+Fahrt fort, um zu erkennen, wie weit zwischen dem Treibeise die Thiere lägen. Es
+wurde kurz berathen, wie man am besten und leichtesten ihnen auf den Leib rücken
+könne. Wir beschlossen in eine offene Rinne oder Eisbucht zu gehen, an deren
+Ende wir ungefähr hundert Ellen weit unsern Weg zwischen den Eisstücken nehmen
+mußten, um in die Schußund Wurflinie zu kommen. Als wir begannen längs dieser
+Rinne hastig vorwärts zu kommen, erschienen die Thiere noch immer nur als ein
+paar gelbbraune unförmliche Klumpen. Plötzlich tauchten ganz in der Nähe des
+Bootes die Köpfe zweier Walrosse aus dem Wasser auf, mit ihren beiden langen,
+weißen, vom Maule nach unten stehenden Hauern. Einen Theil des runden
+unförmlichen Körpers über die Oberfläche hebend, betrachteten sie das Boot, um
+sofort, mit dem Kopfe voran, unterzutauchen. Einige Augenblicke darauf kamen sie
+wieder in die Höhe, aber es schien nicht rathsam, sie zu verfolgen, um nicht die
+zuerst als Beute auserkorenen Thiere zu verscheuchen. Mittlerweile waren wir
+diesen so nahe gekommen, daß der Harpunirer zu rudern aufhörte, seine Leine an
+der Harpune befestigte und diese auf die Lanze steckte. Er stand nun an der
+Spitze des Bootes und bezeichnete mit der Hand den Weg, welchen das Boot nehmen
+sollte. Nur das Nothwendigste wurde gesprochen; die acht umwickelten Ruder
+tauchten sich unhörbar in das Wasser, und in stiller aber hastiger Fahrt glitt
+das Boot über die Fläche. Die Thiere rührten sich nicht. Endlich gelang es uns,
+hinter einen gewaltigen Eisblock zu kommen. Man brauchte nun nicht länger zu
+befürchten, daß die Thiere verscheucht würden, sondern begann nach der Anweisung
+der Harpunirer sich mit Rudern und Bootshaken durch die Eisschollen hindurch zu
+arbeiten. Bald befand sich nun das Boot dicht unter dem großen Eisblock, an
+welchem sich die Dünung in schäumender Brandung brach, während sie die kleineren
+Eismassen in schaukelnde Bewegung versetzte. Diese Brandung mußte vermieden
+werden; das Boot kam wieder in den Gesichtskreis der Walrosse; und obwohl jenes
+Getöse das durch die Bewegung des Bootes im Eise verursachte Geräusch fast ganz
+verschlang, dauerte es doch nicht lange, bis die Thiere sich zu rühren begannen
+und das eine von ihnen den Kopf erhob. Augenblicklich hielt das Boot an; Alle
+kauerten, so gut es ging, nieder, und man hörte nur ein wisperndes: „Seid
+still!“ — Der Harpunirer stellte sich mit seiner Harpune bereit, und die Gewehre
+lagen ihm so nahe als möglich zur Hand. Noch einige Faden, und die Harpune
+konnte sie erreichen, während die Thiere wieder ihre Köpfe in die Höhe hoben,
+uns mit stolzen Blicken betrachteten und den oberen Theil ihres Körpers
+aufrichteten, wobei die dicke Haut am Halse sich in große Falten und Wulste
+legte.
+
+„Sie gehn 'runter! — Schieß! — Ich den — Du den dicht hinter dem Ohre!“ Das Boot
+hielt an, die Harpune pfiff durch die Luft, zugleich fielen zwei Schüsse. Beide
+Thiere sanken auf's Eis, das eine ohne sich zu rühren, — denn die Kugel des
+Lootsen hatte es getroffen — das andere gab noch Lebenszeichen von sich. Dunér
+reichte seine Büchse dem Steuermann. Wieder ein Knall. Der Blutstrom aus dem
+Halse zeigte, wo die Kugel saß. Das Thier erhob sich mit seinem halben Leibe. —
+„Schieß, ich kann nicht die Büchse nehmen“ — rief Uusimaa Chydenius zu. Der
+Schuß fiel, das Thier sank, und ein neuer Blutstrom aus der Brust ließ hoffen,
+daß es genug habe. Aber das Walroß war schon mit einem Theil seines Körpers über
+der Eiskante, es fiel in's Wasser und verschwand.
+
+„Das Boot schoß nun an die Kante der flachen Eisscholle, auf welche wir Alle
+sofort sprangen. Das zurückgebliebene Walroß ein Thier von zehn Fuß Länge,
+erhielt der Sicherheit wegen noch einen Lanzenstich und wurde seiner Haut mit
+dem drei Zoll dicken Speck, sowie seines Kopfes nebst den 1, Fuß langen
+elfenbeinartigen Zähnen beraubt. In diesem Falle hatte nicht die Harpune sondern
+die Büchse die Entscheidung herbeigeführt. Die Kugel war in der That hinter dem
+Ohre eingedrungen, der einzig Stelle, wo sie augenblicklich tödtet. Denn trifft
+sie eine andere Stelle des Kopfes, so prallt sie entweder von dem unglaublich
+harten Schädel ab, oder sie verletzt zwar einen Theil des Gehirn doch hat dieses
+nicht unmittelbar den Tod zur Folge. Dringt in einen andern Theil des Körpers,
+so bleibt sie unschädlich der dicken Specklage sitzen, — man trifft oft
+Walrosse, solche Kugeln im Körper haben — oder der Tod tritt erst ein nachdem
+das Thier das Wasser erreicht hat, was hier der Fall war. Wird ein schwimmendes
+Walroß tödtlich verwundet, so sinkt es sofort unter; man darf die Büchse in
+diesem Falle also nur brauchen, um es eine Weile zu verwirren, bis es von der
+Harpune erreicht werden kann; denn sie und die Lanze bleiben bei dieser Jagd
+doch immer die Hauptwaffe.
+
+„Wir hatten kaum unser Boot beladen, als eine unzählige Menge von Möwen, welche
+gleich nach dem Falle des Thieres in der Nähe versammelt hatten, auf dasselbe
+stürzte, um die Ueberreste zu verschlingen. Hier wie überall war die große Möwe
+(Larus glaucus), welche von dem alten Martens wegen ihrer vornehmen Haltung und
+steifen Würde den Namen „Burgemeister“ erhielt, die zudringlichste und
+unverschämteste unter den Gäste demnächst die schöne, schneeweiße Eismöwe (Larus
+eburneus) Martens „Rathsherr“, als Dritte im Bunde aber die eine rund andere
+„Kryckie“ (Larus tridactylus) und das „Seepferd“.
+
+„Wir waren nicht lange gefahren, als wir wieder die beischwimmenden Walrosse zu
+Gesicht bekamen. Wir konnten ihr indessen nicht mehr nahe genug kommen, um die
+Harpune brauchen, und der Gewehre bedienten wir uns ohne Erfolg.
+
+„Eine Weile darauf sahen wir wieder ein Walroß. Wir schickten ihm eine Kugel
+nach, es tauchte sofort unter, und als es wieder heraufkam, erschien es auf
+einer ganz andern Stelle, mit offenbaren Zeichen der Verwirrung, tauchte wieder
+unter, wieder auf, aber nunmehr in voller Raserei. Es stieß ein kurzes Gebrüll
+aus, erhob sich aufrecht und warf sich hierhin und dorthin. Als das Boot sich
+ihm näherte, verschwand das große prächtige Thier in der Tiefe und kam erst in
+so weitem Abstande wieder in die Höhe, daß wir es nicht der Mühe werth hielten,
+es weiter zu verfolgen.“
+
+Wenn man sich dem Walroß nähert, besonders da es auf dem Eise liegt, muß man so
+still als möglich sein, um es nicht zu erschrecken. Beim Seehund ist dieses nur
+dann nöthig, wenn er sich auf dem festen Eise neben seinem Loche befindet, denn
+dann ist er leicht zu verscheuchen. Im offenen Wasser oder zwischen dem
+Treibeise kann man ihn dagegen durch Pfeifen und andere Töne bewegen, dem Boote
+näher zu kommen, wie wir auf dieser Fahrt oftmals beobachtet haben. Solche Musik
+und besonders das Blasen auf der Signalpfeife vermochte einen Seehund ganz nahe
+an das Boot zu locken. Er hielt dann seinen Kopf lange über dem Wasser, offenbar
+den reizenden Klängen lauschend, tauchte unter und kam an einer andern Stelle
+wieder herauf. Ein Büchsenschuß scheuchte ihn nur eine Weile fort.
+
+Den 22. und 23. war ein Jeder in seiner Sphäre thätig. Die Zoologen hatten die
+Schleppboote im Gange, und wir erblickten zum ersten Male mit freudigem
+Erstaunen die seltsamen Thiergestalten, die man aus der Tiefe des nördlichsten
+Eismeeres heraufholte. Die kolossale Crangon boreas mit ihrem schwarzen
+klumpenförmigen Körper und den heftigen Sprungbewegungen, Haufen aus der zarten
+Familie der Hippolyten, Myriaden von Merlen und Gammari wimmelten in unseren
+Netzen und Bodenkratzern, zuweilen auch ein Fisch aus dem Geschlechte Cottus
+oder Liparis. In dem mit Sand vermischten Thon des Meeresgrundes krabbelten
+wunderliche Krebse aus der Cumafamilie, ganze Schaaren von Muscheln und
+Schnecken, Tellina, Voldia, Astarte und Tritonium, untermischt mit großen, bald
+festwohnenden, bald nomadisirenden Würmern von bunten, glänzenden Farben:
+Terebella, Nephtys, Phyllodoce, Polynoe und andere. An dergleichen waren wir
+nicht gewöhnt. Denn an unseren Küsten sucht man vergebens nach einem solchen
+Reichthume von Individuen üppigster Entwicklung, die womöglich die
+Vorstellungen, welche wir uns auf Grund der Berichte von Augenzeugen gebildet
+hatten, noch übertraf. Die Excursionspartien gingen nun nach dem Lande ab.
+Während des ruhigen, angenehmen Wetters bestiegen wir nicht ohne Mühe zuerst das
+Amsterdam-Eiland. Die Ufer ragten überall mit etwa zehn Fuß hohen senkrechten
+Wänden, dem sogenannten „Eisfuß“, auf, welcher unten aus Eis, oben aber
+größtentheils aus Schnee bestand und noch von dem letzten Winter herrührte. Mit
+den Händen und Füßen hauten wir uns Stufen in den festen Schnee und krochen so
+hinauf. Das ganze Land war noch mit acht bis zehn Fuß tiefem Schnee bedeckt,
+darauf sich eine harte Kruste gebildet hatte; nur die steilen Bergabhänge, auf
+denen kein Schnee haften konnte, waren bloß, bewachsen mit Cetraria nivalis,
+cuculata, islandica und der schwarzen Umbilicaria arctica, diesem „Nothbrode“
+des hohen Nordens, mit dem schon mancher Polarfahrer sein Leben gefristet hat,
+nebst noch anderen Flechten. Die braungrünen Matten auf den Absätzen und in den
+Spalten wurden von Salix polaris und Moosen gebildet, unter denen die häufigsten
+waren: Ptilidium eiliare, Dieranum scoparium, Rhacomitrium lanuginosum,
+Gymnomitrium coneinnatum, Hypnum cupressiforme, Polytricha und andere. Hier und
+da ließ sich Cerastium alpinum und Cochlearia blicken, die bekannte Pflanze,
+welche wider den Skorbut hilft, noch vom vergangenen Jahre, aber beinahe so grün
+als im Sommer.
+
+Das Wüste und Einsame der ganzen Umgebung wurde in etwas durch das Schreien der
+Seevögel gemildert, die auf den Klippen hausen, und durch den Frühlingsgesang
+des Schneesperlings, welcher an den der Lerche erinnert. Am greulichsten
+erschienen die Rotjes, die in zahllosen Schaaren die Berggipfel umkreisten, an
+den steilen Abhängen in schnellem Fluge umherschwärmten und ein widriges Girren
+und Knirren hören ließen. Alken und Teiste saßen in großen Haufen auf den oberen
+Terrassen. Die ersteren mischten ihr knarrendes Schreien in den betäubenden
+Chorus, dessen einförmige Melodie nur dann und wann unterbrochen wurde von der
+klangvollen Stimme der großen Mövwe, zurückgegeben von dem Echo der Bergwände.
+
+Die Felsen, welche diese und die rings umliegenden Inseln bilden, sind etwas
+über 1,000 Fuß hoch. Ihre Basis wird bis zu mehreren Hundert Fuß Höhe von Grus
+umgeben, scharfkantigen größeren und kleineren Blöcken, oft auf kleineren
+Stücken ruhend und schwankend, — ein Resultat des Eises — wodurch eine
+Bergbesteigung im Sommer nicht nur beschwerlich, sondern auch höchst gefährlich
+wird, da die Stücke leicht in's Rollen kommen und wohl gar einen ganzen
+Bergsturz verursachen. Die Felsen bestehen zum größten Theile aus gewöhnlichem,
+feinkörnigem Granit, und ihre rundgeformten Rücken erinnern an die ähnlichen
+Granitbildungen Schwedens. Auf Amsterdam-Eiland geht er in Gneisgranit und
+Glimmerschiefer über, mit Adern von wirklichem Granit. Wirft man von hier den
+Blick auf die eigenthümlichen sargförmigen Kämme, die dem Festlande eigen, so
+erkennt man sofort, daß man das Gebiet des Gneises und Glimmerschiefers vor sich
+hat. Der Gneisgranit ist für den Mineralogen hier von geringem Interesse. Es
+treten einige Gänge von Urkalk auf mit schön ausgebildeten Mineralien, die man
+leicht mit den in unseren Kalkbrüchen vorkommenden verwechseln könnte: Idokras,
+Kalkgranat, Vallastonit, Augit, Skagolit, Chondrodit, Graphit und andere.
+
+Das Jagdboot der Magdalena, welches den 28. seine erste Ausflucht machte,
+brachte ein Walroß und eine Menge von Vögeln, die sich bei einer solchen Jagd
+einzufinden pflegen, heim. In der Nacht vorher hatten Dunér und Blomstrand auf
+einer Bootexcursion zwei Seehunde geschossen. Die Mannschaft war die ganze Zeit
+über mit der Reinigung des Fahrzeuges von draußen und drinnen und mit anderen
+nothwendigen Schiffsarbeiten beschäftigt.
+
+Der Führer unseres Schiffes hatte unsern gegenwärtigen Ankerplatz immer für ein
+wenig unsicher erachtet: er lag nach dem Meere geöffnet da und war den von
+Norden her treibenden Eisschollen ausgesetzt. Die Slupe war schon einmal fertig
+gemacht, um zur Kobbe-Bai, bei der etwas südlicheren Danskö (DeenesEiland)
+abzugehen, aber man meinte, dem aufgehenden Eise so nahe als möglich bleiben zu
+müssen, und verweilte daher noch länger hier.
+
+Den 24. Mai wehte ein starker Nordost. Magdalena, die nur vor einem Anker lag,
+um ihn jeden Augenblick lichten zu können, trieb am Morgen dem Lande zu, zog die
+Segel auf und ging nordwärts, um das Eis zu untersuchen. Mittlerweile kam von
+einem nahen nördlichen Hafen ein Schiffer Namens Rönnbäck an, welcher Torell von
+der Lage des Eises unterrichtete und von diesem für die Magdalena den Befehl
+erhielt, zur Kobbe-Bai abzugehen, wohin auch er, nach einer kurzen
+Recognoscirungsfahrt zu kommen gedachte. Da Magdalena das Eis dichter als früher
+gepackt fand, so änderte sie sofort ihren Cours, aber schon hatte sich ein
+Treibeisband gebildet, das von den nördlichen Inseln nach dem Amsterdam-Eiland
+herunterging. Nach einigem Suchen glückte es ihr trotzdem eine Straße durch
+diesen Eisgürtel zu finden, welchen auch Aeolus durchsegelte. Dieser hatte um 1
+Uhr Nachmittags die Anker gelichtet, nachdem man lange Zeit vergebens auf
+Nordenskiöld gewartet, der am Morgen mit dem Jagdboote und vier Mann auf eine
+Eisrecognoscirungsfahrt ausgegangen war. Später am Tage wurde es windstill.
+Magdalena ankerte eine Weile in dem kleinen Sunde zwischen dem Amsterdam- und
+Deenes-Eiland, Deens-Gat genannt, bis eine schwache Brise ein im Wege liegendes
+Eisband auflöste, wurde zwischen der Insel und deren Schäre, wo sie blos zehn
+Faden Tiefe fand, weiter bugfirt und gelangte schließlich in die Kobbe-Bai, wo
+sie auf vier Faden Tiefe einen sandigen Ankergrund fand. Der Schoner ward
+während der Windstille von dreien Booten bugsirt und ankerte die Nacht gleich
+außerhalb der Bucht. Nordenskiöld war mittlerweile sammt seiner Gesellschaft
+zurückgekehrt. Mit großer Mühe war es ihm gelungen, durch das noch ganz dichte
+Treibeis bis zum Sunde zwischen Norway-Eiland und Vogelsang vorzudringen. Dort
+traf er Mattilas, den glücklichsten, stillsten und originellsten aller
+spitzbergischen Walroßjäger. Er war vom Eise im Sunde eingeschlossen gewesen,
+aber kurz vor ihrer Ankunft daraus befreit worden. Eine von seiner Slupe
+ausgesandte Partie war bis zur Red-Bai gekommen, da sie aber keinen Ausweg nach
+Osten gefunden, wieder nach Süden gesegelt. Unsere Reisenden zogen die warme
+Cajüte des Schiffes ihrem offenen Boote vor, ließen dasselbe in's Schlepptau
+nehmen und kamen an Bord, wo Mattilas sie mit einem vortrefflichen Kaffee
+bewirthete. Aber kaum waren sie ein paar Stunden nach Süden gesegelt, als ihr
+bis dahin schweigsamer Wirth zu erkennen gab, obwohl man den Grund davon nicht
+einsah, daß er seinen Cours zu ändern und nordwärts zu steuern gedenke, ein bei
+diesen Eisfahrern nicht ungewöhnlicher Zug einer launischen, unerklärlichen
+Neigung zu Veränderungen und plötzlichen Entschlüssen. So waren sie gezwungen im
+Boote heimzukehren. Der Wind wehte nur schwach aus Norden, und das bei ihrer
+Ausfahrt angetroffene Treibeis schien theils verringert, theils verschwunden.
+Sie zogen einen kleinen zu einem Jagdboote gehörigen Segellappen auf und freuten
+sich bereits auf eine angenehme Fahrt. Aber das Treibeis war nicht weit gerückt,
+es hatte sich vielmehr weiterhin zu einem undurchdringlichen Bande
+zusammengeschlossen, das sich von Nordosten nach Westen, zwischen ihnen und dem
+Ankerplatz des Schoners hinzog. Ueber dieses eine Viertelmeile breite Band von
+Packeis mußte das Boot nothwendig gezogen werden, eine für fünf Mann keineswegs
+leichte Arbeit. Während sie noch damit beschäftigt waren, sahen sie durch das
+Fernrohr, wie unsere Fahrzeuge die Anker lichteten und sich zur Kobbe-Bai
+begaben, wo die Partie sie der Verabredung gemäß aufzusuchen hatte, wenn sie bei
+ihrer Rückkehr Amsterdam-Eiland verlassen fände. Nach einer beschwerlichen
+Ruderfahrt, wobei sie oft das Boot über große Eisschollen zu ziehen genöthigt
+waren, erreichten sie endlich die beiden Schiffe in der Kobbe-Bai.
+
+Während der ganzen Fahrt hatten sie keine Walrosse, sondern nur Seehunde
+erblickt, ohne einen zu schießen. Fast wäre dabei ein Unglück passirt. Eine zum
+Schoner gehörige Büchse war so verrostet, daß die Kugel nicht weit genug in's
+Rohr gestoßen werden konnte, und als der Harpunirer sie trotzdem abschoß, sprang
+das Gewehr in tausend Stücke, glücklicher Weise ohne eine der fünf im Boote
+befindlichen Personen zu beschädigen. Nur der Schütze selbst erhielt eine
+unbedeutende Contusion am Daumen.
+
+So waren wir den glücklich in der Kobbe-Bai beisammen. Die Nacht blieb am
+Anfange ruhig und schön, und einige Personen waren auf die Alkenjagd gegangen;
+mit einem Male brach aber von Nordosten ein so gewaltiger Sturm herein, daß der
+Schoner am Morgen sich genöthigt sah den Hafen aufzusuchen, wo er einige Hundert
+Ellen von der Slupe entfernt Anker warf. Die Zoologen mußten den Versuch, das
+Schleppnetz auszuwerfen, aufgeben; mit genauer Noth gelang es, durch Sturm und
+Wellen einander zu besuchen; aus reiner Barmherzigkeit mußten wir sogar unsere
+Hunde wieder an Bord nehmen, da sie auf dem kleinen Holm, wo wir sie ausgesetzt,
+keinen Schutz vor den rasenden Wellen fanden. —
+
+Danskö, 79° 41´ 59“ nördl. Br. belegen, ungefähr fünf englische Meilen lang und
+halb so breit, besteht zum größten Theile aus steilen, abgerundeten Felsmassen,
+die nach Norden hin in Spitzen und endlich bis zu einer Höhe von 1,200 Fuß
+aufsteigen. Auf der Westseite schneidet zwischen diese Klippen die Kobbe-Bai
+(die Robben-Bai der Holländer) zwei englische Meilen weit ein und bietet dem
+Segler einen einladenden, ziemlich geschützten und leicht zugänglichen
+Ankerplatz dar. Ein kleiner Holm am Eingange gewährt gegen Westen und Südwesten
+Schutz. Die Spitzbergenfahrer haben auf demselben als Seemarke einen Steinhaufen
+oder, wie die Norweger es nennen, ein „Varde“ errichtet, welches zuweilen auch
+als Briefkasten benutzt wird. Kommt man von Süden, so darf man nicht außer Acht
+lassen, daß vom Seeufer aus ein Felsriff weit in das Meer schießt, auf welchem
+schon mancher der Situation unkundige Schiffer gestrandet ist. Die ganze Kunst
+besteht also darin, daß man sich dem Lande nicht zu sehr nähert und sich nicht
+zu weit von ihm entfernt, bis man inmitten der Bucht ist, und daß man
+vorzugsweise den tieferen und sicherern Nordstrand aufsucht. Das Felsriff hängt
+wahrscheinlich mit der westlich vom Lande zwei englische Meilen entfernten
+Blindschäre zusammen, die bei Sturm und aufgeregter See leicht an der
+schäumenden Brandung erkannt wird. Kobbe-Bai ist von Alters her als ein guter
+Hafen berühmt, der, obwohl dem Nordwest offen, viele Vorzüge besitzt. Im
+Frühjahre wird er am frühesten eisfrei, im Herbste bleibt er am längsten offen.
+Er bietet auf 3 bis 14 Faden Tiefe einen sichern sandigen Ankergrund und was von
+größter Bedeutung — man erhält hier gutes Trinkwasser. Auf dem Südufer befindet
+sich nämlich eine Thalsenkung, welche die Insel durchschneidet und mit
+scharfkantigen, schwer zugänglichen Blöcken bedeckt ist. In ihr liegt ein tiefer
+Landsee, welcher in jeder Jahreszeit Wasser enthält; denn alle Spitzbergenfahrer
+stimmen darin überein, daß er niemals bis zum Grunde gefriert.
+
+Diese Angabe, welche uns mit Rücksicht auf die langen Winter und die präsumtiv
+niedrige Bodentemperatur unter einem so hohen Breitengrade fast unglaublich
+schien, konnten wir als richtig bestätigen. Wir durchhauten die nicht weniger
+als 6 Fuß starke Eisdecke und fanden darunter Wasser von 12 bis 14 Fuß Tiefe.
+Der Grund war mit einer hohen Lage von grünem Schlamm bedeckt, der fast
+ausschließlich aus kieselschaligen Algen bestand: Diatomaceen und andere Algen
+niedriger Ordnungen, Oseillatorien und Desmidiaceen. Unter ihnen lebte eine Art
+Insectenlarve, Chironomus, mikroskopische Crustaceen, Cyklops nebst kleineren
+Würmern. Unsere Physiker untersuchten die Temperatur des Wassers und fanden am
+Boden +1,~1~° C., an der Oberfläche 0° C. und in einem halben Fuß Tiefe —0,~2~°
+C. Nach diesen Resultaten kann man mit ziemlicher Gewißheit schließen, daß die
+Winter in dieser Gegend Spitzbergens wenigstens — nicht besonders streng sind,
+und daß die Kälte nicht in eine so beträchtliche Tiefe dringt, als unter
+gleichem Breitengrade in Sibirien.
+
+Der Hafen wurde von Kunylenstjerna und Lilliehöök aufgenommen. Die Abweichung
+der Magnetnadel betrug 23° 15´ W. Die magnetischen Messungen wurden theils in
+der erwähnten Thalsenkung, theils auf einem Sandriff am Nordstrande neben den
+Ueberresten einer verfallenen Hütte gemacht. Sie war vordem wahrscheinlich von
+russischen Jägern bewohnt gewesen, deren Gräber sich dicht dabei befanden. Eine
+melancholische Stimmung kam über uns, als wir in der stillen Nacht, während die
+niedrig stehende Sonne ihr eigenthümliches mattes Licht über die wüsten,
+erstarrten und eisbedeckten Ufer warf, auf eins dieser von schwarzen,
+flechtenbedeckten Felsen umgebenen Gräber stießen. Ein ellenhoher Pfahl und ein
+kleiner Steinhügel darum geschüttet, aus welchem noch zwei guterhaltene Stiefel
+von Rennthierleder mit Walroßsohlen herausstaken, sammt ein paar offenbar von
+Raubthieren herausgezerrten Beinknochen: — so wird man hier begraben. Denn der
+Felsboden hat nicht genug Erde, um die Todten gegen die Eisbären und Polarfüchse
+zu schützen. Nichts deutet das Schicksal an, welchem diese und Tausende von
+Menschen hier zum Opfer gefallen. Aber an den Todesengel der früheren Zeiten,
+den Skorbut, denkt man wohl zunächst. Vielleicht waren es dieselben Menschen, zu
+welchen im Jahre 1818 Franklin's und Buchan's Officiere kamen und deren würdiges
+Benehmen und wahre Religiosität sie mit so lebhaften Farben schilderten. Die
+unveränderte Lage des Eises nöthigte uns einige Tage in diesem Hafen
+zuzubringen. Jeden Tag kamen neue niederschlagende Nachrichten von den Fahrern,
+welche in die Bucht einliefen, unter anderen mit der Brigg Jaen Mayen von
+Tromsö, die von einer mißlungenen Seehundsjagd nach Jaen Mayen zurückkehrte.
+
+Der Wind, welcher schon nach einigen Tagen sich beruhigt hatte, wechselte
+seitdem dauernd in Richtung und Stärke. Die Durchschnittstemperatur in den sechs
+Tagen unseres Aufenthaltes schwankte zwischen — 1,~7~° und — 4,~6~° C. Der
+höchste Grad betrug +0,~5~°, der niedrigste — 5,~4~° C.
+
+Die Temperatur des Wassers überstieg in geringer Tiefe die der Luft um 2 bis 3
+Grade, wie folgende Tabelle ausweist:
+
+Den 26. Mai betrug die Temperatur 
+
+| der *Luft* 4 Uhr Vormittags —3,~9~° und die des *Wassers* —0,~4~°
+|              12 Uhr Vormittags —2,~4~° und die des *Wassers* —0,~4~°
+|              10 Uhr Nachmittags —1,~8~° und die des *Wassers* +-0°               
+|              12 Uhr Nachmittags —2°        und die des *Wassers*  -0,~5~°
+
+Erst am 30. Mai, da wir, weiter segelnd, uns von den eisbedeckten Ufern
+entfernten, trafen wir wieder auf Wasser, dessen Temperatur über 0° war.
+
+Die Witterung konnte nicht angenehm genannt werden. Neben der unbehaglichen,
+eisigen, wenngleich nicht heftigen Kälte hatten wir am ersten Tage Sturm, am
+dritten Nebel und Schlackenwetter, welches wir — allerdings mit Unrecht — als
+„Spitzbergenwetter“ bezeichneten. Ueberall war die Landschaft noch mit tiefem
+Schnee bedeckt und die Aussicht, weiter nach Norden vorzudringen, sehr schwach.
+Es schien, als ob ein bis dahin unbekanntes Gefühl von Niedergeschlagenheit sich
+unserer zu bemächtigen drohte; auf der Magdalena nahm aber die Hoffnung ab, die
+längst ersehnte Fahrt längs der Westküste nach Süden anzutreten, als der Leiter
+der Expedition, aus verschiedenen Gründen, beschloß, daß dieses Schiff auch
+ferner dem Aeolus nach Norden folgen solle. Es schien nämlich schwer, bei dem
+Segeln durch das eiserfüllte Meer alle nothwendigen Boote nebst dem
+erforderlichen Zubehör für die Eisfahrt blos auf dem Aeolus zu transportiren;
+auch rechnete man auf eine Unterstützung dieser Eisfahrt in den ersten Tagen
+Seitens der Mannschaft von der Magdalena.
+
+Auf die Vorbereitungen zu dieser Fahrt — lange Zeit das Hauptziel der ganzen
+Expedition — wurde denn auch alle nicht von den laufenden Geschäften in Anspruch
+genommene Zeit verwandt. Nur mit den Jagdbooten wurden weitere Ausflüge
+unternommen. Dieselben galten besonders den Küsten der Bucht, den nächsten
+Bergen und dem Thal auf der Südseite. Die steilen Klippen waren damals wenig
+zugänglich; die Schneekruste machte zwar das Hinaufklettern möglich, aber die
+Rückfahrt war oft schneller als man wünschte, selbst wenn man sie aus allen
+Kräften und durch alle möglichen Positionen und Stellungen zu mäßigen suchte,
+zuweilen selbst nicht ohne Bedenken.
+
+Die Gebirgsart ist hier Gneisgranit, vollkommen mit dem auf Amsterdam-Eiland
+übereinstimmend. Die botanische Ausbeute blieb gering. Denn vor einem Monat war
+an keine jungen Pflanzen zu denken und die Moose waren zum größten Theile mit
+Schnee bedeckt. Die üppige Flechtenvegetation ließ den Reichthum an Arten
+vermissen. Außer Cetrarien und Umbilicarien beobachteten wir Peltigera aphthosa,
+canina und venosa, Cladonia bellidiflora, digitata und furcata, Lecanora
+tartarea, turfacea, echlorophana, varia und einerea, Lecidea geographica,
+atroalba, nebst vielen anderen.
+
+:::: { .wrap-60  .caption }
+![Lunnen (Mormon arcticus).](Die_schwedischen_Expeditionen_049.jpg "Lunnen (Mormon arcticus)."){#b049}
+::::
+
+Die Jagd verschaffte uns am 27. einen ungewöhnlich großen Eisbären, welcher
+während einer Excursion von der Mannschaft des Aeolus harpunirt wurde; den 29.
+brachte dasselbe Boot zwei große Seehunde heim, und die Jäger der Magdalena
+erschlugen ein Walroß.
+
+Unsere Vogelschützen versorgten uns mit einer Menge von Alken und Teiste zur
+Speise, schossen auch zum ersten Male einen Lunnevogel, der sich durch seinen
+hohen, zusammengedrückten, roth und weißen Papageienschnabel auszeichnet.
+Zusammen mit dem sonderbaren Auge und der ganzen steifen Haltung verleiht er ihm
+einen eigenthümlichen Ausdruck erstaunlicher Dummheit und Selbstgefälligkeit.
+Man könnte ihn Spitzbergens „Geschworenen“ nennen. Die Isländer heißen ihn den
+Pfarrer, wegen seiner ernsten, patriarchalischen Haltung, mit der er neben
+seinem Neste sitzt, und wegen seines schwarzweißen Gefieders. Er ist ein Vogel
+von entschieden phlegmatischem Temperament. Stunden lang sitzt er, besonders des
+Abends, vor seinem Neste, sonnt sich und läßt bald ein O-ho hören, das einem
+lauten Gähnen gleicht, bald ein schnarrendes Hrro. Oft sitzt er in hockender
+Stellung; zieht aber etwas seine Aufmerksamkeit auf sich, so erhebt er sich, die
+Brust senkrecht aufgerichtet, und macht mit dem Kopfe allerlei eigenthümliche
+Wendungen, als wollte er mit aller Anstrengung seiner Geisteskräfte sich mit dem
+Ereigniß bekannt machen. Er fliegt nicht gerne, außer in der Zeit wenn er Junge
+hat. Dann sieht man ihn in ziemlich schnellem Fluge und mit hastigen
+Flügelschlägen sich von seinem Brutplatze in's Meer stürzen, aber wie ein
+kunstgeübter Schwimmer mit dem Kopfe voran, als ob der schwere Schnabel ihn in's
+Wasser drückte, und für einen Augenblick verschwinden. Niemals trifft man ihn im
+Innern des Landes an, sondern nur am Seeufer, und selten fliegt er höher als bis
+zu seinem Brutplatze. Erschreckt man ihn, während er im Wasser ist, so fliegt er
+nicht fort, sondern taucht unter, oder flüchtet, halb schwimmend, halb fliegend
+fort, und endigt gewöhnlich mit einem Untertauchen, während dessen er, wie die
+Teiste und Alken, mit den Flügeln schwimmt und mit den Füßen steuert. Einzelne
+Vögel lassen sich sehr schwer ankommen, weil sie fortwährend untertauchen. In
+Gesellschaft aber — die sie nicht lieben — verläßt sich der eine auf den andern,
+sie werden verwegen und kommen oft bis dicht an das Boot. Es ist ein komischer
+Anblick, wenn man unter eine Schaar schwimmender Lunnen einen Schuß abfeuert: in
+einem Augenblick sind alle unter dem Wasser verschwunden, um im nächsten nahe
+dem Boot, neugierig, wieder aufzutauchen. Sie sehen dann im höchsten Grade
+verwirrt und lächerlich aus; haben sie sich aber einen Augenblick rings
+umgesehen, so verbergen sie sich wieder unter dem Wasser.
+
+
+Die Lunne ist eigentlich kein arktischer, sondern ein nordatlantischer Vogel. In
+Spitzbergen und Grönland kommt er nicht häufig vor. Seine südlichste Grenze in
+Europa möchte Bohuslan sein, wo einige Paare auf den Wetterinseln brüten, und in
+Amerika die Gegend um die Fundy-Bai. Die spitzbergische Lunne ist größer und hat
+einen höheren Schnabel als die südlicheren Genossen, gehört aber doch zu
+derselben Art. In Gesellschaft mit Alken und Teisten bewohnt sie die am
+steilsten in's Meer abstürzenden Felswände. Auf den Stufen derselben, wo der
+Felsboden nicht zu hart oder verwittert ist, gräbt sie mit den Krallen und dem
+starken Schnabel einen Gang, der zu einer Art Höhle führt, groß genug, um zwei
+oder drei Vögel aufzunehmen. Hier legt sie ein einziges, im Verhältniß zu ihrer
+Größe sehr großes Ei. Hahn und Henne brüten abwechselnd — oft haben sie ein oder
+mehrere Brutflecken (ligglläckar) — und warten demnächst das Junge, so daß wenn
+der eine zu Hause, der andere ausgeflogen ist, um Futter zu holen. Die Jungen
+sind, im Gegensatz zu denen anderer Schwimmvögel, der Gänse, Enten, Schwäne und
+Lunnen, bald nach dem Auskriechen so hülflos wie die der Singvögel und müssen
+noch lange Zeit im Neste geätzt werden. Erst wenn sie ihre Flaumbekleidung gegen
+Federn umgetauscht haben, wagen sie sich auf's Wasser. Gleich den anderen
+Seevögeln, welche je einen Vogelberg bewohnen, ist die Lunne während der
+Brütezeit ihrer Pflicht so hingegeben, daß man sie leicht mit der Hand greifen
+und aus ihrem Loche ziehen kann. Ihr häufiges Vorkommen auf den Inseln
+Finmarkens, Island und den Faröern, wo sie für einen großen Theil der
+Bevölkerung ein wichtiges Nahrungsmittel abgiebt, hat sie zum Ziele jener
+berühmten und sehr gewinnreichen, aber zugleich auch gefährlichen und
+verhängnißvollen Jagden gemacht.
+
+Ihr Hauptbrüteplatz in Finmarken ist die nördliche Fuglö (Vogelinsel), wo in den
+letzten Decennien ein wahrer Vernichtungskrieg gegen sie geführt worden ist. Auf
+dieser einem Privatmanne gehörigen Insel werden nunmehr jährlich 30- bis 40,000
+Vögel umgebracht, unter denen allerdings Alken und Tordmule keinen bedeutenden
+Bruchtheil bilden. Der Fang wird von armen Gebirgslappen vollführt, welche als
+Lohn das Fleisch der getödteten Vögel erhalten, während sie Federn und Eier dem
+Eigenthümer abliefern müssen. Beinahe jedes Jahr kommt es vor, daß einer oder
+mehrere Lappen von den einige Hundert Fuß senkrechten Felswänden hinabstürzen.
+Trotzdem melden sich jährlich mehr Fänger, als der Eigenthümer braucht.
+
+Blos auf einigen Stellen, zum Beispiel auf Westmannö bei Island, übt man diese
+Jagd mit einiger Auswahl aus: dort tödtet man nur die Jungen und läßt die Alten
+in Ruhe. So weiß man, daß es im nächsten Jahre an einer Nachkommenschaft
+wiederum nicht fehlen wird.
+
+Auf Spitzbergen soll der Fang der Lunne nicht lohnend sein. Sie stellt nur ein
+unbedeutendes Contingent zu den Bewohnern der Vogelberge und tritt vor den
+ungeheuren Schaaren derselben ganz und gar in den Hintergrund. 
+
+Obwohl der Wind die ganze Zeit über aus Norden geweht hatte, also entgegen war,
+und die Nachrichten von dem Zustande des Eises immer dieselben blieben, so
+beschloß Torell doch, es zu versuchen, nördlich um Spitzbergen vorzudringen. Es
+zogen uns vorbei nach Süden große Eismassen; wir durften also vermuthen, daß
+sich im Norden einige Veränderungen zugetragen hätten. Punkt 10½ Uhr am Abend
+des 80. Mai gingen deshalb unsere beiden Fahrzeuge unter Segel, gefolgt von der
+Brigg Jaen Mayen, und wir begannen bei einem schwachen Nordnordost in der
+Richtung nach Norden zu kreuzen. Schon in der Nacht stießen wir auf ein festes
+Treibeisfeld, welches, so weit das Auge vom Mastkorbe aus reichte, sich nach
+Westen hin erstreckte. Gegen Norden war das Fahrwasser offen, doch trafen wir
+auch hier auf vereinzelte Eisschollen. Große Schaaren von Teisten, Rotjes und
+Alken flogen und schwammen rings um die Eisstücke. Auf einem waren rings um
+einen todten Seehund ungeheure Schaaren von „Burgemeistern“ versammelt und
+erfüllten die Luft mit betäubendem Lärmen und Kreischen. Zuweilen hob ganz in
+unserer Nähe ein Seehund seinen schönen Kopf über das Wasser. Es kam jedoch
+seltener vor, als wir erwarteten, vermuthlich wegen der niedrigen
+Lufttemperatur, indem er sich nicht gerne anders an der Oberfläche des Wassers
+zeigt, als um Athem zu schöpfen.
+
+Der Wind nahm mehr und mehr ab; aber Magdalena war in eine nordwärts gehende
+Strömung gekommen und hatte dadurch einen bedeutenden Vorsprung vor dem Aeolus
+gewonnen. Sie erreichte bald Vogelsang, traf dort auf ein Eisband, wandte nach
+Süden und. legte vor Amsterdam-Eiland bei, um den Schoner zu erwarten. Nachdem
+beide zusammengetroffen, begannen sie Nachmittags sich durch das ziemlich
+sparsame Eis durchzuarbeiten. Der Wind wurde frischer, und am Abend hatten wir
+die Höhe der doppelgipfeligen Klippe Cloven Cliff, Spitzbergens nordwestlichsten
+Vorposten erreicht, ohne daß die Schiffe mit dem Eise in schlimmere Collision
+gerathen waren. Wir wandten uns nach Osten; die Rinnen zwischen dem Eise wurden
+immer schmaler; im Norden und Nordosten lag eine übersehbare Strecke hoch
+aufgethürmten Packeises; kleinere und flachere Stücken umgaben uns auf allen
+Seiten, und es bedurfte einer unablässigen Wachsamkeit und Aufmerksamkeit, um
+bei dem nunmehr etwas nebeligen Wetter, so gut es sich thun ließ, den im Wege
+liegenden Blöcken auszuweichen. Sehr oft rannten wir zusammen, jedoch ohne
+Schaden für das Schiff. Wir zählten den 31. Mai und das Thermometer zeigte nicht
+mehr als — 6,~5~° C. Der Wind war eisig kalt und man konnte kaum auf Deck
+verweilen. Aber unsere Hoffnungen waren lebhafter und die Aussicht auf ihre
+Verwirklichung weit glänzender als das erste Mal, da wir in dieser Richtung
+vorzudringen suchten.
+
+Den 1. Juni Vormittags begann die Luft sich aufzuklären und der Wind
+nachzulassen. Wir befanden uns der Norskö gegenüber in 79° 49´ nördl. Br. und
+waren somit seit dem 22. Mai nur 3 Minuten weiter nach Norden vorgeschritten.
+Mittags trat volle Windstille ein, und das Wetter wurde so milde und schön, wie
+wir es bis dahin nicht gehabt hatten. Das Meer lag wie ein Spiegel da, kein
+Hauch bewegte die Segel, Magdalena legte sich, um Aeolus zu erwarten, zwischen
+der kleinen Norskö und dem Biscayer Hoek, bei 10 Faden Tiefe, vor Anker. Die
+Fänger, Jäger und Zoologen machten sich den günstigen Augenblick zu Nutze. Das
+Jagdboot ging nach Rood-Bai (die rothe Bai der Norweger) ab und kehrte mit einem
+Seehunde und einem Rennthiere (dem ersten!) zurück. Es war eine ausgewachsene,
+kräftige Kuh, aber, wie alle Rennthiere in dieser Jahreszeit, so mager, daß sie
+nur zu einem Mahle ausreichte. Aeolus erhielt ein 7 Fuß langes Seehundsweibchen.
+Es hatte vor Kurzem den größten Theil seiner alten, grauen, langhaarigen
+Kleidung abgeworfen, die nur noch an einzelnen Stellen des Körpers
+zurückgeblieben war.
+
+Willkommene Windhauche aus Südosten begannen am Abende die Stille zu
+unterbrechen; um 9 Uhr lichtete Magdalena den Anker und begann in Gemeinschaft
+mit dem Aeolus den Kampf gegen das Treibeis fortzusetzen. Es kam in großen, bis
+12 Fuß hoch aus dem Wasser ragenden Blöcken auf uns zu, und alle Mann waren
+beschäftigt, es mit Bootshaken und Stangen von uns fern zu halten. Es wurde
+dichter und dichter. Von Grey-Hook aus im Ostsüdosten streckte sich ein
+undurchdringliches Eisfeld nach Norden, nach Nordost und Nordwest, so daß wir
+gleich nach Mitternacht uns nach Westen wenden und, nachdem wir eine Stunde
+zwischen schwimmenden Eisschollen gekreuzt, wieder umkehren mußten, erwartend,
+daß das Packeis sich vor Wind und Strom öffnen werde. Den ganzen 2. Juni
+brachten wir so vor Rödestrand lavirend zu, bei bald mäßigem Winde, bald
+Windstille, klarer Luft und —2° Kälte. Das in Sicht bleibende Land bietet einen
+von der Nordwestküste verschiedenen Anblick dar. Weniger zerklüftete Formen,
+mäßigere Abfälle, regelmäßigere und sanftere Contouren geben zu erkennen, daß
+hier andere Felsarten als Granit und Gneis überwiegen. Bei Rödestrand — so
+benannt nach der rothen Farbe des Sandsteins und des Conglomerats, die hier
+vorherrschen — steigen, was äußerst selten auf Spitzbergen, die Berge allmählich
+bis zu einer flachen, einförmigen, weitgestreckten Ebene herab, die in ihrer
+Schneedecke kaum von dem daneben sich ausbreitenden Eisfelde zu unterscheiden
+ist.
+
+In der interessanten Grey-Hooks-Kette erheben die Berge sich wieder zu ihrer
+gewöhnlichen Höhe von etwa 2,000 Fuß und erscheinen höchst mannigfaltig in ihren
+eigenthümlichen, mehr oder minder isolirten Gestaltungen, regelmäßigen
+Pyramiden, abgerundeten Kuppen, quer durchgeschnittenen oder kesselförmig
+ausgehöhlten Kegeln. Oestlich von Wijde-Bai erschien, so weit das Auge nur
+blicken konnte, ein langsam nach dem Meere sich abdachender Schneerücken, von
+keiner einzigen Bergspitze unterbrochen.
+
+Die Temperatur des Wassers hielt sich etwa auf — 1,~5~° und seine Farbe spielte
+bald in's Grüne, bald in's Blaue, letzteres besonders bei Grey-Hook. Erst am
+Morgen des 3. Juni hatte sich das Packeis etwas von dieser ärgerlichen Spitze
+entfernt. Wir umschifften sie ohne Schwierigkeit in einer schmalen Rinne und
+gelangten zur Oeffnung der Wijde-Bai, welche jetzt nur aus einer rings von Eis
+umgebenen kleinen offenen Wasserfläche bestand. Im Süden war das Baieneis kaum
+aufgebrochen, im Norden erschien das unübersehbar weite Packeis, das sich im
+Osten durch ein Eisband mit dem Flachlande bei Verlegen-Hoek verband. Dahinter
+erblickten wir offenes Wasser. Wir waren also von Neuem eingesperrt und
+erwarteten den Aufbruch des Eises, in der Bucht hin und her lavirend. Die Luft
+war trübe; von Zeit zu Zeit fiel etwas Schnee; der Wind wechselnd und schwach;
+das Thermometer seit dem Tage vorher im beständigen Fallen; alle Zeichen
+deuteten auf einen heftigen Wind, der die Entscheidung bringen und uns nach
+Osten zu dem Ziele unserer Wünsche führen oder im Eise vollends einschließen
+mußte. So war schon Mancher vor uns in diesen Regionen gefangen und vom Packeise
+eingemauert, dann mastenlos von den mit Wind und Strömung treibenden Eismassen
+fortgerissen und schließlich von den erdrückenden Bergen zerquetscht worden. Für
+diesen Fall wären die Boote, darauf wir uns zu jeder Zeit retten konnten, unsere
+Hülfe gewesen; aber der Zweck der Expedition war verfehlt. Schon jetzt stand er
+offenbar auf dem Spiel. Die Losung des Tages lautete: Wir müssen vorwärts; in
+Erwartung des Kommenden blieb Keiner unthätig. Jagd- und Schleppboote waren in
+Thätigkeit; man fing große und prachtvolle Seesterne und Seeigel auf Felsboden
+in 90 Fuß Tiefe. Magdalenas Jagdboot kehrte mit einem ausgehungerten Rennthiere
+zurück. Um 9 Uhr Abends erhob sich plötzlich ein frischer Südsüdost, der uns mit
+Hoffnung auf Befreiung und Vorwärtskommen erfüllte. Er wehte die ganze Nacht,
+auch den folgenden Tag, den 4. Juni, während wir etwas tiefer in der Bai
+kreuzten. Gegen Abend wuchs er zum vollen Sturme an, die Segel wurden theilweise
+eingezogen und wir hielten uns im Schutze des Landes. Auch am 5. vermochte der
+Sturm nicht die Lage des Eises zu ändern. Wir machten am Abende, nachdem der
+Wind abgenommen, vergebens den Versuch, uns an Verlegen-Hoek vorbeizuschmiegen,
+und mußten zu unserm einförmigen Kreuzen wieder zurückkehren. Mehrfach befanden
+wir uns bei Grey-Hook, dessen überall steil abfallendes Plateau eine
+vortreffliche Seemarke bildet. Gegen Abend ging eine Excursion nach dem Innern
+der Bai ab, über deren Erfolg Nordenskiöld berichtet:
+
+„Die Gelegenheit durch eine Jagd die Langeweile des Kreuzens zu unterbrechen,
+aus diesen abgelegenen Regionen einige Naturproducte zu sammeln und die uns
+vollkommen unbekannten geognostischen Verhältnisse des Landes zu untersuchen,
+wurde von Malmgren, Petersen und mir mit Eifer ergriffen. Als es sich daher
+darum handelte, ein Boot an das Land abzuschicken, erklärten wir uns zur
+Mitfahrt bereit und ruderten wenige Minuten später im Jagdboote, mit vier Mann,
+dem Oststrande der Wijde-Bai zu. So lange wir uns auf dem Schoner befanden,
+hatten wir von dem hohen Seegange nicht viel gespürt; in dem kleinen Boote
+machte er sich dafür um so mehr bemerkbar, und die für dergleichen Ausflüge
+wenig passionirten Seeleute prophezeiten daher, die Brandung würde uns unbedingt
+hindern an Land zu steigen. Wir ruderten trotzdem munter vorwärts. Als wir dem
+Lande näher kamen und das Boot über einen schmalen Eisgürtel gezogen hatten,
+welcher sich einige Tausend Ellen weit von der festen Eiskante des Strandes,
+parallel mit demselben, erstreckte, ließen die Wellen plötzlich nach, so daß wir
+ohne alle Mühe an's Land gelangen konnten. Das Boot wurde ein Ende auf das feste
+Eis gezogen und der gutmüthige Quäne Bergström zur Bewachung zurückgelassen,
+während die Uebrigen in's Land hineingingen, Jeder sein Ziel verfolgend,
+Petersen und Hellstad um Rennthiere zu jagen, Malmgren um Flechten zu sammeln,
+ich um zu „geologisiren“.
+
+„Das Land auf der Ostseite der Weiten-Bai ist ganz flach und ohne Vergleich die
+wüsteste Landschaft, welche ich bis dahin auf Spitzbergen gesehen. Niedrige,
+kahle, kaum mit Flechten bewachsene Hügel, oder vollkommen unfruchtbare Grus-
+und Steinwälle — nicht zu verkennende alte Moränen — wetteifern mit einander an
+Unfruchtbarkeit. Die großartige Wildheit, welche den steilen Bergspitzen der
+Westküste eigen und der Landschaft so viel Reiz und Abwechslung verleiht, fehlt
+hier durchaus. Die sanft abfallenden Hügel bieten nicht einmal den Vögeln
+geeignete Brutplätze dar. Darum ist hier auch das Thierleben nur ganz
+unbedeutend. Alles vereinigt sich, um der Landschaft den Stempel
+unbeschreiblicher Kälte und Oede aufzudrücken.
+
+„Die lose Erdlage besteht fast ausschließlich aus Granit- und Gneisfragmenten,
+welche offenbar durch Gletscher aus dem Innern des Landes hinuntergeführt sind.
+Das anstehende Felsgestein ist dagegen aus senkrechten Quarzitlagen gebildet,
+welche mit Schichten von Hornblende und Glimmerschiefer abwechseln.
+Versteinerungen führende Bildungen kommen hier nicht vor. Dagegen sind andere
+Verhältnisse von großem Interesse. Wie die alten Moränen nämlich ausweisen, ist
+das Land früher mit Gletschern bedeckt gewesen, die gegenwärtig beinahe
+vollständig verschwunden sind. Die Vertiefungen zwischen den Bergen, Grus- und
+Steinwällen werden dafür von größeren und kleineren Seen eingenommen, welche,
+allen Vermuthungen in Betreff der Süßwasseransammlungen unter dem 80.
+Breitengrade zuwider, im Winter nicht bis auf den Grund gefrieren. Nach den
+Angaben der Jagdfahrer befindet sich der größte dieser Seen gleich südlich an
+der Mossel-Bai; aber auch dicht an unserm Landungsplatze trafen wir, einige
+Tausend Ellen vom Strande entfernt, auf einen ganz bedeutenden, ungefähr 50 bis
+100 Fuß über dem Meeresspiegel belegenen See. Er schien eine halbe Meile lang
+und etwa halb so breit zu sein und wurde noch von einer ebenen, allerdings schon
+ganz von Wasser durchzogenen Eisdecke bedeckt. Weiter nach dem Lande war er von
+einem gewaltigen Gletscher begrenzt, welcher eben so steil gegen den See hin
+abstürzte als die zum Meere niedersteigenden.
+
+„Nachdem wir einige Stunden längs dieser in klimatischer Hinsicht interessanten
+Küste gewandert und mehrere vor Hunger ganz ausgemergelte Rennthiere geschossen
+worden waren, beschlossen wir zu unserm Boote zurückzukehren. Aber der schon
+vorher frische Wind war seitdem zu einem vollkommenen Sturme angewachsen, so daß
+wir zuvörderst nicht daran denken konnten, mit dem Boote in See zu gelangen. Wir
+mußten uns ruhig gedulden und mit der Vorstellung trösten, daß unsere Jagdbeute,
+nämlich die drei Rennthiere, den Anforderungen unseres Magens während des
+unfreiwilligen Arrestes nothdürftig genügen würden. In der Erwartung nämlich,
+daß unser Ausflug nur einige Stunden dauern werde, hatten wir keine Fourage
+mitgenommen, eine große Unvorsichtigkeit bei einer spitzbergischen Bootfahrt, da
+auf einer solchen der Eßkober ein eben so nothwendiges Zubehör bildet wie Ruder
+und Steuer.
+
+„Wie schon erwähnt, hatten wir unser Boot, an's Land steigend, auf die Eiskante
+gezogen, welche noch unzerstört sich neben dem Strande befand. Während unserer
+Abwesenheit war aber diese Eiskante von den Wogen und dem nach dem Lande zu
+blasenden Sturme zerbrochen und zerschlagen, und nur mit äußerster Anstrengung
+hatte der allein bei dem Boote zurückgebliebene Mann es vermocht, das Boot
+weiter auf das Land zu ziehen. Bei unserer Rückkehr fanden wir ihn total ermüdet
+und ganz verzweifelt, auch hätte er noch länger die Arbeit und Anstrengung nicht
+ertragen. Unsere auf einige Stunden berechnete Excursion hätte sich daher leicht
+auf einen Wochen langen Besuch dieser kahlen, ungastlichen Küste ausdehnen
+können. Durch das drohende Malheur gewarnt, zogen wir das Boot, bevor wir es von
+Neuem verließen, hoch auf den Strand und zwar hinter einen vom letzten Herbste
+her befindlichen Grundeisblock, der gegen Sturm und Treibeis eine sichere
+Schutzwehr bildete.
+
+„Wir wandten uns darauf wieder der Jagd zu, es wurde aber nur ein Schneesperling
+und ein großes schönes Schneehuhn geschossen, letzteres von Petersen. Nach
+einigen Stunden hatte der Wind so weit sich abgestillt, daß wir wiederum an
+unsere Rückkehr denken konnten. Aber ein neues Hinderniß stellte sich uns in den
+Weg. Das Treibeis hatte sich nun in beträchtlichen Massen längs dem Strande
+aufgehäuft, und dieses Eisfeld, das aus lauter kleinen unter unseren Füßen
+weichenden Stücken bestand, mußten wir, um hinauszukommen, passiren. Das war
+keineswegs leicht; wir suchten daher, theils um uns ein wenig ausruhen zu
+können, theils um einen Ueberblick über die Lage des Eises zu bekommen, das hohe
+Grundeis zu erreichen, welches ein Ende vom Strande entfernt lag. Zwischen
+diesem und der Eisklippe lag das Treibeis beinahe ganz still und unbeweglich,
+und dorthin zu gelangen war zwar mühsam, aber ohne Gefahr. Weiterhin bildete
+dagegen das Treibeisfeld einen mit unglaublicher Schnelligkeit und starkem
+Krachen nach der Mündung des Fjords hin eilenden Eisstrom, welcher zum größten
+Theile aus mächtigen, noch nicht zerbrochenen Stücken bestand. Es war offenbar
+ein zweifelhaftes Ding, das Boot in diesen Eisstrom zu bringen; wir mußten
+daher, trotz unserer Ungeduld, noch eine Weile hinter der festen Klippe auf den
+günstigen Moment lauern, bis das Eis im Strome sich seltener und zerkleinert
+zeigte, und die Gefahr der Zertrümmerung des Bootes geringer wurde. Dieses traf
+endlich zu; das Boot wurde in's Wasser geschoben, wir erreichten nach einigen
+tüchtigen Stößen, nach kurzem aber anstrengendem Mühen, ein Ende vom Strande,
+den beinahe eisfreien Fjord und mit aufgezogenem Segel auch bald das in der
+Oeffnung desselben kreuzende Schiff.“
+
+Ich brauche kaum anzuführen, daß man auf dem Aeolus wegen dieser Bootexpediton
+in großer Sorge gewesen. Die Befürchtungen waren noch vermehrt bei dem Anblicke
+der aus dem Innern des Fjordes kommenden Eisdrift. Mit um so größerer Freude
+wurden die aus der zweifelhaften Lage unbeschädigt zurückgekehrten Gefährten
+empfangen.
+
+Während des anhaltenden Sturmes machten wir am folgenden Vormittage einen neuen
+vergeblichen Versuch, die Eismassen bei Verlegen-Hoek zu forciren, und mußten
+uns daher wieder zum Kreuzen verstehen.
+
+Endlich vermochte das Eis nicht länger dem starken Drucke des Südostwindes zu
+widerstehen. Die Passage nördlich von Verlegen-Hoek wurde frei, und am Morgen
+des 6. Juni segelten wir, bei schwächer werdendem Winde, an dieser Spitze vorbei
+und gelangten in das offene Fahrwasser nördlich von der Treurenberg-Bai und der
+Waigats- oder Heenloopen-Straße. Nicht zufrieden mit diesem Vorwärtskommen,
+versuchten wir weiter nach Nordosten zu der Brandwijne-Bai vorzudringen, aber
+unser alter Widersacher, das Eis, trat uns sofort entgegen und sperrte uns den
+Weg. Es wurde ausführlich berathen, was nunmehr zu thun. Der Weg war blos
+niederwärts nach der Heenloopen Strat und Treurenberg-Bai offen. Aber aus jener
+kamen Eisschollen, sogenanntes Baieneis oder ein Jahr altes Flacheis, und
+bewiesen, daß dieser Sund in seinem südlichen Theile noch nicht eisfrei sei. Da
+wir für den Augenblick in diesem Sunde nichts zu thun hatten, so blieb uns nur
+die Wahl, entweder zwischen dem Treibeise zu kreuzen oder in der Treurenberg-Bai
+vor Anker zu gehen. Der Wind sprang nach Norden um und wir liefen in die Bai
+ein, um vor dem Treibeise geschützt zu sein. In der Nacht zum 7. Juni warfen wir
+in dieser Bucht, an deren westlichem Strande bei Grafnäs, Anker, Aeolus auf
+sechs und Magdalena dicht neben ihm auf sechzehn Faden Tiefe.
+
+Im Laufe einer Woche hatten wir also eine Strecke zurückgelegt, zu der wir unter
+günstigeren Verhältnissen kaum einen Tag gebraucht haben würden. Unserm Beispiel
+folgten vier andere Schiffe, die am Morgen in der Bucht Anker warfen; ein kluges
+Unternehmen; denn der Wind war nun vollkommen nach Norden herumgegangen.
+:::
+
+:::: align-center
+****
+::::
+
+
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
@@ -1173,4 +1974,3 @@ G. de V. S. 74. 75.]{.footnote}
 
 [^0207]: [Barrow, A chronological history etc. p. 224.]{.footnote}
 
-::::

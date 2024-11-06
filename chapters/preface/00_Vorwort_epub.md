@@ -3,7 +3,7 @@
 
 ## Größere. 
 * [Die drei Kronen](ch003.xhtml#b035)
-* Oestliche norwegische Insel
+* [Oestliche norwegische Insel](ch003.xhtml#b036)
 * Walrosse
 * Gletscher im Innern der Magdalenenbucht
 * Gletscher in der Croßbai
@@ -14,7 +14,7 @@
 ## In den Text gedruckte.
 * [Procellaria glacialis](ch003.xhtml#b017) (Mallemuck, Sturmvogel, Seepferd)
 * [Prinz Charles Vorland](ch003.xhtml#b034)
-* Lunnen (Mormon arcticus)
+* [Lunnen (Mormon arcticus)](ch003.xhtml#b049)
 * Das Schiff im Eise (Magdalena)
 * Aeolus in Treurenberg-Bai
 * Gruppe von Eisbären
