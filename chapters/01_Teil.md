@@ -1946,6 +1946,661 @@ Unternehmen; denn der Wind war nun vollkommen nach Norden herumgegangen.
 ::::
 
 
+## <small>Viertes Kapitel.</small><br /> Treurenberg-Bai.
+ 
+
+::: justified
+
+Es war allerdings unsere Absicht gewesen, mit den Schiffen noch weiter nach
+Norden vorzudringen; aber wie die Verhältnisse einmal lagen, konnten wir uns
+glücklich schätzen, so zeitig im Jahre nahe dem 80. Breitengrade einen Hafen
+erreicht zu haben, wo wir während des Nordwindes gegen das Eis geschützt waren,
+und von wo aus wir bei der ersten günstigen Gelegenheit nach den noch von Pack-
+und Baieneis gesperrten Küsten des Nordostlandes segeln konnten. Treurenberg ist
+dieselbe Vik, in welcher Parry, der berühmte Polarfahrer, sein Schiff Hecla
+ließ, um die weltbekannte Eisexpedition, auf welcher er 82° 45´ nördl. Br.
+erreichte, zu unternehmen, eine Polhöhe, zu welcher weder vor noch nach ihm
+jemals ein Mensch gelangt ist. Während seiner Abwesenheit vom 21. Juni bis zum
+22. August untersuchten seine Officiere die Umgebungen der Bucht nach allen
+Seiten; wir durften daher nicht hoffen, eine naturhistorische Nachlese halten zu
+können, da wir diesen Theil Spitzbergens für einen der am besten gekannten
+halten mußten. Unsere Schiffe ankerten dicht am westlichen Ufer, ganz nahe der
+Oeffnung der Bucht, um zu geeigneter Stunde sofort in See stechen zu können.
+
+Nachdem wir ein wenig Raths gepflogen, wie die voraussichtlich kurze Zeit
+unseres Aufenthaltes am besten anzuwenden, gingen wir fast Alle an Land. Neben
+unserm Ankerplatz erhob sich ein Hügel von etwa fünfzig Fuß Höhe. Es befand sich
+über ihm auf einem Piedestal von Steinen ein hohes Kreuz, das wir schon aus
+weiter Ferne, beim Passiren von Verlegen-Hoek, wahrgenommen und als
+Seemarke benutzt hatten. Es war keins der russischen Doppelkreuze, denen man so
+oft in diesem Lande begegnet, sondern das einfache Kreuz der civilisirten
+Nationen. Dorthin richteten wir unsere Schritte und lasen nicht ohne
+Verwunderung: 
+
+:::: margin-left-xxl
+| Opsat D. 26^te^ Juni af
+| Kapt. J. Holmgren,
+| Skoneren Aeolus af Bergen 
+| Ankom den 5^te^ Juni och er 
+| Omringet af Is.<br /><br />
+::::
+
+:::: margin-left-xxl
+| (Errichtet den 16. Juni von
+| Capitän J. Holmgren, der
+| Schoner Aeolus von Ber—
+| gen kam den 5. Juni an und
+| ist vom Eise eingeschlossen.)<br /><br />
+::::
+
+
+Wie wir von einem Manne unserer Besatzung erfuhren, galt dieses gerade von
+unserm Aeolus. Dieses Kreuz wurde im Jahre 1855 während seiner sechs Wochen
+langen Gefangenschaft aufgerichtet. Aber er war schon früher einmal auf
+derselben Stelle neun Wochen lang eingesperrt gewesen, beide Male jedoch ohne
+Schaden für Besatzung oder Fahrzeug losgekommen. Wir gaben dem Kreuze daher den
+Namen Aeoluskreuz. Dicht dabei befand sich ein „Varde“ von älterem, unbekanntem
+Ursprunge. Erst von dieser Stelle überblickten wir die vor uns liegende Bucht,
+diesen von jeder menschlichen Wohnstatt so weit entlegenen Hafen, in welcher
+damals Leben und Bewegung herrschte. Da lagen die sechs Schiffe mit ihren 102
+Mann, eine in diesen Gegenden gewiß seltene und zahlreiche Bevölkerung. Mehrere
+Boote waren in Bewegung, einige hatten ihre Segel aufgezogen und fuhren in
+schneller Fahrt dahin; der Fjord wogte unruhig; Alken, Möwen und „Seepferde“
+erhoben sich hier und da über die dunkeln Wogen, welche im Vergleich mit dem
+„Eisfuß“ des Strandes beinahe schwarz erschienen und ihn mit ihrem regelmäßig
+wiederkehrenden Wellenschlage untergruben. Nahe der Eiskante lagen schon die
+Boote vom Aeolus und der Magdalena. Smitt und der greise Anders zogen bald die
+„Bodenkratzer“ herauf, bald ruderten sie hinaus, um sie wieder einzusenken,
+alles mit ihrem lauten Gesange begleitend.
+
+Dieses Gemälde war in einen Rahmen von hochnordischem, winterlichem und wüstem
+Charakter gefaßt. Uns gerade gegenüber auf der andern Seite der Vik erhob sich
+der stattliche Hecla Mount, dessen nördliche steile Felswände nach einer Ebene
+abstürzten. Mit seinem ringsum gelagerten, bald festen, bald zerbrochenen
+Eisbande bildete sie ein Schneefeld, das sich mit geringer Unterbrechung in dem
+unübersehbaren Eisfelde nach Norden verlor. Je weiter zurück, desto undeutlicher
+erschienen seine luftigen, gebrochenen Contouren, theilweise in einen leichten
+Nebelschleier gehüllt. Im Nordosten schimmerte die nördlichste Spitze des
+Nordostlandes herüber, aus ungeheuren Eis- und Schneemassen auftauchend. Südlich
+von der Hecla-Mount-Kette öffnete sich eine weite Thalsenkung, um sich längs dem
+südöstlichen Strande weiter in die Vik hinein zu ziehen. Obwohl ungefähr
+dreiviertel Meilen von uns entfernt, konnten wir dennoch einen Gletscher
+erkennen, der sich kaum von der Eis- und Schneedecke, womit die Hälfte des
+Fjordes noch bedeckt war, unterschied.
+
+Südwärts von uns breitete sich ein flaches Land aus, darauf sich einzelne
+niedrige, abgestumpfte und — wie es schien — isolirte Kegel erhoben, die sich
+nach Süden mehr und mehr dem Strande nähern, bis sie schließlich nur einen
+schmalen Rand zwischen sich und dem Meere lassen. Der nächste dieser
+plateauförmigen Berge, ausgezeichnet durch seine Kesselform, erhielt nach einem
+unserer Schiffe den Namen Magdalenenberg, auch wurde auf ihm ein Steinhaufe, als
+Erinnerung an unsern Besuch hierselbst, errichtet. Gleich vor und nördlich von
+diesem Hügel befindet sich eine wüste Ebene, die sich nach dem Strande und auch
+nach dem Innern des Landes zu abdacht und beinahe schneefrei ist. Der Boden
+besteht aus nichts als Grus und Steinen. Es befinden sich auf ihr dicht
+nebeneinander eine Menge kleiner Hügel von Rollsteinen, die meisten mit einem
+kleinen Pfahl in der Mitte. Wir erkennen in ihnen wieder einen hochnordischen
+Begräbnißplatz. Nördlich und nordwestlich wird die Aussicht durch kleine
+abgeschnittene Bergrücken, welche zur Verlegen-Hoeks-Kette gehören, begrenzt.
+Noch herrschte hier der Winter. Das Land war größtentheils mit tiefem Schnee
+bedeckt. Aber die steilen, schwarzen Abhänge der umliegenden Berge zeigten nur
+einzelne Flecken, und der Schnee hatte sich in den Rinnen und Felsklüften
+angesammelt. Alles erschien entweder schwarz oder weiß, und diese Farben nebst
+dem Kreuze und den Gräbern vereinigten sich, um den Geist des Beschauers
+wehmüthig ernst zu stimmen und ihn an jene nun längst vergessenen Ereignisse zu
+erinnern, welche vor mehr als hundert Jahren dieser Stelle den Namen
+„Treurenberg“, das heißt Trauerberg, gaben.
+
+Der Kreuzeshügel besteht aus Hyperit, reich an Titaneisen; die oberste Lage war
+von dem festen Gestein losgelöst und in größere und kleinere Blöcke zersprengt.
+An manchen Stellen erblickt man große Löcher, aus welchen Blöcke von 50 bis 100
+Cubikfuß Inhalt herausgefallen sind, hauptsächlich in Folge des Einflusses der
+Kälte und des Eises.
+
+Auf den Felsblöcken und im Gerölle wuchs eine große Menge von Moosen und
+Flechten, besonders Encalypta rhabdocarpa, Hypnum moniliforme, Distichium
+capillaceum; auch sahen wir hier zum ersten Male die hochnordische Voitia
+hyperborea und andere. Von Flechten zeichneten sich aus: Parmelia elegans,
+saxatilis, Lecidea artobrunnea, Solorina erocea und Psoroma bypnorum. Die
+Fruchtbildung bei den Moosen schien unter diesem Breitengrade im Allgemeinen nur
+langsam vor sich zu gehen; einen großen Theil aber fanden wir ganz steril.
+
+Der hier und da auf dem Hügel oder in der Nähe schneefreie Boden entbehrte jeder
+Krume und bot nur ein paar Halmen von Cerastium alpinum, dessen weiße Blüthen
+vom vergangenen Jahre fast unverändert erschienen, eine dürftige Nahrung dar.
+Saxifraga oppositifolia und cornua, Cochlearia, eine und die andere kleine Draba
+und die Polarweide, Salix polaris, die einzige baumartige Pflanze dieser
+Regionen, die sich indessen auch nur ein paar Zoll über die Erdoberfläche
+erhebt, begannen ihre ersten Knospen zu entwickeln; alle halb verkümmert und
+isolirt, fast zu einem Nichts verschwindend zwischen den Steinblöcken, den
+Trümmerstücken und Geröllmassen.
+
+Wir stiegen zum Begräbnißplatze nieder und zählten fast 30 Steinhügel. Sie waren
+länglich geformt und etwa 1 bis 2 Fuß hoch. An dem einen Ende befand sich ein
+kleiner Pfahl mit ein paar verrosteten Nägeln, womit eine kleine Tafel befestigt
+gewesen war. Wir fanden ein paar derselben auf dem Boden und lasen auf der
+einen: 
+
+:::: margin-left-xxl
+| Hier leut begraven Michel Pieter van
+| Silt opt Schip de Mey Boom. Da—
+| rop Commandeur Claas Daniels Meijer.<br /><br />
+::::
+
+Auf einer andern stand:
+
+:::: margin-left-xxl
+| Jacob Hans
+| Gestorv op Schip
+| de Josua
+| Commandeur
+| Jan de Ines
+| Anno 1730 den 26. Juni.<br /><br />
+::::
+
+Die Farbe, mit welcher man die Buchstaben geschrieben, hatte das darunter
+befindliche Holz gegen die Witterung geschützt. Die Buchstaben erschienen daher
+höher als der übrige Theil der von Wind und Wetter angegriffenen Oberfläche.
+
+Hier und da lagen zerstreute Knochen neben Brettern von Särgen, deren Holz sich
+gut erhalten hatte — so langsam verrottet Alles in diesem Lande — auf welchen
+noch ein paar Baumflechten, Caloplaca cerina und Lecanora subfusea sich
+entwickelt hatten. 
+
+Es ist offenbar, daß diese Gräber nicht aus einem Jahre, auch nicht von einem
+einzigen Schiffe herrühren, die Stelle wird vielmehr Jahre lang als
+Begräbnißplatz benutzt worden sein, in jener Zeit, als Holländer und andere
+Nationen zu Tausenden nach Spitzbergen auf den Walfischfang fuhren. Parry fand
+auf der Ostseite der Bucht eine ähnliche Tafel mit der Jahreszahl 1690. Die
+Stelle erschien jetzt, da ein kalter Nordwind die nackten Grabhügel fegte, als
+ein Bild grenzenlosen Elends. Der Beschauer glaubt sich selbst in tiefster
+Einsamkeit und Verlassenheit, wo keine Hülfe, kein Ausweg zu finden. Auch uns
+würde der ganze Anblick sicher trübe gestimmt haben, hätte nicht unsere
+glückliche Ankunft, hier, nahe dem 80. Breitengrade, uns mit der lebhaftesten
+Hoffnung erfüllt, daß unsere Wünsche in Erfüllung gehen und unsere ungehinderte
+Thätigkeit nunmehr beginnen werde.
+
+Wir machten über das Eis einen Ausflug zur andern Seite der Bucht nach Hecla
+Cove, Parry's Hafen, welcher im Norden vom Cap Crozier und dessen Quarzitberg
+geschützt wird. Auf dieser Seite haben Parry und sein Lieutenant Crozier ihre
+magnetischen und astronomischen Beobachtungen angestellt, auf der Höhe aber eine
+Flaggenstange mit einer Kupfertafel errichtet, deren Inschrift von ihrem
+Aufenthalte hierselbst Kunde geben sollte. Als wir dorthin kamen, fanden wir
+zwar eine Stange, indessen nur den obersten Theil von Parry's Flaggenstange. Die
+übrigen Stücke lagen auf dem Boden und die Kupferplatte war abgerissen und
+zerbrochen, so daß wir blos noch unter den Köpfen der Nägel, womit sie befestigt
+gewesen war, einige kleine Reste vorfanden, als ein trauriges Denkmal der
+barbarischen Zerstörungswuth der Spitzbergenfahrer. Auf dem niedrigen fast
+schneefreien Strande lag eine Menge Treibholz, theils in der Größe gewöhnlichen
+Langholzes, theils ganze Stämme mit ihren Wurzeln. Fast ohne Ausnahme waren die
+Bäume ihrer Rinde beraubt. Aber das Holz war gesund, hier und da von Seethieren
+durchbohrt, so daß es einem Schwamme glich. Wir fanden besonders zwei Arten:
+Kiefern, welche als Treibholz gern eine rothbraune Farbe annehmen, und Weiden,
+die ihre Weiße beibehalten.
+
+Nachdem wir Steinproben und Flechten gesammelt hatten, nahmen wir unsern Weg zu
+dem großen runden Berge östlich von Hecla Cove, dem wir den Namen Hecla Mount
+gaben. Wir gingen an seiner Westseite hin, so lange, bis wir glaubten, eine zu
+seiner Besteigung passende Stelle gefunden zu haben. Wir waren aber kaum 4- bis
+500 Fuß hoch ziemlich steil hinaufgeklettert, als wir erkannten, daß der
+gewählte Weg beschwerlich und gefährlich sei. So wurde die Rückkehr beschlossen.
+Der Bergabhang war nämlich in dem Grade zerrissen und zersprengt, daß er aus
+lauter kleinen losen Steinfragmenten zu bestehen schien, die bei jedem Schritt
+unter unseren Füßen wichen und hinabrollten. Je weiter nach oben, desto größere
+Stücke fanden wir in dem Gerölle, zuweilen sogar wirkliche Blöcke, welche, wenn
+sie einmal in's Fallen gekommen wären, einen großen Theil des Gerölles in
+Bewegung gesetzt und eine wahre Lawine erzeugt haben würden. Dieser uns
+auszusetzen, erschien allerdings nicht rathsam. Von Nordosten ist der Berg mehr
+zugänglich. Er besteht aus zwei ungleichen Theilen, von welchen der nördliche,
+etwa 800 bis 1000 Fuß hohe, einem abgestumpften Kegel gleicht, mit beinahe
+senkrecht abfallenden Wänden. Auf seinem Gipfel befindet sich aber ein Plateau,
+welches nach dem Innern des Landes langsam bis zu einer Höhe von ungefähr 1,720
+Fuß aufsteigt. Es besteht aus verschiedenen Lagen: grauem, keine Versteinerungen
+führendem Kalk, Quarzit von verschiedener Structur und wechselnden Farben,
+einigen ungleichartigen Schieferschichten, einer eigenthümlichen Mischung von
+Thonschiefer und Sandstein, endlich aus Hyperit. Die sedimentären Lagen
+streichen meist nach Osten oder Nordosten und stehen beinahe aufrecht, mit einer
+geringen Neigung nach Norden oder Süden. Beim ersten Anblick glaubt man, sie
+seien aufgerichtet und umgestürzt durch das Zusammenbrechen der gewaltigen
+Hyperitmassen, welche so häufig in diesem Theile Spitzbergens auftreten. Doch
+ist dieses, wie spätere Beobachtungen der jüngeren, mit Hyperit bedeckten
+wagerechten Formationen im südlichen Theile von Heenloopen Strat ausweisen,
+nicht der Fall. Die Oberfläche des Berges ist durch den Einfluß der Kälte und
+der Atmosphäre so zerstört, daß man nur an wenigen Stellen das anstehende
+Gestein erblicken kann. Der größte Theil des weiten, meist schneefreien Plateaus
+ist ganz und gar von kleinen scharfkantigen Brocken und Scherben bedeckt, auf
+welchen sich eine mannigfaltige und verhältnißmäßig reiche Vegetation von
+Flechten entwickelt hat. Hier und da trat auch Papaver nudicaule auf, der
+hochnordische Mohn, Ceractium alpinum und Carex misandra, freilich jetzt nur in
+verwelkten Ueberresten vom vorigen Jahre.
+
+Das Einzige, was an das Thierleben erinnerte, waren einige Mückenschwärme
+(Chironomus arcticus), welche in einer für Spitzbergen ungewöhnlichen Menge im
+Sonnenscheine rings um den Steinhaufen spielten, der wahrscheinlich nach Parry's
+Aufenthalt auf der Spitze des Berges errichtet war.
+
+Wir hatten eine weite Aussicht: Nach Nordosten und Osten das Nordostland, nach
+Süden das Innere von Nieuw Vriesland, nach Westen die hohen Bergspitzen auf der
+andern Seite von Wijde-Bai. Das Nordostland erschien an den Küsten flach, mit
+Bergkuppen von geringer Erhebung. Sein Inneres bestand aus einem einzigen,
+ununterbrochenen Schneefelde von ungefähr gleicher oder etwas größerer Höhe über
+dem Meeresspiegel als der Gipfel des Hecla Mount. Auch das Innere von Nieuw
+Vriesland wurde von einem ähnlichen zusammenhängenden Schneeplateau eingenommen.
+Vom Meeresstrande aus gesehen, hatten die Berge um die Treurenberg-Bai das
+Aussehen isolirter, abgestumpfter Kegel. Von dem Gipfel des Hecla Mount konnte
+man dagegen deutlich wahrnehmen, daß sie alle nur Theile eines gemeinsamen
+Bergplateaus von 1,000 bis 2,000 Fuß Höhe bildeten, welches nach dem Meere zu
+durch die Einwirkung der Kälte, des Eises und der Ströme in Thäler und
+abgesonderte Massen geschieden war, daß sie jedoch sämmtlich nach dem Innern zu
+mit dem Hauptplateau zusammenhingen.
+
+Hecla Mount wurde später ein Hauptziel unserer Ausflüge und Untersuchungen,
+nicht blos wegen seiner interessanten geologischen Bildung, sondern auch, um von
+ihm die Lage des Eises zu überschauen.
+
+Während unserer Wanderung längs dem Fuße des Berges weiter nach dem Innern der
+Bucht überfiel uns ein ziemlich heftiger Schneesturm. Wir kehrten daher, etwa
+noch eine Viertelmeile von dem Ende der Bai entfernt, um und erreichten unser
+Heim, ziemlich ermüdet und reichbeladen mit unserer geognostischen und
+mineralischen Ausbeute. Wir nahmen den Weg über das Eis bis zu dessen Kante, wo
+wir, auf unser Boot wartend, noch einige Alken und eine Eismöwe schossen. Unter
+dem Gestein, das wir heimbrachten, befand sich auch Hyperit, über den Parry's
+Expedition schweigt, obwohl er in großen Massen auftritt. Wie schon erzählt,
+fand er sich am Aeoluskreuz vor und war mit seinem Eisengehalt wahrscheinlich
+die Veranlassung, daß sich bei den magnetischen Beobachtungen mancherlei
+Abweichungen und Schwankungen zeigten. Für die Geologen war das Auffinden dieses
+eruptiven Gesteins auf der andern Seite der Bucht von großem Interesse, nicht so
+für unsere Physiker, deren magnetische Beobachtungen mehr oder weniger durch
+sein Vorhandensein afficirt wurden.
+
+Unser Ankerplatz in der Treurenberg-Bai — die Norweger nennen sie „Sorge-Bai“ —
+befand sich in 79° 56´ 31“ nördl. Br. und 16° 55´ 30“ östl. L. An der Oeffnung
+hatte der Fjord eine Breite von ungefähr zwei englischen Meilen, von Grafnäs
+dringt er ein wenig weiter westlich ein und wird breiter, Will man an dieser
+Spitze Anker werfen, so muß man gleich hinter dem Holme, der vor ihr liegt,
+längs dem Lande steuern, bis man dem Steinhügel und dem Kreuze gegenüber ist.
+Hier trifft man guten Ankergrund auf 12 bis 15 Faden Tiefe. Südöstlich von
+Grafnäs 1½ Meilen von der westlichen Küste und eine halbe Meile von der
+östlichen entfernt befindet sich eine Steinbank bei 2½ bis 3½ Faden Tiefe. Im
+Uebrigen beträgt die Tiefe in der Bucht 12 bis 60 Faden. Auf der Ostseite bietet
+Hecla Cove einen vorzüglichen Hafen mit gutem Ankergrunde und Schutz vor allen
+Winden dar. Ebbe und Fluth wechselt hier in sieben Stunden und ihr Unterschied
+beläuft sich auf 4 bis 6 Fuß.
+
+Bald nachdem wir an Land gestiegen und vom Kreuzeshügel die weite Landschaft
+betrachteten, landete ein Boot von einem der Jagdschiffe und machte uns die
+Mittheilung, das eine jener Schiffe, welches versucht habe in See zu gehen,
+werde von einem die Oeffnung der Vik verschließenden Eisgürtel gefangen
+gehalten. In der That entdeckten wir ein quer über die Bucht von Osten nach
+Westen laufendes weißes Band, und ehe wir von unserer Besteigung des Hecla Mount
+zurückgekehrt, hatten wir die Gewißheit, daß wir vollkommen eingeschlossen
+waren. Unsere Hoffnung auf baldige Befreiung war indessen nicht so leicht zu
+vernichten. Ein Eisband kann vergehen, eben so schnell als es gekommen. Ein paar
+Tage mußten wir uns freilich gedulden und die Untersuchung unserer Ungebungen
+fortsetzen.
+
+Es gingen einzelne Partien auf die Jagd und den Fang aus, doch mit geringem
+Erfolg. Nur Alken, die in zahlreichen Haufen die Mitte des Fjordes belebten,
+fielen den Jägern leicht zur Beute. Sie waren keineswegs scheu. Mit einem
+Schusse tödtete man oft fünf und brachte daher nach einer Jagd von einigen
+Stunden mehrere Dutzend heim. Die Alke hat die Größe, doch nicht das Fleisch
+einer kleinen Grasssente. Ist der Vogel gerupft, so löst man die Brust und die
+Flügel los und wirft das Uebrige als nicht genießbar fort. In Butter gebraten,
+haben sie einen ganz guten Geschmack, obwohl nicht einen so feinen als Enten.
+Von den übrigen Vögeln Spitzbergens hält man nur die Eidergans, die hier keinen
+Thrangeschmack hat, die wilde Gans und die Rotjes für brauchbares Jagdwild. Die
+übrigen eßbaren Vögel sind theils so klein, wie der Schneesperling und die
+Schnepfen, theils so selten, wie das Schneehuhn, daß ihre Jagd wenig lohnend
+erscheint. Die Teiste sind oft so trocken und mager, daß man nur im Nothfalle
+nach ihnen greift.
+
+Der Wind blieb nördlich und das Eisband im Norden verstärkte sich mehr und mehr.
+Erst am 9. Juni trat Windstille ein, und gegen Abend erhob sich ein Südost, der
+die nächsten zwei Tage anhielt, auch das Eisband ein wenig mürbe machte, ohne es
+jedoch zu lösen. Der 9. war ein Sonntag, sonst überall der Ruhe geweiht. Aber
+zwischen den Eisblöcken zeigte sich ein Walroß, und bei solchem Anblick vermag
+nichts die Lust der Jäger zu stillen. Vom Jaen Mayen wurde ein Jagdboot
+ausgesetzt. Es war ein Weibchen mit seinen Jungen. Das letztere tödtete der
+Harpunirer unvorsichtiger Weise zuerst. Bei seinem Aufschrei stürzte die Mutter
+in wilder Raserei nach dem Boote, erhob sich mit einer für ein so unförmliches
+Thier unglaublichen Gewandtheit und hieb mit einem seiner Hauer nach dem
+Schenkel des an der Bootspitze stehenden Mannes. Glücklicher Weise war die Wunde
+nur einen Zoll tief und der Schenkelknochen unverletzt. Für diesen Mann endigte
+dieses Abenteuer, das unglücklich genug für ihn ablaufen konnte, also damit, daß
+er einige Wochen in seiner Koje zu Bette liegen mußte.
+
+Einige Stunden nach diesem Ereigniß nahm man einen prächtigen Eisbären mit
+nankingelbem Pelze wahr, wie er aus dem Innern des Fjordes ruhig und sorglos
+Hecla Cove zuschlenderte. Unsere beiden Steuerleute machten sich sofort auf, um
+dieses schöne Thier zu jagen; aber die Jagd wurde dadurch gestört, daß die Leute
+von den übrigen Schiffen sich unbefugt in unsere Sachen mischten. Von dem Lärm
+und seinen vielen Verfolgern erschreckt, begann der Bär sich uns zu entziehen.
+Wir sahen von unserm Fahrzeuge, wie er bald still stand, um seine unklugen
+Feinde zu betrachten, bald so schnell als er konnte nach dem Innern der Vik
+galoppirte. Nun ergriff die Jagdlust auch uns. In einem mit drei Leuten
+bemannten Boote fuhren wir nach dem festen Eise. Der Nachmittag war schön und
+herrlich. Auf eine Scholle war ein gewaltiger Seehund gekrochen, um sich an dem
+milden Sonnenschein zu erfreuen und die erquickende Luft zu genießen, während
+zwischen den Eisstücken in der Nähe der Eiskante ein paar kleinere Thiere
+schwammen und von Zeit zu Zeit ihre Köpfe erhoben, als ob sie wißbegierig die
+fremden Gäste kennen lernen wollten. Nach dem großen Seehund warf Uusimaa in
+Hast seine Lanze. Die beiden anderen durften ungestört weiter schwimmen. Der Bär
+war mittlerweile, von einigen Hunden verfolgt, an's Land geflüchtet und
+verschwand bald zwischen den Bergen. So schloß die erste Bärenjagd, an welcher
+wir Theil nahmen.
+
+Den folgenden Tag spät am Abend bestiegen Torell, Blomstrand und Dunér Hecla
+Mount von der Nordostseite. Dort sahen sie, wie der Südostwind in der Heenloopen
+Strat raste, sich noch über die Mündung unserer Bucht hin erstreckte und das
+Eisband daselbst bildete, so daß der nördliche Theil des Sundes und ein kleiner
+naher Theil des Meeres offen war. Als sie bei der Rückkehr am frühen Morgen, bei
+Parry's Flaggenstange, mit Nordenskiöld, Lilliehöök und Chydenius, welche die
+ganze Nacht über mit magnetischen und anderen Beobachtungen beschäftigt gewesen
+waren, zusammentrafen und vernahmen, daß die Temperatur des Wassers gestiegen
+sei, schienen sich die Aussichten wieder günstig zu gestalten und man freute
+sich bei der Vorstellung, daß die Eisfahrt nun bald ihren Anfang nehmen, Aeolus
+nach dem Nordostlande und Magdalena nach Süden werde abgehen können. Die
+letztere war nun zur Abfahrt bereit. Das für die Eisfahrt bestimmte Boot nebst
+Zubehör befand sich bereits auf dem Aeolus; der Pemmikanvorrath war in der
+Kobbe-Bai untergebracht, und sie wartete nur auf die Möglichkeit, aus der Vik
+herauszukommen. Bei einem lodernden Treibholzfeuer bereiteten wir unsere
+Mahlzeit und vergaßen aller Bekümmernisse, wenn wir der Zukunft gedachten.
+
+Aber das Eis schien nicht weichen zu wollen. Drei von den Jachten, die neben uns
+in der Bucht lagen und am Morgen ausgegangen waren, kamen uns nicht einmal aus
+dem Gesicht. Selbst die Brigg Jaen Mayen mußte nach kurzer Fahrt wieder umkehren
+und sich von Neuem neben uns legen. Schließlich kehrte eine in das Land zum
+Recognosciren ausgesandte Partie mit der Nachricht zurück, das Eis sei nicht
+„segelbar“.
+
+Die Aussichten wurden also schlimmer. Wir beschlossen am 12. die Anker zu
+lichten und das Eis zu forciren; aber Windstille und Nebel machten diesen Plan
+zunichte und — wie wir bald erkannten — zu unserm großen Glücke.
+
+Von den drei Jachten, welche sich in die Heenloopen-Straße begeben hatten,
+kehrten zwei nach beschwerlichem Kreuzen wieder in die Treurenberg-Bai zurück
+und ankerten im Schutze des östlichen Flachlandes, wo sie gleich uns eingesperrt
+waren; die dritte aber blieb im Sunde zurück und hatte einen schweren Stand
+gegen Sturm und Eis, bis sie am Ende des Monats in das Packeis eingeschlossen
+wurde und sich endlich nur mit großer Mühe daraus befreite.
+
+Bis dahin hatten sich in dem offenen Theile der Bucht blos vereinzelte kleinere
+Stücke von Treibeis gezeigt, so daß man mit den Booten leicht zu der festen
+Eiskante im Süden und an dem östlichen Strande gelangen konnte. Als aber die
+starke Dünung, verursacht durch den vom Meere wehenden Sturm, diese Eiskante
+aufbrach und die losgebrochenen Schollen umher zu treiben begannen, da wurden
+auch unsere Fahrzeuge von prasselnden Eisstücken umgeben und Bootfahrten waren
+nur schwer auszuführen.
+
+Die Windstille am 12. verkündigte eine Veränderung in der Windrichtung, und
+diese ließ nicht lange auf sich warten. Schon am folgenden Tage begann wieder
+ein nebliger Nordwind zu wehen und bereitete uns ein sonderbares Schauspiel.
+Während ein Jeder auf seinem Posten beschäftigt war, verzog sich der Nebel ein
+wenig und wir nahmen große Blöcke von Treibeis wahr, welche, einer nach dem
+andern, von Norden her in heftiger Fahrt in die Bucht segelten, getrieben von
+Strömung und Wind. Es war ein eigenthümlicher, großartiger Anblick, wie diese
+Ehrfurcht gebietenden, 20 bis 30 Fuß hohen Eisthürme und Schneemassen, von denen
+manche bis zur großen Raa Jaen Mayens reichten, gleichsam von einer unsichtbaren
+Kraft bewegt, gerade auf unser Schiff lossegelten. Es war keine Zeit zu
+verlieren. Die Boote wurden auf Deck geborgen, die Ziehboote heimgerufen,
+während alle Mann nöthig waren, um das Schiff in Sicherheit zu bringen. Es
+glückte dem Aeolus bald, sich an's Land zu holen, wo er in flacherem Wasser vor
+den größeren und gefährlicheren Eisstücken gesichert lag. Ein kleiner Berg von
+solch aufgethürmtem Eise näherte sich der Magdalena und würde sie unzweifelhaft
+mit sich genommen haben. Aber die Fluth war glücklicher Weise noch nicht bis zu
+ihrer größten Höhe gestiegen, und so strandete der Eisberg über dem Anker,
+welcher in acht Faden Tiefe lag. Mit der steigenden Fluth wurde der Eisthurm
+wieder flott. Aber schon hatte Magdalena ihr Kabel an der Brigg Jaen Mayen
+befestigt, die bereits in Sicherheit lag, und holte sich an's Land. Der Anker
+war so gut wie verloren. Man befestigte die Slup mit Eishaken am Lande und warf
+den andern Anker auf fünfzehn Faden Tiefe aus, während sie selber in vier Faden
+tiefem Wasser zwischen zwei großen Grundeisblöcken lag. Auf diese Art befanden
+sich beide Schiffe in einem aus solchen, auf dem Grunde feststehenden Blöcken
+gebildeten Hafen, wodurch sie gegen das treibende „Schraubeneis“ und die
+flachen, ungefähr 12 Fuß dicken Eisschollen, deren oberer Theil etwa 4 Fuß die
+Oberfläche des Wassers überragte, geschützt waren. Immer mehr wurde der Fijord
+mit Eis gefüllt, und bevor der Abend kam, waren wir buchstäblich von den
+Schollen gefesselt. Wir konnten kaum mit dem Boot an's Land oder von dem einen
+Schiffe zum andern gelangen. Es schien, daß wir sobald nicht von hier fortkommen
+sollten. Von unserm Ankerplatze aus, so weit wir nur nach Norden und Nordosten
+blicken konnten, thürmten sich in wilder Unordnung diese Eismassen,
+scharfkantigen Blocke, Spitzen und Schneeberge über und durch einander und
+trotzten jedem Versuche über sie hinweg zu gelangen. Das Eis hatte Alles, was
+die Natur hier von Behaglichem und Freundlichem besitzt, in kalte, unbewegliche
+Starrheit verwandelt, und hätten wir nicht den 13. Juni geschrieben, wir würden
+eher an Vorbereitungen zu einer Ueberwinterung als an Excursionen und
+Sommerarbeiten gedacht haben.
+
+:::: { .wrap-80 .caption }
+![Das Schiff im Eise.](Die_schwedischen_Expeditionen_071.jpg "Das Schiff im Eise"){#b071}
+::::
+
+Unsere Beschäftigungen auf dem Meere wurden nun in hohem Grade eingeengt. Ebbe
+und Fluth veränderten wohl zuweilen die Lage des Eises und öffneten hier und da
+eine Rinne zwischen den Blöcken, aber die Arbeit mit den Schleppnetzen mußte auf
+die wenigen Oeffnungen in der Nähe des Schiffes beschränkt werden. Die Alken,
+Teiste und „Seepferde“ verschwanden und zogen nach den offenen Wasserstellen.
+Nur verschiedene Möwen blieben zurück. Auch die Fußwanderungen auf dem Lande und
+über das Eis wurden im hohen Grade beschwerlich. Die Schneekruste thaute unter
+der stärkeren Einwirkung der Sonnenstrahlen auf und verlor ihre Tragfähigkeit;
+das Eis wurde „faul“ und brach oft unter unseren Füßen. Fast bei jedem Schritte
+sank man bis über die Kniee ein, so daß der siebente Theil einer Meile dieselbe
+und vielleicht eine größere Kraft in Anspruch nahm, als sonst eine ganze Meile.
+Zuerst stießen auf diese Schwierigkeiten Blomstrand und Smitt, welche am 14.
+Juni eine Meile weit nach dem Innern der Vik wanderten. Smitt berichtet über
+diesen Ausflug:
+
+„Der Weg geht längs dem nunmehr schneefreien Strande über Rollsteine, die zu
+einem Walle aufgehäuft worden, vom Meere durch eine mit Eis und Schnee bedeckte
+Lagune getrennt. Wo der Fjord weiter nach Westen in's Land dringt, nimmt man den
+kürzeren Weg über die See. Auf dem Eise liegt ein weicher, wassergetränkter, mit
+einer dünneren Eislage bedeckter Schnee. Bei jedem Schritte schwankt und bricht
+diese Eisdecke unter unseren Füßen und wir waten bis an die Kniee in einem mit
+Eis gemischten Schneebrei. Ein Ende von uns neben einer Vake scheint ein Seehund
+sich der Stille der Luft und des Sonnenscheins zu erfreuen. Da die Büchse
+geladen und zur Hand, so können wir ihn unmöglich in Ruhe lassen. Wir nähern uns
+vorsichtig dem dunkeln Flecke, doch nicht geräuschlos, da das Eis unter jedem
+Fußtritt bricht. Noch ist er nicht in der Schußweite und schon merkt er Unrath.
+Er hebt seinen Kopf, blickt unruhig umher und lauscht auf die fremden Laute, die
+der Wind seinem Ohre zuführt. Hier ist keine Zeit zu verlieren: ein Knie auf's
+Eis und die Büchse an die Backe. Der Schuß geht los, aber der Seehund taucht
+ruhig in seine Vake. Wir wollten erfahren, ob Uusimaa Recht habe, welcher uns
+gestern versicherte: ein nicht verwundeter Seehund komme nach einer Weile wieder
+herauf. Wohl eine halbe Stunde warteten wir, den Hahn gespannt, aber kein
+Seehund erschien. Nur ein kaltes Fußbad war der Lohn für unsere Mühe und
+abgekühlte Jagdlust. — Nach einer Viertelmeile erreichten wir wieder das Land,
+welches überall die Einwirkung und Spuren früherer Gletscher zur Schau trägt.
+Ihr Resultat ist das Vorland zwischen dem Strande und der steilen, eine
+Viertelmeile vom Fjorde im Westen sich erhebenden Bergkette. Man muß über einige
+Klafter hohe Wälle und Hügel schreiten, die aus Glimmerschiefer- und
+Quarztrümmern von den nahen Bergen bestehen. Der Andrang des Schneeeises hat
+diese langgestreckten Wälle gebildet, hier und da von den Frühlings- und
+Sommerwassern durchbrochen. Noch ist es Winter, aber seine Macht zu Ende. Die
+von den Bergen stürzenden Lawinen — oft glaubt man in der Ferne eine Kanonade zu
+hören — erzählen von der Beweglichkeit des durch die Sonnenstrahlen erweichten
+Schnees. Die Hügel des flachen Vorlandes liegen schon ganz frei da. Die kleine
+Saxifraga beginnt ihre Blüthenknospen zu entwickeln und ihre rothen Spitzen
+schimmern hier und da freundlich zwischen Geröll und Moos. Der Strandkibitz
+(Tringa maritima), der „Fjaereplytt“ der Norweger, springt pipend zwischen den
+Steinen umher und streckt nach seiner sonderbaren Gewohnheit die Flügel aus,
+bald den einen und bald den andern. Man nimmt das kleine Wesen wahr; aber bevor
+der Hahn gespannt, ist er schon zwischen den Steinen verschwunden, deren Farbe
+sich von der seinigen nicht unterscheidet; schließlich fällt er uns doch als
+Beute zu. Zwischen den Hügeln ist der Weg über den mit einer Kruste bedeckten
+Schnee sehr ermüdend. Der Fuß durchbricht die schwache Decke und sinkt eine Elle
+tief ein. In der Ferne schimmert ein weißlich grauer Fleck, nach dem Fernrohr
+ein Rennthier; schneller wird unser Schritt. Aber das Thier wird zu frühe
+aufgescheucht, denn ihm genügt der Schimmer einer menschlichen Erscheinung, um
+mit der Schnelligkeit des Windes zu entfliehen.
+
+„Nun mußte der Speisekober hervor. In jeder Vertiefung des Flachlandes findet
+man Wasserlachen von geschmolzenem Schnee. Rings herum, in ungeheurer Menge,
+springen kleine stahlgraue Poduren, die sonderbaren Bewohner des ewigen
+Alpenschnees, welche ihre Nahrung wahrscheinlich in der beschränkten Welt
+animalischer und vegetabiler Organismen, denen der Schnee als mütterliche Erde
+dient, vorfinden. Zu Tausenden schwimmen die Todten und Lebenden auf dem Wasser,
+welches kälter und klarer ist als unser Quellwasser. Man trinkt vorsichtig,
+aber, aus Furcht man werde auf eine weitere gleiche Erfrischung lange zu warten
+haben, mit tiefen Zügen. „Rathsherren“ mit „Burgemeistern“ und Raubmöwen kreuzen
+in der Nähe. Sie lassen sich bei den Eingeweiden eines Rennthieres nieder,
+welches offenbar erst vor Kurzem durch den von uns in jener Richtung gehörten
+Schuß erlegt ist. Der Schütze ist mit seiner ausgewaideten Beute verschwunden,
+bald aber läßt er wieder von sich hören, denn zwei Rennthiere stürzen in wilder
+Flucht von zweien Seiten her, von wo der Knall kam. Wir treffen auch bald die
+Schützen am Ende des Golfs an. Hallstad, der Harpunirer vom Aeolus, hatte zwei
+Rennthiere erlegt, und der Harpunirer vom Jaen Mayen eins. Da die Gegend arm an
+Wild ist, so waren sie stolz auf ihren Erfolg, obwohl die Thiere in dieser Zeit
+äußerst mager sind. Wir sagten uns in einem Athem Guten Tag und Lebewohl und
+trennten uns.
+
+„Der niedrige Landstreifen wird allmählich schmäler und die Berge treten dem
+Meere näher. Von einem hohen Hügel, einer alten Moräne, blickt man auf einen
+gewaltigen Gletscher, der in steilem Absturz, doch ohne eine eigentliche
+Eiswand, eine Viertelmeile vom Fjorde endigt. Unmittelbar vor ihm befindet sich
+ein mit rundgeschliffenen Schiefer- und anderen Steinen bedecktes Flachland,
+nebst zweien kleinen Süßwasserseen, neben denen die wilden Gänse schon an's
+Brüten zu denken scheinen. Es gleicht einem von einer Menge Gletscherbäche
+durchflossenen Delta. Weiter nach uns zu geht dieses flache Land in einen etwa
+70 Fuß hohen Thon- und Sandwall über, wahrscheinlich eine alte Stirnmoräne. An
+manchen Stellen breitet der Thon sich stromartig aus; vom Gletscher werden
+bedeutende Massen von Schlamm und Grus herabgespült, und das Wasser der Bäche
+ist davon trübe und dick. Westlich von hier befindet sich eine schmale Oeffnung
+zwischen den Bergen, und wir nehmen unsern Weg nach der steilen, an ihrem Fuße
+befindlichen Muhre. Es herrscht hier neben Glimmerschiefer und Kalk ein
+röthlichgelber Quarzit vor.
+
+„Die Wanderung wurde immer beschwerlicher, und da die Ausbeute an Mineralien nur
+gering blieb, so machten wir uns auf den Rückweg. Er war so ermüdend, daß wir
+erst am 15. Morgens 5 Uhr auf dem Deck der Magdalena anlangten.“ 
+
+Ueber unserm Fjord lag oft ein erdrückender Nebel, aber klare und ruhige Tage
+gehörten auch nicht zu den Seltenheiten, so daß man es schon in leichter
+Kleidung beim Arbeiten warm hatte. Das Licht und die Wärmestrahlen der Sonne
+wurden dann kräftig von den blendenden Eisblöcken zurückgeworfen. Sie standen
+meist sechs Faden tief fest auf dem Grunde. Auf all' den Irrgängen und Rinnen,
+durch die Oeffnungen und Lücken zwischen den weißen, scheinbar leichten und
+luftigen Eisklippen mit dem Boote hin zu fahren, war in der That wunderbar. So
+weit das Auge nach Norden reichte, erhoben sich diese zerbrochenen Thürme und
+Mauertrümmer von Schnee und übereinander gestapeltem Eise. Je weiter man sie
+verfolgte, um so mehr verwischten sich ihre feinen, aber bestimmten Linien, bis
+sie sich verloren und in der weiten Ferne gleich einer dünnen Schneedecke mit
+dem reinsten Blau des Horizontes zusammenschmolzen. Das in der Nacht etwas
+gedämpfte, aber am Mittage sehr starke, fast blendende Licht wurde Manchem sehr
+beschwerlich; Kuylenstjerna mußte sogar mit der in diesen Regionen oft
+auftretenden, schmerzhaften Schneeblindheit Bekanntschaft machen. Die Meisten
+von uns waren zwar mit Schneebrillen — einem Netze von schwarzem Metalldraht —
+versehen, während einer topographischen Excursion hatte aber Kuylenstjerna es
+unterlassen, sich ihrer zu bedienen, und mußte diese Unvorsichtigkeit nicht blos
+mit einem unerträglichen Schmerz an der Stirn und auf dem Scheitel büßen,
+sondern auch seine Arbeiten unterbrechen und sich sofort in eine Schneewehe
+niederlegen. Er kam nur mit Mühe heim, konnte kaum die Augen öffnen, fühlte sich
+nach einigen Stunden Ruhe jedoch besser. Ein paar Tropfen Opiumwein in die Augen
+gilt bei den Polarfahrern als ein erprobtes Heilmittel bei Schneeblindheit und
+wurde mit Erfolg auch bei Einigen von unserer Mannschaft in Anwendung gebracht.
+
+Während solcher schönen Tage, wenn unsere Bucht und die nächste Umgebung im
+klarsten Sonnenscheine dalag, erblickten wir die Berge im Süden und Südosten
+meist in dichten Nebel gehüllt. Er kam aus der Heenloopen Strat und stieg zu den
+Bergen auf, welche diese Straße von der Treurenberg-Bai trennen. Die
+Eigenthümlichkeiten dieses Sundes sind schon frühe von den holländischen
+Walfischfängern richtig erkannt worden und werden von dem Hamburger Martens 1671
+dahin geschildert: „Das Weyhegat, oder die Straht von Hindelopen, wird also
+genennet von den Winden, weil ein harter Südenwind daraus wehet^[^0400]^. An
+einer andern Stelle erzählt er, wie er und seine Mannschaft an der Oeffnung
+dieser Straße — er weiß nicht, ob es ein Sund oder eine Vik ist — eine begonnene
+Walroßjagd nicht fortzusetzen gewagt hätten, da ein so starker Nebel sie
+überfallen, daß sie gefürchtet hätten, ihr Fahrzeug nicht wieder zu erreichen.
+Dieser Süd- oder vielmehr Südostwind herrschte die ganze Zeit, da wir in der
+Treurenberg-Bucht lagen, in der Heenloopen-Straße, während in unserer Vik und
+beinahe an der ganzen Nordküste mit geringer Unterbrechung — nur Nordwinde
+wehten. Er war immer äußerst heftig und oft von einem unglaublich dichten Nebel
+begleitet, der nahe der Oeffnung des Sundes seinen Anfang nahm und gleich einer
+dunkeln Wand sich nordwärts bis nach Low-Island ausdehnte. Auf diese Wolkenbank
+achteten wir unausgesetzt und wünschten von Herzen, wenngleich vergebens, es
+möchte nur ein geringer Hauch von dem Winde, der dort wehte, auch zu uns
+gelangen. Ohne das Geringste von dem Sturme zu merken, der in einer Entfernung
+von kaum einer halben Meile wüthete und dessen Brausen doch bis zu uns
+herüberklang, sahen wir Tage lang Wolkenmassen ohne Unterbrechung hinter
+einander in rasender Eile hinjagen und nordwärts verschwinden. Von diesem
+eilenden Wolkenstrome stiegen die Nebel auf, von welchen wir gesprochen, und
+deren Entstehung nun leicht zu begreifen. Obwohl das Meer nördlich von
+Spitzbergen ganz mit Eis bedeckt war, stieg die Temperatur nach dem 10. Juni
+dennoch so schnell, daß sie schon nach vier Tagen sich über den Gefrierpunkt
+erhob. An der Ostküste von Spitzbergen dagegen und im südlichen Theile von
+Heenloopen Strat bleibt das Meer das ganze Jahr hindurch, oder doch länger als
+anderswo auf Spitzbergen, von Eismassen bedeckt. Denn es bildet gleichsam eine
+Fortsetzung des sibirischen Eismeeres und ist daher, nach den Angaben aller
+Spitzbergenfahrer, auch kälter als irgend ein anderer Theil der Inselgruppe.
+Obwohl der Sund, so weit man ihn von den Höhen überschauen konnte, offen
+erschien, so war er es doch nicht in seiner südlichen Hälfte; das lehrten die
+von hier kommenden Eismassen, das erfuhren wir später von einem der Jagdfahrer,
+welche am 11. Juni unsern Fjord verlassen hatten. Aus dieser Eisregion strömt
+nun die kalte Luft durch den Sund und vermischt sich mit der wärmeren und
+dünneren im Norden desselben. Hierdurch wird ein Theil der in der letzteren
+enthaltenen Feuchtigkeit, verdichtet, zu Nebel und so lange weiter getrieben,
+bis eine wärmere Luftschicht ihn aufzehrt. Ist das gestörte Gleichgewicht wieder
+hergestellt, so hört das Phänomen eine Zeit lang auf, und während an dem einen
+Tage der dichteste Nebel herrscht, erfreut uns an dem folgenden die klarste
+Luft, bei welcher das ferne Nordostland mit erstaunlicher Bestimmtheit und
+Deutlichkeit erscheint; eine Täuschung, der man so oft in diesen Regionen
+ausgesetzt ist, wenn es sich um die Schätzung von Entfernungen handelt.
+
+:::: { .wrap-100 .caption }
+![Walrosse.](Die_schwedischen_Expeditionen_078.jpg "Walrosse."){#b078}
+::::
+
+Das bis dahin passirbare Eis wurde immer unsicherer und demgemäß auch die
+Excursionen beschwerlicher. Blomstrand ging am 19. auf Schneeschuhen nach dem
+östlichen Strande und nahm seinen Weg über das allein noch gangbare Eis im
+Innern der Bucht. Die Länge des Weges und die Last der gesammelten Mineralien
+verzögerten seine Rückkehr; wir warteten die ganze Nacht auf ihn und machten uns
+schließlich auf, um ihn aufzusuchen. Da das Eis an manchen Stellen schon so
+zerfressen war, daß es einen Menschen nicht mehr tragen konnte, hatten unsere
+Befürchtungen auch allen Grund. Zu Aller Freude kehrte er nach vielen
+überstandenen Schwierigkeiten, und nachdem er 18 Stunden ohne Nahrung vom
+Schiffe entfernt gewesen, zurück, von Niemand als einem treuen Hunde, der
+freilich durch sein Springen dem auf Schneeschuhen laufenden Wanderer oft lästig
+geworden war, begleitet. Am folgenden Tage brachen drei Mann vom Aeolus wirklich
+durch das Eis, als sie darauf bestanden, einen geschossenen Seehund an Bord zu
+schaffen, wurden aber sammt der Jagdbeute durch den vierten, nicht
+hineingefallenen Genossen gerettet. Die Seehunde sind zwar ein wenig neugierig,
+auch wenn sie auf dem Eise liegen, und betrachten den Jäger sehr aufmerksam;
+zugleich sind sie aber auch äußerst vorsichtig und lassen ihn nicht zu nahe
+herankommen. Darum ist die Seehundsjagd auf dem Eise keine leichte Sache. Aber
+Petersen lehrte uns, wie man nach Weise der Grönländer ihnen nahe kommen könne.
+Auf zwei mit einander verbundenen kleinen Schlittenkufen befestigt man einen
+etwa 1½ Ellen hohen und 1 Elle breiten Holzrahmen, daran, eine halbe Elle über
+den Kufen, sich ein Querholz befindet. Ueber diesen senkrecht stehenden Rahmen
+hängt man ein Stück weißen, bis untenhin reichenden Zeuges mit einem Loch,
+welches mit der Mitte des Querholzes correspondirt und so groß ist, daß der
+Büchsenlauf darin Platz hat. Der Jäger steckt nun den Lauf durch den Schirm,
+läßt die Büchse auf dem Querholz ruhen und schiebt an diesem den ganzen
+Jagdschlitten vor sich her. So nähert er sich dem Seehunde, dem das weiße Zeug
+unverfänglich erscheint, bis es zu spät ist. Uusimaa, der geübte Schütze, machte
+von der Vorrichtung Gebrauch und lernte ihren großen Werth schätzen. Von
+Seehunden trifft man auf Spitzbergen drei Arten an: Storkobbe oder Hafert (Phoca
+barbata); den gewöhnlichen Seehund (Phoca hispida), den die Norweger Stenkobbe
+nennen, und welcher überall in der Ostsee und dem Bottnischen Meerbusen
+verbreitet ist, und den grönländischen oder Jaen Mayenschen Seehund (Phoca
+groenlandica), Sortsiden genannt, der jedoch, wenigstens an den Nord- und
+Westküsten und verglichen mit den beiden ersteren, sehr selten vorkommt. Unter
+diesen dreien wird Phoca barbata wegen ihrer Größe und dicken Specklage am
+meisten geschätzt. Man darf sich indessen nicht vorstellen, daß einer von ihnen
+sehr häufig ist; denn schon Martens sagt, „daß in Spitzbergen mehr Walrosse als
+Seehunde leben.“ Ueberdies hat er, sowie das Walroß, in Folge der
+ununterbrochenen, schonungslosen Jagden in diesen Gegenden seitdem eine
+beträchtliche Verringerung erfahren.
+
+:::: { .wrap-70 .caption }
+![Aeolus in Treurenberg-Bai.](Die_schwedischen_Expeditionen_079.jpg "Aeolus in Treurenberg-Bai."){#b079}
+::::
+
+:::
+
+:::: align-center
+****
+::::
+
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
@@ -1974,3 +2629,4 @@ G. de V. S. 74. 75.]{.footnote}
 
 [^0207]: [Barrow, A chronological history etc. p. 224.]{.footnote}
 
+[^0400]: [*Friedrich Martens* Spitzbergische oder Grönländische Reisebeschreibung, gethan im Jahre 1671. Hamburg 1675. (S. 24.)]{.footnote}
