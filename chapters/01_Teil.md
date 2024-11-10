@@ -3751,6 +3751,928 @@ Arbeit, froh, der Sorge-Bai für immer Lebewohl gesagt zu haben.
 
 :::
 
+:::: align-center
+****
+::::
+
+
+## <small>Sechstes Kapitel.</small><br /> Der Plan einer Eisfahrt. — Walrosse.
+ 
+
+::: justified
+
+:::: fs-xs
+Der Plan einer Eisfahrt. — Walrosse. <br /><br />
+::::
+
+Wir sind den beiden Schiffen bis zu dem Augenblicke gefolgt, da Aeolus nach
+Osten und Magdalena nach Westen steuerte. Bevor wir unsern Bericht über die
+Fahrten derselben wieder aufnehmen, wollen wir einen Blick auf das Unternehmen
+werfen, das Torell bis in alle Einzelnheiten hin mit so großer Umsicht erwogen
+und ausgedacht hatte, das aber durch unsere Monate lange Gefangenschaft in der
+Treuenberg-Bai zu Wasser wurde: ich meine die geographische Expedition nach
+Norden. Wir entlehnen seinem officiellen Bericht, in welchem er mit der ihm
+eigenen Klarheit alle uns von den früheren Polarfahrern überlieferten Angaben
+benutzt hat, folgende Darstellung:
+
+„Wenn man sich unter dem 80. Breitengrade, also nur hundert schwedische Meilen
+vom Nordpol entfernt befindet, so tritt ganz von selbst die Frage an uns heran,
+ob sich der Erreichung des Poles wirklich unüberwindliche Hindernisse
+entgegenstellen, oder ob nicht mindestens ein Theil des dazwischen liegenden
+Gebietes durchfahren werden könne. Man wiederholt in seiner Erinnerung alle die
+Unternehmungen, welche einander gefolgt sind; die neuen Hypothesen in Betreff
+der physischen Beschaffenheit der Polarwelt, welche die alten beseitigt oder
+wenigstens erschüttert haben. Noch immer ist das Problem ungelöst, obwohl Männer
+wie Barrow, Scoresby, Wrangel und Petermann, welche sich durch ihre persönlichen
+Anschauungen oder durch ihr tiefes Wissen auszeichnen, der Ansicht sind, daß der
+Nordpol nicht außerhalb des Bereiches der geographischen Entdeckungen liege.
+
+„Es ist daher sehr natürlich, daß gerade wir, Nordenstkiöld und ich, die wir
+schon früher wissenschaftliche Zwecke in den arktischen Regionen verfolgt
+hatten, von derselben Sehnsucht wie unsere zahlreichen Vorgänger — ergriffen
+wurden, bis zu dem höchsten Norden vorzudringen, und, so viel an uns lag, die
+schwedische Wissenschaft bei diesem Streben betheiligt zu sehen. Ungünstige
+Verhältnisse stellten sich dieser Arbeit zwar hindernd entgegen, ich halte mich
+indessen trotzdem für verpflichtet, über die Art und Weise, wie die
+geographische Expedition vorbereitet worden, Rechenschaft abzulegen.
+
+„Bevor dieses geschieht, wird es nöthig sein, einen Blick zu werfen auf die
+Meinungen über die Beschaffenheit des Polarmeeres, so weit sie wissenschaftliche
+Geltung erlangt haben; ferner auf die früher gemachten Versuche, bis zu dem
+nördlichsten Punkte der Erdkugel vorzudringen; die Methoden, welche die
+allmählich bereicherte Erfahrung für solche Entdeckungsreisen an die Hand
+gegeben; endlich auf die Resultate, welche, trotz aller fehlgeschlagenen
+Hoffnungen, für die Wissenschaft errungen worden sind.
+
+„In Betreff der Beschaffenheit des Polarmeeres sind lange zwei entgegengesetzte
+Meinungen von verschiedenen Schriftstellern und Reisenden verfochten worden. Auf
+der einen Seite hat man behauptet, daß das nördliche Polarmeer entweder ganz
+eisfrei oder doch in dem Grade offen sei, daß es von Schiffen durchsegelt werden
+könne. Der Geograph Barrington suchte zu beweisen, daß sogar der 89. Grad von
+Walfischfängern erreicht sei, und das englische Parlament setzte im vorigen
+Jahrhundert große Belohnungen für diejenigen aus, welche die höchsten
+Breitengrade erreichen würden, ja sogar eine für die Erreichung des Nordpoles
+selbst.
+
+„Unter dem Einflusse dieser Ansichten wurde die große Expedition des Capitän
+Phipps nach dem Nordpol ausgerüstet. Sie stieß schon unter dem 80. Breitengrade
+bei Spitzbergen auf undurchdringliche Eismassen und kehrte nach vielen Mühen
+unverrichteter Dinge zurück, nachdem die Besatzung einmal schon im Begriffe
+gewesen war, das Schiff zu verlassen. Capitän Buchan's Expedition 1818, bei
+welcher John Franklin das eine Schiff befehligte, hatte ungefähr denselben
+Verlauf.
+
+„Anstatt nördlich von Spitzbergen, oder zwischen Spitzbergen und Grönland ein
+eisfreies Meer zu finden, kehrten Phipps und Buchan mit der Ueberzeugung zurück,
+daß von Spitzbergens nördlichstem Breitengrade ab die Bahn von
+undurchdringlichen Eismassen gesperrt werde, deren südliche Grenze zwar
+veränderlich, überall aber vorhanden sei. Alle Expeditionen von Cook bis auf
+uns, welche durch die Behringsstraße nach Norden fuhren, haben noch südlicher
+diese unbeweglichen Eismassen angetroffen. Die Sunde zwischen den amerikanischen
+Inselgruppen sind ebenfalls verschlossen gefunden, und das offene Polarmeer,
+welches Capitän Penny — nach Maury — im Wellington-Kanal, und Kane im
+Smiths-Sund angetroffen, erwies sich voll von Eis, als Belcher und Hayes es
+später zu durchsegeln versuchten.
+
+„Maury hat aus rein theoretischen Gründen zu beweisen gesucht, daß das Polarmeer
+offen und segelbar sei. Petermann trat ihm bei und bezog sich auf die bis dahin
+gemachten Erfahrungen. Mit Ausnahme von Kane und Hayes hat indessen Keiner von
+den Männern, welche selbst das Polareis beobachtet, diese Ansicht getheilt. Im
+Gegentheil, Sir Leopold M'Clintock, vielleicht die erste Autorität auf diesem
+Gebiet, hat die Existenz eines offenen Polarmeeres bestimmt in Abrede gestellt.
+Die aufgestellte Theorie ist indessen, in Folge des großen, wohlbegründeten
+Ansehens derjenigen Männer, welche sie adoptirt haben, zu einer wichtigen
+Streitfrage in der Wissenschaft geworden und kann nur auf empirischem Wege
+gelöst werden. Alles was zu ihrer Beantwortung beiträgt, erscheint von größter
+Bedeutung. Ich für meinen Theil bin durch die für die Existenz eines offenen
+Polarmeeres angeführten Gründe nicht überzeugt, und da meine ersten Eindrücke
+und Wahrnehmungen in Spitzbergen für das Gegentheil sprachen, schloß ich mich
+unbedingt der Ansicht an, daß das nördliche Polarmeer mit Eis bedeckt, obwohl
+nicht ohne größere und geringere offene Stellen sei.
+
+„Außer M'Clintock huldigten dieser Meinung die vieljährigen Vertrauten des
+Eismeeres und seiner Natur: Scoresby, Parry und Franklin. Auf diesem Meere kann
+man nicht segeln; will man vorwärts, muß das Eis den Reisenden tragen. — Kann
+man aber auf diesem Eise überhaupt vorwärts kommen? — Scoresby ist, so viel mir
+bekannt, der Erste, welcher sich ausführlich über die Art und Weise einer
+solchen Eisfahrt geäußert hat. Seine langjährigen Erfahrungen, seine
+Wahrheitsliebe und die gründliche, für seine Beschäftigung als Walfischfänger
+ungewöhnliche wissenschaftliche Bildung machen ihn zu einer der ersten
+Autoritäten auf diesem Gebiet; auch ist er anerkanntermaßen zu Schiffe weiter
+als irgend ein Anderer nach dem Nordpol vorgedrungen. Seine Meinung hat ein um
+so größeres Gewicht, als er Jahre lang sich mit der Möglichkeit beschäftigt hat,
+dieses Polareis mit Schlitten zu befahren. In einer Reihe von Abhandlungen (in
+den Memoirs of Wernerian Society) und in seinem bekannten Werke: Account of
+arctic regions sucht er, gestützt auf eigene Erfahrungen und die Beschaffenheit
+des Eises, sowie die in Canada und Sibirien ausgeführten Schlittenfahrten, zu
+beweisen, daß man von Spitzbergen aus, auf dem Eise, nach oder gar bis zum
+Nordpole wohl vordringen könne. Er meint, daß Rennthiere recht gut zum Ziehen
+benutzt werden könnten, und daß die großen Eisfelder, die er als Walfischfänger
+kennen gelernt habe, keineswegs zu uneben für Schlittenfahrten seien. Er hatte
+einmal ein Eisfeld getroffen, das etwa eine halbe englische Meile lang und so
+eben war, daß man darauf hätte mit Wagen fahren können. Andere über die
+Beschaffenheit des Eises befragte Walfischfänger — bevor Parry seine
+Nordpolexpedition unternahm — gaben eine ähnliche Antwort.
+
+„Während Capitän Phipps' Expedition bei den sogenannten Sieben Inseln, nördlich
+von Spitzbergen, fest im Eise lag, bestieg Capitän Lutwidge eine der Inseln. Er
+berichtete, daß nach Norden hin weder Land noch Wasser zu erblicken gewesen; das
+Eis wäre eben und zusammenhängend, „flat and unbroken“.
+
+„Sir John Franklin reichte der englischen Admiralität einen Vorschlag ein, worin
+er sich bereit erklärte, mit Booten, auf Schlitten gestellt, den Nordpol zu
+erstreben. Der Plan fiel, da Franklin anstatt dessen eine seiner großen
+Landreisen im arktischen Amerika antrat. Capitän Parry nahm, nach der Beendigung
+der drei Reisen zur Entdeckung der Nordwestfahrt, Franklin's Plan auf und erbot
+sich, in der vorgeschlagenen Weise denselben auszuführen. Der Vorschlag wurde
+von der Admiralität angenommen, der „Hecla“ zur Fahrt nach Spitzbergen in Stand
+gesetzt und Boote nebst Schlitten und anderm Zubehör angeschafft. In Hammerfest
+nahm man acht Rennthiere nebst einer Quantität Rennthiermoos als Futter an Bord.
+Smeerenbergs Hafen, von wo die Bootexpedition ausgehen und Hecla deren Rückkehr
+erwarten sollte, war so mit Eis angefüllt, daß man einen andern Ankerplatz an
+der Nordküste Spitzbergens zu suchen gezwungen war. Die wenigen zuverlässigen
+Karten gaben geringe Auskunft, und so verging über dem Aufsuchen eines Hafens
+ein guter Theil der besten Jahreszeit. Schließlich lief das Schiff in
+Treurenberg-Bai ein und die Bootexpedition konnte abgehen. Parry traf weit mehr
+offenes Wasser an, als wir, und ruderte unbehindert nordwärts, auf Strecken, wo
+wir den ganzen Sommer über nur Eis wahrnahmen.
+
+„Als das Eis dichter und dichter wurde, begann die eigentliche Schlittenfahrt.
+Doch fand man die Beschaffenheit des Eises ganz anders, als man erwartet hatte.
+Anstatt aus flachen Schollen und Feldern, bestand es fast ausschließlich aus
+Schraubeneis (hummocks). Unermüdet, wenngleich langsam, arbeitete sich die
+Mannschaft indessen vorwärts und erreichte einen höheren Breitengrad als irgend
+ein Lebender vor oder nach ihnen. Zuletzt merkte Parry, daß er sogar die
+Strömung gegen sich habe; die Abnahme des Proviants gebot die Umkehr; er
+erreichte glücklich den „Hecla“ und fuhr mit demselben nach England zurück.
+
+„Den Hauptgrund, weshalb Parry nicht weiter kam, findet er selbst in der
+Beschaffenheit des Eises. Es war keineswegs „flach, eben und ununterbrochen“,
+wie Scoresby, die Walfischjäger und Lutwidge es hatten vermuthen lassen. Dazu
+kam die ungünstige Meeresströmung, welche das Eis nach Süden trieb, die weit
+vorgeschrittene Jahreszeit und der weiche Schnee. Die Boote waren zu schwer, —
+14 Mann gehörten dazu, um nur eines weiter zu schleppen — die Schlitten von
+unpraktischer Construction, die daran angebrachten Räder unbrauchbar. Die
+Ausrüstung und Verproviantirung war ungefähr ebenso wie bei den späteren
+Expeditionen, aber die erstere zu schwer und die letztere unvollständig. Das
+Rennthier erwies sich auch nicht als brauchbares Zugthier, denn es verzehrt
+täglich vier Pfund Rennthiermoos, während es nicht mehr als 150 bis 200 Pfund zu
+ziehen vermag. Es ist daher für solche Fahrten lange nicht so geeignet als
+Hunde.
+
+„Parry's Reise blieb einzig in ihrer Art. Ein zweiter Versuch, auf dem Eise nach
+Norden vorzudringen, wurde nicht gemacht. Aber die Reise beschloß keineswegs die
+Reihe der arktischen Expeditionen. Erst kam Sir John Roß mit der Victoria und
+entdeckte den magnetischen Pol; darauf Sir John Franklin's durch ihren
+unglücklichen Ausgang berüchtigte Fahrt, und die vielen Unternehmungen, die von
+England und Amerika 1848 bis 1858 zu seiner Aufsuchung ausgerüstet wurden, bis
+es endlich Doctor Rae und Capitän M'Clintock gelang, den Schleier zu heben, der
+so lange über sein Schicksal gebreitet lag. Diese für die geographische
+Wissenschaft so wichtigen sogenannten Franklin-Expeditionen führten auch zu
+erheblichen Veränderungen bei Ausrüstung arktischer Schlittenfahrten. Durch
+M'Clintock, der an drei arktischen Expeditionen Theil genommen, eine befehligt
+hatte, lernte man, wie man weite Entfernungen überwinden, sich längere Zeit
+unter freiem Himmel aufhalten, die Menge des Proviants berechnen und die
+größtmögliche Quantität von Nahrungsstoff in dem kleinstmöglichen Raume
+unterbringen und auf das geringste Gewicht reduciren könne. Knochenloses, bei
+solcher Temperatur getrocknetes Fleisch wurde zerstoßen, mit Fett
+zusammengeschmolzen und in großen, hermetisch verschlossenen Blechbüchsen
+aufbewahrt. Dieser sogenannte „Pemmican“, zusammen mit Speck, geriebenem Brode,
+Zucker, Thee, Gewürz und concentrirtem Rum, bildete den Proviant. Bei 2½ bis 3
+Pfund solcher Nahrung kann ein Mann den ganzen Tag in dem arktischen Klima
+arbeiten. Talg in Säcken von Segeltuch diente zum Kochen der Speisen und zum
+Schmelzen des Schnees, dazu sehr zweckmäßig eingerichtete Kochapparate von
+Eisenblech vorhanden waren. Die Kleidung bildete einen wichtigen Theil der
+Ausrüstung. Das Erste war: Alle Kleider müssen dicht anschließen. Darum erwies
+sich Pelzwerk als ungeeignet. Man trug also dafür unmittelbar auf dem Leibe
+Wolle, und darüber eine Blouse nebst Hosen von feinem Segeltuch. Die
+Fußbekleidung bildet einen der wichtigsten Gegenstände bei Reisen im hohen
+Norden. So lange der Schnee fest war, brauchte man „Mokassins“ von gegerbtem
+Leder, darin sich „Wrappers“, ein viereckiges Stück Wollenzeug, befand, und
+Strümpfe. Sobald der Schnee weich wurde, bewährten sich Stiefel von Segeltuch am
+besten. Auf diese Weise erreichte man die erste und unentbehrlichste
+Voraussetzung für lange Märsche, nämlich daß der Fuß weder eingeengt noch
+gedrückt, und dadurch Frostschäden vermieden wurden. Außer den Kleidern auf dem
+Leibe führte jeder Mann noch sieben Pfund Extrakleider mit sich, die in kleinen
+Ränzeln untergebracht waren. Ein Schlafsack von dickem Filz bildete sein Bett.
+Unter den letzteren wurde auf den Schnee oder Boden zuvörderst eine geölte Decke
+oder ein wasserdichtes Stück Zeug und darüber ein Büffelfell oder eine Filzdecke
+gebreitet. Alle Mann deckten sich mit einer gemeinschaftlichen Decke zu. Anfangs
+brauchte man auch ein Zelt von Baumwollenzeug, 7 bis 8 Pfund schwer, in welchem
+sieben Mann Platz fanden, aber in den letzten Jahren baute man während des
+Februar und März jeden Abend Schneehütten, nach Art der Eskimos. Einige
+Werkzeuge zum Ausbessern des Zerbrochenen oder Zerrissenen, Gewehre nebst
+Munition und astronomische Instrumente vollendeten die Ausrüstung. Alles wurde
+auf Schlitten geladen. Die Construction derselben war von größter Bedeutung.
+Darum wurden an Stelle der alten schwer zu regierenden, welche Parry und
+Franklin benutzt hatten, neue construirt. Dünne mit Stahlschienen versehene
+Kufen wurden so gerundet, daß sie beinahe einen Kreisbogen bildeten. Auf diesen
+befanden sich Träger und darüber Langhölzer. Anstatt die Kufen fest mit einander
+zu verbinden, vereinigte man sie blos durch lose Querstücke und befestigte diese
+mit Riemen von Seehundsfell. So gelang es, die schwer belasteten Schlitten über
+unebenes Eis zu ziehen, ohne daß sie zerbrachen. Man bedeckte den Schlitten mit
+einem so großen Stücke Segeltuch, daß die Ecken über das Gepäck geschlagen
+werden konnten. Am Vordertheil wurden die Leinen mit den Ziehgürteln für die
+Männer und den Sielen für die Hunde befestigt. Auf einem solchen Schlitten
+konnte ein Mann 200—220 Pfund und ein Hund 100 Pfund fortbewegen.
+
+„Gewöhnlich wurden auf einen von sieben Mann gezogenen Schlitten 14—1500 Pfund
+gepackt. Wo das Land es gestattete, führte man ein System von Depots ein,
+wodurch die Reisenden in den Stand gesetzt wurden, von dem letzten Depot mit so
+viel Proviant auszugehen, als auf dem Schlitten fortgeschafft werden konnte.
+Erfahrungsgemäß vermochten auf diese Weise sieben bis acht Mann sich für 40 Tage
+mit Proviant zu versehen, ungerechnet das Quantum, welches die Depots enthielten
+oder zurückkehrenden Partien überlassen wurde. Während M'Clintock auf seiner
+ersten Expedition 1848 nicht länger als 40 Tage abwesend sein konnte,
+verlängerte er diese Frist während seiner dritten Reise auf 105 Tage und legte
+200 schwedische Meilen zurück. Zu einem gleichen Resultat kamen auch die anderen
+Officiere. Wenn Franklin's Mannschaft schon diese Erfahrung besessen hätte, so
+würde sie sich wahrscheinlich haben retten können. M'Clintock sagt deshalb auch
+in seiner dritten Reise, daß es keinen Punkt der nördlichen Hemisphäre gebe, von
+welchem aus Menschen nicht menschliche Wohnstätten erreichen könnten.
+
+
+„Erfahrung und Nachdenken hat allmählich dieses Reisesystem für Gegenden, welche
+man früher für unzugänglich ansah, ausgebildet und vervollkommnet; auch eignete
+man sich immer mehr die Sitten der Eskimos an und lernte von ihnen die Kunst,
+die Schwierigkeiten des Polarmeeres zu überwinden. So adoptirte man zum Beispiel
+die Sitte, Schneehütten zu bauen. Doctor Rae überwinterte in solchen, und
+M'Clintock führte in Begleitung von Petersen mit ihrer Hülfe eine der
+merkwürdigsten arktischen Reisen aus, während welcher er, Petersen und noch ein
+Mann die Monate Februar und März in solchen Schneehütten schliefen, bei einer
+Kälte, die oft das Quecksilber gefrieren machte. Noch wichtiger war eine andere
+Sitte der Eskimos, die man sich aneignete: die Einführung der Ziehhunde, während
+bei den früheren Expeditionen die Mannschaft selbst ihren ganzen Bedarf
+fortgeschleppt hatte.
+
+„Admiral Wrangel hatte schon lange vorher in Sibirien gezeigt, mit welchem
+Vortheil Hunde zu Entdeckungsreisen verwendet werden könnten. Carl Petersen
+lebte seit etwa 20 Jahren in Nordgrönland und verstand nicht nur vollkommen mit
+Hunden zu reisen, sondern war auch von ihrer Brauchbarkeit überzeugt und nahm
+deshalb, als er Capitän Parry's Expedition zur Aufsuchung Franklin's folgte,
+sein Hundegespann mit sich. Es leistete dort so vortreffliche Dienste, daß auch
+Belcher und Kane Hunde zu gebrauchen versuchten; bei M'Clintock's letzter Reise
+aber bildeten sie einen wesentlichen Theil der Ausrüstung und leisteten
+vollkommen, was man von ihnen erwartete. Ohne sie wäre Franklin's Schicksal
+wahrscheinlich noch jetzt ein ungelöstes Räthsel. Ein Hund braucht außer seiner
+Nahrung nichts und vermag bei einem Pfunde Pemmican täglich 100 — 150 Pfund zu
+ziehen, während ein Mann 2½—3 Pfund Nahrung braucht, außer der unnützen Last an
+Zelten, Kleidern etc., und dennoch nicht mehr als das Doppelte zu ziehen im
+Stande ist. Schließlich kann in der äußersten Noth der Hund geschlachtet und
+verzehrt werden. Von den verschiedenen Racen des Hundes aber hat sich keine
+brauchbarer erwiesen, als die bei den Eskimos lebende.
+
+„Nach dieser Darstellung wird es klar sein, daß die Kunst, in dem hohen Norden
+zu reisen, sich nicht mehr auf demselben Standpunkt befindet wie damals, als
+Parry seine Expedition von Spitzbergen aus in's Werk setzte.
+
+„Es blieb daher die Frage bestehen: Welche Aussicht auf Gelingen hat ein auf
+Erreichung des Nordpols gerichtetes Unternehmen, und wie muß es eingerichtet
+werden?
+
+„Parry schließt den Bericht über seine Expedition im Jahre 1827 mit der
+Erklärung, daß er es nicht für ausführbar erachte. Aber 1845, also nach vielen
+Jahren gereiften Denkens und neu gesammelten Erfahrungen in Betreff von
+Schlittenexpeditionen, erklärte er in einem an Sir John Barrow^[^0600]^, den Secretär der
+Admiralität gerichteten Briefe, daß wenn eine Schlittenexpedition im Monat April
+von Spitzbergen ausginge, sie den Nordpol erreichen könnte, weil die drei
+Hauptschwierigkeiten: die Unebenheit des Eises, die Weichheit des Schnees und
+die südliche Meeresströmung, welche sich ihm in den Weg gestellt, dann vermieden
+würden. Das Eis werde eine harte und ununterbrochene Oberfläche haben, auf
+welcher man täglich fünf schwedische Meilen zurücklegen könne; es werde still
+liegen und für Rennthiere praktikabel sein. Er schlägt die Bildung von Depots
+und die Absendung von Partien vor, die den Rückkehrenden entgegen zu gehen
+hätten. Der Mann, welcher allein den Versuch gemacht und ihn nach dem Mißlingen
+für hoffnungslos erklärt hatte, kam also nach langem Erwägen schließlich zu der
+Ueberzeugung, daß eine solche Fahrt ausführbar sei. Auch Admiral Wrangel war
+dieser Ansicht. Er fuhr in Sibirien auf Hundeschlitten zweimal weit nach dem
+Norden, gerieth aber wegen Mangels an Booten in Ungelegenheiten. Selbst
+Neusibirien, das ungefähr fünfzig Meilen vom festen Lande entfernt ist,
+erreichte er auf solchen Hundeschlitten.
+
+„Nach dieser historischen Uebersicht der Polarfahrten will ich weiter berichten,
+in welcher Weise ich ein gleiches Unternehmen vorzubereiten und auszuführen mich
+bemühte. Nicht mich begnügend mit den Mittheilungen und Aufklärungen, welche ich
+über die Verhältnisse des hohen Nordens aus der Literatur erhielt, suchte ich
+bei praktischen Männern, deren Urtheil und Rath von Bedeutung sein mußte,
+weitere Belehrung zu erlangen. Schon bei meiner Rückkehr nach Hammerfest — von
+meiner ersten spitzbergischen Reise — äußerte einer der entschlossensten und
+angesehensten Walroßjäger, welcher wiederholt in Spitzbergen gewesen, daß er die
+Erreichung des Poles für ausführbar halten müsse; auch wünschte er selber daran
+Theil zu nehmen und sprach sich sehr lebhaft für die Anwendung von Hunden aus.
+
+„Die naturhistorischen Arbeiten, welche mich nach Island und Spitzbergen geführt
+hatten, forderten fortgesetzte Untersuchungen; ich reiste daher 1869 nach
+Nordgrönland. Da die Bewohner dieses Landes sich immer der Hunde zum Ziehen
+bedienen und viel auf dem Eise fahren, so hoffte ich mit Recht, dort werthvolle
+Nachrichten und guten Rath zu erhalten. Die Mittheilungen aller dort wohnhaften
+Personen, welche sich mit Hundeschlitten und Eisfahrten bekannt gemacht hatten,
+bestärkten mich in der That in meinem Vertrauen auf die Ausführbarkeit einer
+solchen Expedition.
+
+„Während meines Aufenthaltes in Grönland lernte ich M'Clintock kennen, der eben
+von seiner so berühmten Expedition zurückkehrte. In seiner Begleitung befand
+sich Carl Petersen, welcher an drei Franklin-Expeditionen Theil genommen und
+fünf Winter in den arktischen Ländern verlebt hatte. An ihn wandte ich mich.
+M'Clintock äußerte sich über ihn sehr warm. Wenn man erwägt, daß Petersen nicht
+blos die englischen und amerikanischen Unternehmungen mitgemacht, sondern auch
+zwanzig Jahre in Grönland zugebracht hat, so muß man ihn in der That für einen
+Mann ansehen, auf dessen Urtheil man sich verlassen kann. Er kannte aus dem
+Grunde die Fahrt mit Hunden und wie weit sie brauchbar, nicht weniger die
+physikalischen Verhältnisse der arktischen Länder. Ihm hatte wahrscheinlich
+Kane's Expedition ihre Rettung zu danken; vor Allem, er hatte einen ganzen
+Winter in dem Treibeise der Baffinsbucht zugebracht, hatte also mit eigenen
+Augen sich überzeugt, wie das Eis auf hoher See beschaffen und ob man darauf mit
+Hunden fahren könne. Er äußerte sich sehr günstig über den ganzen Plan und
+erklärte sich bereit, selbst an der Fahrt Theil zu nehmen.
+
+„Ich glaubte nun mit Recht zu praktischen Vorbereitungen schreiten zu können.
+Die Angelegenheit kam beim Reichstage zur Sprache. Ich wünschte namentlich mit
+den naturwissenschaftlichen Zwecken geographische zu vereinigen und wurde in
+dieser Ansicht durch Professor Nordenskiöld bestärkt, welcher an der Expedition
+Theil zu nehmen und ihr seine Kräfte zur Disposition zu stellen sich bereit
+erklärte. Ich durfte hoffen, wenn nicht besonders ungünstige Verhältnisse sich
+mir in den Weg stellten, gerade nach Norden oder nach Nordosten vorzudringen.
+Trafen wir ein Land, so sollte hier ein Depot errichtet werden. Und wenn alles
+Andere auch mißglückte, so konnten wir doch mit unseren Booten Vieles zur
+Erforschung der noch sehr unbekannten geographischen Verhältnisse Spitzbergens
+beitragen. Ich begann mittlerweile die Vorbereitungen zu der Expedition nach
+besten Kräften zu treffen und reiste zu dem Zwecke zuvörderst nach England und
+Finmarken.
+
+„Der Plan für die geographische Expedition war folgender: Wenn wir in der
+zweiten Hälfte des April von Finmarken ausfuhren und das Eis nicht zu schwer zu
+durchbrechen war, so konnten wir darauf rechnen, Nordspitzbergen spätestens
+Mitte Mai zu erreichen. Die Spitzbergenfahrer hatten mir mitgetheilt, daß sie
+schon Ende April bis zum Nordostlande vorgedrungen waren. Aber selbst wenn wir
+nicht so weit nach Osten gelangten, so durften wir dennoch hoffen, dieselbe
+nördliche Breite zu erreichen, wenn wir vom nordwestlichen Spitzbergen aus nach
+Nordosten gingen. Nordenskiöld, Petersen und ich nebst zwei Mann sollten mit dem
+eisernen Boote und zweien Hundeschlitten vordringen. Wir konnten annehmen, daß
+wir mit drei Gespann der besten Hunde und mit eigenen Kräften ungefähr 8,000
+Pfund fortbewegen würden. Das Gewicht des Bootes betrug 400 Pfund, die Bagage
+der fünf Menschen, nämlich Zelt, Schlafsäcke, Kleider und Kochapparate, ungefähr
+eben so viel, zusammen 800 Pfund, wozu noch das Gewicht der Ruder kam. Den Rest
+von 2,200 Pfund bildete der Proviant, wovon jedoch täglich verbraucht wurden: 24
+Pfund für die Hunde, 12 Pfund für die Menschen und 3 Pfund Talg als
+Brennmaterial.
+
+„Nach dieser Berechnung konnten fünf Mann, auch ohne Depots und Reserve, 40 bis
+50 Tage auf die Expedition verwenden. Daß diese Annahme nicht zu hoch gegriffen,
+folgt aus der Thatsache, daß Parry trotz seinem viel schwereren Boote und ohne
+Hunde 60 Tage von seinem Schiffe entfernt bleiben konnte. Ueberdies durften wir
+erwarten, daß die Jagd auf Seehunde und Eisbären unsern Proviant verstärken
+werde. Trotzdem war ich der Ansicht, daß außer unserm eigenen Boote noch zwei
+andere Reservepartien uns folgen müßten. Diejenige derselben, welche zuerst
+umkehrte, konnte während 4 bis 5 Tagen die ganze Expedition unterhalten, nämlich
+15 Mann und alle mitgenommenen Hunde, und dennoch selber noch so viel Proviant
+behalten, um wieder zum Schiffe zu gelangen. Die zweite Partie sollte uns 9 bis
+10 Tage folgen und dann gleichfalls umkehren. Auf diese Art blieb der Proviant
+der Hauptpartie 9 bis 10 Tage lang unberührt, und wir konnten um so viel länger
+fortbleiben. Ein oder mehrere Depots sollten trotzdem an bestimmten Stellen, so
+weit nördlich als möglich, angelegt werden.“ — —
+
+So war der Plan dieses neuen Versuches, bis zu den unbekannten Regionen des
+höchsten Nordens vorzudringen. Torell hatte ihn mit Sorgfalt entworfen und bis
+in alle Einzelnheiten ausgearbeitet. Leider stellten sich seiner Ausführung zwei
+bedeutende Momente entgegen: die anhaltenden Nordwinde, welche unsere zeitige
+Abreise von Tromsö verhinderten, und die ungünstige Beschaffenheit des Eises in
+der Jahreszeit, als wir endlich Spitzbergen erreichten. Schon bei
+Amsterdam-Eiland fanden wir das Eis im Treiben und unfahrbar; aber das
+Unternehmen schien uns dadurch gefördert, indem wir hofften, mit dem Schiffe
+selbst weiter nach Norden vordringen zu können. Die letzten Ausrüstungen wurden
+daher beeilt, und Magdalena folgte dem Aeolus mit einem Theile derselben, um ihm
+zugleich Beistand zu leisten, da er an den ersten Tagen der Eisfahrt den größten
+Theil seiner Besatzung missen sollte. Während der langen Gefangenschaft in
+Treurenberg-Bai zeigte es sich aber, daß das Eis, welches uns einsperrte, für
+eine Schlittenfahrt ganz ungeeignet war. Als endlich unser Schiff frei wurde,
+konnte bei der vorgerückten Jahreszeit und dem ausgedehnten Aufbrechen des Eises
+an eine Ausführung der Eisexpedition gar nicht mehr gedacht werden. Wenn wir
+auch nach Wochen langer Arbeit wirklich zu festerem und ebenerem Eise gelangt
+wären, hätten wir doch keinesfalls einen erheblich hohen Breitengrad erreichen
+können. Diese Ueberzeugung war um so niederschlagender, als der Erreichung des
+so nahen Zieles so viele Kräfte gewidmet und alle Arbeiten und Vorbereitungen
+nun vergebens gemacht waren. Allerdings wurde noch eine Excursion vom
+Ankerplatze des Aeolus — neben dem Holm am Nordostlande — von Chydenius und
+Petersen gemacht. Längs dem Lande war ein Ende nach Norden hin offenes Wasser,
+dann aber kam Eis, das einem Schiffe die Fahrt verlegte, und weiterhin, so weit
+das Auge reichte, Wasser und Eisbänder, die mit einander abwechselten. Mit
+Bestimmtheit konnte man nicht erkennen, ob das Eis weiter nach dem Horizonte hin
+zusammenhänge oder nicht, Petersen gab indessen sein Urtheil dahin ab, daß die
+anhaltende ungünstige Beschaffenheit des Eises das Gelingen einer Schlittenfahrt
+sehr zweifelhaft erscheinen ließe. So mußte man den Gedanken daran ganz und gar
+aufgeben. Auch auf diese Möglichkeit war von vornherein Rücksicht genommen
+worden, und der Plan so angelegt, daß, wenn die Eisfahrt nach Norden
+unterbleiben mußte, die geographischen Untersuchungen an anderen Orten
+vorgenommen werden sollten. Das nordöstliche Spitzbergen mit seinen Inseln war
+bis dahin sehr wenig oder beinahe gar nicht bekannt geworden, hier waren also
+dankbare Forschungen anzustellen. Das Wintereis verschwand von den Fjorden und
+Küsten; wir durften also auf werthvolle Resultate rechnen. Während daher
+Lilliehösk und Malmgren an Bord blieben, um auf das Schiff zu achten und
+wissenschaftliche Untersuchungen fortzusetzen, rüsteten sich Torell und
+Nordenskiöld mit Petersen zu einer Bootfahrt durch Heenloopen Strat, während
+Chydenius es übernahm, mit dem kleineren eisernen Boote nach Norden zu gehen und
+die Recognoscirungsarbeiten für die Gradmessung auszuführen.
+
+Die Insel, an welcher Aeolus nun vor Anker lag — später Depotinsel genannt —
+liegt in der Mündung einer ziemlich großen, bis dahin unbekannten Bucht, welche
+den Namen Murchisons-Bai erhielt. Die nördlichste Spitze der Insel liegt nach
+Nordenstiöld's Bestimmung in 79° 59´ 51“ nördl. Br. und 18° 13´ 30“ östl. L.
+Schnee lag nur noch hier und da in den Ritzen der niedrigen Felsen, und der
+Boden verrieth eine außerordentliche Unfruchtbarkeit. Die nicht Petrefacten
+führenden, leicht zerbrechlichen und undeutlich gelagerten Kalkklippen, welche
+Kiesel und Quarz eingesprengt enthalten, — aus diesem Gestein bestehen alle
+Inseln und Umgebungen der Bucht — bedecken den Boden mit ihren gelbgrauen,
+vegetationsfeindlichen Trümmern und verleihen dieser ungastlichen Landschaft
+einen unheimlichen Ausdruck von Oede und Verlassenheit.
+
+Nachmittags besuchten Nordenskiöld, Malmgren, Chydenius und Petersen einige der
+nächsten Inseln und die Umgegend.
+
+„Wir nahmen auf Grund der alten Karten an, daß das Gewässer, an dessen Mündung
+wir lagen, der Anfang eines Sundes sei, welcher erst nach Osten laufe, dann nach
+Norden und Süden sich verzweige und das ihm zunächst im Norden und Süden
+belegene Land von dem eigentlichen Nordostlande trenne, so daß das Land nördlich
+die große Steininsel (mit der westlichsten Spitze Shoal Point) sei, das südliche
+aber die auf den Karten so genannte Nordostinsel. Parry, der keinen andern Theil
+des Nordostlandes als die Küste bei Shoal Point besuchte, hat auf seiner Karte
+diesen Sund offenbar als zweifelhaft angedeutet; wir konnten daher nicht viel
+auf die späteren Angaben geben, um so weniger, als die alten holländischen
+Karten ziemlich zuverlässig sind. Wir ruderten an der zunächst nordöstlich
+belegenen Insel vorüber, auf welcher ein ziemlich gut erhaltenes Russenhaus und
+ein großes griechisches Kreuz steht, weshalb die Spitzbergenfahrer diese kleinen
+Inseln auch gewöhnlich Russeninseln benennen. Dann steuerten wir auf die dritte
+Insel in derselben Richtung zu, vermuthend, daß sie mit dem größeren Lande
+zusammenhänge, konnten mit dem Boote aber nicht weiter als bis zu der festen
+Kante des Eises gelangen, das die Insel noch ringsum einschloß und sich nach
+Osten hin fortsetzte. So verließen wir das Boot und begaben uns zu Fuß über das
+schwache, faulige Eis an das Land, welches wir erst jetzt als eine durch einen
+eisbedeckten Sund von dem Lande im Nordosten geschiedene und aus demselben
+Kalkgestein wie die Depotinsel bestehende Insel erkannten. Nordenskiöld blieb
+auf derselben zurück, um die Polhöhe um Mitternacht zu nehmen; wir Anderen
+begaben uns über das Eis erst zu einem kleinen Holm, und von hier zu dem Lande,
+das ziemlich steil gegen das Meer abstürzt, passirten ein Thal, durch dessen mit
+Schnee bedeckten Boden ein starker Bach rauschte, und bestiegen darauf einen
+etwa 700 Fuß hohen Berg. Der Blick über die Lage des Eises im Norden nahm uns
+die letzte Hoffnung auf ein Vordringen in dieser Richtung, so daß wir etwas
+niedergeschlagen unsern Rückweg antraten. Wir erreichten das Schiff am Morgen
+während eines starken Windes.“ Den 7. Juli fünf Uhr Nachmittags begaben sich
+Nordenskiöld und Malmgren wieder auf eine Excursion nach Osten. Nachdem sie in
+einem Boote bis zur Eiskante gefahren, gingen sie mit einem Mann erst zu der
+Insel, welche schon besucht worden war, und von hier längs der Südkante des
+Landes nach Osten. Das Eis war zum Theil schon zerfressen; sie mußten bis an die
+Kniee in dem Schneebrei waten, kamen jedoch glücklich an das feste Land der
+Halbinsel, welche auf älteren Karten Große Steininsel genannt wird. Ihr
+westlicher Theil besteht aus einem von kleinen Kalkfelsen und Steingetrümmer
+bedeckten Flachlande, welches weiter im Osten — da, wo die Bootpartie landete —
+in eine Berghöhe von jener Bildung übergeht, die wir schon am Hecla Mount
+gesehen: brüchigen Schiefer, Quarzit, graulich weißen Kalk mit Kieselkugeln. Das
+Land erhebt sich in Terrassen, deren Abhänge bald mit Steingerölle bedeckt sind,
+bald steil abstürzen. An den senkrechten Kalkwänden saßen große Schaaren von
+Möwen, die ihre Nester in den Klüften und Ritzen des Gesteins hatten. Zu oberst
+erblickte man Kryckien (Larus tridactylus) und Große Möwen (Larus glaucus),
+darunter, in einer Höhe von 50 bis 160 Fuß, Eismöwen (Larus eburneus), sämmtlich
+beim Brüten beschäftigt. Den bis dahin unbekannten und von den Besuchen der
+Naturforscher verschonten Brutplatz der Eismöwen entdeckte Malmgren's scharfes
+Auge. Er erblickte die über ihren Eiern sitzenden Weibchen. Augenblicklich war
+es aber unmöglich, eine genauere Untersuchung anzustellen. Erst später sollte es
+uns gelingen, die Eier und das Nest dieses Vogels kennen zu lernen. Nachdem sie
+eine Ortsbestimmung gemacht hatten, setzten sie die Fahrt nach dem Innern der
+Bucht zu fort und nahmen darauf den Weg über das Eis nach der sogenannten
+Walroßspitze auf der Südseite der Bai. Hier machten sie eine zweite
+Ortsbestimmung und gingen zur Ruhe.
+
+:::: { .wrap-80 .caption }
+![Gruppe von Eisbären.](Die_schwedischen_Expeditionen_129.jpg "Gruppe von Eisbären."){#b129}
+::::
+
+In der Nacht entstand ein Sturm, welcher gegen den Morgen stärker wurde. Man
+fand kaum Schutz gegen ihn, brach zeitig auf und nahm den Weg zurück über das
+Eis zu einer der kleinen Kalksteininseln. Hier wurden sie von einer Bärenfamilie
+überrascht, die eben einen Seehund verspeiste und den allein vorhandenen Weg
+über das Eis versperrte. Nur die Bärin mit ihren beiden Jungen hatte ihre
+„Fausthandschuhe“ auf die Beute gelegt, während das schwächere Männchen an dem
+Mahle keinen Theil nahm. Es hielt sich in gebührender Entfernung, unruhig
+hierhin und dorthin schreitend, und offenbar in deprimirter Stimmung, während
+seine egoistischen Angehörigen in aller Gemüthlichkeit wie Hunde dasaßen, ihre
+blutigen Tatzen beleckten und unsere Wanderer mit Seelenruhe beschauten. Diese
+waren auf die „große Jagd“ nicht eingerichtet und mußten daher die sonst leicht
+zu erlangende Beute fahren lassen. Nach einer Weile brach die Familie auf,
+wahrscheinlich um eine neue Jagd auf Seehunde anzustellen, die in großer Zahl
+neben ihren Eislöchern lagen.
+
+Nach der Verabredung sollte eigentlich ein Boot vom Aeolus am frühen Morgen die
+Gesellschaft von der Eiskante abholen, aber während des Sturmes waren alle Mann
+zur Sicherung des Schiffes, das auf dem offenen Ankerplatze nur an zweien Ankern
+lag und beinahe in's Treiben kam, erforderlich. Aus dem südlichen Theile der
+Bucht kamen mit dem Sturm überdies treibende Eisblöcke so hastig wie ein mit
+vollem Dampfe arbeitendes Dampfboot. Nur mit Mühe gelang es dem Aeolus, ihnen
+auszuweichen. Später wurde er gegen den starken Wogenschwall durch die
+Depotinsel geschützt, als der Wind sich mehr und mehr nach Südsüdwesten wandte.
+Doch herrschte er mit wechselnder Heftigkeit so ziemlich während unseres ganzen
+Aufenthaltes daselbst. Dieser Umstand zeigt, daß die aus Heenloopen Strat
+herausstürzende zusammengepreßte Luftmasse sich nach allen Seiten hin ausbreitet
+und im nördlichen Theile der Treurenberg-Bai als Südostwind, beim Nordostlande
+aber als Südsüdwestwind auftritt.
+
+Nachdem sie von dem Holme noch das Schulterblatt eines Walfisches geholt, das
+Nordenskiöld bei der früheren Excursion vorgefunden hatte, kehrten sie am 8.
+Juli sieben Uhr Nachmittags mit dem Boote zurück, welches man ihnen, nachdem der
+Wind etwas nachgelassen, an die Eiskante entgegenschickte.
+
+Es war nunmehr erforderlich, die auszuführenden Arbeiten in Uebereinstimmung mit
+dem abgeänderten Plane der Expedition zu bringen. Die für jede Partie bestimmte
+Mannschaft wurde noch denselben Abend ausgewählt, und zwar sollte die nach dem
+Süden bestimmte Excursion zuerst gemacht werden. Es wurde aber vorläufig noch
+nichts daraus, da aus der Heenloopen Strat, wo — nach dem Berichte eines
+Spitzbergenfahrers — trotz des heftigen Windes das Eis noch massenhaft auftrat,
+große Treibeisblöcke mit der südlichen Strömung ankamen und mit ihnen eine große
+Menge von Walrossen. Sie nahmen unsere ganze Aufmerksamkeit in Anspruch. Man
+hörte schon in weiter Ferne ihr wunderliches Geschrei: halb ein Brüllen, halb
+ein lautes Bellen. Die Jagdboote wurden sogleich ausgesetzt, und man sah mit
+gespannter Erwartung den kommenden Dingen entgegen. In kurzer Frist war ein
+Thier von der Harpune getroffen und von der Lanze durchbohrt, jetzt ein zweites.
+Einige von uns bestiegen ein Boot, um das blutige Schauspiel mehr in der Nähe zu
+betrachten. Die Jäger waren beinahe von allen Seiten von Walrossen umgeben,
+Uusimaa stieß ihnen eine Lanze nach der andern in den Leib, und es war ein
+merkwürdiges Schauspiel, da er einmal zu gleicher Zeit fünf dieser Kolosse vor
+sein Boot gespannt hatte, die es in wilder Fahrt vorwärts zogen. Eine
+Harpunleine nach der andern wurde eingeholt; jedes Thier erhielt mit der Lanze
+seinen Todesstoß; das Wasser war von ihrem Blute roth gefärbt, und sie wurden
+auf das Eis gezogen. Dieses Blutbad wurde bis um vier Uhr Nachmittags
+fortgesetzt; das Eis schwamm mit der rückkehrenden Strömung nach Süden, die
+Walrosse folgten ihm, und die Jagd war zu Ende. Vierzehn erwachsene Thiere und
+ein Junges waren erlegt, und die Mannschaft hatte genug zu thun, um die Beute
+heimzuführen und abzuziehen. Die ganze Walroßheerde bestand nur aus Weibchen mit
+ihren Jungen.
+
+Das Walroß bildet das Glied der Kette, welches die auf dem Lande und im Meere
+lebenden Säugethiere mit einander verbindet. Sowohl ältere wie neuere
+Untersuchungen, letztere von Bär, Steenstrup und Sundewall, lehren, daß dieses
+Thier, in Ansehung seines Baues und seiner Art zu leben, der Familie der Ottern
+ganz nahe steht und im Systeme seinen Platz zwischen ihnen und den eigentlichen
+Seehunden einzunehmen hat.
+
+Ungefähr zwölf Fuß lang und rings um den Bauch fast eben so dick; mit einem im
+Verhältnisse zu seiner Größe kleinen Kopfe, welcher ohne Einkehlung am Halse aus
+dem sackartigen Körper herausschießt; mit seinen unvollkommenen Edxtremitäten,
+welche wie ein paar Hautlappen ihm an den Seiten hängen, macht es beim ersten
+Anblick den Eindruck eines Thieres, das sich noch nicht vollkommen zu entwickeln
+vermocht hat. Es ist ein verpupptes Thier, mit einem Chaos von unförmlichen
+Organen, und läßt den Gedanken an eine plastisch gegliederte Masse gar nicht
+aufkommen. Darum nennt Keilhau sie mit Recht bloße Embryonen, Versuche zu einem
+Thiere. Sie sind gleichsam nur der Block, aus welchem der Künstler erst eine
+Gestalt zu schaffen hat. Die dicke, oft zerschlitzte und narbige Haut, die am
+Halse und den Schultern dicke Falten bildet, sobald das Thier sich bewegt, ist
+mehr oder weniger von ziemlich kurzen hell- und dunkelbraun gefärbten Haaren
+bewachsen, je nach dem Alter des Thieres, indem die älteren immer heller werden.
+Genau von vorne gesehen, nimmt es sich nicht gerade schlecht aus. Die bei den
+Männchen bis zwei Fuß langen, an der Wurzel drei Zoll dicken, etwas nach hinten
+und innen gebogenen beiden Hauer; das große Maul, bewachsen mit einem Barte,
+daran jedes Haar eine Borste ist von vier Zoll Länge und fast Linien Dicke an
+der Basis; die glühenden, spähenden Augen mit ihrem röthlichen Weiß, verleihen
+ihm ein durchaus würdiges Aussehen, wenn es auf dem Eise liegt, seinen Kopf
+erhebt und das nahende Boot betrachtet.
+
+:::: { .wrap-70 .caption }
+![Walroßkopf.](Die_schwedischen_Expeditionen_132.jpg "Walroßkopf."){#b132}
+::::
+
+Es ist leicht begreiflich, daß seine Bewegungen auf dem Lande nur höchst
+beschränkte sein können und mehr in einem Fortwälzen des unförmlichen Körpers
+als in einem eigentlichen Gehen bestehen. Es scheint dabei, daß seine
+Vorderfüße, mit welchen es gleichsam nur den Versuch macht zu gehen, ihm von
+geringem Nutzen sind. Denn bald hängt der schlottrige Fuß unter ihm, mit der
+Rückseite nach unten, bald dreht es ihn nach außen, bald nach innen. Auch geht
+es nicht gern weit auf's Land oder Eis, sondern hält sich dem Wasser so nahe als
+möglich, damit es mit einer nur ganz schwachen Regung seinen Körper aus dem
+Gleichgewicht bringen und sich in die See rollen kann. Im Herbste dagegen, wenn
+es nach seiner Gewohnheit in großen Haufen auf die niedrigen Strandflächen geht
+und mehrere Wochen auf dem Lande zubringt, werden die zuerst Angekommenen von
+den Nachrückenden, oft mit Hauen und Schlagen, hinaufgedrängt, und befinden
+sich, wenn sie zufällig überfallen werden, in einer höchst hülflosen Lage.
+
+Im Wasser schwimmen sie meist in dicht aneinander geschlossenen Schaaren und
+heben gleichzeitig ihre Köpfe auf, um zu athmen. Auch stoßen sie wie die
+Delphine ein Schnauben aus, das weithin zu hören, und es bildet sich vor ihnen
+eine kleine Wolke von Dunst und Wasserdampf. Aus der Ferne und von vorne
+gesehen, haben besonders die Jungen - die nicht große Hauer besitzen — Etwas,
+das an ein menschliches Antlitz erinnert, und es ist, wie Scoresby bemerkt,
+nicht gerade unwahrscheinlich, daß die Walrosse nicht wenig zu der Entstehung
+der Sagen von „Meermännern“ beigetragen haben, mit welchen die nordische
+Phantasie die Meerestiefe bevölkert. Oft schläft es sogar im Wasser und zeigt
+dann entweder blos seinen Kopf oder auch einen Theil des Rückens, so daß es in
+dieser Lage leicht vom Harpunirer überrumpelt werden kann. Es hält sich nicht
+gern weit vom Lande, und man trifft es — ebenso wie die Seehunde — niemals
+jenseits des weit ausgedehnten Treibeises an der Ostküste Grönlands an.
+Wahrscheinlich sucht es deshalb das weniger tiefe Gewässer auf, um vom Grunde
+seine Nahrung heraufzuholen. Hierüber und seine sonstige Art und Weise zu leben
+theilt Malmgren Folgendes mit:
+
+„Wie die Seehunde bewegen sich die Walrosse nur mit Hülfe ihrer Füße, sowohl auf
+dem Eise, als auch auf dem sandigen Vorstrande; darum ist die Annahme, ihre
+Hauer seien eine Art Ergänzung der unvollkommenen Extremitäten, eine nicht
+haltbare Hypothese. Unzweifelhaft brauchen sie dieselben auch als eine
+furchtbare Waffe, aber ihre Bestimmung ist nicht, als Bewegungsorgane zu dienen,
+sondern um ihnen ihre Nahrung zu verschaffen. Ich fand, daß die Walrosse sich
+ausschließlich von zwei Muscheln nähren: Aya truncata und Saxicava rugosa,
+welche, in dem Thon des Seegrundes 3 bis 7 Zoll eingegraben, bei einer Tiefe von
+10 bis 50 Faden zu leben pflegen. Um zu ihnen zu gelangen, muß das Walroß den
+Grund aufgraben und sie herausscharren. Mit Hülfe seiner Zähne und Zunge nimmt
+es geschickt das Thier aus der Schale und verschluckt es ungekaut. Bei vielen
+erwachsenen Weibchen von 10 bis 11 Fuß Länge, welche ich Gelegenheit hatte zu
+öffnen, fand ich den Magen stets von diesen beinahe vollständig erhaltenen
+Thieren gefüllt, doch meist mehr Myen als Saxicaven. Die Muscheln waren
+vortrefflich herausgeschält; unter mehreren Tausenden gab es nur eine Mya, an
+welcher noch ein Stückchen der Schale saß. Ein einziges Mal fand ich in dem
+Magen auch ein anderes, nicht der Klasse der Mollusken angehöriges Thier: einen
+riesengleichen Priapulus caudatus, welcher gleichfalls im Thon des Seegrundes
+lebt. Doch war — wie gesagt — der Magen nur bei den erwachsenen Thieren ganz
+gefüllt. Die über ein Jahr alten Jungen dagegen, welche noch der Mutter folgten,
+hatten entweder nichts darin, oder etwas, das geronnener Milch glich, oder
+vielmehr solche war. Ihre Hauer waren blos ½ bis 1 Zoll lang und reichten nicht
+bis unter den Unterkiefer. Sie müssen, damit das Junge sich nach Art der Alten
+von Muscheln nähren kann, mindestens 3 bis 4 Zoll lang sein. Diese Länge
+erreichen sie erst nach zwei Jahren. Bei zwei Jungen, von denen die Walroßjäger
+behaupteten, daß sie drei Jahre alt wären, hatten die Hauer diese Länge und der
+Magen war zur Hälfte mit Muscheln gefüllt. Ein zwei Jahre altes Walroß nährt
+sich also schon ohne Beihülfe seiner Mutter, während dieselbe das Junge bis
+dahin säugt. Ich fand daher in den Eutern solcher Thiere, welche einjährige und
+ältere Junge bei sich hatten, immer reichliche Milch. Hieraus folgt, daß das
+Walroßweibchen das Junge noch weit in das zweite Jahr hinein säugt, das heißt so
+lange, bis dessen Hauer so groß geworden, um zum Aufsuchen der Nahrung zu
+dienen; ferner, daß das Weibchen nicht jedes Jahr Junge zur Welt bringt. Solche,
+die erst vor Kurzem geworfen haben, halten sich, so lange das Junge noch klein
+ist, von den Heerden entfernt; diejenigen aber, welche schon im zweiten Jahre
+säugen, trifft man in Haufen mit ihren Jungen an, während die erwachsenen
+Männchen sich anderswo aufhalten; doch weiß man nicht, an welchen Orten. Die
+Walroßjäger meinen, daß sie in großen Heerden auf den „Bänken“ umherstreifen,
+das heißt auf dem Meeresgrunde, weiter vom Lande ab, während die Weibchen mit
+ihren Jungen die Fjorde besuchen und sich mehr in der Nähe des Landes halten.
+Die erwachsenen beider Geschlechter leben stets in getrennten Haufen, die
+Weibchen für sich und die Männchen für sich.“
+
+Ihr Lieblingsaufenthalt im Sommer ist das Treibeis, besonders die flachen
+Eisschollen, auf welchen sie gerne im Sonnenscheine schlafen. Bei dieser
+Gelegenheit kann man oft ihre Formen und Bewegungen betrachten. Das eine hat
+seinen Kopf über die Eiskante gestreckt und schlägt das Eis mit den Hinterfüßen,
+ein anderes erhebt sich auf den kurzen Vorderbeinen und kratzt sich mit einem
+Hinterfuße den Kopf — eine im hohen Grade überraschende und komische Handlung
+bei einem so unbeholfenen Fleischklumpen. Die meisten liegen in festem Schlafe.
+Oft befinden sie sich auf einem Eisstücke in so großer Zahl, daß es tief unter
+die Oberfläche des Wassers gedrückt wird und das entstehende Gedränge sich nicht
+recht mit dem Sinne für Frieden und Eintracht in Einklang bringen läßt. Sie
+hauen auf einander los und tragen noch lange die Spuren dieses häuslichen
+Zwistes. Glückt es dem Harpunirer, einen auf solcher Eisscholle schwimmenden
+Haufen zu überrumpeln, so macht er meist einen guten Fang; denn die Neigung
+dieser Thiere, einander gesellig beizustehen, reißt noch andere als die zuerst
+angegriffenen in's Verderben.
+
+Das Boot nähert sich ihnen so still und so nahe als möglich. In eins der
+schlafenden Thiere stößt der Harpunirer seine Harpune, die mehr einem Bootshaken
+als einer Pfeilspitze gleicht, und mit einem losen Schaft versehen ist, welcher
+sich von der Harpune loslöst, sobald dieselbe das Thier getroffen hat. An der
+Harpune ist eine dünne, aber starke, zehn Faden lange Leine befestigt, welche
+durch besondere Einschnitte in dem Bordrande des Bootes läuft. Wenn nun ein
+Walroß getroffen ist, so wirft es sich sofort vom Eise hinab, und der von dem
+Geräusche natürlich erweckte Rest des Haufens beeilt sich gleichfalls kopfüber
+in's Wasser zu stürzen. In hastigem Lauf taucht das Thier sofort unter, die mit
+dem einen Ende am Boote befestigte Leine läuft ab, es raucht um den Einschnitt
+in der Bootkante, oft brechen Stücke davon los, und die Spitze des Bootes wird
+ganz in's Wasser gedrückt. Drei Ruder halten es mit aller Kraft zurück, aber
+trotzdem braust es dahin, gezogen von der gewaltigen Muskel- und
+Knochenmaschine. Nun erscheint der breite Rücken des Thieres wieder über dem
+Wasser, eine blutige Spur folgt ihm, auch das Fahrwasser des Bootes ist roth. Es
+erhebt seinen Kopf über das Wasser, um Athem zu holen, dreht sich um und stiert
+seine Verfolger mit den großen, rothen, herausstehenden Augen an, die wie
+glühende Kohlen leuchten. Dann schlägt es das Wasser mit seinen Hinterfüßen und
+verschwindet, um nach einigen Augenblicken wieder heraufzukommen. Seine
+Kameraden, anfangs etwas verdutzt, eilen zu seiner Hülfe herbei, sammeln sich
+rings um das Boot in Schaaren von zehn bis dreißig Köpfen und erheben ihre
+schreckenerregenden Blicke, unter lautem Gebrüll, gegen die Friedensstörer.
+Jetzt erfordert die Jagd die ganze Geistesgegenwart und Aufmerksamkeit des
+Jägers. Ist der Harpunirer gut ausgerüstet, so wirft und trifft er, so lange
+Harpunen und Leinen ausreichen, den einen Zuschauer nach dem andern und fesselt
+ihn an sein Boot. Dasselbe muß daher oft die Kraftanstrengung von zehn und mehr
+dieser Kolosse, welche nach allen Richtungen auseinanderstieben, aushalten. Die
+Gefesselten werden nun nach einander, Stück für Stück an's Boot geholt, der
+Harpunirer faßt seine zweispitzige Lanze, giebt dem Thiere einen Schlag über den
+Kopf, damit es sich nach dem Boote hin wende, und senkt die mörderische Waffe
+tief in seine Brust. Das sterbende Opfer schlägt verzweifelt um sich, das Boot
+zittert und knarrt in allen Fugen, und das Wasser färbt sich immer mehr mit
+Blut. Nun folgt dieselbe Scene mit den übrigen Gefangenen. Ist das Thier todt,
+so schleppt man es auf eine Eisscholle, zieht ihm die Haut mit dem Speck ab,
+zerlegt es in zwei Hälften und haut den vorderen Theil des Kopfes ab, um die
+Zähne zu erlangen. Hat ein Harpunirer ein zu einem Haufen gehöriges Thier fest
+an seinem Boote, so verlangt es der Jagdbrauch, daß kein anderes Boot sich
+einmischt, weil sonst die Heerde auseinander stiebt. Es soll auf Spitzbergen
+vorgekommen sein, daß ein Harpunirer einen andern, welcher ihm durch seine
+Einmischung die Jagd verdarb, mit seiner Lanze getödtet hat. Der Beruf des
+Walroßjägers ist ein gefährlicher, und Unglücksfälle dabei sind nicht gar so
+selten.
+
+:::: { .wrap-70 .caption }
+![Walroßjagd.](Die_schwedischen_Expeditionen_136.jpg "Walroßjagd."){#b136}
+::::
+
+Uebrigens fällt das Walroß niemals zuerst an. Parry erzählt, daß er bei seiner
+Nordfahrt von Low Island aus auf große Heerden von Walrossen gestoßen sei, die
+vom Eise herabsprangen und dem Boote folgten, und sagt dann weiter: „Unter
+unseren damaligen Verhältnissen hüteten wir uns wohl, sie zu beunruhigen. Denn
+wäre eins von ihnen verwundet worden, so hätten sie schnell unsere Boote
+zerstört. Aber ich bin der Ansicht, daß sie Menschen niemals zuerst anfallen.“
+
+Im Anschlusse hieran mag angeführt werden, daß das Boot, welches von Phipps'
+Schiff „Racehorse“ ausgegangen war, um Low Island zu untersuchen (1773), während
+einer Jagd von Walrossen so wüthend angefallen wurde, daß die Besatzung
+unterlegen sein würde, wenn nicht ein Boot von dem zweiten Schiffe „Carcaß“
+ihnen zu Hülfe gekommen wäre. Der später so berühmte Nelson war Führer dieses
+Bootes.
+
+Auch Martens erzählt ein ähnliches Abenteuer von seiner Reise 1671. Nachdem zehn
+Walrosse auf dem Eise vor Heenloopen Strat getödtet worden waren, „kamen die
+anderen rings um das Boot und schlugen Löcher durch die Bretter, so daß viel
+Wasser hereinfloß; wir mußten vor dieser Menge die Flucht ergreifen, denn je
+länger es dauerte, um so mehr versammelten sich und folgten uns, so lange wir
+nur blicken konnten.“ — Eins der gefährlichsten Abenteuer mit diesen Thieren
+bestand ein Boot unter Buchan's und Franklin's Expedition 1818, in der Nähe von
+Cloven Cliff. Sie fielen eine auf dem Eise schlafende Walroßheerde an; aber die
+Thiere stürzten mit einer solchen Gewalt in's Wasser, daß die Mannschaft sich
+auf die Flucht begeben mußte. Hierauf machten sie einen so heftigen Angriff auf
+das Boot, daß man nicht mehr Zeit hatte die Büchsen zu laden, sondern sich mit
+Aexten und Lanzen wehren mußte, so gut es gehen wollte, bis endlich Einer,
+welcher ein Gewehr hatte, dasselbe in den Rachen des Thieres, welches — nach
+Aller Ueberzeugung — den Anfall leitete, abschoß. Nun versammelten sich alle
+Thiere um den verwundeten Anführer, hielten ihn mit ihren Zähnen über Wasser und
+entfernten sich so schnell als nur möglich. Nur ein kleines Junges, noch ohne
+Zähne, blieb zurück und setzte den Anfall fort, indem es wie rasend mit dem
+Kopfe gegen das Boot rannte. Obwohl durch mehrere Lanzenstiche verwundet, ließ
+es nicht nach und verfolgte seine Gegner so lange, bis es endlich verendete.
+
+„Sie sind beherzte Thiere und stehen einander bei bis zum Tode“ — sagt Martens,
+und die alten Reiseberichte, sowie die norwegischen Walfischjäger wissen noch
+mehr Proben von ihrem Muthe und ihrer Hingebung für einander zu erzählen. Es ist
+nicht ungewöhnlich, daß während des Kampfes mit einem Walrosse das Boot mehrere
+Löcher und Lecke erhält, und wäre es noch so stark. Dieses Loos traf während
+unseres Aufenthaltes auf Spitzbergen auch den Schiffer Nielsson, welcher mit
+einem Boote seinen Harpunirern zu Hülfe eilte, als sie gerade mitten im Kampfe
+mit einer Walroßheerde waren. Einige der Thiere wandten sich sofort gegen ihn,
+durchbohrten sein Boot mit fünf Löchern, und er mußte machen, daß er wieder sein
+Fahrzeug erreichte. Die beste Art, sich in dieser mißlichen Lage zu
+vertheidigen, besteht nach Scoresby darin, daß man den Thieren Sand in die Augen
+streut, worauf sie sich von dem Boote entfernen. Die norwegischen Jäger erzählen
+aber auch eine Geschichte von der Geistesgegenwart eines ihrer Berufsgenossen,
+dessen Boot während einer Walroßjagd durchbohrt wurde. Aber der Harpunirer hatte
+keine Lust, das Schlachtfeld zu räumen; er warf seine Jacke ab, stopfte das Loch
+zu, griff wieder zur Lanze und machte reiche Beute.
+
+Wie wir schon gesehen, besitzt das Weibchen große Hingebung für ihr Junges.
+Während einer Gefahr ergreift sie es mit dem Vorderfuß, drückt es an ihren Leib,
+taucht mit ihm unter und kommt mit ihm auf dem Rücken wieder herauf. Wird das
+Junge zuerst gefangen, so sucht sie es wieder aus dem Boote herauszuholen, und
+die Walroßjäger wissen eine Geschichte zu erzählen, daß sie, an Stelle des
+Jungen, den Harpunirer mit ihrem Fuße ergriffen und mehrmals untergetaucht habe,
+bevor sie ihren Irrthum bemerkte. Dieses soll, ohne daß es weitere üble Folgen
+für ihn hatte, einem Quänen passirt sein.
+
+Das Walroß ist, wie der Eisbär, ein hochnordisches Thier und kommt in größerer
+oder minderer Zahl an den meisten Küsten des Polarmeeres vor. Man findet — so
+weit unsere geringe Kenntniß von diesen Gegenden eine solche Annahme gestattet
+gleichwohl einige Lücken in dieser Verbreitungszone: an den Küsten Sibiriens
+zwischen der Mündung des Jenisey und Kolyma, im arktischen Amerika zwischen Cap
+Barrow und Prince Regents Inlet. Die Gegenden um die Behringsstraße, das
+nordwestliche und nordöstliche Amerika, wo sie das Hauptnahrungsmittel der
+Eskimos bilden, Novaja Semlja und Spitzbergen dürften die Plätze sein, wo sie
+noch immer häufig auftreten, obwohl die Menschen Alles gethan haben, um sie
+auszurotten. Im Osten läuft ihre südliche Verbreitungsgrenze gleich nördlich von
+den Aleuten oder zwischen dem 56. und 57° nördl. Br., im Westen ging sie,
+wenigstens noch im vorigen Jahrhunderte, bis zur Mündung des St. Lorenz, also
+bis zum 48.° nördl. Br. hinab. An Grönlands bewohnten Küsten zeigt es sich
+selten. Nur an der unbewohnten Strecke der Ostküste, zwischen den Districten
+Nordund Südgrönlands, soll es jährlich seine Herbststation haben und an's Land
+gehen, ohne indessen gejagt zu werden. Schon die alten Skandinavier in Grönland
+haben mit Walroßzähnen einen lebhaften Handel getrieben und wahrscheinlich nicht
+wenig zu ihrer Ausrottung beigetragen. Auf der andern Seite der Baffins-Bai
+kommen sie wieder häufiger vor, und zwar in den größeren und kleineren Buchten,
+dem nördlichen Theile der Hudson-, Repulseund Jones-Bai.
+
+Von Bären-Eiland ist das Walroß so gut wie verjagt. Dasselbe Geschick erwartet
+es auf Spitzbergen, wo schon 1820 in welchem Jahre die Jagd der Norweger im
+Eismeere eigentlich begann, nachdem sie längere Zeit geruht hatte, — acht bis
+fünfzehn kleine von Hammerfest und Tromsö ausgesandte Fahrzeuge den von anderen
+Stationen, besonders den Russen, geführten Vernichtungskrieg gegen die Walrosse
+fortsetzten. Uns fehlen genauere Angaben, wie viele Thiere während der drei
+nächsten Decennien getödtet worden, wir besitzen indessen einen Bericht für die
+Jahre 1820 bis 1829, nach welchem in keinem dieser Jahre weniger als 340 Thiere
+erlegt sind, durchschnittlich aber 600, und im Jahre 1829, da die Jagd von 16
+Schiffen ausgeübt wurde, sogar 1,302 Thiere als Opfer fielen. Diese Zahl
+erscheint an sich klein, ist aber eine sehr große im Verhältnisse zu dem
+beschränkten und schon früher stark ausgebeuteten Jagdgebiete, und mit Rücksicht
+auf die geringe Vermehrung des Thieres. Die früher so reichen Jagdplätze an der
+Westküste, Prince Charles Vorland, die Croßund Kings-Bai, die Magdalenen-Bai und
+der Bellsund, von welchen ältere Berichte erzählen, sind nun so gut wie
+aufgegeben. Noch um 1820 erlegte der ältere Scoresby in der Magdalenen-Bai 120
+Walrosse; während Buchan's Expedition sah man große Heerden in dieser Bucht, und
+nur wenige Jahre später tödtete man dort 200 Walrosse. Jetzt sind sie nach der
+Nordküste gedrängt, aber auch nicht mehr so zahlreich als früher, und wir haben
+sie niemals in größeren Haufen als von 30 bis 40 Köpfen gesehen. Die
+nordöstlichen, östlichen und südöstlichen Küsten dagegen, welche den größten
+Theil des Jahres durch das Eis gesperrt und höchstens im Herbste zugänglich
+werden, bieten dem Walrosse eine einigermaßen vor den Jägern geschützte
+Freistatt dar. Hier kommen sie noch in großen Schaaren vor. Mit Gefahr, ihr
+Schiff im Eise zu verlieren, machen die Walroßjäger hier noch immer reiche
+Beute. Aber von einer so gewaltigen, wie Rijke Jjse sie um das Jahr 1640 an den
+Inseln, welche noch jetzt seinen Namen tragen, machte, hört man nichts mehr.
+
+Das Walroß kommt auch an der östlichen Küste des weißen Meeres vor und wird von
+den dortigen finnischen Stämmen gejagt. Wahrscheinlich verirrt es sich von hier
+zuweilen an die Küsten der russischen Lappmark und — wie ältere und neuere
+Berichte lauten — auch bis zu den norwegischen Finmarken. Aus älteren Zeiten
+berichten dieses Kund Leem und Pantoppidan; im Jahre 1816 wurde aber eins bei
+Lurö im Nordlande erlegt, und sogar noch 1827 eins bei Ings angetroffen. Daß es
+in vorhistorischer Zeit seinen eigentlichen Aufenthalt in Finmarken gehabt und
+Gegenstand der Jagd gewesen, ist eine Behauptung, die sich auf ein
+Mißverständniß gründet. In des Orosius, von König Alfred bearbeiteter
+Weltbeschreibung findet man den Bericht über eine Reise, welche Other, ein
+Norweger aus Halogoland, um das Jahr 870 längs der norwegischen Küste bis
+Bjarmaland, das heißt die Landschaften am weißen Meere, nach Vikingsart
+ausgeführt hatte, wahrscheinlich um sich Walroßzähne, einen damals
+hochgeschätzten Handelsartikel, zu verschaffen. Er hat Alfred diese Reise
+mündlich erzählt; er schildert ihren Verlauf, das Walroß — „horshvaelum“ — als
+ein ihm bis dahin unbekanntes Thier, das von den Bewohnern des Bjarmalandes
+gejagt wird, spricht zum Schlusse von seinem Privatleben und stellt sich als
+einen reichen Mann dar,,an welchen die Skritafinnen, oder die Lappen Finmarkens,
+jährlichen Tribut entrichteten, unter Anderm Fischbein — hvales bane — und
+Schiffstaue von Wal- oder Delphinhaut, — hvales hyde — wie es in dem
+anglosächsischen Urtext lautet. Diese Worte sind von Forster in der Mitte des
+vorigen Jahrhunderts mit Walroßzähnen und Walroßhaut wiedergegeben, und man hat
+geschlossen, daß das Walroß von diesen Tributpflichtigen gejagt worden sei. Wie
+wir gesehen haben, braucht aber Other ganz verschiedene Bezeichnungen für
+Walfisch und Walroß, und aus seinem Bericht geht nicht im mindesten hervor, daß
+irgend einmal, oder während seiner Zeit, an Finmarkens Küsten die Walroßjagd
+betrieben worden sei. Eben so zweifelhaft sind die Angaben, welche auf einen
+früheren Walroßfang bei den Orkney-Inseln oder Island deuten.
+
+Die ältesten Nachrichten über das Walroß datiren von Other's Reisebericht; es
+wurde den civilisirten Nationen also etwa hundert Jahre früher bekannt, als
+Grönland von den skandinavischen Stamme colonisirt wurde. Seine älteste
+anglosächsische Bezeichnung war „horshvaelum“ oder „Pferdewal“; im Speculum
+regale, einer Arbeit aus dem dreizehnten Jahrhundert, wird er Rostungur genannt,
+wahrscheinlich nach der Bezeichnung der grönländischen Colonisten. Sein
+gegenwärtiger Name ist holländisch und bezeichnet ganz dasselbe wie der
+anglosächsische. Es dauerte gleichwohl lange, bis das Aussehen und das Leben des
+Walrosses in Europa genauer bekannt wurden; der „See-Elephant“, Elephas marinus,
+wie er von den mittelalterlichen Gelehrten genannt wurde, blieb der Gegenstand
+höchst abenteuerlicher Abbildungen und Beschreibungen. So spricht der gelehrte
+Pole Mathias Machowius in der Mitte des 16. Jahrhunderts von Fischen im
+Eismeere, genannt Morß — die finnische und slavische Benennung, wovon das
+französische Morss kommt — welche mit Hülfe ihrer Zähne auf die Berge klettern,
+und sich von ihnen hinabwerfen, um zu fliegen; Olaus Magnus in Rom weiß aber zu
+berichten von „Fischen in der Größe von Elephanten, welche Morsi oder Rosmari
+genannt werden, sich auf die Menschen am Meeresstrande stürzen und dieselben mit
+ihren Zähnen zerreißen.“
+
+Wir können hier nicht alle Berichte aus der Zeit des Mittelalters anführen,
+einer immer unglaublicher als der andere, wir verweisen denjenigen, welcher sich
+genauer mit der Geschichte des Walrosses bekannt machen will, auf Baer's
+gelehrte und höchst interessante Abhandlung in den Memoiren der Petersburger
+Akademie für 1838. Erst durch die Expeditionen der Engländer und Holländer nach
+dem Eismeere im 16. Jahrhundert erhielt man zuverlässige Nachrichten über das
+Walroß, bis es — wie schon früher erwähnt — am Anfange des 17. Jahrhunderts
+lebendig nach London gebracht wurde. Von diesem Zeitpunkte ab datirt die
+eigentliche Kenntniß dieses merkwürdigen Thieres.
+
+Damals begann auch erst die Jagd auf Walrosse bei Spitzbergen, vorzüglich um
+seiner Zähne willen, wovon das Pfund auf 3 Gulden geschätzt wurde, ein
+mittelgroßer Zahn von 3 Pfunden also 9 Gulden. Ein größerer Zahn kostete
+verhältnißmäßig mehr, einer von 5 Pfund bis zu 25 Gulden. Der Werth des Specks
+wurde bei einem mittelgroßen Thiere auf 18 Gulden berechnet, so daß ein Walroß
+überhaupt gemeinhin 36 Gulden werth war. Dieser Preis schwankte indessen, je
+nachdem der Fang in dem Jahre ausfiel, zwischen 26 und 70 Gulden. Das Fell wurde
+als unbrauchbar bei Seite geworfen. Der Fang an Walrossen, Seehunden und
+Weißfischen auf zweien holländischen Schiffen, welche die Engländer 1613 bei
+Spitzbergen kaperten, wurde 130,000 Gulden werth geschätzt, mit Einschluß der
+Geräthschaften und der Boote. Jetzt macht besonders der Speck und die Haut das
+Walroß zu einem so gesuchten Handelsartikel. Die Specklage unter der Haut ist
+etwa drei Zoll stark, unter dem Bauche aber etwas dünner; ein erwachsenes Thier
+liefert daher ungefähr eine Tonne Thran. Die Haut bildet, roh oder gegerbt, mit
+das stärkste Material zu Geschirr- und Maschinenriemen, und steht sehr hoch im
+Preise. Die jährliche Ausfuhr solcher rohen Waare aus Norwegen beläuft sich auf
+100- bis 130,000 norwegische Skaalpfunde, wovon mehr als die Hälfte nach Rußland
+geht, um als Sielenzeug verwendet zu werden. Der Rest wird nach Altona, Hamburg
+und Bremen abgesetzt. Die Zähne, welche an Weiße und Härte mit dem Elfenbein
+wetteifern, werden nach Hamburg und Altona im Betrage von 500 bis 1,500
+norwegischen Skaalpfunden ausgeführt. Der Preis für ein ganzes Walroß zur Stelle
+wechselt zwischen 10 und 20 Speciesthaler.
+
+Wie der Seehund, wird es jung leicht gezähmt, aber bis jetzt ist es nicht
+gelungen, es in dem europäischen Klima lange am Leben zu erhalten. Sein Fleisch
+ist wie das des Seehundes dunkel von Farbe und grob, aber nicht von schlechtem
+Geschmack und läßt sich daher in Ermangelung einer bessern Speise wohl genießen.
+
+
+:::
+
 
 
 #### **Anmerkungen** {.break-before .unnumbered}
@@ -3781,3 +4703,5 @@ G. de V. S. 74. 75.]{.footnote}
 [^0207]: [Barrow, A chronological history etc. p. 224.]{.footnote}
 
 [^0400]: [*Friedrich Martens* Spitzbergische oder Grönländische Reisebeschreibung, gethan im Jahre 1671. Hamburg 1675. (S. 24.)]{.footnote}
+
+[^0600]: [Barrow, Voyages of Discovery and Researches within the arctic Regions. Pag. 313.]{.footnote}

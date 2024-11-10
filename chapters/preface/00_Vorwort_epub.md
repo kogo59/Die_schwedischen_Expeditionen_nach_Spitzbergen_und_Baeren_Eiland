@@ -17,9 +17,9 @@
 * [Lunnen (Mormon arcticus)](ch003.xhtml#b049)
 * [Das Schiff im Eise](ch003.xhtml#b071) (Magdalena)
 * [Aeolus in Treurenberg-Bai](ch003.xhtml#b079)
-* Gruppe von Eisbären
-* Walroßkopf
-* Walroßjagd
+* [Gruppe von Eisbären](ch003.xhtml#b129)
+* [Walroßkopf](ch003.xhtml#b132)
+* [Walroßjagd](ch003.xhtml#b136)
 * Boot über Eis gezogen
 * Karls XII. Insel und der Trabant
 * Eismöwe (Larus eburneus)
