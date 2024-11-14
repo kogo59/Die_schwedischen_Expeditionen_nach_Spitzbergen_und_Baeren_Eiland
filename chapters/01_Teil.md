@@ -5322,6 +5322,1274 @@ und fanden an Bord Alles wohl.“
 :::
 
 
+## <small>Achtes Kapitel.</small><br /> Chydenius Bootexcursion.
+
+
+::: justified
+
+:::: fs-xs
+Ein seltsamer Fund. — Chydenius' Fahrt. — Im Treibeise. — Am Lande. — Treibholz.
+— Marmor? — Späte Rache an einem Fuchs. — Optische Täuschung. — Späte Heimkehr.
+— Vereitelte Meuterei. — Improvisirte Kufe. — Dünen. — Lagunen. — Besuch eines
+Bären. — Nebel. — Ueble Fahrt. — Eidergänseriche. — Rückkehr. — Neue Ausfahrt. —
+Ein wirklicher Eisberg, gefährlicher Nachbar. — 80° 34´ nördl. Breite erreicht.
+— Cap Hansteen. — Ein tückisches Walroß. — Rückkehr zum Aeolus. — Neue
+Vorbereitungen. — Phoca hispida. — Nebel. — Moosdecke. — Pflanzen. — Das Depot.
+— Depotspitze.
+<br /><br />
+::::
+
+
+Wir kehren zu dem 10. Juli zurück, dem Tage, an welchem die im vorhergehenden
+Kapitel geschilderte Bootpartie vom Aeolus abging. Es war beschlossen, Chydenius
+solle mit einem eisernen Boote nordwärts bis zu den letzten Inseln Spitzbergens
+und, wenn möglich, nach Osten vordringen, um die Voraussetzungen für eine
+Gradmessung festzustellen. Den 11. Juli war seine Ausrüstung fertig, mit
+Proviant für vier Mann auf vier Wochen und mit einer Reserve von Pemmikan auf
+zwei Wochen versehen, wie die am Tage vorher abgegangene Partie. Die Mannschaft
+bestand aus dem Zimmermann Nielsson und den Matrosen Norager und Brandt. Vor
+seiner Abreise hinterließ er ein Schreiben, um, im Falle eines Unglückes, einen
+Jeden von aller Verantwortung zu befreien. Mit Rücksicht auf die Ausrüstung des
+Bootes und die Ordres, welche Torell Lilliehöök gegeben, bestimmte er die Zeit
+um den 20. Juli für seine Rückkehr zu dem damaligen Ankerplatz des Aeolus. Unter
+gegenseitigen Glückwünschen trat er am Abend seine Fahrt an und steuerte mit
+gutem Winde nach Norden.
+
+Am Ankerplatz errichtete Lilliehöök ein Varde und deponirte darin, nach
+Vorschrift, einige Vorräthe, bestehend aus zwei Kisten Pemmikan, vierzig Pfund
+Brod und einiger Munition, ferner eine Flasche mit einem Schreiben, worin er
+mittheilte, daß er erst nach Westen zu gehen beabsichtige, um zu sehen, ob
+Magdalena noch in der Treurenberg-Bai liege, und darauf versuchen wolle, die
+Branntwein-Bucht zu erreichen. Die Insel wurde hiernach Depotinsel benannt. Den
+12. Juli 31, Uhr Nachmittags segelte er ab und warf um 8 Uhr Abends auf unserer
+alten Stelle in der Treurenberg-Bai Anker. Magdalena hatte damals — wie wir
+wissen — die Bucht schon verlassen. Lilliehöök begab sich bald nach der Ankunft
+mit dem Boote auf die Jagd, nachdem er am Aeoluskreuz einen für Torell
+bestimmten Rapport niedergelegt hatte; seine Jäger harpunirten sechs Walrosse
+und ein Junges; am folgenden Tage 11 Uhr Vormittags ging er aber wieder unter
+Segel und fuhr mit einem Südsüdostwind bei klarem Himmel und leichtbewegter See
+nach Nordosten. Bei Shoal Point ließ der Wind nach; eine Menge Treibeis lag
+westlich von dieser Spitze, und am Abend ging Aeolus an dem Südweststrande
+derselben vor Anker.
+
+Mattilas kam an Bord mit der Anzeige, daß er unter einem Haufen Treibholz am
+Strande einen Fund gemacht. Es war ein Depot, welches vor vierunddreißig Jahren
+dort bei Parry's Expedition errichtet worden war: ein Gewehr, jetzt unbrauchbar,
+eine hölzerne Munitionskiste, innen mit Blei ausgeschlagen, mit scharfen und
+einfachen Patronen, Zünder und Pulver, alles vollkommen erhalten, nebst elf
+hermetisch verschlossenen Büchsen. Wir waren sehr neugierig, zu erfahren, wie
+ihr vierunddreißig Jahre alter Inhalt dem Verderben widerstanden hätte. Mattilas
+hatte schon eine Büchse geöffnet, und wir fanden in ihr ein in Gelée und Fett
+gehülltes gebratenes Fleisch, so gut erhalten, als wäre es erst gestern
+hineingethan. Auf den größeren Blechdosen befanden sich die Worte „Seasoned
+Beef“ eingestempelt; die kleineren hatten einen ähnlichen leckern Inhalt:
+Unordered rounds of Beef; eine enthielt ein wenig verdorbenen Kaffee. Auf der
+sorgfältig gearbeiteten Munitionsküste konnte man deutlich das Wort „Hecla“
+unterscheiden, und das Holz war, wie beinahe alles Holz auf Spitzbergen, von der
+Luft nicht im mindesten angegriffen. Die Büchse, die Munitionskiste, einen der
+beiden Enterhaken und ein paar Blechbüchsen mit Fleisch überließ der Finder als
+für jeden Polarfahrer werthvolle Reliquien dem Aeolus.
+
+Auf dem wüsten, mit hellgrauen Kalksplittern bedeckten Flachlande gab es fast
+gar keine Pflanzen. Nur Mohn nebst Saxifraga oppositifolia und cernua und einige
+Arten von Moosen und Flechten vermochten hier eine Art hinsiechenden Lebens zu
+führen. Die Botaniker fanden gar keine Ausbeute, die Geologen eine geringe.
+Ungefähr eine Viertelmeile von dem Meeresstrande traf Malmgren am Fuße eines
+kleinen Kalkhügels eine dünne Lage von aufgeschwemmtem Lehm und Sand, darin eine
+Menge von fossilen Muschelschalen, ausschließlich Mytilus edulis, eingebettet
+war, theils wohl erhalten, theils zerbrochen, doch von erheblicher Größe. Solche
+Funde wurden an mehreren Stellen auf Spitzbergen gemacht, und sie beweisen nicht
+blos unwiderleglich, daß das Land sich verhältnißmäßig sehr rasch erhebt, sie
+deuten auch an, daß in der Bildung der Ufer und möglicher Weise im Klima eine
+Veränderung stattgefunden hat, welche gegenwärtig diesen das Gebiet der Ebbe
+neben dem Strande bewohnenden Thieren die Möglichkeit der Existenz raubt.
+
+Das Meer bei Shoal Point ist sehr flach, meist nur acht Faden tief, und selbst
+drei bis fünf Meilen vom Lande trifft man niemals eine Tiefe über zwölf Faden
+an. Die Schleppnetze waren unausgesetzt in Thätigkeit und gewährten eine
+ziemlich reiche Ausbeute. In einer kleinen Bucht südlich von der Spitze lag noch
+etwas Eis, auf welchem eine große Zahl von Seehunden sich sonnte.
+
+Da wir wegen des Eises nicht — wie beabsichtigt war nach Norden segeln konnten,
+blieb unser Schiff noch bis zum 17. Morgens, da auch Chydenius wieder an Bord
+zurückkehrte, vor Anker.
+
+Ueber diese Fahrt berichtet derselbe Folgendes:
+
+„Nachdem meine Ausrüstung durch Lilliehöök's Umsicht auf's Beste besorgt und die
+Sachen von der Mannschaft in's Boot geschafft worden waren, nahm ich von den
+Unsrigen herzlichen Abschied und steuerte vor einem guten Winde nach Norden, um
+zuerst das Land bei Shoal Point zu besuchen und dort, je nach der Lage des
+Eises, einen weiteren Beschluß zu fassen. Es ging ganz munter vorwärts, so daß
+wir in weniger als zwei Stunden unser erstes Ziel erreicht haben würden, wenn
+nicht ein breites Band gewaltigen Packeises sich vor die südwestliche Küste
+gelegt und die starke Dünung, die wir schon eine Weile vorher kennen gelernt,
+einen noch stärkeren Wind angekündigt und uns die Fahrt zwischen den einzelnen
+Eisstücken unmöglich gemacht hätte. Es schien mir daher am besten, die Spitze zu
+umfahren und das Land auf der Leeseite aufzusuchen, wo das Eis wahrscheinlich
+bereits verschwunden war. Das Boot segelte gar nicht übel mit halbem Winde,
+obwohl sein Aussehen es nicht vermuthen ließ. Wir nahmen ein Schiff im Norden
+wahr und betrachteten mit Vergnügen eine Schaar Walrosse, welche einige Ellen
+von uns schnaubend und brüllend sich aus dem Wasser erhoben, dann wieder
+verschwanden, immer aber unserm rothen Boote, das sie besonders zu interessiren
+schien, folgten. Wir fuhren noch eine Weile weiter, bis wir in die starke
+Strömung aus der Heenloopen Strat kamen und der Sturm immer mehr zunahm. Das
+Boot, nur 14½ Fuß lang und 4½ Fuß breit, war schwer beladen, so daß sein Bord
+nur einen halben Fuß über Wasser ragte. Es hielt sich trotzdem sehr gut. Aber da
+das Eis nicht aufhören wollte und wir uns bereits auf der Höhe von Shoal Point
+befanden, der Wind auch immer stärker wurde, so daß das Boot schließlich Wasser
+schöpfte, hielten wir es für das Gerathenste, zwischen die Eisschollen zu laufen
+und das Boot auf eine derselben zu ziehen. An Rudern war nicht zu denken; es
+würde uns nicht um eines Haares Breite weiter gebracht haben. Wir warteten eine
+Weile, benutzten ein zufälliges Nachlassen des Windes, segelten fast eine Stunde
+westlich und wendeten uns nach Osten, um eine Oeffnung in dem Eise zu suchen. Es
+verging eine gute Weile, ohne daß wir eine fanden. Das Eis lag wie eine Mauer
+vor uns; die Wogen brachen sich daran in klafterhohen Brandungen mit einem
+Donnergetöse, das in Verbindung mit dem der zusammenstürzenden Eisstücke nahezu
+betäubend wirkte. Mit Hülfe von Rudern und Segel hielten wir uns ein paar
+Klafter von dieser unbehaglichen Nachbarschaft entfernt; immer mehr füllte sich
+das Boot mit Wasser; es war hohe Zeit, als wir nach einer halben Stunde Arbeit
+um zwei Uhr des Morgens eine Oeffnung zwischen zwei Grundeisblöcken fanden,
+hinter welchen sich eine kleine eisfreie Bucht befand, sonst hätten wir den
+größeren Theil unserer Ladung über Bord werfen müssen. Wir hielten in die
+Oeffnung, und nachdem wir in einem Kanale längere Zeit zwischen dem Eise
+gefahren, befanden wir uns in einem verhältnißmäßig ruhigen Wasser. Denn das Eis
+milderte, wie gewöhnlich, den Wogenschwall und hob sich blos langsam und
+majestätisch mit der Dünung. Darauf zogen wir das Boot über eine flachere
+Eisscholle und fuhren bis Morgens fünf Uhr damit fort, es theils über das Eis zu
+schleppen, theils in den offenen Rinnen zwischen den Eisstücken weiter zu
+schieben. Wir rasteten nun und nahmen alle Sachen aus dem Boote auf das Eis, um
+zu untersuchen, ob sie keinen Schaden genommen. Ein Theil des Brodes, welches
+naß geworden, wurde weggeworfen. Während man Kaffee kochte, machte ich mit einem
+Manne den Versuch, zu Fuß die ersten losen Eisstücke zu übersteigen und sodann
+auf das feste Eis am Lande zu gelangen. Es war aber unmöglich und ich kehrte
+wieder zum Boote zurück. Es wurde wiederum Alles eingepackt, und wir begannen um
+7 Uhr das Boot über und zwischen den Eisstücken hindurch zu schleppen; so
+erreichten wir um 11 Uhr schließlich wirklich das feste Eis und schlugen
+daselbst unser Lager auf.
+
+„Ich begab mich von hier in's Land und erkannte, daß das Eis trotz des Sturmes
+noch ein gutes Stück westlich von Shoal Point lag, ebenso daß die See ein Ende
+nördlich von dem Lande, auf welchem ich mich befand, offen war, und daß
+Nielsson's Jacht darin vor Anker lag. Das Land erhob sich nur etwa 40 bis 50 Fuß
+über das Meeresniveau, und das Felsgestein — derselbe Kalk wie auf der
+Depotinsel — trat nur an wenigen Stellen anstehend zu Tage. Auf dem höchsten
+Theile dieses Flachlandes fanden wir kleine Süßwasserteiche, in welchen
+Eidergänse schwammen. Ich machte einige trigonometrische Messungen, ging bis zu
+dem Ende einer kleinen nach Norden in das Land einschneidenden Bucht, sammelte
+dabei einige Pflanzen, kehrte zum Boote zurück, aß, und schlief einige Stunden.
+Sodann ging ich wieder in's Land bis zur äußersten Spitze und traf dort den
+Schiffer Nielsson auf der Vogeljagd. Er folgte mir zu unserm Boote, es zu
+besehen; wir tranken unsern Thee und nahmen das Zelt herunter, um durch das Eis
+um die Spitze herum zu fahren. Am Morgen um 12½ Uhr brachen wir auf, gingen
+durch eine offene Rinne, welche ich vom Lande aus hatte sehen können, und
+befanden uns um 2 Uhr, nördlich von der Spitze, in offenem Wasser. Längs dem
+Lande war der Weg frei, aber nach Norden hin gesperrt; wir segelten deshalb nach
+Osten, bis wir um 4 Uhr auf Eis stießen, das sich bis zum Lande hin erstreckte.
+An dem Strande lag eine unermeßliche Menge von Treibholz, größer als wir
+irgendwo bis dahin gesehen, auch fand ich bei einem Hügel eine für Kalkgestein
+ungewöhnlich üppige Vegetation. Schwarzen Marmor mit rothen und weißen Adern
+suchte ich vergebens, obwohl wir uns nunmehr auf der Stelle befinden mußten, wo
+Parry solchen entdeckt zu haben angiebt. Das Eis ließ sich wieder umfahren. Nach
+einer Stunde Ruderns kamen wir an seiner Spitze vorbei, hielten nach Nordosten,
+stiegen einen Augenblick an einem kleinen Holme aus und kamen um 5½ Uhr,
+denselben Cours haltend, zu einer andern kleinen Insel. Dort saß hinter einen
+Stein gekauert ein Fjeldfuchs, der wegen seiner hellen Frühlingstracht von der
+Mannschaft anfangs für einen jungen Bären gehalten wurde. Er ergriff schnell die
+Flucht und suchte uns schwimmend zu entkommen. Ich erlegte ihn indessen mit
+einem Schusse, eine freilich etwas späte Wohlthat für die auf der Insel
+befindliche Colonie von Vögeln, in deren Nestern ich nichts als zerbissene Eier
+fand. Das sonst so unfruchtbare Kalkgestein war auf diesem Holme von den
+zahlreichen Vögeln in einen verhältnißmäßig fruchtbaren Boden verwandelt worden
+und daher ganz von Moos und Pflanzen bewachsen, welche in dem klaren, warmen
+Sonnenscheine einen sehr behaglichen Eindruck machten. Am vergangenen Tage
+hatten wir blos ein paar Stunden geruht; ich ließ daher die Mannschaft nach dem
+Abendbrod zur Ruhe gehen, sammelte Pflanzen, nahm einen kleinen See in
+Augenschein, den eine Schaar des schönen Phalaropus belebte, und legte mich um 9
+Uhr Vormittags zur Ruhe. Wir schliefen in unseren Schlafsäcken auf dem Strande
+und fühlten uns dort sehr wohl; denn im Sonnenschein stieg das Thermometer bis
+auf +10° C. und hielt sich im Schatten auf +4° bis +5° C., wie überhaupt die
+ganze Zeit, seitdem wir Treurenberg-Bai verlassen hatten. Nachdem wir zu Mittag
+gegessen und uns zur Abreise gerüstet hatten, bekamen wir fünf Uhr Nachmittags
+Aeolus in Sicht, welcher von seinem Ausfluge zur Treurenberg-Bucht zurückkehrte.
+Vergebens aber zogen wir eine Flagge auf der höchsten Spitze des Holms auf, um
+von unserer Anwesenheit Kunde zu geben; sie wurde nicht wahrgenommen, eine
+Antwort erfolgte nicht, und das Schiff steuerte wieder nach Süden. Wir nahmen
+dagegen den Cours weiter nach Nordosten. Nach einer Weile ließ der Wind nach,
+wir griffen wieder zu den Rudern und kamen mit ihrer Hülfe um 11 Uhr Nachmittags
+zu der Spitze, welche vom Shoal-Point-Lande ein Ende nach Norden geht. Nachdem
+wir einige Winkel genommen und andere Beobachtungen gemacht hatten, begab ich
+mich zu einem genau im Norden belegenen kleineren Berge, um zu sehen, wie das
+Eis beschaffen. Von einer andern Stelle war ein solcher Ueberblick unmöglich, da
+das Land sich nur 10 bis 15 Fuß über dem Meere erhebt. Die schmale Landzunge,
+auf deren Spitze wir uns befanden, war weit von dem Meere eingeschnitten, oder
+bildete vielmehr eine Lagune mit einer nur einige Klafter breiten Oeffnung nach
+Westen. In diese Lagune fiel ein kleiner Bach, gebildet von dem Schnee, welcher
+noch auf der Nordseite des von mir erstrebten Berges lag. Schon ein wenig daran
+gewöhnt, Entfernungen auf Spitzbergen zu taxiren, glaubte ich nicht, daß ich von
+der durchsichtigen Luft so getäuscht werden würde, als ich in Wahrheit wurde;
+denn der Berg schien mir ganz nahe zu liegen, während seine wirkliche
+Entfernung, wie ich auf dem Rückwege durch Messen bestimmte — 15,000 Fuß betrug.
+
+„Ich mußte über einen zwar nicht tiefen aber reißenden Bach schreiten, welcher
+an Größe von einem andern, der in die noch mit Eis bedeckte Bucht, östlich von
+der Landzunge, mündete, übertroffen wurde; denn dieses war ein auf den
+entfernten Bergen entspringender wirklicher Fluß. Der Schnee am Fuße des Berges
+war gehbar, obwohl weich; von dem Gipfel sah ich, daß das Eis nach Norden und
+Nordosten in getrennten Massen auftrat. Selbst Low Island wurde ein wenig
+sichtbar, und der Weg dorthin schien kaum ein paar Stunden Zeit zu erfordern.
+Der Rückweg war öde und einsam; überall nichts als Eis und kahles Kalkgestein.
+Als ich am 14. Morgens 4 Uhr zu unserm Boote zurückkehrte, fand ich die
+Mannschaft schon auf den Beinen und unruhig wegen meines langen Ausbleibens. Ich
+wünschte, wenn es anginge, den ganzen Tag unsere Fahrt fortzusetzen, daher
+befanden wir uns um 7 Uhr Morgens schon wieder auf dem Wege. Das nördliche Eis
+war mittlerweile vom Strome uns entgegen, nach Süden, geführt und daher ein
+wenig vertheilt. Da ich unter allen Umständen vorwärts wollte, aus den Reden
+unserer Leute aber schon am Tage vorher entnommen hatte, daß sie keine große
+Neigung hatten, sich weiter durch das Eis zu brechen, und auch jetzt eine große
+Gleichgültigkeit bei ihnen bemerkte, so setzte ich mich selber, wie schon oft
+geschehen war, an das Steuer und richtete den Cours nach Nordwesten, um entweder
+nach Low Island zu kommen, das uns gerade im Norden lag, oder in das offene
+Wasser westlich zu gelangen, welches freilich im Norden, auf der Höhe der
+genannten Insel, vom Eise begrenzt war.
+
+„So ruderten wir ein Ende vorwärts, und jagten eine Weile auf Möwen, von denen
+verschiedene Arten sich neben einem todten Walroß niedergelassen hatten. Das Eis
+lag so, daß wir uns nur an wenigen Stellen mit Stangen weiter zu schieben
+brauchten. So ging es bis 11 Uhr. Mittlerweile hatte die Fluth sich nach Süden
+gewandt, und die Eisstücke kamen in starkes Treiben. Norager und Brandt, die
+sich schon vorher widerwillig gezeigt hatten, erklärten, sie hielten es für
+unmöglich, jetzt nach Low Island vorzudringen, und baten mich, wenigstens die
+Rückkehr der Strömung abzuwarten. Es war aber offenbar, daß diese das Eis um die
+Insel packen werde, und da sie nicht arbeiteten, sondern nur die
+vorüberziehenden Eisstücke anstarrten, so legte ich an einem größeren Eisblock
+an, befahl das Boot hinaufzuziehen, hielt Mittag und überlegte, was nun wohl am
+besten zu thun wäre. Nach dem Essen richtete ich den Cours nach dem Aeolus und
+gab zu erkennen, daß ich andere Mannschaft holen wollte. Nun waren sie mit einem
+Male wie verändert und baten mich, um ihrer Kameraden willen, bei diesem
+Beschlusse nicht zu verharren. Ich wußte, daß ich mich auf den Zimmermann
+Nielsson und Norager durchaus verlassen könne, der Letztere hatte nur einen
+Augenblick geschwankt und war im Uebrigen als ein unternehmender Geselle
+bekannt. Als daher der Zimmermann sich für die Anderen verwandte, ließ ich die
+Sache auf sich beruhen und richtete den Cours nach dem nahen Low Island.
+Ungefähr um 1 Uhr Nachmittags griffen wir wieder zu den Rudern, und um 5 Uhr
+waren wir an der Kante des festen Eises, welches die Insel umgab. Die Fahrt
+wurde nicht so sehr durch das zusammengepackte Treibeis erschwert als durch das
+flache Baieneis, durch welches wir zuletzt kamen, da es weder das Boot trägt,
+noch unter den Füßen zerbricht. Ungefähr zwei Stunden hatten wir uns hindurch zu
+arbeiten, obwohl die Entfernung blos einige Hundert Klafter betrug. Von der
+Eiskante, auf welcher wir unser Lager aufschlugen, war es bis zum Lande ungefähr
+noch eine Viertelmeile weit. Ich begab mich mit Brandt dorthin, um zu sehen, wie
+das Eis beschaffen sei. Von einem in der Nähe des Strandes befindlichen, etwa 50
+Fuß hohen Bergrücken konnte ich beinahe die ganze Insel und das Eis ringsum
+überblicken. Nach allen Richtungen, außer im Süden und Südwesten, von wo wir
+kamen, traf der Blick auf Eis, das im Osten und Nordosten mit dem Lande
+verbunden und eben war. Der Rücken bildete eine Fortsetzung des einzigen Berges
+der Insel, Parry's Quarz-Rock, und zog sich längs dem westlichen Strande von
+Süden nach Norden hin. Zu unserm Rastplatze auf dem Eise im Westen, welcher
+ungefähr eine halbe Meile von der südlichsten Spitze der Insel entfernt lag,
+kamen wir um 7 Uhr Nachmittags zurück, nahmen unser Abendbrod ein und ruhten uns
+von der letzten langen Fahrt aus.
+
+„Den 15. Vormittags mußte Nielsson ein Stück Treibholz zum Boote bringen, um es
+unter dem scharfen Kiel zu befestigen. Ich hoffte nämlich, die Reise nach
+Nordosten fortsetzen und über das feste Eis nach dem Nordostlande vordringen zu
+können, was ohne die Holzkufe unmöglich war, da der Kiel in's Eis schnitt. Die
+zum Boote gehörigen Kufen waren aber an Bord geblieben, da man eine solche Fahrt
+bei der Abreise nicht in Aussicht genommen hatte. Während der Zurüstung ging ich
+an das Land, um die Insel zu besehen, welche schon 1773 von Phipps und 1827 von
+Parry besucht worden ist. Wie diese Beiden sie damals beschrieben, so ist sie
+noch heute.
+
+„Mit Ausnahme des Quarz-Rock, wohin ich mich nun begab, und des Bergrückens
+bildet sie eine Ebene, die sich nur einige Fuß über den Meeresspiegel erhebt und
+an die öden Kalkflächen der großen Steininsel erinnert. Die Ufer bestehen
+abwechselnd aus niedrigen Felsen und Dünen, in welchen neben einer Menge
+Treibeises Ueberreste von Schiffswracken und Walfischknochen eingebettet sind.
+Längs dem westlichen Strande zieht sich eine Lagune hin, nicht von erheblicher
+Breite und mindestens an einer Stelle mit dem Meere in Verbindung stehend. Sie
+war nun mit Eis bedeckt, in welchem sich einzelne runde Luftlöcher der Seehunde
+befanden. Auf der Ostküste erblickte man ebenfalls eine Lagune. Die Insel war
+fast vollkommen schneefrei, und die Schneemassen, welche noch am Fuße des
+Quarz-Rock lagen und zu verschwinden begannen, speisten einen ziemlich großen
+und tiefen, in die Lagune mündenden Fluß. Nahe dem Strande war der Boden mit
+Stücken von Thonschiefer bedeckt, welcher an einigen Stellen auch anstehend zu
+Tage trat. Weiterhin ist er mit größeren und kleineren Felsbrocken bestreut,
+welche in dem nördlichen Theile der Insel aus Hyperit bestehen und beinahe die
+Form von sechseckigen Scheiben haben. Das ursprünglich feste, anstehende Gestein
+ist hier wie beim Aeoluskreuz und anderswo in solche regelmäßige Stücke
+zersprungen. Die Ebene am Berge, so weit sie von der Lagune und Rinnsalen feucht
+erhalten wird, ist stellenweise mit Moos bedeckt, aus welchem einzelne Pflanzen
+von Löffelkraut, Coehlearia, Oxyria und ein paar Ranunkeln oder Mohnpflanzen
+sich erheben. Auch auf dem aus Quarzit und Sandstein bestehenden Berge wuchsen
+Moose und Flechten. Der Berg ist, wie Parry angiebt, ungefähr 150 Fuß hoch und
+bietet eine gute Aussicht über die Insel und die Umgegend dar. Ich nahm einige
+Stundenwinkel und wanderte mit den gesammelten Pflanzen und Mineralien zum Boote
+zurück. Ein Fjeldfuchs und einige Vögel waren die einzigen lebenden Wesen, die
+uns zu Gesicht kamen. Ein Bär war während unseres Schlafes dem Boote ganz nahe
+gekommen und hatte — wie die Spuren auswiesen — umhergeschnuppert und seine
+Untersuchungen daselbst angestellt. Wir bekamen ihn nicht zu sehen; aber weit
+fort konnte er nicht sein. Denn als ich gegen Abend zu den zurückgelassenen
+Instrumenten zurückkam, um die Beobachtungen fortzusetzen, fand ich einen
+Instrumentenkasten, den ich mit dem Schlosse nach oben hingestellt hatte, genau
+umgekehrt; auch erkannte man in dem gebeizten Holze die Spuren seiner Klauen.
+Der Bär hatte es nicht der Mühe werth gehalten, den Kasten entzwei zu schlagen,
+ihn vielmehr — wenn auch das Unterste zu oberst — wieder auf seinen Platz
+gestellt.
+
+„Von dem Berge aus konnte ich wahrnehmen, daß Aeolus sich noch auf seiner alten
+Stelle bei Shoal Point befand. Das Eis lag nach Westen hin weder gepackt, noch
+erstreckte es sich weit in die See. Ich beschloß daher, mich zu dem Schiffe zu
+begeben, bevor es weiter segelte, um wenigstens in Betreff eines der Leute einen
+Wechsel vorzunehmen; denn Furcht und widerwilliges Betragen hatten sich
+allmählich wiederum eingestellt. Das feste Eis war nun überdies so morsch, daß,
+wenn man recht sicher darauf zu stehen wähnte, man plötzlich bis zur Brust
+einsank. So konnte eine weitere Eisfahrt, zumal mit einer solchen improvisirten
+Kufe, keine großen Erwartungen aufkommen lassen. Als ich daher am 16., 9 Uhr
+Vormittags, zum Boote zurückkehrte, ruhte ich erst einige Stunden aus und begab
+mich dann um Mittag, bei dem klarsten und herrlichsten Wetter, direct nach
+Westen. Bald erkannte ich jedoch an der undurchsichtigen Luft und dem dunkeln
+Rande am westlichen Horizonte, daß ein Nebelwetter heraufziehe; wir beeilten uns
+daher, so viel wir nur vermochten, und erreichten das offene Wasser, aber nicht
+früher, als bis der Nebel, von einem ziemlich starken Winde begleitet, etwa um 5
+Uhr Nachmittags, uns überfiel und uns Land und Sonne und alle Gegenstände in
+einer Entfernung von 40 bis 50 Ellen verhüllte. Wir konnten daher nur nach dem
+Kompaß steuern. Leider mußten wir fürchten, daß wir mit diesem Winde zugleich
+durch größere Eismassen zu fahren haben würden, und wir trafen auf mehr als wir
+vermuthet hatten; denn als der Nebel sich einen Augenblick hob, konnte ich von
+einem hohen Eisberge wahrnehmen, daß wir bis zum offenen Wasser noch eben so
+weit hätten, als am Anfange, da wir unsere Fahrt antraten. Das Eis war nun
+überdies so gepackt, daß wir das Boot unaufhörlich darüberschleppen, oft uns
+sogar einen Weg mit der Eisaxt bahnen mußten. Die Strömung führte das Eis
+überdies nach Norden, so daß unsere Lage unter Umständen ganz gefährlich werden
+konnte, wenn wir uns nicht rasch aus dieser Situation herausarbeiteten. Schon
+lange hörten wir das Brausen der Wogen und ihr Anschlagen an die Eiskante, aber
+bevor wir dieses ersehnte Ziel erreichten, mußten wir noch das Baieneis
+passiren, welches einen Fuß unter der Oberfläche des Wassers, das heißt gerade
+so lag, daß das Boot nicht schwimmen konnte, vielmehr geschleppt werden mußte.
+Und das alles während eines feinen Nebelregens, der unsere Kleider mit Eis
+überzog! Um 12 Uhr Nachts kamen wir endlich in offenes Wasser. Wir setzten
+unsere Ruderfahrt bis um 3 Uhr Morgens (den 17. Juli) fort, in der Richtung nach
+Südwesten, immer bei demselben Nebel. Wir merkten bald, daß wir uns in dem
+flachen schärenreichen Fahrwasser zwischen Shoal Point und Low Island befanden.
+Um uns nicht etwa zu verirren, ließ ich an einer Holmklippe anlegen, an deren
+Strande Eidergänseriche, reihenweise, zu Tausenden und dicht neben einander,
+saßen und alle so laut schrieen, als sie nur konnten. Sie hatten nach ihrer
+Gewohnheit sich dort versammelt, um zu anderen Regionen zu ziehen, während die
+Gänse zurückgeblieben waren, um zu brüten und die Jungen zu pflegen. Wir
+versuchten uns dieser lauten Schaar zu nähern und hofften, wenigstens ein paar
+von ihnen zu erlangen. Aber sie waren wachsam, erhoben sich bei unserer
+Annäherung und verschwanden südlich im Nebel. Das Land bei Shoal Point zeigte
+sich auf Augenblicke und verschwand dann wieder. Wir konnten nun nicht mehr weit
+bis zum Aeolus haben, aber wir waren Alle zu ermüdet, um ein paar Stunden
+Ruderns behufs des Aufsuchens des Schiffes zu riskiren, und befestigten daher
+das Boot hinten mit einem Anker, vorne aber an der Klippe, nahmen einen Theil
+der Sachen heraus, brachten das Zelt über dem Boote an, und schliefen, ohne an
+irgend welche Nahrung zu denken, fast im nächsten Augenblicke ein.
+
+„Am Morgen, da der Nebel sich etwas verzogen hatte, erblickten wir den Aeolus in
+unbedeutender Entfernung von uns. Nachdem wir in Eile ein Frühstück eingenommen,
+machten wir uns um 9 Uhr auf den Weg und waren um 10 Uhr an Bord. Der Nebel
+hielt noch den ganzen Tag und die folgende Nacht an, es war daher an eine neue
+Fahrt nicht zu denken, obwohl wir alle Vorbereitungen dazu trafen. Das vom
+Wasser beschädigte Brod — etwa 16 Pfund — wurde gegen anderes umgetauscht, und
+um das Boot zu erleichtern, ließen wir die dazu gehörige Kratze nebst 120 Faden
+Tauwerk und anderes überflüssiges Zeug zurück, und nahmen dafür die
+Schlittenkufen des Bootes mit, Brooke's Tiefmessungsapparat, nebst 50 Faden
+feiner Leinen, die nur sechs Pfund wogen, und etwas Proviant. Brandt mußte an
+Bord bleiben und wurde von Jakobsson, der sich schon vorher dazu bereit erklärt
+hatte, ersetzt. Etwa um 1 Uhr Nachmittags waren wir wieder bereit nach Norden
+abzugehen, aber der Wind blies so scharf aus Süden, daß die Abreise noch
+aufgeschoben werden mußte. Mittlerweile fiel die Temperatur, die seit Monaten
+nicht unter +2° gewesen, auf +1,~2~° C. Aber wir lagen auch mitten in dem aus
+Heenloopen Strat kommenden Luftstrome.
+
+„Wir hofften, daß der Wind bis zum Eise reichen und es nach Norden treiben
+werde, so daß wir möglicher Weise mit dem Aeolus bis zur Branntwein-Bai gelangen
+könnten; ich beschloß daher demselben vorerst zu folgen und später erst die
+Bootexcursion anzutreten. Wir ließen einen Bericht für Torell in einem Varde
+zurück, lichteten die Anker und befanden uns um Mittag in 80° 13´ nördl. Br.,
+oder fast auf der Höhe der südlichsten Spitze von Low Island. All' das Eis,
+welches vor zwei Tagen westlich von dieser Insel sich befunden und uns so viel
+Beschwerde gemacht hatte, war nun vollkommen verschwunden. Nachmittags ging der
+Wind nach Norden; wir kreuzten nördlich in dem nun offenen Wasser, und der Wind
+sprang nach Osten herum. Am Abende in 80° 25´ nördl. Br. verließ ich das Schiff,
+um meine Bootfahrt anzutreten. Nach einer Stunde Ruderns erreichten wir einen
+schmalen Treibeisgürtel, den wir durchbrachen, und steuerten auf das gepackte
+Treibeis los. Ich stieg auf einen Eisberg und erblickte nichts als Packeis. So
+steuerte ich denn nach Westen; aber überall, so weit man nur sehen konnte, hatte
+das Eis dieselbe schlimme Physiognomie. Nach Osten hin schien es etwas besser zu
+sein, wir ruderten in dieser Richtung bis um 11 Uhr, da auch dieser Weg gesperrt
+wurde und der hereinbrechende Nebel uns alle Aussicht nach Osten hin benahm. Ich
+steuerte zu einem isolirten Grundeisblock in ungefähr 80° 26´ nördl. Br., etwa
+1½ Meilen vom Nordostlande entfernt, befestigte an ihm das Boot und blieb hier
+die Nacht. Dieser Eisberg war der größte von allen bis dahin gesehenen; er hielt
+zehn Faden im Umkreise, stand auf dem zehn Faden tiefen Grunde und erhob sich
+vier Faden über die Wasserfläche. Seine höchste Spitze stieg vom Boden senkrecht
+in die Höhe und dachte sich dann weiter bis zur Oberfläche des Wassers ab. Seine
+über dem letzteren befindliche Masse hatte daher nicht einen so bedeutenden
+kubischen Inhalt, als seine Höhe vermuthen ließ. Oben war er mit Schnee bedeckt,
+aber seine Seiten zeigten ein reines hellblaues Eis. Nachdem wir neben diesem
+nicht ganz ungefährlichen Nachbar ruhig geschlafen und unser Frühstück
+eingenommen hatten, steuerte ich am 20. nach Nordosten bis zu dem Eise, welches
+sich nach Norden und Osten hin ein wenig entfernt hatte, aber sich noch immer so
+schwierig zeigte, daß ich den Versuch, weiter nach Walden Island, das von uns
+etwa noch 18, Meilen entfernt lag, zu gehen, nicht wagen mochte, vielmehr mich
+nach Westen wandte, um, wenn es anginge, die Eisspitze zu umschiffen und
+womöglich Little Table Island oder Ross Islet zu erreichen. Während dieser Fahrt
+kam ich zum Aeolus, der bei der Windstille und Gegenströmung noch auf demselben
+Punkte lag, wo ich ihn gelassen, und erhielt von ihm die Nachricht, daß, so weit
+man von dem Mastkorbe sehen könne, das Eis westlich von Walden Island festliege.
+Ich steuerte deshalb nach Nordosten zu der Eisbucht, von welcher ich am Morgen
+ausgegangen, in der Hoffnung, hier am ehesten weiter zu kommen. Meine Hoffnung
+trog mich nicht; denn als ich am Nachmittage dorthin gelangte, hatte sich nach
+Nordosten hin in der That eine Rinne gebildet. Ich drang in ihr ein Ende vor,
+traf aber schließlich auf festes Eis und konnte nach allen Richtungen nichts
+Anderes wahrnehmen, als schweres Schraubeneis. Walden Island hatte ich im
+Ostnordost, in 1½ Meilen Entfernung, befand mich also mindestens in 80° 34´
+nördl. Br.; denn die Nordwestspitze dieser Insel liegt, nach Parry, in 80° 35´
+38“. Die Sieben Inseln mit ihren hohen, stattlichen Bergen bildeten gleichsam
+eine ununterbrochene Mauer im Osten und Nordosten. Beverly-Bai und Bird-Bai
+lagen vor mir im Südosten. Da es mir endlich gelungen war, so weit nach Norden
+vorzudringen, fiel es mir schwer, von einer Fahrt nach Walden Island abzustehen.
+Aber das Eis war während des letzten Tages in starke Gährung gekommen, die
+Entfernung noch immer groß, und die Gefahr, mit dem Eise in Trift zu kommen,
+augenscheinlich, um so mehr, als wir uns weit in demselben befanden. Nachdem ich
+noch eine Weile gewartet, kehrte ich auf demselben Wege zurück; denn das Eis
+wollte sich nicht öffnen und der Strom und der Südwestwind packten es sogar
+immer mehr zusammen, so daß die Gefahr einer Einschließung nahe lag. Als wir aus
+dem Eise heraus waren, steuerte ich nach Südosten gegen den Berg südlich von der
+Branntwein-Bucht und gelangte zu dem festen Eise unterhalb desselben um 10 Uhr
+Abends. Die Bucht selbst war nur noch mit morschem Eise bedeckt, aber auf der
+Nordküste von Low Island und im Sunde zwischen der Insel und dem Nordostlande
+wurde das Eis gerade aufgebrochen, trieb nach Norden und vergrößerte die
+Treibeismasse, aus welcher ich also noch gerade vor Thores Schluß herausgekommen
+war. Eine Nebelschicht folgte nun der andern; das den ganzen Tag über so schön
+gewesene Wetter wurde kalt und unbehaglich.
+
+„Obwohl auch am folgenden Tage noch Alles voll Nebel war, begab ich mich auf den
+Berg, südlich von der Vik, an dessen Fuß unser Boot lag. Er bildet eine Spitze,
+welche wir Cap Hansteen benannten. Es gelang mir nur schwer vorwärts zu kommen,
+denn das Eis war schon ganz „krank“; aber mit einiger Vorsicht vermochte ich
+doch den Strand zu erreichen. Nachdem ich zwei Gletscher passirt, welche von
+Nordwesten niedersteigen, konnte ich längs einer Landzunge und der nördlichen
+Kante des Gletschers ganz bequem auf den Berg gelangen, welcher eine Höhe von
+etwa 1,300 Fuß hatte. Auf dem vollkommen schneefreien Bergplateau sammelte ich
+Pflanzen, unter ihnen die schöne Flechte Usnea melaxantha. Aber vergebens
+wartete ich fünf bis sechs Stunden, daß der Nebel sich nur so weit verziehe, um
+mich über die Lage des Eises zu vergewissern oder einige Beobachtungen zu
+machen. Ich stellte deshalb die Instrumentenkisten so, daß wenn ein Bär sich bis
+auf diese Höhe wagen sollte, er sie nicht gleich bei seiner Ankunft die
+senkrechte Felswand nach dem Meere zu niederrolle, und kehrte zu unserm Boote
+zurück, indem ich es um 5 Uhr Nachmittags erreichte. Gegen Morgen wurde es
+klarer. Während ich auf das vollständige Verschwinden des Nebels wartete,
+erblickte ich ein Boot, das von Low Island herankam. Es war Torell nebst
+Nordenskiöld und der nach Süden gegangenen Bootpartie, welche gerade zum Schoner
+zurückkehrten. Nachdem wir uns von unseren Schicksalen Mittheilung gemacht,
+stieg ich wieder auf den Berg. Die Aussicht war jetzt klar. Das Eis hatte seine
+Lage nach Norden hin verändert. Da, wo ich zuletzt gewesen, befand sich nur noch
+ein Gürtel festen Eises um Walden Island. Ich erhielt hier vortreffliche Winkel
+für die Karte und die projectirte Gradmessung, welche zusammen mit den schon
+genommenen, und mit Zuhülfenahme der Karte Parry's, mir die Ueberzeugung
+verschafften, daß das trigonometrische Netz bis zur Mündung der Heenloopen Strat
+fortgesetzt werden müsse. Während die andere Partie eine Excursion zum
+nördlichen Strande machte, bestimmte ich die Lage der Spitze. Sie befindet sich
+in 80° 17´ 15“ nördl. Br. und 19° 34´ 45“ östl. L. Als ich darauf hinaus auf die
+Vik ruderte, um mit den Kameraden zusammen zu treffen, erlebte ich ein
+Abenteuer, das mitgetheilt zu werden verdient.
+
+„Während der ganzen Zeit, daß wir mit unserm Boote am Cap Hansteen lagen, hatte
+sich in der Nähe zwischen dem Eise ein einzelnes Walroß aufgehalten. Es befand
+sich offenbar in einer sehr schlechten Stimmung, denn es brüllte und schnob und
+zeigte sich unruhig bald hier bald dort. Als wir uns nun auf der Ruderfahrt
+nicht fern von unserm Rastplatze befanden, merkten wir, daß das Hinterende des
+Bootes tief in's Wasser gedrückt wurde, und nahmen unsern alten Bekannten wahr,
+welcher sich mit seinen Zähnen in den über den Rand des Bootes ragenden Mast und
+ein Ruder eingehauen hatte. Als nun einer von der Besatzung, der auf demjenigen
+Theile derselben, welcher sich im Boote befand, saß, aufstand, sank das Walroß
+sofort in das Wasser und verschwand eine Weile, hörte aber nicht auf, uns zu
+verfolgen. Die See war etwas bewegt, so daß man nicht sicher zielen konnte. Wir
+legten deshalb an einem Treibeisstücke an, um ihm von hier aus einen Denkzettel
+zu geben, im Falle es noch ferner Lust verspürte, unser Boot zu beunruhigen. Es
+dauerte nicht lange, so tauchte es ganz in der Nähe auf und erhielt von mir eine
+Kugel, die, wie es schien, eine gute Wirkung gehabt hatte, denn es begab sich
+nun quer über die Vik und verließ seine Lieblingsstelle. Nach diesem Abenteuer
+kehrte ich zu unserer früheren Raststelle zurück, wo bald darauf auch Torell und
+Nordenskiöld eintrafen. Sodann begaben wir uns nach Low Island zu unserm alten
+Freunde Aeolus.“
+
+Aeolus hatte ungefähr anderthalb Tage vor einem schwachen Südsüdwest gelegen,
+dann war er mit einem „labbern“ Südwest zu seinem früheren Ankerplatz an der
+Depotinsel gesteuert. Man sah aus Wijde-Bai große Massen von Baieneis mit dem
+Strome nach Norden treiben. Am Abend trat starker Nebel ein, Aeolus legte vor
+dem Holme bei, klarere Luft abzuwarten. Die Jagdboote wurden an's Land
+geschickt, um daselbst Rapporte niederzulegen und frisches Wasser einzunehmen.
+Der Nebel nahm mehr und mehr zu. Aeolus ging daher am Morgen des 22. wieder in
+seinem früheren Hafen vor Anker. Man machte Excursionen in's Land hinein und
+erhielt bald Kenntniß von dem kurzen Aufenthalte des „Südbootes“ daselbst und
+dessen neuer Fahrt nach Norden. Die Jagdboote kehrten am Abend mit vier alten
+und einem jungen Walroß zurück; spät in der Nacht traf auch Malmgren ein,
+welcher mit dem Steuermann einen Ausflug zum nördlichen Theile der
+Murchison-Bucht gemacht hatte. Wieder wurden die Anker gelichtet und vor einer
+frischen südlichen Brise nach Nordwesten gesteuert, um nach der Bootpartie zu
+spähen und ihr zur Hand zu sein. Als man am Morgen Shoal Point passirte, kam der
+Schiffer Nielsson an Bord, um Lebewohl zu sagen, denn er beabsichtigte wieder
+nach Tromsö zurückzukehren. Wir konnten also mit ihm Nachrichten von uns in die
+Heimath mitgeben. Am 23. Mittags erreichte man die Höhe der Branntwein-Bucht.
+Lilliehöök legte bei und ging im Boot nach Low Island, wo der Schiffer Rosendahl
+mit seinem Schoner vor Anker lag. Dieser machte die Mittheilung, daß er vor
+Kurzem beide Bootpartien in der Branntwein-Bucht gesehen habe, Lilliehöök
+steuerte sofort dorthin, konnte aber nicht die geringste Spur von ihnen
+entdecken; so kehrte er wieder an Bord zurück und ging gleich östlich von Low
+Islands nördlicher Spitze vor Anker. Lange aber hatte Aeolus dort nicht gelegen,
+als Abends um 8 Uhr beide Boote beim Fahrzeuge anlangten. So fanden sich nun
+wieder Alle am Bord des Aeolus zusammen. —
+
+Wieder wurden Vorbereitungen zu neuen Bootreisen getroffen. Torell und
+Nordenskiöld sollten ausgehen, um so weit als möglich die unbekannten
+Küstenstrecken des Nordostlandes zu untersuchen, Chydenius aber seine
+Recognoscirungsarbeiten fortsetzen und das Gradnetz so weit nach Süden
+ausdehnen, als die Verhältnisse es nur gestatteten. Während dessen machten wir
+Excursionen auf Low Island. Chydenius hatte bei seinem ersten Besuche zu finden
+gemeint, daß wenn einmal in diesen Gegenden eine Gradmessung vorgenommen werde,
+es möglich wäre, auf Low Island in der Richtung von Südost nach Nordwest eine
+Standlinie von einer Viertel- bis einer halben Meile Länge zu messen; eine
+nähere Untersuchung der Insel bestätigte diese Vermuthung vollkommen. Die Länge
+derselben beträgt ungefähr eine Meile. Nahe der Nordspitze wurde die Breite auf
+80° 20' 11“ bestimmt; die Inclination der Magnetnadel betrug an eben derselben
+Stelle 80° 40´ und die westliche Declination 17° 42´.
+
+Den 26. Abends war die nördliche Bootpartie zum Abgehen bereit, mit Proviant auf
+vier Wochen ausgerüstet, im Uebrigen nur mit dem Allernothwendigsten. Da das Eis
+im Norden noch festlag, so wurden die Kufen mitgenommen. Für den Fall, daß die
+Boote im Eise verloren gingen oder verlassen werden mußten, beschloß man ein
+Depot und das Eisenboot am Strande der Branntwein-Bucht zu errichten. Der Wind,
+welcher am Tage vorher als Sturm aus Südwesten aufgetreten war, stillte sich im
+Laufe des Tages ab. Es gingen daher am Abend Torell und Nordenskiöld mit
+demselben Boot und derselben Mannschaft wie während der früheren Reise ab.
+Aeolus hatte vor der Trennung die Instruction erhalten, sich zu seinem früheren
+Ankerplatz bei den Russeninseln zurück zu begeben, um von der Depotinsel die
+zurückgebliebenen Effecten der Bootexpeditionen abzuholen und Malmgren und
+Chydenius die Gelegenheit zu geben, in diesen Gegenden einige Excursionen zu
+veranstalten. Später sollte er zu dem südlichen Theile der Heenloopen Strat
+abgehen und bis zum 24. August sich auf geeigneten Ankerplätzen zwischen den
+Foster- und Südwaigatsinseln aufhalten, nach dem 24. August aber in der
+Lomme-Bai ankern, um hier die zurückkehrende geographische Expedition zu
+erwarten. Sollten das Treiben des Eises oder andere unvorhergesehene Umstände es
+nothwendig machen, so sei die Bootexpedition an folgenden Stellen — der Reihe
+nach — zu erwarten: bei den Russeninseln, der Mündung der Wijde-Bai, der
+Red-Bai, den Norsköer und der Kobbe-Bai. Bliebe die Expedition so lange aus, daß
+der Schoner bei einem längeren Aufenthalte an der Nordküste Gefahr liefe sich
+einer Ueberwinterung ausgesetzt zu sehen, dann solle er langsam zu den südlichen
+Häfen Spitzbergens und von dort nach Norwegen segeln. Uebrigens seien die in den
+früheren Instructionen gegebenen Vorschriften, betreffend die wissenschaftlichen
+Arbeiten, die Niederlegung von Rapporten und Proviant u. s. w., zu befolgen.
+
+Lilliehöök, Malmgren und Chydenius nebst einem Manne folgten den Abreisenden in
+dem norwegischen Boote. Das Jagdboot, welches in derselben Vik auf den Fang
+ausgehen sollte, bugsirte erst das dänische Eisenboot, worin der Proviant und
+die Bagage sich befand, welche zur Bildung eines Depots bestimmt waren. Der
+ganze Zug, vier Boote mit sechzehn Mann, steuerte direct auf die Westspitze des
+Nordstrandes an der Branntwein-Bucht los.
+
+„Als wir der Bucht näher kamen, sahen wir, daß ein großer Theil des Eises
+verschwunden und das zurückgebliebene größtentheils schon zersplittert war. Nach
+Norden hin hatte das Packeis, in Folge des letzten Sturmes, sich fast ganz
+verloren. Um 12 Uhr erreichten wir die Mitte des Einganges zur Bucht, das
+norwegische Boot nahm das Eisenboot in's Schlepptau, das Jagdboot ging auf den
+Fang aus und kehrte mit zweien Seehunden und einem Walroß zurück. Mit dem
+Nordostwinde begann nun ein starker Nebel sich auszubreiten, der während unserer
+Weiterfahrt durch die Vik mehr und mehr zunahm. Schließlich wurde er so dicht,
+daß jede Landmarke verschwand, und als wir nach einer Stunde Ruderns zu einem
+Gürtel von Treibeis gelangten, konnten wir die Eisstücke nicht eher wahrnehmen,
+als bis wir uns dicht bei denselben befanden. Zwischen diesem Treibeise hauste
+eine Menge Walrosse und Seehunde (Phoea hispida), welche von den Norwegern
+Steinkobbe genannt wird. Diese Seehundsart ist auf Spitzbergen nicht verbreitet
+und wurde von uns nur ein paarmal an der Nordküste angetroffen. Er hält sich im
+Sommer immer im Treibeise und nahe dem Wasser auf, in welchem er seine Nahrung
+sucht, bestehend in kleineren Krebsen und Fischen, besonders dem kleinen
+hochnordischen Dorsch Merlangus polaris. Den Winter bringt er in den Fjorden zu,
+in deren Eisdecke er zum Athemholen Löcher macht. Von allen Säugethieren ist er
+es, der in den nördlichsten Breitengraden wahrgenommen worden, denn Parry sah
+ihn auf seiner Polarreise in 82° 45´ nördl. Br. Es ist derselbe Seehund, welcher
+in der Ostsee und deren Busen, ja selbst im Ladoga und anderen Seen, namentlich
+Finnlands, den Gegenstand einer ziemlich großen und einträglichen Jagd bildet,
+während er in Spitzbergen wegen seiner geringen Größe wenig geschätzt und der
+größeren und fetteren Storkobbe oder Hafert — Phoca barbata — nachgesetzt wird.
+— Große Schaaren von Seepferden, Möwen, Teisten und Rotjes schwärmten zwischen
+dem Eise, die meisten um Nahrung für ihre eben ausgekommenen Jungen zu suchen.
+
+„Die Boote wurden zufällig ein wenig getrennt, verloren einander aus dem Gesicht
+und konnten nur mit Mühe denselben Cours weiter fortsetzen. Durch Rufen wurden
+wir endlich einander gewahr, als wir uns gerade unter einer senkrecht in's Meer
+stürzenden Felswand befanden, die wir nicht eher erkannten, als bis wir nur noch
+ein paar Klafter von ihr entfernt waren. Dann folgten wir dem Ufer, bis wir zu
+einer nach Südwesten vortretenden niedrigen Felsspitze kamen, welche fast ganz
+aus Hyperit bestand, eben so zersprengt wie der bei Low Island und dem
+Aeoluskreuz. An dem Oststrande dieser Spitze legten wir um 3 Uhr Nachmittags des
+27. Juli an. Die zum Depot bestimmten Sachen wurden an's Land geschafft, das
+eiserne Boot heraufgezogen, ein Treibholzfeuer angezündet und ein einfaches Mahl
+eingenommen, um uns zu der langen Ruderfahrt zu stärken. Torell suchte eine
+Stelle für das Depot aus und überzeugte sich, daß sie ebenso zu Wasser wie zu
+Lande erreichbar sei. Mittlerweile ließ der Nebel nach; Hellstad ging auf die
+Jagd und kehrte mit zweien der schönsten Rennthiere zurück. Denn es gab auch
+hier vortreffliche Weiden für diese Thiere.
+
+„Ein Endchen von unserm Rastplatz stieg ein steiler Bergkamm auf; Malmgren fand
+auf ihm reiche Ausbeute von Pflanzen. Keiner von allen bis dahin besuchten
+Punkten hatte, was Mannigfaltigkeit und Ueppigkeit betrifft, eine so reiche
+Vegetation dargeboten, wie diese Stelle. Auf den unteren Abhängen, welche hier,
+wie überall wo das Gestein aus Gneis oder Granit besteht, den Fuß der Berge
+umgeben, wandert man zuweilen über feuchte, weiche Stellen von dem lieblichsten
+Grün, zum größten Theil aus Mosen: Aulacomnium turgidum und Hypnum uneinatum
+gebildet, welche wie eine dicke Decke sich über ein schwarzes Torflager von
+einem Fuße Mächtigkeit ausbreiten. Auf dieser feuchten Grundlage wachsen in
+Menge auch einige Gräser: Alopecurus alpinus, Dupontia Fischeri, Poa cenisia.
+Besonders zeichnete sich der kleine Ranunculus hyperboreus aus. Fußhohe Oxyria
+reniformis und großblätteriges Skorbutkraut, Cochlearia fenestrata, wuchsen in
+erstaunlicher Ueppigkeit auf den niedrigeren Stellen, vermischt mit dem
+stattlichen Ranunculus sulphureus, deren große gelbe Blüthen dem Wanderer bis
+an's Knie reichten. Wir übergehen die übrigen Günstlinge des sonst so kargen
+arktischen Bodens: Cerastium alpinum, Potentilla emarginata, welche auf dem
+Vogelberg wuchsen und einen so starken Gegensatz zu den verkommenen Stiefkindern
+auf den Grus- und Trümmerflächen bildeten. Aber auch die allertrockensten
+Stellen waren nicht leer ausgegangen. Gelbe Draben und Mohn neben Saxifragen,
+Cardamine bellidifolia, die Zwergweide und Dryas wechselten freundlich ab mit
+den röthlichen Flecken eines bis dahin unbekannten Grases, Catabrosa vilfoidea,
+und erschienen wie Bonquette über den graubraunen Boden zerstreut. Unter den
+Moosen zeichnete sich die amerikanische Pottia hyperborea aus, und unter den
+Flechten die in Nord- und Südamerika, mit Ausnahme der Cordilleren, auftretende
+Usnea melaxantha, welche ebenso wie viele andere Pflanzen dem östlichen
+Spitzbergen eigenthümlich sind, während sie auf der Westküste fehlen. So
+verschieden ist die Natur dieser beiden, nur durch ein verhältnißmäßig schmales
+Hochland geschiedenen Küsten. Auch die steilen Abhänge der Berge waren mit
+einer, wenn auch nur sparsamen Vegetation bedeckt; denn von 1,500 Fuß Höhe
+brachte Torell noch einige Exemplare von Luzula hyperborea, Mohn und Stellaria
+Edwardsi mit. Die Stelle war aber auch sehr günstig. Der Berg fiel nach Süden
+steil ab und Millionen von Alken und Teisten brüteten dort.
+
+„Gegen Mittag verschwand der Nebel, und man machte sich an die Niederlegung des
+Depots. Mitten auf der Spitze wurde in den Sand eine Grube gegraben, daselbst
+der Proviant hineingelegt und mit Grus und Steinen bedeckt. Sodann wurden alle
+zum Boote gehörigen Sachen darauf gepackt, das Boot darüber gewälzt und rings
+mit Steinen umgeben. Das daselbst errichtete Depot bestand außer dem eisernen
+Boote mit Segel, Kufen, Zelt, Rudern, Steuer, vier Ziehgürteln und einer
+Schaufel zum Aufgraben des Proviants, aus neun Büchsen, welche 43 Pfund Pemmikan
+enthielten, und einer Tonne mit 70 Pfund Schiffszwieback.
+
+„Das norwegische Boot verließ zuerst diese Stelle, welche wir Depotspitze
+nannten, um 2 Uhr Nachmittags und ruderte in rascher Fahrt zum Schiffe. Die
+Expedition blieb noch eine Weile zurück, um einige weitere Anordnungen zu
+besorgen und sich demnächst zu den Regionen zu begeben, welche bis dahin nur
+Phipps besucht hatte.“ 
+
+:::: { .wrap-70 .caption }
+![Boot über Eis gezogen.](Die_schwedischen_Expeditionen_183.jpg "Boot über Eis gezogen."){#b183}
+::::
+
+:::
+
+:::: align-center
+****
+::::
+
+## <small>Neuntes Kapitel.</small><br /> Torell's und Nordenskiöld's zweite Bootfahrt.
+
+
+::: justified
+
+:::: fs-xs
+Eine Hägring. — Ein Bär. — Gesährliche Wanderung. — Die Martens-Insel. —
+Phipps-Insel. — Zurück. — Mitten im Packeise. — Extreme-Hook. — Riesentöpfe. —
+Abenteuer mit einem Bären. — Weiterfahrt. — Prinz Oskar's Land. — Karl's XII.
+Insel. — Cap Platen. — Umkehr. — Ein Festmahl. — Die Napoleonsstatue. — Der
+fabelhafte Sund. — Rückkehr zum Aeolus. — Geologisches.
+<br /><br />
+::::
+
+Ueber den Verlauf dieser Reise entnehmen wir den Aufzeichnungen Torell's und
+Nordenskiöld's Folgendes:
+
+„Wir ruderten aus der Branntwein-Bucht und nahmen unsern Weg nach Norden. Das
+Eis hatte während der Stille der letzten Nacht sich so dicht vor die Bird- und
+Beverly-Bai gelegt, daß wir oft nur mit großer Mühe durch die schmalen
+Oeffnungen zwischen dem Eise und dem festen Lande gelangen konnten. Unsern
+ersten Ruheplatz nahmen wir am Nordcap, der nordwestlichsten und nördlichsten
+Spitze des Nordostlandes.
+
+„Von hier begaben wir uns am 28. Juli 1 Uhr Nachmittags weiter. Als wir den
+nördlichsten Vorsprung der Spitze passirten, stiegen wir einen Augenblick an's
+Land, um eine Uebersicht des Eises und der Beschaffenheit der Umgegend zu
+erlangen. Wie wir schon vor einigen Tagen von der Spitze des Schneeberges
+gesehen hatten, lag noch im Norden des ganzen Nordostlandes dicht gepacktes
+Treibeis; aber der Südsturm, welcher seitdem gerast, hatte in zweien Tagen alles
+Eis zur Walden- und den Sieben Inseln getrieben. Große schwimmende Eisfelder
+trieben freilich noch zwischen den letzteren und dem festen Lande, so daß wir es
+für gerathen hielten, diesen Tag nicht weiter zu fahren als bis zu einer der
+südöstlich vom Nordcap belegenen Inseln, welche wir Castrén's Inseln nannten.
+Hier bot sich auch die lang ersehnte Gelegenheit, durch Mond-Distanzen eine
+absolute Längenbestimmung zu erhalten.
+
+„Nordenskiöld sollte hier eine sonderbare Sinnestäuschung erfahren. Indem ich,
+erzählt er, von dem östlichen Ende der Insel das Cap Platen betrachtete, glaubte
+ich auf dieser Spitze einige Leute in weißen Hemdeärmeln und Südwestern zu
+sehen, welche mit der Errichtung einer Steinvarde beschäftigt waren. Die
+Aehnlichkeit war so auffallend und die Figuren bewegten sich so natürlich, daß
+ich schon vollkommen überzeugt war, es sei eine der in unseren Zeitungen
+erwähnten englischen Expeditionen von Osten her bis zu dieser Spitze
+vorgedrungen, und die Mannschaft zur Erinnerung dessen mit der Errichtung einer
+solchen Steinpyramide beschäftigt. Ich rief den Harpunirer Hellstad herbei,
+welcher ebendasselbe erblickte und sogar einen Schiffer von Tromsö oder
+Hammerfest zu erkennen glaubte. Plötzlich erlitt die Illusion doch einen
+bedeutenden Stoß durch die Bemerkung, daß die Entfernung zwischen beiden Punkten
+zu groß sei, als daß die Figuren, welche sich auf dem Cap Platen bewegten,
+Menschen von gewöhnlicher Größe sein könnten, und bald löste sich auch Alles in
+eine in diesen nördlichen Regionen so oft vorkommende „Hägring“ (Fata morgana)
+auf. Die Luftschicht, welche die sehr zerklüfteten Klippen an der äußersten
+Spitze von Cap Platen umgab, war während des stillen und schönen Tages erwärmt
+und in eine zitternde Bewegung gekommen. Die dadurch entstandene ungleiche
+Strahlenbrechung gab sogar den Klippen eine scheinbare Bewegung, und die
+Illusion wurde vollkommen durch die eigenthümliche Gestalt dieser Felsen. Die
+alleräußerste Spitze bildete die Steinpyramide, eine nach dieser vortretende
+Felswand den Südwester, einige Schneefelder die weißen Hemdeärmel u. s. w.
+
+„Wir bestiegen die Spitze des 900 bis 1,000 Fuß hohen Berges, aus welchem die
+größere Castrén-Insel besteht und deren südwestlicher, jetzt schneefreier
+Abhang langsam nach dem Meere niederstürzt. Von dieser Höhe hatten wir eine gute
+Aussicht über das ganze Meer zwischen den Sieben Inseln und dem Festlande.
+Anstatt — wie wir erwartet — sich zu vertheilen, hatte das Eis sich von Neuem
+zwischen uns und den Sieben Inseln angehäuft, so daß uns für den Augenblick
+wenig Hoffnung blieb, vorwärts zu kommen. Am folgenden Tage, den 29. Juli,
+wagten wir bei dem herrlichen Wetter gleichwohl den Versuch, uns zwischen dem
+dichten, in heftiger Bewegung begriffenen Packeise durchzuschmiegen, und zwar
+mit dem Erfolge, daß wir, ohne das Boot über ein Eisstück zu schleppen, nach
+einigen Stunden glücklich an unserm Bestimmungsorte ankamen. Aber — „det var
+s'gu Held og ei Forstand“ — es war bloßes gutes Glück, nicht Verstand meinte
+Petersen.
+
+„Das Erste, was uns entgegenkam, da wir uns den Sieben Inseln näherten, war ein
+großer Eisbär, der auf dem zwischen diesen noch festliegenden Eise mit der Jagd
+auf Seehunde beschäftigt schien. Wir legten sofort am Rande eines Eisfeldes
+hinter einem hohen Schraubeneisberge an und warteten dort eine Weile still und
+ruhig. Bald merkte der Bär jedoch unsere Anwesenheit und begann sich
+fortzuschleichen, jetzt mit der Nase umherwitternd, jetzt sich auf den
+Hinterbeinen erhebend, um mit Hülfe seiner Augen sicherer als mit der Nase
+hinter die Sache zu kommen. Sein Gang und seine Bewegungen waren geschmeidig wie
+die einer Katze. Nach unzähligen Wendungen und Posituren, welche uns offenbar
+Furcht einjagen sollten, befand der Bär sich endlich in Schußweite. Petersen
+schoß zuerst, Hellstad gleich darauf, Beide jedoch ohne zu treffen. Der Bär
+machte sofort Kehrt und floh so schnell er konnte. Zuletzt warf er sich in's
+Wasser, um das Land zu erreichen, und wir ruderten so schnell als möglich nach
+derselben Richtung, um ihm den Rückzug abzuschneiden; jedoch ohne Erfolg.
+
+„Wir landeten denselben Tag 3 Uhr Nachmittags auf der Südspitze der Parry-Insel.
+Nordenskiöld benutzte das schöne Wetter, um die Lage der Spitze zu bestimmen,
+und machte noch einige kleinere Ausflüge. Am folgenden Tage bestieg Torell die
+höchste Spitze der Insel, während Nordenskiöld eine Wanderung längs dem Strande
+vornahm, welche wider Vermuthen äußerst beschwerlich und gefährlich wurde.
+
+„Das Gebirge stürzt auf der Nordwestseite so steil in's Meer, daß man, um vorbei
+zu gelangen, längs dem schmalen, nunmehr ganz unsichern Eisfuß gehen oder, wo
+derselbe fehlte, seinen Weg über die losen Eisstücke nehmen mußte, welche
+ziemlich dicht gepackt, aber in beständiger Bewegung den Strand umgaben. Als
+schließlich an einer Stelle, ungefähr eine Viertelmeile von dem Ankerplatze des
+Aeolus, sowohl der Eisfuß als auch das lose Eis fehlte, und zugleich der Rückweg
+— indem mittlerweile das Treibeis sich verringert hatte — abgeschnitten war,
+blieb nichts Anderes übrig, als die nächste senkrechte Felswand in die Höhe zu
+klettern, sich fest in die Klüfte und Ritzen zu schmiegen und auf diese Weise
+längs diesem immer gleich steilen Felsabhange zu wandern. Um 8 Uhr Vormittags
+war ich ausgegangen, und erst um 2 Uhr Nachts kehrte ich zurück, naß bis zum
+Gürtel, müde und hungrig. In der Voraussetzung, daß der Ausflug nur ein paar
+Stunden dauern werde, hatte ich nämlich nichts zu essen mitgenommen, und
+überdies auf den Rath Petersen's, welcher niemals eine große Neigung für
+Bergwanderungen verrathen hatte, Schuhe statt der Stiefel angezogen, um mit
+größerer Leichtigkeit auf den Bergen klettern zu können. Für diesen Zweck war
+eine solche Tracht allerdings ganz passend, dagegen äußerst unangenehm, als ich
+— was mehrere Male des Tages passirte — bis über die Kniee im eiskalten Wasser
+waten mußte. Als Torell und ich uns am folgenden Morgen unsere Wanderungen
+erzählten, mußten wir uns zu unserm Grauen gestehen, daß ungefähr zu derselben
+Zeit, als ich auf dem Eisfuße längs der steilen Felswand ging, Torell und seine
+Leute von der Spitze des Berges große Steine hernieder in's Meer gerollt hatten.
+
+„Parry's Insel bildet ein Oval von etwa einer schwedischen Meile Länge und ist
+fast ganz von zweien über 1,500 Fuß hohen Bergen gebildet, welche durch ein
+tiefes Thal getrennt werden. Letzteres setzt sich auf der östlichen und
+nördlichen Seite der Insel in zweien, bei unserm Besuche noch mit Eis belegten
+Buchten fort. Das Gestein besteht aus Gneis, durchkreuzt von Granitadern, in
+welchen man hier und da Krystalle von Turmalin findet. Obwohl die geologische
+Bildung dieselbe war wie in dem nordwestlichen Spitzbergen und der Unterschied
+in der nördlichen Breite kaum einen Grad betrug, so erschien dennoch der
+Unterschied im Pflanzen- und Thierleben höchst auffallend. Sehr wahrscheinlich
+wird dieses Verhältniß durch den kalten Meeresstrom, welcher von Osten herkommt,
+bestimmt. In dem Thale war die Vegetation äußerst ärmlich, und sogar auf den mit
+Vogelmist gedüngten Felsabhängen ganz unbedeutend, indem sie nur aus einigen
+Arten von Phanerogamen bestand, ein paar gelben Mohnpflanzen und kümmerlichen
+Flechten. Hier und da fanden wir auch ein wenig Grün; an einer Stelle weideten
+drei Rennthiere, welche geschossen wurden. Von Vögeln sahen wir hier zahlreiche
+Teisten, Rotjes und Großmöwen, aber nur wenige Eismöwen und Alken. Im Sande
+fanden wir Fuchsspuren.
+
+„Das schöne Wetter, welches bis dahin mit geringer Unterbrechung unsere
+Bootfahrten begünstigt hatte, nahm nun ein Ende, wir hatten von jetzt ab fast
+beständig mit Regen und Nebel zu kämpfen. Wegen dieses schlechten Wetters mußten
+wir bis zum 31. bei Parry's Insel liegen bleiben. Am folgenden Tage konnten wir
+nur mit großer Anstrengung durch den Nebel und das dicht gepackte Eis bis zur
+östlichsten der Sieben Inseln, der Martens-Insel, vordringen, und auch an den
+beiden folgenden Tagen hielt das Regen- und Schneewetter an, so daß keine
+geographischen Beobachtungen gemacht werden konnten. Der Nordsturm trieb das Eis
+nach Süden, und es blieb uns nichts Anderes übrig, als eine Wendung zum Bessern
+abzuwarten. Unsere Hoffnung, zu Parry's Distant High Land zu gelangen, wurde
+dadurch zunichte, daß sich das Eis zwischen dieses und uns legte. Wir bestiegen
+in diesen Tagen den höchsten Berg der Martens-Insel, konnten aber nichts Anderes
+wahrnehmen als Nebel und Schneetreiben; beim Niedersteigen hatten wir sogar
+Mühe, unsern Weg durch den dichten Nebel zu finden. Die Steine auf der Spitze
+des Berges waren auf der Windseite mit einer lose sitzenden, offenbar durch den
+Niederschlag von Wasserdunst entstandenen, glänzenden Eiskruste von einigen
+Linien Dicke bedeckt, welche bei der geringsten Berührung sich löste und unter
+Geräusch in tausend Stückchen zersprang. Ein Schneefeld konnten wir bei 500 bis
+800 Fuß Höhe nicht entdecken. Auch auf dieser Insel wurde ein Rennthier von
+Petersen geschossen. Während dieser Jagd stieß er auf das Nest eines kleinen
+schönen Sumpfvogels, Charadrius hiaticula, welcher hier zum ersten Male auf
+Spitzbergen gesehen wurde.
+
+„Einen Morgen, da wir bei dem Unwetter unter unserm Bootzelte hielten, wurden
+wir plötzlich von einem Büchsenschuß erweckt. Wir sprangen hinaus, um zu
+erfahren was los sei, und fanden den Tageskoch triumphirend mit seiner Büchse
+neben einem soeben erlegten Bären stehen. Der Koch, welcher nach Vorschrift
+früher als die Anderen aufgestanden war, um Kaffee zu kochen, hatte, wie er aus
+dem Boote stieg, einen großen Bären erblickt, welcher sich anschickte, eine
+Untersuchung unseres Fleischvorrathes anzustellen, und ihn mit einer
+wohlgezielten Kugel für solche Frechheit sofort bestraft. Ein anderer Bär kam
+noch näher an das Boot heran, bevor wir ihn wahrnahmen. Petersen traf ihn in den
+Kopf; der Schuß war zwar nicht augenblicklich tödtlich, aber nach einer kurzen
+Jagd wurde er doch erlegt.
+
+„Den 4. August hatte sich das Wetter endlich ein wenig aufgeklärt, so daß
+Stundenwinkel und Mittagshöhen genommen werden konnten. Den 5. begaben wir uns
+weiter zu der nördlichsten der drei großen Sieben Inseln, der Phipps-Insel. Sie
+besteht, wie die Martens-Insel, aus mehreren einzelnen, ungefähr 1,800 Fuß hohen
+Bergen, welche durch ein niedriges, mit Treibholz und Schiffstrümmern bedecktes
+Flachland mit einander in Verbindung stehen. Wie bei Shoal Point fanden wir auch
+hier zwischen dem Treibholz eine Menge Bimsstein, Stücke von Birkenrinde Nutz-
+und Floßhölzer mit lateinischen Buchstaben. Ueberreste von Walfischskeleten
+entdeckten wir, hoch über dem gegenwärtigen Niveau des Meeres, auf der niedrigen
+Spitze der Martens-Insel und auf dem Strande der von Osten einschneidenden Bucht
+der Parry-Insel. Alles deutet darauf hin, daß das Land, seitdem die
+holländischen Walfischfänger es zuerst besuchten, beträchtlich aufgestiegen ist.
+
+„Wir pflogen nun Rathes, was weiter zu thun. Der heftige Nordsturm hatte das Eis
+nach Süden gepreßt, so daß es unter Umständen schwer halten konnte, durch das
+mit Wind und Strom treibende Packeis zum Nordostlande zu gelangen. Wir hatten
+unsere Reise mit Proviant für vier Wochen angetreten. Unser Vorrath an Pemmikan
+war in Folge der Jagdausbeute noch unberührt; wenn wir aber längere Zeit auf den
+Sieben Inseln aufgehalten würden, konnten wir nur noch auf Bärenfleisch rechnen.
+Denn es gab hier weder Rennthiere noch Alken. Sonderbar, daß wir nicht ein Mal
+auf Walrosse oder auf Seehunde stießen! Wir mußten deshalb nothwendig zum
+Nordostlande zurückkehren.
+
+„Nachdem wir eine der höchsten Bergspitzen der Insel bestiegen und eine
+Ortsbestimmung gemacht hatten, kehrten wir am 7. August wieder zu den
+Castrèn-Inseln zurück. Als wir Parry's Insel passirten, stiegen wir an unserer
+früheren Raststelle an's Land. Während Nordenskiöld behufs Regulirung des
+Chronometers einige Sonnenhöhen nahm, kletterten Torell und Petersen auf einige
+nahegelegene Berge, um die Lage des Eises zu überschauen. Sie berichteten, daß
+man eine offene Wasserstraße im Treibeise nach dem Nordostlande zu wahrnehmen
+könne, und hofften, wir würden bei unserer Rückkehr auf keine bedeutenderen
+Hindernisse stoßen. Wir schoben deshalb sofort unser Boot in's Wasser und
+steuerten nach der Richtung, wo das Eisfeld am meisten offen schien. Aber sei
+es, daß wir von dem niedrigen Boote die Oeffnung nicht recht sehen konnten, oder
+daß — was wahrscheinlicher — die schmale Oeffnung sich bald wieder geschlossen
+hatte, genug, wir waren kaum eine Viertelmeile gerudert, als die Kanäle kürzer
+und immer gewundener wurden und unser Boot auf allen Seiten dicht vom Eise
+umgeben war. Es blieb uns nichts Anderes übrig, als abwechselnd unsere Sachen
+aus dem Boote zu laden, sie über ein Eisfeld zu tragen und das Boot
+nachzuziehen; dann wieder, wenn ein schmaler Kanal sich öffnete, von Neuem die
+Sachen in das Boot zu packen und es mit den Rudern weiter zu schieben, denn von
+einem eigentlichen Rudern konnte nicht die Rede sein. Erwägt man, daß wir vom
+Boote aus keine weitere Aussicht hatten und also beinahe auf's Gerathewohl
+fuhren, und daß das in beständiger Bewegung befindliche Eis sich bald öffnete,
+bald schloß, und zwar oft mit einer solchen Schnelligkeit, daß wir nur mit der
+äußersten Sorgfalt das Boot vor dem Zerdrücktwerden bewahren konnten, so kann
+man sich leicht vorstellen, wie ermüdend und gefährlich eine solche Fahrt durch
+ein Feld von Packeis ist. Besonders ein Mal wurde unser Boot so hart
+mitgenommen, daß wir es kaum noch zu erhalten glaubten. Die Eismassen preßten es
+nämlich so gewaltig zusammen, daß es seine Form veränderte, das Wasser durch die
+Ritzen eindrang und die Sachen darin umherschwammen. Das zähe amerikanische
+Ulmenholz bestand indessen die Probe. Als das Wasser wieder ausgeschöpft war,
+zeigte sich das Boot, mit Ausnahme ein paar kleiner Brüche, wieder eben so gut
+als früher. Ein großes Eisfeld, auf welchem sich ein paar hoch aufgethürmte
+Hummocks befanden, leistete uns während des schlimmsten Theiles der Fahrt gute
+Dienste. Von den Eisbergen konnten wir nämlich in die Weite sehen und erkennen,
+wo das Eislabyrinth sich im Süden zu öffnen begann. Während wir so uns langsam
+vorwärts arbeiteten, trieben wir mit dem Eise nach Osten und erreichten erst
+nach zwölf Stunden schwerer Anstrengung das offene Wasser, und zwar in der Nähe
+derjenigen Insel, welche wir später besuchten und nach Scoresby benannten. Wir
+steuerten von hier zu den Castrén-Inseln, wo wir am 8. August fünf Uhr Morgens
+ankamen und glücklicher Weise eine Menge Treibholz fanden. Sofort zündeten wir
+ein großes Feuer an und trockneten unsere nassen Kleider; denn die Meisten von
+uns waren während der Fahrt durch das Packeis und bei dem Hinüberspringen von
+einem Eisstücke zum andern zwischen dieselben gefallen und hatten ein mehr oder
+weniger kaltes Bad erhalten. Während dieser Tour war uns auch das eigenthümliche
+Schauspiel von Nebensonnen zu Theil geworden, welches freilich in den
+Polargegenden häufig genug ist, wenn auch nicht so häufig im Sommer als im
+Winter.
+
+„Obgleich die Hoffnung, weit vorzudringen, nur schwach sein konnte, so setzten
+wir doch am folgenden Tage unsere Ruderfahrt nach Osten fort. Es dauerte nicht
+lange, so war das Eis wieder so dicht gepackt, daß nur ganz in der Nähe des
+Landes eine schmale Rinne übrig blieb, welche sich übrigens auch bald schloß. So
+kehrten wir zu der nur vor Kurzem passirten Spitze zurück, welche auf älteren
+Karten mit Unrecht als die nördlichste dieses Landes bezeichnet ist und aus
+diesem Grunde den jetzt so wenig vassenden Namen Extreme-Hook erhalten hat. Wir
+kletterten die allmählich aufsteigenden Berghöhen hinan und konnten uns bei der
+Umschau davon überzeugen, daß der auf älteren Karten eingetragene Sund, welcher
+die große Steininsel und die Halbinsel — deren nördlichste Spitze das Nordcap
+bildet — von dem eigentlichen Nordostlande trennt, entweder niemals existirt
+hat, oder in Folge des Aufsteigens des Landes, oder des Vorschreitens der
+Gletscher geschlossen ist. Der Raum, auf welchem dieser Sund — nach den alten
+Karten sich befinden soll, wird nunmehr von flachen Thalvertiefungen
+eingenommen, in welche von den angrenzenden hohen Eisbergen kleine Gletscher
+niedersteigen. Ringsum auf dem Meere lag Eis, und nur ein kurzes Ende erschien
+offenes Wasser. Der Theil des Nordostlandes, welchen wir überschauen konnten,
+bildete ein hohes Schnee- und Eisplateau, das sich langsam zum Meere
+herabsenkte; ein Seitenstück also zu der Eishochebene des inneren Grönlands,
+wenn auch nicht von demselben großartigen Charakter. Denn ebenso wie diese hat
+die Eismasse des Nordostlandes ihren Abfall, oder so zu sagen ihren Ausfluß —
+welcher sich vorherrschend auf der Ostseite des Landes befindet — da, wo nach
+den alten Karten mächtige Gletscher in gewaltigen Abstürzen hervortreten und
+längs dieser ganzen Küste in senkrechten Eiswänden aus einem Meere aufsteigen,
+das beinahe immer durch Packeis und die ungeheuren in den Sommermonaten
+herabstürzenden Massen des Binneneises unzugänglich gemacht ist.
+
+„Den 9. August versuchten wir es vergebens, weiter nach Osten vorzudringen. Wir
+stießen bald auf dichtes Eis, mußten umkehren und landeten auf dem westlichen
+Strande der zwischen Extreme-Hook und dem Nordcap belegenen Bucht, wo wir uns
+von einem Berge aus über die Lage des Eises, des Landes und der Insel zu
+vergewissern suchten. Bis zur Spitze dieses Berges trafen wir jene
+eigenthümlichen runden Vertiefungen von einer bis anderthalb Ellen Durchmesser
+an, welche man in Schweden jüttegrytor (Riesentöpfe) nennt. Sollte es
+feststehen, daß dergleichen Löcher immer durch Wasserströmungen verursacht
+werden, welche einen in der Vertiefung befindlichen Stein in kreiselnder
+Bewegung erhalten und dadurch die Wände des Grapens abschleifen, so würde das
+Vorkommen der Riesentöpfe auf diesen mindestens 1,600 Fuß hohen Bergen beweisen,
+daß ihre Spitzen sich einst unter dem Wasser befunden haben und vielleicht mit
+Gletschern bedeckt gewesen sind.
+
+„Während der Nacht wurde das Eis von einem heftigen Südsturme in Bewegung
+gesetzt, und am Morgen lag Scoresby's Insel frei vor uns. Wir beeilten uns,
+diesen günstigen Zufall zu benutzen, nahmen unsere Jagdbeute — einen von
+Petersen erlegten Bären, den siebenten, den wir auf unseren Bootreisen
+geschossen an Bord und segelten mit gutem Winde nach Osten. Er stürzte zuweilen
+von den Bergen mächtig herab in das Segel; aber das Boot war gut, und Petersen
+ein vortrefflicher Seemann; so erreichten wir, ohne weiter auf Eis zu stoßen,
+eine der kleinen zwischen Cap Irminger und Cap Lindhagen belegenen Inseln,
+welche auf der Karte nach Sabine, den um die Kenntniß des hohen Nordens so
+verdienten Physiker, benannt sind.
+
+„An diesem Morgen stieß Nordenstkiöld ein ziemlich unbehagliches Abenteuer zu:
+„Ohne mit irgend einer Waffe versehen zu sein, bestieg ich die Spitze des
+Inselberges, um von ihr aus einige trigonometrische Winkel zu messen. Als ich
+noch ungefähr fünfzig bis sechzig Schritt vom Gipfel entfernt war, erkannte ich,
+daß ein Bär schon vor mir diesen Platz eingenommen hatte, vermuthlich um nach
+Beute auf den ringsum liegenden Eisfeldern zu schauen. Auch er hatte mich schon
+wahrgenommen. Ich wagte daher nicht, zum Boote zurückzukehren, sondern ging
+dreist auf ihn zu, in der Erwartung, er werde erschrecken und ebenso
+davonlaufen, wie es die Eisbären bis dahin immer gethan hatten, wenn ihnen
+Menschen genaht waren. Aber ich hatte mich verrechnet. Der Bär näherte sich mir
+langsam in einem Bogen, und bald befanden wir uns so nahe, daß ich hätte nach
+ihm mit einem Stocke schlagen können. Er stand etwas höher auf einem Felsblock,
+schnob und trampelte mit den Vorderfüßen; ich, etwas tiefer, rief und schrie aus
+Leibeskräften und warf große Steine nach ihm, ohne daß er jedoch die mindeste
+Notiz davon nahm. Endlich traf ihn ein großer Stein gerade an den auf den Felsen
+gestützten Vorderfuß, und der Schmerz, oder vielleicht weil er seine Neugierde
+befriedigt, veranlaßte ihn, sich zurückzuziehen. Ich folgte ihm ein Ende, bis er
+hinter einer hervorragenden Klippe verschwand, und stürzte sodann im hastigen
+Laufe zurück zu unserm Boote. Noch hatte ich meinen Bericht über das Abenteuer
+nicht beendigt, als Torell ausrief: „Da ist er!“ — und auf einen ein paar
+Hundert Ellen entfernten Felsen deutete, von dessen Höhe der weiße Beherrscher
+der Insel uns betrachtete. Zwei von den Leuten wurden zur Verfolgung abgesandt,
+aber der Bär ergriff, als sie nahten, sofort die Flucht und wir sahen ihn nicht
+wieder.“
+
+„Von Sabine's Insel ruderten wir unter dem Nordostlande bis zu einer Spitze. Bis
+dahin hatten auf dieser Nordküste nur Gneis und Granit vorgeherrscht; jetzt
+nahmen geschichtete Gebirgsarten ihren Anfang, doch enthielten sie keine
+Versteinerungen. Auch die Formen der Berge waren andere und ihre Färbung oft
+sehr grell.
+
+„Den 11. August setzten wir die Fahrt nach Osten hin fort, begünstigt von gutem
+Winde und eisfreiem Wasser, und landeten in Kurzem an einer neuen Spitze. Um zu
+sehen, ob der dahinter liegende Fjord nicht möglicher Weise einen Sund bilde,
+der Heenloopen Strat mit dem nördlichen Eismeere verbinde, bestiegen wir den
+hohen Berg, welcher den westlichen Theil einer der drei nördlich vom
+Nordostlande hervortretenden Landzungen einnimmt, und entdeckten, daß der vom
+Eise freie Fjord weiter nach dem Lande zu in zweien Armen endigte. Der ungefähr
+eintausend Fuß hohe Berg fällt nach Osten senkrecht zum Meere ab und war nun,
+mit Ausnahme einer Seite, frei von Eis und Schnee. Nach Westen hin dacht er sich
+nach dem Unterlande ab, einer mit lauter Steingetrümmer bedeckten Ebene, welche
+in einem steilen, acht bis zehn Fuß hohen Ufer endigt, das aus Sand, Rollsteinen
+und darin gebettetem Treibholz besteht; ein eigenthümliches Verhältniß, aus
+welchem wir erkennen können, wie einer Formation leicht ein durchaus fremder
+Bestandtheil beigemischt werden kann. Eine ähnliche Erscheinung kommt zuweilen
+in Norwegen vor, nämlich Thonlager, in denen man außer Schalthieren von
+hochnordischen Arten Baumstämme antrifft, welche sicher nicht in diesem Lande
+gewachsen sind.
+
+„Nachdem wir auf dem Gipfel des Berges eine hohe Steinpyramide errichtet und
+darin einige schriftliche Nachrichten niedergelegt hatten, stiegen wir wieder
+hinab und fuhren Nachmittags mit unserm Boote weiter. Das Fahrwasser war nun
+vollkommen eisfrei, so daß wir Abends an der von Parry als Distant-High-Land
+bezeichneten Küstenstrecke, welche wir so lange vergebens zu erreichen gesucht
+hatten, landeten. Wir nannten sie Prinz Oskar's Land. Der Eisfuß, welcher am
+längsten der Wärme des Sommers Widerstand zu leisten pflegt, und gleich einem
+weißen Gürtel die Küsten noch immer umgiebt, auch wenn der Schnee längst von den
+Bergen verschwunden ist, war nun endlich zergangen und hatte da, wo der Strand
+aus Sand und Grus bestand, eigenthümliche Spuren seiner Existenz zurückgelassen.
+Ueberall im Gerölle sahen wir konische Vertiefungen von 4 bis 6 Fuß im
+Durchmesser, welche wahrscheinlich dadurch entstanden waren, daß das vom
+Schmelz- und Fluthwasser bewegte und gehobene Eis einen größeren Steinblock mit
+sich fortgeführt hatte.
+
+„Bis dahin hatten wir unser Boot immer auf den Eisfuß gezogen, aber von jetzt ab
+ließ es sich nur noch selten thun; wir pflegten vielmehr eine passende Stelle am
+Strande aufzusuchen, zogen das Boot dort hinauf und legten Treibholz unter den
+Kiel. Auch hier, auf dem abgelegensten Theile des Nordostlandes, war kein Mangel
+an Treibholz; dagegen fanden wir keine Sachen mehr, die aus Norwegen stammten,
+mit Ausnahme von ein paar Harpunenschaften oder Rudern, nach Petersen Geräthe
+der Walfischjäger, welche wahrscheinlich durch die Küstenströmung hierher
+geführt waren. Vegetation und Thierleben erschienen gleich dürftig, so daß im
+Vergleich mit dieser Gegend das westliche Spitzbergen den Eindruck eines reichen
+Landes macht.
+
+„Am folgenden Tage begaben wir uns in östlicher Richtung über Land, um den
+Gipfel eines Berges, welcher — nach dem Augenmaß — zwei Meilen entfernt war, zu
+erreichen. Das Terrain bestand aus allmählich aufsteigenden Berghöhen, welche
+von einander durch vollkommen kahle, mit Schieferfragmenten bedeckte
+Thalvertiefungen getrennt werden. Sie verriethen bei unserm Besuche keine Spur
+weder von Thier- noch Pflanzenleben, Schnee oder Eis. Bei Regen und Nebel
+wanderten wir eine Meile weiter durch diese wüste Landschaft, bis wir plötzlich
+auf einen tiefen, von Norden nach Süden gehenden Fjord stießen, welcher uns von
+dem hohen Berge, dem Ziele unserer Wanderung, trennte. Der Eisgang hatte bereits
+begonnen; es blieb uns daher nichts Anderes übrig, als den Fjord zu umgehen. Da
+wir aber von dem Sprühregen bereits ganz durchnäßt waren und fürchten mußten,
+bei dem schlechten Wetter von dem zu besteigenden Berge keine Aussicht zu haben,
+so beschlossen wir umzukehren.
+
+„Den 13. August steuerten wir nach Norden und landeten gleich südlich von Cap
+Wrede. Während der letzten Tage waren wir ohne Wild gewesen und hatten unsern
+Vorrath an Pemmikan angreifen müssen. Ein auf dem Strande weidendes Rennthier
+bildete daher eine willkommene Jagdbeute. Bald nachdem wir das Boot an's Land
+gezogen hatten, zeigte sich auch ein Eisbär ein Ende von uns zwischen den
+„Hummocks“, aber wir warteten vergebens, daß er bis zum Strande komme. Sieht man
+den Eisbären, wie er mit geschmeidigem und leichtem Gange sich zwischen den
+aufgethürmten Eisbergen bewegt, so macht er eine viel stattlichere Figur, als in
+einem zoologischen Garten. Selbst auf dem Lande schon erscheint er viel plumper.
+Obwohl er seine Nahrung ausschließlich auf dem Eise und im Wasser sucht, trafen
+wir doch zuweilen seine Spuren hoch auf den Bergen an.
+
+„Um in die Lage des Eises, östlich von dieser Spitze, Einsicht zu bekommen,
+bestiegen wir einen 1,800 bis 2,000 Fuß hohen, beinahe schneefreien Berg, und
+hatten von hier eine weite Aussicht. Wir konnten weit in der Ferne, fast am
+Horizonte, zwei kleine Inseln wahrnehmen, von denen die eine hohe steile
+wahrscheinlich mit Table Island identisch ist. Sie sind auf der Karte mit den
+Namen Karl's XII. Insel und der Trabant bezeichnet und bilden, wie man sich
+überzeugen kann, die äußersten Vorposten der spitzbergischen Inselgruppe nach
+Nordosten hin. Undurchdringliche Massen von Treibeis umgaben sie noch von allen
+Seiten, aber uns näher hatte sich das Eis bei dem heftigen Südwinde in den
+letzten Tagen etwas gelöst, so daß das Meer ziemlich offen lag und uns die
+Weiterfahrt nach Osten gestattete. Die Bildung der Berge erinnert an Hecla
+Mount: sie bestehen aus geschichtetem Schiefer und Kalk, die unteren Schichten
+beinahe senkrecht, die darüber lagernden aber beinahe wagrecht. Da auf die
+Bergbesteigung eine ziemlich lange Zeit hinging, so kamen wir diesen Tag nicht
+weit, sondern wählten unsern Rastplatz, nach kurzer Fahrt, auf dem Weststrande
+derjenigen Spitze, welche auf der Karte Cap Platen benannt ist. Am folgenden
+Tage fuhren wir weiter, passirten die nördlichste Spitze von Prinz Oskar's Land
+und steuerten nach Osten. Trotz des anhaltenden Windes waren wir dauernd von Eis
+umgeben, so daß wir nicht segeln konnten, sondern zu den Rudern greifen mußten.
+Nachdem wir die Spitze passirt hatten, steuerten wir nach Südosten. Wir waren
+noch nicht weit gekommen, so wurde das Eis immer dichter und schließlich so fest
+gepackt, daß wir nicht länger glaubten das Wagstück fortsetzen zu dürfen, zumal
+auch Petersen ernstlich davon abrieth. Wir kehrten daher um und legten auf der
+Ostseite des Cap Platen an. Von einem nahen, 8- bis 900 Fuß hohen Berge
+erblickten wir nach Norden hin nichts als zusammenhängendes Packeis; nur in
+einer Breite von zwei bis drei Meilen war es doch so vertheilt, daß wir
+dazwischen rudern konnten. Nach Osten hin hatte das Eis dieselbe Physiognomie;
+dagegen erschien es nach Süden hin weniger gepackt. Es war also allerdings eine
+Möglichkeit vorhanden, weiter nach Osten vorzudringen und zum Sammelplatze in
+der Lomme-Bai zu gelangen, indem wir das ganze Nordostland umschifften. Aber
+ernste Bedenken stellten sich diesem Unternehmen entgegen. Wir hatten keine
+Kenntniß von der Ausdehnung der östlichen Küste des Nordostlandes, welche
+überdies, nach den Karten, von Gletschern bedeckt ist; so daß, wenn das Eis
+mehrere Tage lang von dem Ostwinde gegen das Land gepreßt wurde, wir vielleicht
+nicht einmal eine Stelle zum Landen vorfanden und möglicher Weise den Rückweg
+ganz verloren. Ueberdies hatte wahrscheinlich derselbe südöstliche Wind, welcher
+uns freie Bahn verschafft, den Sund der Heenloopen-Straße mit Eis versperrt; so
+daß, wenn es uns auch glücken sollte, die ganze Ostküste zu passiren, uns kein
+anderer, als eben dieser Weg, für die Rückkehr blieb. Ebenso konnten wir leicht
+durch einen Nordwind abgeschnitten werden. Unser Proviant war endlich für eine
+langwierige Einschließung in diesen wüsten Gegenden zu mitgenommen. So
+beschlossen wir denn, unsern ursprünglichen Plan fallen zu lassen und wieder
+nach Westen zurückzukehren. Und es war die höchste Zeit, diesen Beschluß in's
+Werk zu setzen, denn schon am folgenden Tage ging der Wind nach Nordwesten
+herum.
+
+:::: { .wrap-70 .caption }
+![Karls XII. Insel und der Trabant.](Die_schwedischen_Expeditionen_196.jpg "Karls XII. Insel und der Trabant."){#b196}
+::::
+
+„Am Morgen des 15. August machten wir uns daher auf den Weg, um so schnell als
+möglich die Lomme-Bai zu erreichen. Einige Stunden vor unserm Aufbruche
+erhielten wir noch Besuch von zwei Eisbären, einem sehr großen Männchen und
+einem etwas kleineren Weibchen. Wir begrüßten sie mit ein paar Büchsenschüssen,
+jedoch nur mit dem Erfolge, daß der größere Bär eine Kugel in den Leib bekam
+und, stark blutend, sich langsam entfernte. Die Bärin folgte ihm und leckte das
+Blut auf, das aus seiner Wunde floß.
+
+„Einige Freunde in Stockholm hatten uns vor der Abreise ein paar Büchsen mit
+eingelegten Haselhühnern und ein paar Flaschen alten vortrefflichen Weines
+geschenkt, welche mit der Fregatte Eugenie die Reise um die Welt gemacht hatten.
+Diese Delicatessen sollten nun hier verzehrt werden. Als wir daher zum zweiten
+Male Cap Platens schwarze, hohe zerklüftete Felsen passirten, stiegen wir an das
+Land, um hier das Festmahl einzunehmen. Als Tisch diente ein großer, flacher
+Stein; ein reines Handtuch als Tischtuch; ein paar flache kleinere Steine
+vertraten die Teller, unsere Taschenmesser die Tischmesser, der „Dieb“ einer
+Flasche die Weingläser, welche wir in früheren besseren Tagen wirklich besessen
+hatten, — nun längst zerschlagen, — aber es war doch ein festliches Mahl, dem
+weder Reden noch Toaste fehlten. — 
+
+„Wir ruderten weiter über das nun beinahe eisfreie Meer nach Scoresby's Insel,
+sahen uns aber in Folge einer heftigen Gegenströmung genöthigt, eine Weile am
+Cap Wrede anzulegen, um eine Aenderung in der Richtung derselben abzuwarten.
+Gleich den übrigen nach Norden vortretenden Spitzen des Nordostlandes besteht
+auch Cap Wrede aus prachtvollen, hohen, senkrecht abstürzenden Bergen, deren
+unterer Theil von einem feinen schwarzen Schiefer gebildet wird. Ein schmaler
+Landstreifen, der sich zwischen dem Fuße des Gebirges und dem Meere hinzieht,
+besteht aus Fragmenten jenes durch Wasser und Frost gesprengten Schiefers. Aus
+seiner Mitte erhebt sich ein sehr hoher, isolirter, vollkommen schwarzer
+Schieferfels, dessen Umrisse, in einer gewissen Richtung gesehen, eine
+sonderbare Aehnlichkeit mit der Statue des ersten Napoleon haben, welche sich
+auf der Vendömesäule befindet. Dieses ungeheure Felsbild, das mit schwimmenden
+Eisbergen bedeckte Meer an seinem Fuße, im Hintergrunde die hohen Berge und die
+blendend weißen Schneefelder im Innern des Landes vereinigten sich hier zu einem
+der großartigsten Gemälde Spitzbergens.
+
+„Nach Ablauf einiger Stunden hatte der Strom seine Richtung verändert und floß
+mit derselben Heftigkeit nach Westen, wie früher nach Osten. Wir schoben unser
+Boot in's Wasser und erreichten mit dieser günstigen Strömung nach einer
+verhältnißmäßig kurzen Ruderfahrt den nördlichen Strand der Scoresby-Insel, wo
+wir die Nacht zubrachten. Am Morgen des folgenden Tages fanden wir eine kleine
+Süßwasserpfütze mit dünnem, neugebildetem Eise überzogen, welches auch den
+ruhigen Meeresspiegel bedeckte. Wir setzten die Fahrt fort und stiegen einen
+Augenblick an einer Gneisfelsspitze aus, um einige Beobachtungen zu machen,
+worauf wir zwischen ziemlich vertheiltem Schraubeneise und kleinen Feldern
+flachen Eises zu den Castrén-Inseln steuerten. Die Eisfelder ragten meist nur 2
+bis 3 Fuß — ein Siebentheil ihrer wirklichen Dicke — über den Wasserspiegel,
+während das aufgethürmte Eis mit seinen bizarren Formen sich bis 20 Fuß erhob.
+Nachmittags hatten wir stilles Wetter. Es bildete sich eine Eiskruste auf dem
+Wasser, welche uns das Rudern nicht wenig erschwerte. Gegen Abend erhob sich ein
+so starker Nebel, daß wir das einige Tausend Fuß hohe Land erst dann wahrnahmen,
+als wir uns nur noch ein paar Hundert Ellen von demselben entfernt befanden.
+
+„Wir wählten unsern Ruheplatz bei diesen Inseln. Es regnete beinahe die ganze
+Nacht und den folgenden Vormittag hindurch, aber unser dünnes Zelt schützte uns
+vollkommen. Erst gegen Mittag konnten wir weiter reisen. Während eines eben so
+starken Nebels wie am Tage vorher umschifften wir das Nordcap, ließen nun die
+Nordküste hinter uns, segelten an der Bird- und BeverlyBai vorüber und kamen
+erst ziemlich spät am Abend zur „Depotspitze“. Bei dem hier niedergelegten Boote
+ließen wir einen Schlitten, den wir mit uns geführt hatten, eine Blechbüchse mit
+43 Pfund Pemmikan und einige Taue zurück. Wieder brach das schlechte Wetter
+herein, so daß wir erst am 18. weiter reisen konnten. In der Vermuthung, daß ein
+Sund von dem südlichen Theile der Branntwein-Bucht bis zu den Russen-Inseln
+durchgehe, ruderten wir anfangs in das Innere des großen, nunmehr eisfreien
+Fjordes. Wir trafen keinen Sund an, überzeugten uns aber davon, daß der Fjord
+einen guten Winterhafen darbiete. Wir brachten die Nacht an dem Südoststrande
+der Bucht zu, ruderten am folgenden Tage — den 19. — wieder aus ihr hinaus und
+legten einige Stunden mitten bei ihrem südlichen Strande an, um einige
+Ortsbestimmungen zu machen. Die Berge, welche den Eingang begrenzen, waren nun
+zum größten Theile eis- und schneefrei; aber gegen Norden hin befand sich ein
+ziemlich mächtiges Eis- und Schneefeld, welches wahrscheinlich niemals schmilzt.
+Wir trafen den Schiffer Rosendahl von Hammerfest und erhielten von ihm einige
+angenehme und befriedigende Mittheilungen über unsern Aeolus.
+
+„Gerade Low Island gegenüber schneidet wieder eine tiefe Bucht, deren innere
+Hälfte noch mit Eis bedeckt war, in das feste Land ein. Wir ruderten auch in
+diese Bucht, um noch einmal den auf alten Karten angegebenen Sund aufzusuchen,
+fanden ihn aber nicht. Walrosse, welche wir während unserer ganzen Fahrt längs
+der Nordostküste des Nordostlandes nicht gesehen hatten, zeigten sich hier in
+Menge und bereiteten sich — nach der Aussage der Harpunirer — nunmehr darauf
+vor, auf das Land hinauf zu gehen. Auf dem südlichen niedrigen Ufer, wo wir
+rasteten, gab es eine Menge Treibholz.
+
+„Die Nacht vom 19. zum 20. August brachten wir auf dem nördlichen Strande von
+Shoal Point zu. Trotz des starken Regens, heftigen Nordwestes und dichten Nebels
+segelten wir am 20. zur Depotinsel in der Murchison-Bucht. Wir nahmen hier die
+niedergelegten Vorräthe ein, nebst Lilliehöök's Rapporten, und setzten unter
+anhaltendem Nebel und heftigem Winde unsere Segelfahrt nach der
+Heenloopen-Straße fort. Wir passirten den letzten der großen Gletscher, welche
+auf der Westseite des Sundes gleich nördlich von der Lomme-Bai herabstürzen.
+Südlich von ihm ttritt ein anderer gleich großer Gletscher auf, bis zu seiner
+unteren Hälfte gleich und eben, während der andere zerklüftet und zackig ist.
+Beide hatten große Massen reinen Eises von sich abgestoßen welche uns nun
+überall im Wege lagen und während der Fahrt unsere ganze Aufmerksamkeit in
+Anspruch nahmen, um sie zu vermeiden und von uns fern zu halten. Es ging
+indessen Alles ganz gut, und wir liefen in eine kleine Vik der Lomme-Bai ein.
+Der Schoner hatte sich an der verabredeten Stelle noch nivht eingefunden, aber
+schon an demselben Tage Mittags konnte man von einer nahebelegenen Höhe
+wahrnehmen, daß ein Schiff am westlichen Strande der Lomme-Bai, in der Bucht
+gleich südlich vom Eiscap, vor Anker lag. Wir ruderten dorthin und begrüßten, zu
+unserer großen Freude, unsern Aeolus wieder.
+
+„Chydenius befand sich noch auf seiner Bootexpedition in der Lomme-Bai und wurde
+erst am 24. August zurückerwartet. Um die beiden noch übrigen Tage zu benutzen,
+machten wir, Torell Malmgren, Petersen und ich, einen Ausflug in das Innere der
+Bucht. Ein paar Meilen vom Fahrzeuge begegneten wir Chydenius nius, auf seiner
+Rückfahrt von der innersten Vik des Fjordes welche tief in das Land
+einschneidet. Anstatt unsere Fahrt we fortzusetzen, richteten wir unsern Cours
+nach dem südlichen, mit Treibholz bedeckten Strande des eigentlichen Fjordes und
+blieben daselbst die Nacht. Die „Treibholz-Rhede“ befand sich in 79° 26´ 22“
+nördl. Br. und 18° 12 östl. L.
+
+„Wir fanden in dieser Bucht ein vortreffliches Jagdgebiet, aug dem Petersen und
+der Harpunirer neun Rennthiere erlegten. Dies Thiere waren nun in so hohem Grade
+feist, daß sie unser Boot vollkommen belasteten; sie bewiesen, wie schnell und
+verhältnißmäßig kräftig die Pflanzen- und Thierwelt sich während des arktischen
+Sommers entwickelt. Damit die Jagd ihren ungestörten Fortgang habe, lag das Boot
+während des größten Theiles des Tages unthätig, und wir hatten daher
+Gelegenheit, die geologischen Verhältnisse der Umgegend zu erforschen. Auf dem
+westlichen Strande erhoben sich aufrecht stehende Schichten eines grauen
+Kalkgesteins ohne Versteinerungen, während die ganze Ostseite aus derselben
+Bildung wie Cap Fanshaw besteht, nämlich aus Kalk mit Hyperitgängen. Es war uns
+interessant, hier im Detail das Verhältniß des eruptiven Hyperits zum
+Kalkgestein zu erkennen. In einer tiefen Schlucht, welche einen guten
+Durchschnitt darstellte, zeigte sich deutlich, wie die aus der Entfernung
+gesehenen horizontalen Kalkschichten in einem Winkel von mehreren Graden gehoben
+waren, während der Hyperit sich zwischen die Lagen gedrängt hatte. In der Nähe
+des Hyperits war der Kalk heller, sehr hart und ohne Versteinerungen, ein
+Verhältniß, das wahrscheinlich dem Einflusse des geschmolzenen Hyperits
+zuzuschreiben ist. Man kann indessen als sicher annehmen, daß der Hyperit den
+schon gebildeten Kalkstein durchbrochen habe, und daß er — im geologischen Sinne
+— jünger als dieser sei.
+
+„Nachdem wir die geschossenen Rennthiere im Boote untergebracht, ruderten wir
+aus dem Fjorde hinaus zum Cap Fanshaw, nach welcher Richtung schon vorher Torell
+und Malmgren sich zu Fuß begeben hatten. Als wir ungefähr ein Drittheil des
+Weges zwischen der Treibholz-Rhede und Cap Fanshaw gerudert waren, erreichten
+wir sie und legten am Strande an. Es war mittlerweile ein starker Nordsturm
+entstanden, der uns hinderte, die Fahrt zum Schiffe fortzusetzen. Nicht ohne
+Mühe zogen wir das Boot auf den ungünstigen Strand, um ruhigeres Wetter zu
+erwarten, und erst am folgenden Tage, den 24. August, gelangten wir, nach einer
+in Folge des anhaltenden Sturmes und der starken Dünung sehr ermüdenden Fahrt,
+zum Aeolus.“ 
+
+:::
+
+:::: align-center
+****
+::::
+
+
+
+
 #### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [Hier wie später immer von Greenwich gerechnet.]{.footnote}

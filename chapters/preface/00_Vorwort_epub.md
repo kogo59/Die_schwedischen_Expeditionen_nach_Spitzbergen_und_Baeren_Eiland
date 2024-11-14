@@ -20,8 +20,8 @@
 * [Gruppe von Eisbären](ch003.xhtml#b129)
 * [Walroßkopf](ch003.xhtml#b132)
 * [Walroßjagd](ch003.xhtml#b136)
-* Boot über Eis gezogen
-* Karls XII. Insel und der Trabant
+* [Boot über Eis gezogen](ch003.xhtml#b183)
+* [Karls XII. Insel und der Trabant](ch003.xhtml#b196)
 * Eismöwe (Larus eburneus)
 * Rennthierkopf
 * Rennthierjagd
