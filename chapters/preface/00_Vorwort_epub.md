@@ -22,8 +22,8 @@
 * [Walroßjagd](ch003.xhtml#b136)
 * [Boot über Eis gezogen](ch003.xhtml#b183)
 * [Karls XII. Insel und der Trabant](ch003.xhtml#b196)
-* Eismöwe (Larus eburneus)
-* Rennthierkopf
+* [Eismöwe (Larus eburneus)](ch003.xhtml#b205)
+* [Rennthierkopf](ch003.xhtml#b231)
 * Rennthierjagd
 * Küste des festen Landes bei der Smeerenbergbai (Granit)
 * Im Innern der Kingsbai
