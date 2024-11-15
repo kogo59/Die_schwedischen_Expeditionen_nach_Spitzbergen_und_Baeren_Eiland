@@ -1,6 +1,6 @@
 # Expedition von 1861 unter Torell's Leitung. {#erstes .unnumbered}
 
-## <small>Erstes Kapitel.</small><br />Von Tromsö bis Bären-Eiland. 
+## <small>Erstes Kapitel.</small><br /> Von Tromsö bis Bären-Eiland. 
 
 ::: justified
 
@@ -7634,6 +7634,379 @@ weit hinaufgehen.“
 ****
 ::::
 
+
+## <small>Elftes Kapitel.</small><br /> Die Fahrt des Aeolus bis zur Robbe-Bai. 
+
+::: justified
+
+:::: fs-xs
+Malmgren's Thätigkeit. — Moffen-Insel. — Phipps' Beschreibung. — Ein Berg von
+Walroßskeleten. — Im Norden offenes Wasser. — Das Meer in der Herbstzeit. —
+Nicht nach Norden. — Red-Bai. — Smeerenberg-Bucht. — Amsterdam-Eiland. — Sabine.
+— Der Herbst kommt. Sturm. — Zusammentreffen mit Magdalena.
+<br /><br />
+::::
+
+Die Jahreszeit war nun so weit vorgeschritten, daß bereits die sicheren Zeichen
+für das Nahen des Herbstes erkennbar wurden. Der Weg nach Süden durch die
+Heenloopen-Straße war gesperrt, aber auch den Rückweg drohte der anhaltende
+Nordwind, welcher das Eis hereintrieb, uns zu verlegen. Zwar hatten wir von der
+Lage des Eises im Westen keine Kunde, aber wir mußten diesen Weg einschlagen, um
+mit Magdalena zusammen zu treffen; auch hielt es Torell an der Zeit, die
+Nordküste Spitzbergens zu verlassen. Er hätte freilich noch gerne den Versuch
+gemacht, von der Heenloopen-Straße aus die Ostküste des Nordostlandes zu
+untersuchen, aber die Zeit erlaubte es nicht mehr, und unsere Bootexcursionen
+waren somit zu Ende.
+
+Die Heenloopen-Straße sowie die westliche und nördliche Küste des Nordostlandes
+waren untersucht und geographisch bestimmt, ansehnliche Sammlungen von
+Mineralien und Versteinerungen gemacht. Auf Grund derselben ließ sich eine
+Geologie des höchsten Nordens bearbeiten und eine geologische Uebersichtskarte
+entwerfen. Vor unseren Bootreisen gab es keinen thatsächlichen Beweis für das
+Vordringen des Golfstromes bis Spitzbergen, geschweige bis zu dessen
+nördlichsten Küsten. Lange hatte die Vorstellung sich behauptet, daß die
+Schneegrenze im nördlichen Spitzbergen bis zum Niveau des Meeres herabsteige.
+Während unserer vielen Gebirgswanderungen führten unsere Beobachtungen zu einer
+Berichtigung dieser Vorstellung, was nicht blos für die physische Geographie im
+Allgemeinen, sondern auch für die Erklärung wichtiger geologischer Verhältnisse
+in Skandinavien von Bedeutung sein möchte.
+
+Während alle anderen wissenschaftlichen Mitglieder auf ihren Bootexcursionen
+abwesend waren, blieb Malmgren ohne Unterbrechung auf dem Aeolus, überall mit
+zoologischen und botanischen Arbeiten beschäftigt. Im Logbuch des Aeolus kann
+man fast von jedem Tage lesen, wenn das Schiff vor Anker lag, daß die
+Schleppboote in Gange waren, das heißt, daß der alte Anders Jakobsson mit seinem
+Boote, mit seiner Mannschaft und Bodenkratze draußen war und aus jeder nur
+erreichbaren Tiefe die Producte des Meeres in großer Menge heraufholte. Es war
+keine kleine Arbeit, alles dasjenige, was er auf diese Weise zum Schiffe brachte
+und was das Land im Uebrigen an Pflanzen und Thieren darbot, auszusuchen,
+unterzubringen, zu ordnen und zu verzeichnen. Für die erlangten reichen
+Resultate haben wir allein dem unermüdlichen Fleiße Malmgren's zu danken.
+
+Der Anker wurde am späten Abend des 24. August gelichtet und wir begannen längs
+der Heenloopen-Straße nach Norden zu kreuzen. Dieses dauerte ohne merklichen
+Erfolg einen ganzen Tag, bis endlich der Wind nach Westen, dann nach Süden
+herumging, so daß wir in der Frühe des 26. August, nachdem wir in der Mündung
+der Strat noch auf einige verborgene Klippen — jedoch ohne Schaden zu nehmen —
+gestoßen waren, auf dem alten Platze an der Depotinsel Anker werfen konnten.
+Nach der Rückkehr des Jagdbootes, welches an's Land gegangen, weil die Walrosse
+in dieser Zeit — bei dem Mangel an Eisschollen zum Ausruhen auf das Land zu
+kriechen pflegen, nachdem ferner Wasser eingenommen und Chydenius von einem
+kurzen Ausfluge auf die Insel an Bord zurückgekommen war, gingen wir am
+Nachmittage desselben Tages wieder unter Segel und wandten nunmehr der
+Heenloopen-Straße und dem Nordostlande — dem eigentlichen Felde unserer
+bisherigen Thätigkeit — den Rücken. Wir steuerten anfangs, von einem
+gleichmäßigen Winde begünstigt, nach Nordwesten. Bald sprang der Wind jedoch
+hierhin und dorthin, es folgte Schneewetter, und am Abend trat vollkommene
+Windstille ein. Wir lagen nun nordwestlich von Shoal Point und hatten gute
+Gelegenheit, von hier aus das ganze Flachland, welches in diese Spitze verläuft,
+mit seiner Schneedecke zu übersehen. In seinem Contraste mit dem schwarzen
+Gewässer erinnerte es an den Winter in Norwegen.
+
+Am folgenden Tage segelten wir anfangs mit günstigem Winde nach Norden und kamen
+nunmehr zu dem nördlichsten Punkte, welchen das Schiff auf dieser Reise
+erreichte, nämlich bis zu 80° 30´ nördl. Br. Wir hatten beabsichtigt, in der
+Branntwein-Bucht Anker zu werfen, änderten aber später diesen Beschluß, in der
+Befürchtung, wir könnten, wenn der Wind zu ungünstig werden sollte, vom Eise
+eingeschlossen werden. Wir wandten daher, als der Wind nach Nordwesten
+herumging, um neun Uhr Vormittags nach Süden. Eine Weile wehte der Wind frisch,
+gegen Abend aber hörte er wiederum auf. Während der Windstille ging das
+Schleppboot aus und „dreggte“ in dem tiefen Wasser gerade vor der Mündung der
+Treurenberg-Bai. Den ganzen Tag über herrschte mehr oder weniger Nebel- und
+Schneewetter. Die Temperatur der Luft hielt sich in der Nähe des Gefrierpunktes
+und sank sogar bis —0,~7~° C. Während der Nacht kreuzten wir ein wenig nach
+Norden, nahmen aber am 28. Vormittags, als der Wind nach Süden und nach Westen
+herumging, den Cours nach Westen, schritten nur langsam vorwärts und ließen mit
+wehmüthigen Empfindungen alle die Landschaften, mit welchen wir während elf
+Wochen bekannt und vertraut geworden waren, eine nach der andern hinter uns. Als
+wir die niedrige flache Insel Moffen in Sicht bekamen, beschloß Torell, an ihrer
+Westseite Anker zu werfen. Das Schleppboot wurde in's Wasser gelassen und
+Malmgren, Nordenskiöld und Chydenius gingen an's Land, um einige Beobachtungen
+zu machen und, was von Interesse, zu sammeln. Auch das Jagdboot fuhr in der
+Hoffnung aus, die Walrosse würden sich jetzt, da das Eis verschwunden war, auf
+dem Lande befinden, traf aber keine Spur von ihnen an. Das Schleppboot fand, daß
+der flache und sandige Boden rings um die Insel überaus arm und dürftig sei.
+
+Lange schon den Holländern bekannt, wird die Insel Moffen unter dem Namen
+Muffen-Eiland von Martens erwähnt. Er erzählt, daß die Walroßjäger, wenn ihre
+Jagd fehlgeschlagen, sich hierher zu begeben pflegten, um die in großen Schaaren
+auf das Land gegangenen Walrosse zu erlegen. Von den erschlagenen bilde man dann
+eine Brustwehr oder Schanze und lasse nur einige Stellen, gleichsam ein paar
+Thore, offen, durch welche die Thiere hinein zu dringen versuchten. Auf diese
+Art tödte man oft ein paar Hundert, welche die ganze Reise bezahlt machten,
+indem die Zähne — das Einzige, was man damals an dem Thiere schätzte — einen
+großen Werth hätten. Der Name Muffen-Eiland für das blos sechs Fuß über dem
+Meere aufsteigende Land scheint der Mißachtung entsprungen zu sein, welche die
+Schiffer, im Hinblick auf die nahen gewaltigen Küsten Spitzbergens, empfanden.
+Phipps' Expedition (1773) beschrieb diese Insel als ein fast kreisrundes
+Flachland, von etwa zwei englischen Meilen im Durchmesser, mit einem sehr
+flachen See oder großen Teiche in der Mitte, der bis auf 30 oder 40 Ellen
+Entfernung vom Strande überall gefroren war. Die Breite des Landes zwischen der
+See und diesem Teiche betrug eine halbe Kabellänge bis eine Viertelmeile. Die
+ganze Insel war mit Sand oder Gerölle bedeckt, ohne das mindeste Grün oder
+irgend welche Vegetation. Sie fanden hier ein Stück Treibholz, ungefähr drei
+Klafter lang, noch mit seinen Wurzeln und von der Dicke des Besanmastes ihres
+Schiffes. Es war über den höheren Theil des Landes geworfen und lag auf dem
+Abhange nach dem Teiche zu. Sie sahen hier auch drei Bären, eine Menge
+Eidergänse und andere Seevögel, Vogelnester über die ganze Insel zerstreut, und
+das Grab eines Holländers, welcher hier im Juli 1771 begraben worden war. —
+Parry hat die Insel auf seiner Reise blos aus der Entfernung gesehen.
+
+Nordenskiöld stellte die Lage der westlichen Spitze auf 80° 1´ 6“ nördl. Br. und
+14° 33´ 15“ östl. L. fest. Scoresby, dessen Beschreibung der Insel mit der von
+Phipps übereinstimmt, giebt ihre Lage auf 80° 1´ nördl. Br. und 12° 43´ östl. L.
+an. Die magnetische Inclination beträgt 80° 27´ 53“. Wir fanden die Insel ganz
+so, wie Phipps es berichtet. Die Lagune war vollkommen eisfrei und stand auf der
+Westseite durch einen einige Klafter breiten Sund mit dem Meere in Verbindung,
+so daß ihr Wasser gleichzeitig mit der Ebbe und Fluth sank und stieg. Auch
+fanden wir eine ebensolche Glaskugel wie in der Lomme-Bai unter dem Treibholze.
+Die Menge des letzteren — auf dem Strande zwischen Meer und Lagune — war
+indessen nicht so groß, als man nach der niedrigen Gestalt der Insel erwartet
+hätte. Dagegen lagen überall kleine Steine, Trümmer des auf dem nahen Lande
+anstehenden Gesteins; auch fanden die Botaniker eine ganz unbedeutende Ausbeute.
+Auf der einförmigen Fläche vermochten wir in der Ferne etwas Weißes zu
+unterscheiden, das einem Kalkfelsen ähnlich war. Einige von uns eilten dorthin,
+um zu sehen, was es sei. Hier ward uns ein so sonderbarer Anblick, daß wir ihn
+schwerlich jemals vergessen werden. Die ganze weiße Masse bestand aus nichts als
+Walroßskeleten, zu hunderten, oder vielmehr tausenden auf einander gehäuft, und
+man konnte deutlich erkennen, daß viele von ihnen blos um ihrer Zähne willen
+getödtet und im Uebrigen unberührt dem Winde und Wetter zum Spiel und zur
+Zerstörung überlassen worden waren. Dieser Knochenhaufen konnte allerdings eben
+so gut aus den letzten Decennien als aus Martens' Zeit herstammen, denn ungefähr
+so, wie Martens die Walroßjagd darstellt, wird sie noch heutzutage hier
+betrieben. Wenn die Walrosse nach dem Verschwinden des Eises müde werden und
+sich nicht mehr in See halten können, gehen sie zu hunderten und tausenden auf
+das Land, um sich auszuruhen. Denn obwohl sie auch im Wasser, mit dem halben
+Kopfe über der Oberfläche, zu schlafen vermögen, wie man oft wahrzunehmen
+Gelegenheit hat, so ist es doch wahrscheinlich, daß sie sich auf diese Art nicht
+vollkommen ausruhen. Die Walroßjäger passen nun den rechten Augenblick ab,
+suchen unbemerkt an Land zu kommen, tödten mit den Lanzen die zunächst liegenden
+und bilden dadurch einen Wall gegen die entfernter befindlichen Thiere. Diese
+müssen nun sehen, wie sie über die Leichname ihrer Genossen kommen, werfen sich
+voller Verzweiflung hinüber, wälzen sich den Strandabhang hinab in's Meer und
+schlagen in der Verwirrung einander todt oder erdrücken sich. Der erste Angriff
+verlangt einen hohen Grad von Muth und Enhtschlossenheit, besteht aber mehr in
+einem Schlachten als einer Schlacht, und von den vielen Hundert der erlegten
+Thiere fallen bei Weitem nicht alle von der Hand des Jägers. Nun füllt man das
+Schiff mit Häuten und Speck; kann man nicht Alles mitnehmen, so haut man den
+zurückbleibenden wenigstens die Zähne aus; das blutige Schlachtfeld aber mit
+seinen gräßlichen Spuren verscheucht auf Jahre die Walroßheerden von dieser
+Stelle. So zerstört man oft die besten Jagdplätze. Diese Art zu jagen, so
+gewinnbringend sie auch sein mag, sollte man daher abschaffen, wenn es
+allerdings denkbar wäre, irgend eine Ordnung oder Aufsicht in Betreff der
+spitzbergischen Jagden einzuführen, hier, wo alles Lebendige einen Geldwerth
+hat: Eider- und andere Vögel, Walrosse, Seehunde, Rennthiere und Eisbären; alles
+fällt rettungslos der Gewinnsucht zum Opfer, unter dem Vorwande: 
+
+„Thue ich es nicht, so thut es ein Anderer.“ Die Gefahr liegt nur zu nahe, daß
+in einigen Jahrzehnten das Walroß an allen zugänglichen Küsten Spitzbergens eben
+so ausgerottet sein wird, wie es bereits bei Bären-Eiland geschehen ist, oder so
+selten wird, wie an der Westküste Spitzbergens; und dasselbe Loos muß bald allen
+anderen Thieren zu Theil werden.
+
+Die Mitternachtssonne beleuchtete prachtvoll die leichten Wolken über den hohen
+Bergspitzen der Wijde-Bai im Süden. Hier sahen wir auch zum ersten Male auf
+Spitzbergen ihre Scheibe unter den Meereshorizont tauchen.
+
+Seit unserer Ankunft in diesen Regionen bis in die Mitte des August hinein
+hatten wir vom östlichen Spitzbergen aus ununterbrochen im Norden Eis gesehen.
+Während unserer letzten Bootfahrten war das Wetter zwar immer so neblig gewesen,
+daß wir von den Bergen, welche wir bestiegen, keine weite Aussicht nach Norden
+hatten, wir fanden jedoch, daß nach Westen hin immer eher offenes Wasser war,
+als im Norden des östlichen Spitzbergen. Nun hatten wir erwartet, der Nordwind,
+gegen welchen wir aus der Heenloopen-Straße kreuzen mußten, werde das Eis gegen
+die Nordküste getrieben haben. Dieses war jedoch nicht der Fall. Denn während
+unserer ganzen Fahrt aus der Strat bis Low Island und von dort nach der
+Moffen-Insel konnten wir auch nicht den geringsten Schimmer irgend welchen
+Treibeises entdecken. Wir nahmen nicht einmal irgend einen „Eisblink“ wahr,
+jenen hellen Schein, den das mit Schnee bedeckte Eis an den Himmel wirft und
+welcher schon in sechs bis acht Meilen Entfernung das Vorhandensein des Eises
+verräth. Es war daher in der That höchst verlockend, von hier direct nach Norden
+zu segeln, so weit man eben offenes Wasser vor sich hatte. Es wurde das
+Unternehmen auch einer ernsten Berathung unterzogen. Torell und die
+wissenschaftlichen Mitglieder waren alle dafür. Sehr wahrscheinlich konnte man
+bis zum 82. Breitengrade, wenn nicht weiter gelangen. Einmal wäre es von großem
+Interesse gewesen, die südliche Grenze des Treibeises im Herbste festzustellen;
+dann durfte man auch hoffen, andere werthvolle Beobachtungen zu erlangen.
+
+Torell äußert hierüber Folgendes:
+
+„Ich bin davon überzeugt, daß das Eis in jener Zeit auf der Höhe von Cloven
+Cliff weit ab von uns lag, und hätte uns die Dampfkraft zur Verfügung gestanden,
+so würde die schwedische Flagge wahrscheinlich in der höchsten Breite, welche
+bis dahin je ein Schiff erreicht, geweht haben. In dem arktischen Amerika hält
+man für die eigentliche offene Jahreszeit die zweite Hälfte des August und die
+erste des September. Zu dem westlichen Spitzbergen kann man zwar ohne Ausnahme
+schon im Frühlinge gelangen, aber es scheint doch, daß zugleich mit der offenen
+Jahreszeit im arktischen Amerika auch eine große Veränderung mit dem Eise bei
+Spitzbergen vor sich geht. Parry erzählt in seiner Polarreise, daß er gerade im
+September zwischen der Treurenberg-Bai und Cloven Cliff kein Eis gesehen habe,
+und daß er es nicht für eben schwer erachte, auf der Höhe der Sieben Inseln bis
+zum 82. Grade zu segeln. Ferner sagte mir Capitän Haugan von der Brigg Jaen
+Mayen, daß das Eis im August verschwinde, man wisse nicht wie und wohin. Daß das
+Küsteneis in äußerst kurzer Zeit schmelze, konnten wir selber wahrnehmen, und
+wahrscheinlich trägt die starke Strömung hierzu am meisten bei. Sie ist
+vermuthlich auch der Hauptgrund für die starke Verminderung des Meereises. Das
+Wasser hat nämlich im Spätsommer eine viel höhere Temperatur. Während unserer
+letzten Fahrt war sie niemals unter 2° C. gefallen; meist hatte sie höher
+gestanden. Sobald also ein offenes Meer und eine wärmere Strömung die Eisblöcke
+umspült, muß ihr Volumen schnell verringert werden. Man darf daher annehmen, daß
+eine in dieser Jahreszeit unternommene Expedition nicht blos ganz Spitzbergen
+umsegeln, sondern auch sehr schöne Resultate und Entdeckungen erzielen werde,
+vorausgesetzt, daß ihr die Dampfkraft zu Gebote steht. Da indessen alle
+bisherigen Expeditionen nicht länger als bis zum Beginn des Herbstes sich hier
+aufgehalten haben, so hat man in dieser Beziehung noch keine Erfahrung. Die
+Walfischjäger beendigen ihre Jagd gewöhnlich schon in der ersten Hälfte des
+Sommers, und es ist sehr glaublich, daß der Grönlands-Wal, welcher sich stets in
+der Nähe des Treibeises aufhält, später weiter nach dem Norden zieht.“ 
+
+Die Seeleute und die Matrosen waren unserm Plane aber aus dem Grunde entgegen,
+weil Aeolus kein guter Segler sei; er werde bei einem zu befürchtenden
+Herbststurme möglicher Weise dem Treibeise nicht entgehen können, und wohl gar
+von demselben den Winter über eingeschlossen werden. In wenigen Tagen würde auch
+das Sonnenlicht während der Nächte aufhören und deren Länge gegen den Herbst hin
+sehr schnell zunehmen. Dieses alles mache eine solche Reise aber sehr
+bedenklich. Die Mannschaft hatte schon seit längerer Zeit sich nach südlicheren
+Gegenden gesehnt und zeigte keine Lust sich auf eine solche Fahrt einzulassen.
+Auf Grund dessen beschloß Torell, nicht nach Norden zu steuern, vielmehr statt
+dessen nach Westen zu gehen und die Untersuchungen auf der Westküste bis zum
+Zusammentreffen mit Magdalena fortzusetzen. Wir lichteten deshalb am 29. August
+gleich nach Mitternacht die Anker, um nach der Smeerenberg-Bai zu gehen. Der
+Wind wehte nur schwach aus Südosten; die aus Nordosten kommende starke Dünung
+bewies aber, daß das Eis nach dieser Seite weit entfernt lag. Während des
+herrlichsten Wetters fuhren wir Abends zwischen den majestätischen Inseln der
+Nordwestküste hindurch und gelangten Nachts zum Einlaufe der Smeerenberg-Bucht.
+Da der Wind zu wehen aufhörte, so bugsirten wir das Schiff am folgenden
+Vormittage in die Smeerenberg-Bai und warfen bei Amsterdam-Eiland mitten in dem
+zwischen dieser Insel und dem eigentlichen Spitzbergen befindlichen Sunde Anker.
+
+Während dessen wurde von Torell und Malmgren eine Bootexcursion gemacht. Sie
+landeten in der Little Red Bay, wo die Dünung sehr hoch ging, und unternahmen
+eine längere Wanderung längs dem Strande. Der Fijord findet sich bereits in der
+Parry'-schen Karte eingezeichnet, doch stimmt die Wirklichkeit nicht sehr mit
+jener Aufnahme überein. Er hat seinen Namen von einem ziegelrothen Sandstein
+erhalten, welcher mit seinen fast horizontalen Schichten einen hohen Berg auf
+der Ostseite des Fjordes bildet. Versteinerungen sucht man hier vergebens. Seine
+Schichten berühren unmittelbar den Gneis, aus welchem der innerste und westliche
+Theil des Fjordes besteht. Hier fanden sie eine lange Düne, die einen
+ausgezeichneten Hafen bildet und von einem kleinen Flusse durchbrochen wird. Auf
+derselben lag eine ungeheure Zahl von Walroßskeleten; alle Zähne waren fort;
+viele hatten noch ihre Haut. Einer unserer Harpunirer sagte, die Russen hätten
+diese Niederlage unter den auf das Land gekrochenen Thieren angerichtet. Auf dem
+Strande befand sich ein großes, von denselben aufgeführtes Blockhaus, in welchem
+die letzte russische Expedition auf Spitzbergen überwintert hatte. Es war auf
+schlechtem Grunde erbaut und muß daher auch sehr ungesund gewesen sein. Mehrere
+Gräber mit russischen, das heißt griechischen, Kreuzen deuteten genugsam den
+unglücklichen Ausgang der Expedition an. Ebenderselbe Harpunirer war auch einmal
+mit einem norwegischen Walroßjäger zu diesem Fjord gekommen und hatte einen
+großen Theil der zu einer solchen russischen Expedition gehörigen Mannschaft
+todt und den Ueberrest vom Skorbut ergriffen gefunden. Die Letzteren wurden
+sämmtlich am Leben erhalten. Die Russen besuchten Spitzbergen ehemals sehr oft;
+man trifft deshalb auch an vielen Stellen ihre hohen Kreuze und alten Hütten an.
+Sie kamen vom Weißen Meere, überwinterten und wurden im Frühjahre von einer
+neuen Partie abgelöst. Doch erzählt man von einem Russen, der ununterbrochen
+viele Jahre auf Spitzbergen zugebracht und schließlich daselbst auch sein Grab
+gefunden hat. Sie jagten auf Walrosse, fingen Weißfische in ihren großmaschigen
+Netzen, schossen Rennthiere und stellten Fallen für die Füchse, deren Sommerfell
+werthlos, während der Winterpelz sehr schön ist und — besonders bei den blauen —
+sehr hoch bezahlt wird. In der That fand man auch hier eine Menge verdorbener
+Fuchsfelle. — Auf dem Strande lag Treibholz in ungeheuren Massen.
+
+In der Red Bai sollte Magdalena, wenn sie dort gewesen, einen Rapport und
+Proviant niedergelegt haben; ein solcher war jedoch nicht vorhanden. Die Partie
+ruderte deshalb zu dem Norway Island (Norskö) und traf noch Spuren von dem
+Observatorium Sabine's an, welcher im Jahre 1823 Spitzbergen hesuchte, um die
+Schwingungen des Pendels zu beobachten und magnetische Untersuchungen
+anzustellen. Am folgenden Tage erreichte sie wieder den Aeolus in der
+Smeerenberg-Bai, dem vielleicht besten Hafen Spitzbergens, zugleich historisch
+berühmt seit der Zeit, da das Land das nordische Batavia genannt wurde. Hier war
+es, wo die Holländer mehrere Gebäude aufgeführt hatten und wo während des
+Sommers der Hafen voller Schiffe lag. Man hat berechnet, daß zuweilen 12,000
+Walfischfänger diese Stelle besucht haben. Von den großen Thransiedereien sind
+blos noch geringe Spuren übrig. Wie an so vielen Stellen auf Spitzbergen,
+erinnern nur noch die Gräber an die zahlreichen Menschen, welche sich einst —
+wenn auch nur vorübergehend — an diesen Küsten aufgehalten haben.
+
+Im Osten und Süden wird die Smeerenberg-Bucht von dem Festlande begrenzt, das
+mehrere Gletscher zu dem Meere hinabschickt, im Westen von Amsterdam-Eiland und
+der Däneninsel. Das Wetter war überaus schön. Mit Ausnahme des 1. Septembers,
+welcher Schnee brachte, hielt sich die Temperatur über dem Gefrierpunkte, der
+Wind blieb meist südlich, immer aber ungewöhnlich warm und mild. Wir lagen hier
+einige Tage vor Anker, arbeiteten an Bord, machten Excursionen und „dreggten“.
+Oft befanden sich zu dem letzteren Zwecke zwei Boote draußen, sowohl Vor- als
+auch Nachmittags, so daß die Fauna der SmeerenbergBucht und des Sundes so genau
+als nur möglich untersucht werden konnte. Es wurde ferner Wasser und Treibholz
+eingenommen und auf der niedrigen Nordostspitze von Amsterdam-Eiland ein Depot
+errichtet, bestehend aus dem größeren englischen Boote und fünf Rudern, einem
+Steuer, Segel, Mast, Zelt nebst Stangen, einer Ballastschaufel, einem getheerten
+Plane, sechs Ziehgürteln mit Leinen, einem Schlitten und fünfundzwanzig
+Schachteln Pemmikan. Dieses Depot konnte einer späteren Expedition zum
+wesentlichen Vortheil gereichen. Unterblieb sie, so vermochte einer der
+Walroßjäger es ohne alle Mühe nach Norwegen abzuholen.
+
+Nach Amsterdam-Eiland wurden viele Excursionen gemacht. Nordenskiöld unternahm
+eine Ruderfahrt zu dieser Insel und zur Kobbe-Bai, um — was sich hier erwarten
+ließ — Nachrichten von der Magdalena einzuziehen. Aber er fand nichts. Am 31.
+August ging Chydenius nach Norway Island, suchte den Ort auf, wo Sabine seine
+berühmten Untersuchungen angestellt hatte, und fand, daß die Inclination 8° 34´
+7“ betrug, während sie zu Sabine's Anwesenheit 80° 11´ stark gewesen. Durch den
+hereinbrechenden Sprühregen in seinen weiteren Beobachtungen gehindert, kehrte
+er in der Nacht zum Schiffe zurück. Schon sank die Sonne eine Weile unter den
+Horizont. In dem uns ungewohnten Dämmerlichte der Mitternacht nahmen die paar
+Eisblöcke, welche von den Gletschern stürzten, und die seltenen, gleichsam
+vergessenen Treibeisstücke, welche wogend hin und zurück schwammen, höchst
+eigenthümliche Formen und Gestaltungen an.
+
+Auf einer Bergspitze der Däneninsel lag noch Schnee; Chydenius maß den Winkel
+und fand, daß die Schneekante sich 900 Fuß über der Meeresfläche erhob.
+
+Am Abend des 3. September lichteten wir die Anker, um nach Süden zum Eisfjord zu
+gehen und dort mit Magdalena zusammen 2u treffen. Den folgenden Taa war es bald
+still, bald wehte ein schwacher Wind, und wir wurden von der Strömung
+nordwestlich, fast bis auf die Höhe von Cloven Cliff getrieben. Am 5. blies ein
+heftiger Südwind, gegen den wir vor der Oeffnung der Kobbe-Bai kreuzen mußten.
+Während dieser Fahrt durchschnitt das Schiff mehrere Wassergürtel von ungleicher
+Temperatur. In der Smeerenberg-Bai hielt sie sich ungefähr auf +3° C. und
+schwankte blos um einige Zehntelgrade, je nachdem Ebbe und Fluth eintrat. Als
+wir aber in die offene See kamen, passirten wir eine Stunde lang ein Band von
++2,~7~°, eine andere einen Gürtel von +2,~6~°, dann einen von +4,~1~°, +3,~1~° u.
+s. w. Man sieht hieraus, wie das wärmere Wasser gleichsam bandartig in das
+kältere einschneidet. Wir fuhren sodann ein Ende in die Bucht und sandten ein
+Boot aus, um zu erforschen, ob Magdalena vielleicht in den letzten Tagen dort
+gewesen sei; da aber auch hier nichts zu entdecken war, gingen wir wieder in
+See. Den 6. schwankte der Wind fortwährend und brachte bald Nebel, bald Schnee.
+Die Strömung nach Nordwesten war sehr stark; das Barometer verkündigte Sturm; so
+ging denn am 7. um Mitternacht Aeolus in seinem alten Hafen in der Kobbe-Bai vor
+Anker, um günstigeres Wetter abzuwarten. Die See war während der ganzen Zeit
+sehr bewegt gewesen, namentlich in Folge der starken Dünung, die zuweilen gegen
+den Wind ging.
+
+Am 7., 8. und 9. raste ein furchtbarer Sturm aus Südosten mit Schnee und Nebel.
+Er stürzte gewaltig von den Bergen herab und wühlte die See auf. Der Herbst war
+nun in der That gekommen. Die Vogelberge standen verlassen da, ihre zahlreichen
+Bewohner hatten sich bereits nach dem Süden begeben. Keine einzige Alke ließ
+sich mehr blicken, und die ernste Stille der Nacht wurde nicht mehr wie sonst
+von dem lärmenden Geschrei der Vögel unterbrochen. Der Felsboden, das Land war
+überall kahl und bloß, außer auf den höchsten Bergen und in den tiefsten
+Klüften, welche noch immer von einem hart gewordenen, stellenweise roth
+gefärbten Schnee — bekanntlich das Resultat einer mikroskopischen Alge — bedeckt
+wurden. Diese Alge, Protococeus nivalis, ist es, welche sowohl in den
+Polarländern als auch auf den höchsten Spitzen der Alpen den „rothen Schnee“
+berühmt gemacht hat. Die Süßwasserseen, welche Ende Mai noch mit klafterdickem
+Eise bedeckt gewesen, waren während der letzten drei Monate eisfrei geworden,
+aber ihre Temperatur betrug an der Oberfläche doch nur +1,~2~° C. und auf dem
+Grunde 2,~2~° C. Zuweilen wurden sie auf kurze Zeit von einer Lumme oder einer
+Gans besucht. Das Schleppnetz lieferte hier keine neuen Resultate. Die Ausflüge
+in das Land hinein und die magnetischen Beobachtungen wurden fortgesetzt.
+Endlich war unsere Einsamkeit zu Ende, indem am 9. September in der Frühe des
+Morgens Magdalena mit vollen Segeln in die Bucht steuerte.
+
+:::
+
+
+:::: align-center
+****
+::::
 
 
 
