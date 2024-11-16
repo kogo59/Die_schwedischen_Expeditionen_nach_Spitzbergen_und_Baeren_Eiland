@@ -7420,7 +7420,7 @@ Triangulation bis zum Storfjord nicht unmöglich sei; denn von den weiter im
 Süden befindlichen Bergen mußte man offenbar die Berge am Storfjord wahrnehmen
 können.
 
-„Am folgenden Tage widmete ich dem Gleischer in der Tiefe der Bucht eine nähere
+„Am folgenden Tage widmete ich dem Gletscher in der Tiefe der Bucht eine nähere
 Betrachtung. Aus einiger Entfernung gesehen erscheint er als eine
 schwärzlichgraue Eismasse, welche in einer Breite von einer Viertelmeile das
 sich nach Südwesten erstreckende Thal einnimmt. Das letztere wird von Bergketten
@@ -8007,6 +8007,580 @@ Morgens Magdalena mit vollen Segeln in die Bucht steuerte.
 :::: align-center
 ****
 ::::
+
+
+## <small>Zwölftes Kapitel.</small><br /> Wijde-Bai. 
+
+::: justified
+
+:::: fs-xs
+Das Russenhaus. — Landseen. — Der Gletscher. — Eine Sommernacht. — Wijde-Bai. —
+Die Ostseite. — Die Westseite. — Rennthierfleisch. — Bögel. — Fische in einem
+See. — Meeresfauna. — Neuer Ausflug. — Zweifelhaftes Nachtquartier — Rothes
+Meer und rothe Landschaft. — Rennthierjagd. — +16° C. — Wir entrinnen dem Eise.
+— Langsame Fahrt nach Westen. — Ein seltsamer Vogelberg. — Die Bewohner der
+Vogelberge. — Rückkehr zur Magdalena.
+<br /><br />
+::::
+
+Wir sind bis dahin dem Aeolus auf seinen Fahrten im Norden und Nordosten von
+Spitzbergen gefolgt und haben, so weit sich dieses mit dem Plane und den für
+diese Arbeit gesteckten Grenzen vereinigen ließ, versucht, ein Bild von der
+Thätigkeit der Theilnehmer an der Expedition und eine Schilderung der bis dahin
+so gut wie unbekannten Gegenden zu entwerfen. Es bleibt uns nunmehr übrig, in
+derselben Weise die Magdalena auf ihrer Segelfahrt längs der Westküste
+Spitzbergens zu begleiten. Der Leser wird sich erinnern, daß wir sie in der
+Mündung der Wijde-Bai verließen, wo sie in Gesellschaft von zweien Walroßfängern
+— darunter die Brigg Jaen Mayen — durch das Pack- und Treibeis gehindert wurde,
+Grey-Hook zu passiren und weiter nach Westen vorzudringen. Ein drittes
+Jagdschiff, ein Schoner, lag schon seit fünf Wochen im Eise fest. — Es war am 9.
+Juli. —
+
+Um nicht die rechte Gelegenheit zu versäumen, im Falle sich irgend eine
+benutzbare Rinne öffnen sollte, hielt sich Magdalena den ganzen Tag über
+kreuzend vor dem Eise, welches vom Innern des Fjordes aus, fast ununterbrochen,
+wenngleich nur in geringer Breite, sich längs dem Strande hinzog und bis zu den
+gewaltigen Massen Packeises im Norden fortsetzte. Es waren die letzten Trümmer
+des Wintereises, welches nunmehr aufbrach und die im Uebrigen, so weit man nach
+Süden sehen konnte, vollkommen offene Bucht verließ. Gegen den Abend hin ließ
+der Wind nach, die Luft wurde klar. Man machte daher mit zweien Booten einige
+Ausflüge in das Land östlich bei der sogenannten Aldert Dirkses Bucht, wo ein
+noch ziemlich guterhaltenes „Russenhaus“ schon aus der Entfernung die
+Aufmerksamkeit auf sich zog.
+
+Mit einer gewissen, leicht zu erklärenden Neugierde — so schreibt einer der
+Theilnehmer — nähert man sich in diesen wüsten Gegenden solchen Ueberbleibseln
+von Menschenwerken; Denkmäler, die von Leiden und Mühen mancherlei Art Kunde
+geben könnten. Darum bemüht man sich auch, aus diesen Trümmern die Ereignisse zu
+lesen, von denen sie, wenn auch nur unvollständig und in fragmentarischer Weise,
+Zeugniß ablegen. Das dortige Russenhaus ist unbedeutend, zehn Ellen lang, vier
+breit und kaum drei Ellen hoch; eine Hütte mit einem flachen Dache, innen in
+zwei Räume getheilt. Eine Thüre in der nordwestlichen Ecke des Gebäudes führt
+zu einer äußeren Abtheilung, darinnen sich blos zerbrochene Tonnen und Bretter
+befinden; das Dach darüber ist zerfallen. Durch eine drei Fuß hohe Thüre gelangt
+man von hier in den inneren Raum, der das Wohnzimmer gewesen zu sein scheint.
+Auf seiner Südseite befindet sich ein kleines Fenster; rings an den Wänden
+stehen Bänke; ein Kamin ist links von der Thüre angebracht, ihm gegenüber ein
+Regal. Noch sind einige Hausgeräthe vorhanden: hölzerne Schalen und Büchsen,
+auch ein Kerbstock, der als Kalender gedient hat; denn jeder Tag ist darauf mit
+einer Kerbe verzeichnet, die Wochentage mit schrägen, die Sonntage mit geraden.
+Danach können wir berechnen, daß sie 26, wahrscheinlich recht lange, Wochen hier
+gehaust haben. Auch gehauenes Holz ist vorhanden, und auf einer Bank findet sich
+ein russischer Name eingeschnitten, und daneben die Jahreszahl 1839, so daß die
+Hütte noch in ziemlich neuer Zeit bewohnt gewesen sein mag. Nahe diesem Gebäude,
+in einer Felsritze, fanden wir eine in 64 Felder getheilte Tafel mit russischen
+Buchstaben und Zahlen auf jedem, wahrscheinlich ein Damen- oder Schachbrett, das
+während der langen Ueberwinterung die einzige Zerstreuung abgegeben hat.
+
+Die Stelle liegt dem Ufer eines nicht unerheblichen Flusses nahe, welcher in
+eine, wahrscheinlich von ihm selber gebildete, Lagune mündet. Dieselbe wird von
+der See durch einen niedrigen Grus- und Steinwall getrennt, steht im Süden aber
+mit der Bucht in Verbindung. Wir folgen dem Ufer des Flusses, da wo er die mit
+Steinen bedeckten Schiefer-und Quarzithöhen durchbrochen hat, welche die
+Aussicht nach dem Innern zu hindern, und haben bald den überraschenden Anblick
+eines kleinen schönen Landsees von ungefähr einer Achtelmeile Länge, in welchen
+von der entgegengesetzten Seite ein wasserreicher Bach fällt. Steigt man weiter
+auf eine Höhe, so liegt ein anderer See vor uns, rings von steilen Felswänden
+umgeben, welcher sich, so weit die Felsen es wahrzunehmen gestatten, nach Osten
+und Westen erstreckt, später aber sich nach Norden zu beugen scheint, wenn nicht
+etwa da, wo die Felswand eine andere Richtung nimmt, hinter einigen
+eigenthümlich gestalteten Bergspitzen, ein neuer See an seine Stelle tritt. Auf
+der andern Seite, hinter einer weiter im Norden belegenen Berghöhe, welche nach
+allen Seiten eine freie Aussicht über diese eigenthümliche Landschaft gewährt,
+erscheint parallel mit jener Thalsenkung eine andere, wiederum mit zweien
+erheblichen Landseen, verbunden durch einen größeren Fluß, welcher nach einem
+kurzen Laufe sich über die steilen Strandklippen in das Meer stürzt und einen
+schönen, weithin vernehmbaren Wasserfall bildet. Zusammen mit der Lagune und
+einigen kleinen Teichen auf der Ebene im Süden, zählten wir nicht weniger als
+sieben besondere, zur Zeit unseres Besuches vollkommen eisfreie Süßwasserseen:
+eine überraschende Erscheinung unter dem 80. Breitengrade! Wären die Berge mit
+Wald bewachsen gewesen, oder hätten sie die Spuren einer von Menschenhand
+zerstörten Vegetation getragen, so hätten wir wähnen können, uns in einer der
+Berglandschaften unserer Heimath zu befinden, z. B. in der Grenzlandschaft von
+Westergöthland und Bohuslan. Aber die äußerst dürftige Vegetation, die hier und
+da herabsteigenden Gletscher, und vor Allem die unübersehbaren Eismassen im
+Meere erinnerten uns nur zu sehr daran, daß wir uns in dem äußersten Norden
+befanden. Der humusarme Geröllboden giebt den vereinzelten Pflanzen einer
+kleinen blassen Rose, Taracacum phymatocarpum, — eine der wenigen auf der
+Nordküste Spitzbergens vorkommenden Synantherien — einigen Draben und Potentilla
+emarginata nur eine dürftige Nahrung. Neben den Rinnsalen und wo der Boden von
+dem beständig niederrieselnden Gebirgswasser gewässert wird, wachsen Ranunculus
+sulphureus und zwischen Moosen: Ranunculus pygmaeus, Juneus biglumis, Eriophorum
+capitatum, Saxifraga rivularis und andere, alle klein und selten mehr als drei
+Zoll hoch. Ein paar Eidergänse hatten auf dieser Ebene vor Kurzem ihre Eier
+gelegt, was auffallend genug ist, da diese Vögel sonst nur auf abgelegenen
+Holmen zu nisten pflegen.
+
+Nachdem wir die in vielen Beziehungen interessanten Umgebungen des Russenhauses
+untersucht hatten, wandten wir uns nach Süden und bestiegen den nächsten
+Gletscher. Auf seiner Nordseite war derselbe ganz ebenso wie der in der
+Treurenberg-Bai beschaffen, und bildete, wie jener, eine wellige,
+ununterbrochene Eismasse, bedeckt mit Steinen und Gerölle, daraus später eine
+ziemlich weit vorspringende Landzunge entstanden war. Spalten kamen hier nur
+wenig vor, um so mehr aber auf dem südlichen, weit bedeutenderen Theile des
+Gletschers, welcher in einem Absturz von beinahe 200 Fuß unmittelbar in's Meer
+fällt und aus malerischen Spitzen, Nadeln und kühn aufeinander gethürmten
+Eisblöcken besteht, so daß der Beschauer sich unwillkürlich in gebührender
+Entfernung hält. Auf seinem ebenen Theile, den wir so weit bestiegen, als die
+bald auftretenden großen Spalten es erlaubten, war das Eis anfangs, bis auf eine
+größere Tiefe hin, klar und durchsichtig, weiterhin bildet es ein Conglomerat
+kleiner Eisschollen. Zuweilen vernahm man eigenthümliche Laute, welche an den
+Ton der Aeolsharfe erinnerten. Es schien uns nicht zweifelhaft, daß sie von den
+überall durch die Eisspalten rinnenden Wasseradern herrührten.
+
+Die Rückkehr zu unserm Schiffe Nachts war, wie dieser ganze Ausflug, von dem
+herrlichsten Wetter begünstigt. Wer kennt nicht den Reiz einer Ruderfahrt über
+einen spiegelblanken See in einer stillen Sommernacht! Aber wer könnte sich eine
+Vorstellung von einer Sommernacht machen auf dem friedlichen Wasser der „Weiten
+Bai“, welche rings von hohen Gebirgen und leuchtend weißen Eismassen
+eingeschlossen wird. Die Sonne steht hoch am Himmel, ihre blendenden Strahlen
+verbreiten eine angenehme Wärme, und dennoch giebt Alles zu erkennen, ohne daß
+man anzugeben vermag wodurch, daß nicht der Tag, sondern die Nacht um uns
+waltet. Still und ruhig ist diese Natur immer; der Lärm und das Geräusch des
+Tages machen sich hier selten bemerkbar; aber sei es daß das Sonnenlicht, trotz
+alles seines Glanzes, gedämpfter ist, oder daß es nur eine Folge unserer eigenen
+Stimmung, wir können jenes unnennbare Gefühl von Frieden und Ruhe, welches die
+Stille der Sommernacht so gerne mit sich führt, nicht für eine bloße Einbildung
+halten. Ohne jede Unterbrechung ist freilich diese vorherrschende Stimmung
+nicht. Noch lange, wenn wir uns mit regelmäßigem Ruderschlage entfernen, hören
+wir das Gebrause eines schäumenden Flusses, der über die Felsen des Strundes
+sich beinahe unmittelbar in das Meer stürzt; oft vernimmt man bas seltsame
+Schnaufen eines Walfisches, welcher in meilenweiter Entfernung seinen schäumend
+weißen Wasserstrahl emporbläst — auch er befindet sich wie wir in dem Kerker des
+ihn einschließenden Eises —; und zuweilen vernehmen wir das Echo der stürzenden
+Gletscher, wie es donnerähnlich die senkrechten Felswände auf der andern Seite
+des Fjordes entlang rollt.
+
+Es trat vollkommene Windstille ein; einzelne Eisberge waren mit dem Strom in die
+Vik gedrungen, und die Bugsirboote mußten die Magdalena ein Ende weiter hinter
+die Sandzunge schleppen, welche nach Norden hin Aldert Dirkses Bucht begrenzt.
+Dort wurde am Vormittage Anker geworfen.
+
+Wijde-Bai ist nicht blos einer der schönsten, sondern auch bet größten Fjorde
+Spitzbergens; er erstreckt sich genau von Norden nach Süden ungefähr zehn Meilen
+lang und hat eine Breite von 1½ bis 2 Meilen. Auf dem Oststrande im Norden, da
+wo der Fjord eigentlich schon aufhört, beginnt die Mofsel-Bei, welche man als
+eine selbständige Bucht betrachten kann. Im Uebrigen findet man bei ihr keine
+bedeutenderen Buchten oder Einschnitte; die Küsten laufen fast ohne
+Unterbrechung einander parallel bis zu der etwa sechs Meilen von der Oeffnung
+der Bai entfernten Midterhuk, deren hoher Gebirgskamm den Fjord in zwei Arme
+theilt, von denen man den östlichen als den Hauptarm ansehen kann. Erst hier
+treten vereinzelt ein paar Inseln auf, während sie bis dahin durchaus fehlen.
+Die Gebirge, welche auf beiden Seiten den Fjord begrenzen, zeigen stellenweise
+einen im hohen Grade verschiedenen Charakter, welcher auf die Ungleichheit der
+geologischen Verhältnisse deutet. Die Ostseite, eine Fortsetzung jener
+Schieferbildungen, welche wir schon im Vorbeigehen beĩ der Treurenberg-Bai und
+Mossel-Bai kennen gelernt haben, bildet ein einziges gleichmäßiges mit Schnee
+und Eis bedecktes Hochland, welches in der Nähe des Meeres durchschnittlich
+gegen tausend Fuß aufsteigt. Die steil abstürzenden Schichten sind von breiten
+Thalgängen durchschnitten, durch welche das Binneneis in mächtigen Gletschern,
+breiten Eisströmen, in das Meer mündet. Hier hat entweder von jeher eine
+Bergspalte existirt, oder das Eis hat sich mit Gewalt einen Weg durch die Felsen
+gebrochen, geradeso wie die Eismasse in ihrer nivellirenden Thätigkeit die
+Quarzit- und Hörnblende-SchieferSchichten abgeschliffen und ein einziges Plateau
+ohne irgend welche daraus aufsteigende Bergspitzen gebildet hat. Schon weit auf
+der See nimmt man „die drei Eisberge“ wahr, deren weiße Eismassen einen starken
+Contrast zu den umgebenden dunkeln Felswänden bilden. Die Westseite der Bucht
+dagegen, bestehend aus der in Grey-Hook endigenden beträchtlichen Landzunge,
+welche Wijde-Bai von Liefde-Bai trennt — die Kjärlighedsbugt (Liebesbucht) der
+Norweger —, stellt die bizarrste Sammlung von einzelnen, nicht durch Querthäler
+geschiedenen, prachtvollen Bergspitzen dar: terrassenartig in Reihen oder
+concentrischen Kreisen geordnet; Kegel mit abgerundeten Spitzen; Kämme mit
+geradlinigen Umrissen, als wären sie nach dem Lineal gezogen, mit einem Wort:
+sie ist unendlich reich an Formen, wozu noch der rothe und grüne Sandstein im
+bunten Wechsel tritt, der namentlich in der Nähe das Auge gar sonderbar berührt.
+Die Höhe der Berge auf dieser Seite ist erheblich größer und geht weiter im
+Innern des Fjordes sicher bis 3,000 Fuß und darüber. Mit diesem so überaus
+verschiedenen Charakter bilden die beiden Küsten den prachtvollsten Rahmen, der
+den weiten, klaren, von keinen Inseln unterbrochenen Wasserspiegel des Fjordes
+umschließt. Man wird an die stillen sonnigen Sommertage am Wettersee erinnert,
+wenn kein Windhauch seinen klaren Wasserspiegel trübt. Auch wir erlebten hier
+solche Sommertage, freilich wie die arktische Natur sie zu bieten vermag.
+Leichte Wölkchen zogen über die Spitzen der Berge, und die tieferen
+Luftschichten waren von einer Durchsichtigkeit, wovon man sich bei uns zu Hause
+kaum eine Vorstellung machen kann. Dazu die gewaltigen Gebirgsmassen der Küsten,
+welche mit den im Sonnenscheine glänzenden, zum Meere niederfließenden
+Gletschern abwechseln; die ruhige Monotonie des Wasserspiegels unterbricht hier
+und da ein schwimmender Eisblock, der sich nur oben, unter gewaltigem Donner,
+von einem der nahegelegenen Gletscher losgelöst hat und das Auge mit seinen
+wunderbaren Formen und seinem wechselnden Farbenspiele fesselt.
+
+Die Ostseite der Wijde-Bai ist den Spitzbergenfahrern als einer der besten
+Jagdplätze bekannt. In den mehr oder weniger grünen Thälern, besonders zwischen
+und in der Nähe der drei Gletscher, weiden zahlreiche Rennthierheerden, welchen
+man am Anfange des Sommers, bevor sie von den Jägern beunruhigt werden, leicht
+bis auf Schußweite nahe kommen kann. Unser Jagdboot kehrte denn auch eines Tages
+nach einer dreitägigen Excursion mit nicht weniger als 24 ziemlich feisten
+Thieren zurück. Während einer kürzeren Bootfahrt erlegte Kuylenstjerna vier, und
+selbst die eifrigen Jäger Smitt und Duner sahen sich zufrieden gestellt. Unser
+Proviant wurde hierdurch nicht blos vermehrt, sondern sogar überreichlich, so
+daß wir unsere Lebensweise auf gut Spitzbergisch einrichteten.
+
+Die eingesalzenen Vorräthe wurden bei Seite gestellt, oder vom Rennthierfleische
+— in allerlei Gestalten zubereitet — und von den leckeren Markknochen verdrängt.
+„Die Begierde des Essens ist auch hier größer als in anderen Ländern“, sagt
+schon Martens; und er hat Recht; denn der Appetit war vortrefflich, und die
+Mahlzeiten nahmen solche Dimensionen an, daß man sie nur mit denjenigen
+vergleichen konnte, über welche die Reisenden unter den fleischliebenden Stämmen
+der Hottentotten und Kaffern berichten. Auch war es ein Vergnügen, zu sehen, wie
+trotz der anhaltenden Arbeiten die Gesichter von Tage zu Tage runder und
+blühender wurden.
+
+Wie Treurenberg-Bai hat auch Wijde-Bai keinen eigentlichen Vogelberg, doch
+hielten sich hier und da auf den steilen Absätzen einige Haufen von Rotjes und
+Teisten auf und trieben ihr Unwesen in Gesellschaft von ein paar Burgemeistern,
+Rathsherren und „Seepferden“. Dagegen hatten die Kryckien sich in zahlreichen
+Schaaren auf dem Wasser niedergelassen, um in den Mündungen der Gletscherbäche
+und den durch sie gebildeten Gletscherhöhlen nach Limaeinen zu suchen. Oft
+erhoben sie sich dann unter betäubendem Lärm wieder in die Luft, um der Gefahr
+des Zerschmettertwerdens zu entgehen, wenn ein Eisblock herab-, oder die
+Grottenwölbung einstürzte. Der Schneesperling hatte schon ziemlich große Jungen
+mit Daunen; an den Süßwasserteichen brüteten Pilgänse, Lommen und Fiäreplytten,
+hier und da auf der Ebene auch eine Raubmöwe, auf dem Holme an der Midterhuk
+aber Eidervögel und Meerschwalben (Tärnen). Zuweilen zeigten sich Weißfische und
+Seehunde in dem Fjord. Die Tage waren so warm, daß wir die Cajüten nicht mehr zu
+heizen brauchten und draußen sogar gerne in Hemdärmeln arbeiteten. Das
+Thermometer stieg im Schatten bis auf +13° und in der Sonne bis auf +28° C.
+
+Die Umgebungen der Aldert Dirkses Bucht, eine der sonderbarsten Landschaften auf
+Spitzbergen, veranlaßten mit ihren kleinen Landseen uns zu täglichen neuen
+Ausflügen. Der Süßwasserteich, welchen wir Ende Mai in der Kobbe-Bai besuchten,
+war uns mit seinem Thierleben von großem Interesse gewesen, obwohl wir Thiere
+höherer Ordnungen dort nicht angetroffen hatten. Auch konnten wir nicht
+erwarten, solchen irgendwo in diesen eisigen Gebirgswassern zu begegnen. Unsere
+Ueberraschung war daher nicht gering, als unser Steuermann eines Tages mit der
+Nachricht zurückkam, er habe eine ganze Menge Fische in dem nächsten Teiche
+gesehen, manche bis einen Fuß lang. Zur Bekräftigung dessen brachte er einen
+ausgedörrten, drei Zoll langen jungen Fisch, einen Berglachs, Salmo alpinus, mit
+sich, den er auf dem Ufer gefunden hatte. Wir selber vermochten uns bald über
+die Sache Gewißheit zu verschaffen. Von Yhlen suchte mit einem Netze zu fischen,
+aber ohne ein Boot mußte er ein kaltes Bad riskiren, zumal der tiefe See in
+seiner Mitte noch mit einer porösen Eiskruste belegt war. Der Versuch lief
+fruchtlos ab, da der Grund sehr schnell abnahm, das Netz auf dem steinigen Boden
+hängen blieb und das kalte Wasser einen längeren Aufenthalt darin gefährlich
+machte. Auch sollte von Yhlen dieses Unternehmen büßen; denn er empfand am
+folgenden Tage große Schwäche in den Knieen, es bildeten sich ringsum harte
+Knoten, und er mußte „die Cajüte“ hüten. Nach kurzer ärztlicher Behandlung wurde
+er jedoch wieder hergestellt.
+
+In demselben Gewässer lebten auch kleinere Crustaceen aus der Ordnung der
+Entomostraceen und Insectenlarven, darunter eine Art „Lachsmücke“, Limnophilus
+arcticus Boheman, welche mit ein paar anderen Fliegen aus dem Geschlecht Tachina
+und Arieia hier und da über den unfruchtbaren Boden irrte. Das Meer war sehr
+reich an Thieren; während der täglichen Excursionen mit dem Schleppboote hatten
+wir oft Gelegenheit, zu beobachten, wie ungleich das Leben sich hier auf
+verschiedenen Tiefen und auf einem andern Boden gestaltet. In der Mündung der
+Bai und vor Aldert Dirkses Bucht, wo die Tiefe des Meeres bis 90 Faden beträgt,
+war von dem steinigen Boden nichts Anderes zu holen, als einige Seesterne,
+Ophiuren und Bryozoen, wogegen der feine, von den Gletschern niedergeschwemmte
+Thon, welcher weiterhin den Boden bedeckt, das diesen Gegenden eigenthümliche
+reiche Thierleben enthielt. Der Boden unmittelbar neben dem Gletscher, wo das
+Wasser dick und trübe, ist arm, da der Schlamm sich hier in mächtigen Schichten
+niederschlägt und die Entwicklung alles organischen Lebens, so zu sagen,
+erdrückt. Weiter vom Gletscher aber, wo das Wasser weniger trübe und der
+Schlamm, äußerst fein vertheilt, wie eine leichte Decke sich über den
+Meeresgrund breitet, gedeiht diese Thierwelt vortrefflich. Dem Gletscherthon
+angehörig, ist sie zwar reich an Individuen, aber arm an Arten. Von Muscheln
+kommen vor: Mya truncata, Saxivaga rugosa, Astarte, Voldia, Tellina und vor
+Allem Arca glacialis; von Würmern: Antinos Sarsi Kinb., einige Arten von
+Torebella und Phyllodoce, und von Seesternen: Ctenodiscus erispatus u. a. Rings
+um den Gletscher, bis auf eine Viertelmeile Entfernung und darüber, ist das Meer
+von den herabgeschwemmten Sinkstoffen gefärbt, und man kann sicher sein, in
+dieser Entfernung immer gute Funde zu machen, besonders in einer Tiefe von 30
+Faden.
+
+Am 12. Juli unternahmen Blomstrand und Dunér einen längeren Ausflug zu Boot nach
+dem Innern des Fjordes. Ueber diese Fahrt berichtet der Erstere Folgendes:
+
+„Wir verließen das Schiff Vormittags, folgten dem östlichen Strande und nahmen
+unser Nachtquartier gleich nördlich von dem zweiten der drei Eisberge in einer
+Thalöffnung neben einem großen daselbst mündenden Flusse. Am Mittage des
+folgenden Tages passirten wir den Gletscher, welcher zwar kleiner als der
+erstere ist, aber, von der See aus gesehen, einen weit großartigeren Anblick
+darbietet, da er weiter in das Meer vordringt und in seiner ganzen Breite
+zerklüftet und gespalten ist. Dem dritten Gletscher fuhren wir mit gutem Winde
+vorbei und stiegen dann an's Land, theils um Treibholz zu sammeln, theils um auf
+Rennthiere zu jagen, von denen wir in kurzer Frist drei schossen. Hierauf
+steuerten wir auf Midterhuk los, aber der Wind ließ vollkommen nach, und wir
+beschlossen daher zu einem Russenhause zu gehen, welches wir auf dem westlichen
+Strande des Fjordes wahrnahmen, um daselbst unser zweites Nachtquartier zu
+wählen. Die Lage dieses Hauses war, aus der Ferne gesehen, besonders einladend;
+denn es befand sich an der Mündung eines Flusses, und die Bergabhänge, welche es
+rings umgaben, glänzten freundlich in grün und rothen Farben. Wir rechneten auf
+saftige Wiesen und eine üppigere Vegetation, fanden uns aber in allen unseren
+Hoffnungen betrogen. Das Russenhaus, welches übrigens dem früher beschriebenen
+glich, lag auf einer wüsten, trockenen Sandebene, die wahrscheinlich früher
+einen Theil des Meeres gebildet hatte, obwohl sie jetzt das Niveau desselben um
+ein Bedeutendes überragte. Weite Strecken waren mit einer Salzkruste bedeckt. Es
+ist aber, nach der Lage des Russenhauses zu schließen, unwahrscheinlich, daß der
+Boden noch jetzt zeitweise unter Wasser gesetzt werde. Das hier und da auf den
+Bergabhängen deutlich hervortretende Grün gehörte dem Gesteine selbst an, und
+der Elf, sowie das Wasser weit in die See hinein, war von dem mitgeführten
+Schlamme vollkommen roth, so daß wir uns glücklich schätzen mußten, daß wir in
+der Nähe des Strandes noch einen Grundeisblock antrafen, welcher uns das nöthige
+Wasser lieferte.
+
+„Während unseres Aufenthaltes auf dieser Raststelle kamen Boote von den beiden
+Schiffen, welche unsere Gefangenschaft in der Vik theilten, an uns heran. Das
+eine Boot war bis zum Ende des südöstlichen Armes der Bucht vorgedrungen und
+hatte gefunden, daß es mit einem Gletscher schließe. Das andere, welches mehrere
+Wegestunden in den westlichen Arm gefahren, hatte das Ende nicht erreichen
+können. In Folge dieser Berichte änderten wir unsern Plan und beschlossen, nicht
+den östlichen, sondern den westlichen Arm zu besuchen. Nachdem wir uns eine
+Weile auf einer kleinen Insel in der Mitte des Fjordes aufgehalten und trotz der
+vorgeschrittenen Jahreszeit einige Eier von Meerschwalben und Eidergänsen
+gesammelt hatten, schlugen wir unsern Weg, an dem hohen Gebirgskamme der
+Midterhuk vorbei, zum westlichen Fjordarme ein. Es dauerte nicht lange, so war
+das Wasser blutroth; die gewaltigen, scharfgeschnittenen Bergrücken wechselten
+in Rothbraun und Grün, und die ganze Umgebung bot in dem hellen Sonnenscheine
+einen eigenthümlichen Anblick dar. Schaaren von Weißwalen zeigten sich neben
+uns, bald zur Rechten, bald zur Linken, und spritzten schnaufend ihre
+Wasserstrahlen in die Luft. Ein schwache nördliche Brise, nur gerade geeignet,
+die Wasserfläche zu kräuseln, führte uns unserm Ziele näher, das wir indessen
+noch ziemlich weit wähnten, um so mehr, als wir auf der andern Seite einer
+schmalen Landzunge, welche — aus der Ferne gesehen — den Fjord in seiner ganzen
+Breite zu durchschneiden schien, einen neuen Wasserspiegel von derselben Breite
+vor uns sahen, weiter aber, in der innersten Bucht, eine vorspringende
+Bergspitze wahrnahmen, hinter welcher der blaue Duft der Ferne auf eine
+Fortsetzung des Fjordes deutete. Die angenehme Fahrt wurde indessen, und zwar da
+wir es am wenigsten erwarteten, plötzlich unterbrochen.
+
+„Wir sprachen gerade über die Möglichkeit, die Magdalena nach Westen zu führen,
+als die Bewegung des Bootes, ohne erkennbaren äußeren Grund, mit einem Male
+aufhörte und wir in dem rothen dünnen Thonbrei festsaßen. Nach verschiedenen
+vergeblichen Versuchen, wieder tieferes Wasser zu erreichen, hielten wir es
+zuletzt eben so gerathen als nothwendig, da zu bleiben, wo wir uns befanden, bis
+die steigende Fluth uns wieder erlösen würde. Die Ebbe hatte bald ihren
+niedrigsten Stand erreicht, und das Wasser fiel mit großer Geschwindigkeit. Der
+rothe Meeresspiegel wurde in einen seichten, verschwindenden Fluß verwandelt.
+Bald trat hier, bald dort ein neuer Theil des braunrothen Bodens mehr und mehr
+hervor. Es dauerte nicht lange, so befanden wir uns so gut wie auf dem Trocknen,
+nur daß die kleineren nach den Tiefen strebenden Rinnsale und die von den Ufern
+kommenden breiteren Zuflüsse mit ihren tieferen Wasserfurchen den Meeresgrund
+durchkreuzten.
+
+„Während im vorderen Raume des Bootes Feuer angezündet und Kaffee gekocht wurde,
+hatten wir die beste Gelegenheit, unsere sonderbare Umgebung und Situation zu
+betrachten. Es war beinahe Mitternacht. Die Sonne, welche von einer hohen,
+senkrecht zum Meere abfallenden Felswand im Nordwesten verdeckt wurde, goß durch
+ein mit einem Gletscher erfülltes Thal ihr mildes Licht über die innere Bucht
+und die Berge rings herum, nur hier und da von den tiefen Schlagschatten der
+Berge unterbrochen. Gleich hochrothen, planlos hingeworfenen Seidenbändern, um
+so bestimmter moirirt, je mehr der Bodenschlamm aufgerührt wurde, glänzten die
+Wasserstreifen in dem hellen Sonnenscheine. Die beleuchteten rothen Abhänge der
+Berge bildeten einen lebhaften Gegensatz zu den dunkeln braunrothen Schatten, da
+wo ein Vorsprung des Berges sich mit erstaunlicher Schärfe abzeichnete, während
+nach Norden hin der weite Wasserspiegel sammetbraun oder hell ziegelroth, je
+nach der verschiedenen Beleuchtung der Berge, erschien. In Wahrheit, ich hätte
+mir niemals vorgestellt, daß die Wirklichkeit ein Seitenstück zu jenem
+wunderbaren Anblicke liefern könne, der sich uns darbietet, sobald wir eine
+sonnenbeglänzte Landschaft durch ein rothes Glas betrachten. Außer dem reinen
+Blau des Himmels, welcher sich über die Landschaft wölbte, gab es, mit Ausnahme
+von ein paar grünen Streifen auf den sonnenbeschienenen Abhängen der Berge, nur
+Nuancen in Roth. Der Grund für diese Erscheinung ist in dem rothen Sandsteine zu
+finden, aus welchem die gewaltigen Bergmassen ringsum bestehen, sowie in dem
+feinen thonhaltigen Schlamme, welcher, infolge der Zersprengung der Felsen durch
+den Frost und das Abschleifen der Gletscher, von den Wassern in das Meer geführt
+wird.
+
+:::: { .wrap-70 .caption }
+![Rennthierjagd.](Die_schwedischen_Expeditionen_257.jpg "Rennthierjagd."){#b257}
+::::
+
+„Nach einigen Stunden Ruhe machten wir uns am frühen Morgen auf, um mit der
+Fluth unsern unfreiwilligen Ankerplatz wieder zu verlassen. An eine Weiterfahrt
+in den seichten Fjord hinein war nicht zu denken. Wir kehrten deshalb zu der
+erwähnten Sandzunge zurück, welche die Grenze nach dem tieferen Wasser hin zu
+bilden schien, obwohl dessen Tiefe auch hier wenig über einen Faden betrug. Es
+wurde das Zelt aufgeschlagen, ein tüchtiges Feuer von Treibholz, womit der
+Strand bedeckt war, angezündet und die Vorbereitungen zu einer Fußpartie nach
+dem Innern des Fjordes getroffen. Die Jagdlust meiner Reisegenossen brachte uns
+allerdings noch einen Aufenthalt. Es weideten nämlich in aller Ruhe, und ohne
+durch unsern Besuch irgend wie eingeschüchtert zu werden, zahlreiche Rennthiere
+auf den üppigen Matten, die aus Dryas, Polarweiden und anderen vor Kurzem durch
+die Sonne hervorgelockten Pflanzen des steinfreien Sandbodens bestanden. Zwei
+von den Thieren fielen, nicht weit von unserm Lagerplatze, ihrer Neugierde zum
+Opfer. Selbst die Weißwale, welche wir eine Weile für schwimmende Eisblöcke
+ansahen, kamen am Ende so nahe, daß wir sie mit ein paar Schüssen begrüßen
+konnten. Bald spielten sie munter in dem von den Sonnenstrahlen erwärmten
+flachen Wasser, bald lagen sie ohne irgend eine Regung, den Körper halb über dem
+Wasser, ruhig in der Sonne da, — wir zählten einmal dreißig Stück in dieser
+Stellung, und sie erschienen um so weißer, als sie einen starken Contrast zu dem
+dunkelrothen Meere bildeten — nur daß sie dann und wann einen Augenblick ihre
+Köpfe hoben, um Wasser in die Höhe zu blasen.
+
+„Die Wanderung nach dem Innern des Fjordes war anstrengend und ermüdend.
+Schließlich erreichte ich das Ende desselben. Er zieht sich, nach einer starken
+Biegung, um die oben erwähnte Bergspitze, noch ungefähr eine halbe Meile weit
+westlich hin, bis er von einem großen Gletscher begrenzt wird, der seinen
+Hauptzufluß aus einem gewaltigen Cirkus erhält und — wie überall wo die Fjorde
+sich allmählich verflachen — nicht mehr bis zum Wasser reicht. Ein starker, aus
+dem Innern der Berge strömender Fluß, wie der Fjord blutroth, woraus sich
+ergiebt, daß die Sandsteinbildung noch weit in's Land sich fortsetzt, machte
+allem weiteren Vordringen ein Ende. Ich kehrte daher um und kam zu unserm
+Lagerplatze nach Mitternacht, worauf wir am folgenden Morgen uns zeitig
+aufmachten und in der Nacht zum 16. Juli unser Schiff erreichten.
+
+„Ich will noch anführen, daß während dieses Ausfluges in das Innere des Thales
+die Wärme im Schatten bis auf +16° C. stieg, die höchste, welche wir während des
+ganzen Sommers beobachtet haben.“  — —
+
+Die in den ersten Tagen unserer Anwesenheit in der Wijde-Bai herrschende
+Windstille machte einem schwachen Nordwinde Platz, das Eis packte sich immer
+dichter um die Mündung des Fjordes, und selbst nach Osten hin, um Verlegen-Hoek,
+war uns der Weg gesperrt, wie uns einer der dorthin abgegangenen Walfischjäger
+mittheilte. Erst am 14. begann der Wind sich nach Süden zu drehen; die Luft
+wurde trüber und kühler; die See ging hoch. Wir wechselten daher unsern
+Ankerplatz und suchten nördlich von der Landzunge Schutz. Gegen Abend wuchs der
+Wind zum vollen Sturme an, so daß wir auch den zweiten Anker auswarfen. Wir
+hofften, der Wind werde wenigstens das Eis in der Oeffnung des Fjordes
+auseinander treiben, dieses war aber durchaus nicht der Fall. Am folgenden Tage,
+als es wieder still wurde, kam das Eis mit der Strömung sogar in den Fjord
+hinein und beinahe bis zu unserm Ankerplatze. Gegen Mittag blies ein Nordwind,
+der uns das Eis noch mehr auf den Hals trieb. Blomstrand war von seiner
+Excursion zwar noch nicht zurückgekehrt, aber wir mußten nothwendig vor dem Eise
+Schutz suchen, und setzten Segel bei, um womöglich Grey-Hook vorbei nach der
+Liefde-Bai zu gelangen. Wir errichteten daher auf dem Strande eine
+Steinpyramide, legten dort eine Mittheilung über unsern Plan nieder, lichteten
+die Anker und kreuzten nach Grey-Hook zu. Aber das Eis war hier nicht zu
+durchdringen. Wir kehrten daher zu unserm alten Ankerplatze, südlich von dem
+Vorsprunge an der Aldert Dirkses Bucht, zurück.
+
+Der Nordwind ging erst am 18. in eine frische Kühlte über, die längere Dauer und
+für uns ein Ende unserer Gefangenschaft in Aussicht stellte. Darum kehrten auch
+alle Excursionen von ihren längeren Ausflügen zurück. Am 19. gegen Morgen
+erschien uns das Packeis bereits etwas vertheilt. Wir steuerten deshalb zum
+zweiten Male gegen das Eisband im Westen, diesesmal mit dem festen Vorsatz, wenn
+möglich, nicht mehr zurückzukehren. Wir gelangten auch bald in eine offene
+Rinne, fuhren in dieser parallel dem Strande mit günstigem Winde weiter bis
+Grey-Hook, und hatten am 19. Juli um acht Uhr die Wijde-Bai endlich hinter uns.
+Gegen Westen und Norden lag der unübersehbare Wasserspiegel rein und eisfrei da;
+nur ein weißer Streifen im Norden deutete die Grenze an, welche unserm
+Vordringen nach jener Richtung hin gesteckt war.
+
+Der Wind ging sodann weiter nach Nordost herum und nahm mehr und mehr ab. Wir
+unternahmen daher am Vormittage zu Boot einen Ausflug zur Grey-Hook, oder, wie
+die Holländer sie nennen, Dore-Hoek.
+
+An dieser Bergspitze traten ganz andere Gesteine auf, indem sie selbst sowohl
+als auch die aus der Ebene aufsteigenden Hügel, welche den Fuß des Berges
+umgeben und sich noch ein Ende in die See fortsetzen, aus einem schwarzblauen,
+glimmerhaltigen Thonschiefer, abwechselnd mit Schichten eines grauen, in der
+Luft gelblichen, festen Sandsteines, bestehen. Der Thonschiefer ist deshalb
+besonders interessant, weil er einige, wenngleich äußerst geringe organische
+Einschlüsse, kleine Bivalven und Fucoiden, enthält, welche sonst der ganzen
+hiesigen Sandsteinbildung zu fehlen scheinen. Ob die vorherrschende Richtung der
+Schichten eine westliche oder östliche sei, war hier sehr schwer festzustellen,
+da nicht blos die letzten niedrigen Küstenberge, sondern auch das eigentliche
+Gebirge viele Unregelmäßigkeiten und Faltungen zeigten. Dieses eigenthümliche
+Verhältniß fällt schon in der Ferne, wenn man von der Seeseite das
+Grey-Hook-Gebirge in Sicht bekommt, in's Auge.
+
+Auf dem Rückwege landeten wir an einem von Grus und Rollsteinen gebildeten
+kleinen Holme, auf welchem einige Eidergänse und Meerschwalben brüteten, und
+kehrten, nach einer Abwesenheit von sechs Stunden, wieder zur Magdalena zurück.
+
+Wir sollten nunmehr auch mit einer, unsere Geduld auf die Probe stellenden,
+Fahrt während einer Windstille Bekanntschaft machen. Bald herrscht vollkommene
+Ruhe, bald weht eine Weile ein schwacher Windhauch, das eine Mal aus Süden, das
+andere Mal aus Norden, und so rings um die ganze Windrose Ist die Strömung
+entgegen, so wird das Schiff zurückgetrieben; immer aber stampft es heftig bei
+der starken, von der hohen See kommenden Dünung. Bis dahin hatten wir nicht mehr
+als zwei Tage mit Regen und Schnee zu kämpfen gehabt; die Luft war fast immer
+klar gewesen. Nachdem wir aber an Grey Hook vorbei und wieder in blaues Wasser,
+das heißt in den Golfstrom, gekommen waren, begegneten wir einer kalten Luft und
+den in dieser Zeit auf Westspitzbergen so häufigen Regengüssen.
+
+Die ganze Nacht zum 20. trieben wir vor der Red-Bai, auch der ganze folgende Tag
+ging zu Ende, bevor wir endlich, unter Benutzung der schwachen Windstöße, die
+Höhe der Norwegischen Inseln erreichten.
+
+Um doch in etwas die Zeit, welche wir durch diese Fahrt verloren, zu ersetzen,
+gingen Blomstrand, Smitt und Dunér an's Land zum Fuße eines großen Granitberges,
+welcher im Norden an die unter dem Namen Vlate-Hoek bekannte Bergspitze — im
+Westen von der Mündung der Red-Bai begrenzt — anstößt.
+
+Hier hatten wir zum ersten Male Gelegenheit, einen wirklichen Alkenberg mit
+seinen Myriaden von Vogelcolonien kennen zu lernen. Zuerst hört man von den
+steilen, hohen Absätzen des Berges ein anhaltendes Brausen, das dem Donnern
+eines entfernten Wasserfalles gleicht. Die sämmtlichen Stimmen der verschiedenen
+Arten vereinigen sich hier zu einem einzigen Tonmeere, das jeden einzelnen Laut
+verschlingt. Noch kann das Auge kaum mehr als ein paar Möwen unterscheiden, die
+neben der Felskante schweben, jetzt aber im Schatten des Berges verschwinden.
+Man kommt näher, und der Lärm wird immer betäubender; die Disharmonien lösen
+sich in einzelne Stimmen auf. Man vernimmt das Knurren der Alken, das widerliche
+Girren der Rotjes; aber unzählige andere, nicht zu unterscheidende, wunderliche
+Laute mischen sich in dieses Chaos, gebildet durch diese Millionen
+leidenschaftlich bewegter Thiere, deren stärkster Naturtrieb hier bis auf's
+Aeußerste gesteigert ist. Tiefe, fast menschliche Stimmen, heisere Rufe,
+wehklagende Laute hallen von diesen Felswänden wieder. Plötzlich erklingt ein
+neuer und so seltsamer Ton, daß der Hörer unwillkürlich zusammenfährt, so
+gellend trifft er sein Ohr. Das ist der Gebirgsfuchs, wenn er mit seinem Schrei
+die Vogelcolonie begrüßt, ein Ton, der bald ein Hohnlachen, bald ein Angstruf
+scheint. Wie man ihn auch auffassen mag, die alten holländischen Walfischjäger
+hielten diesen Ruf für den des Teufels, der ihres Vorhabens spotte, und
+betrachteten ihn als ein schlimmes Omen. Wir kletterten den Bergabhang unten ein
+Ende hinan, um die großartige Werkstatt des Lebens mehr aus der Nähe zu
+betrachten. Die Alken bilden den Stamm der Colonie. Sie sitzen in langen Reihen
+dicht an einander gepackt auf den unzugänglichsten Vorsprüngen der Felswand. In
+allen Klüften, auf allen Absätzen erhebt sich Brust an Brust, und nur der
+äußerste Rand der Klippe, wohin möglicher Weise der Gebirgsfuchs gelangen
+könnte, bleibt frei. So macht auch die Thiere die Erfahrung klug. Es scheint
+aber fast, als ob der Berg blos für die Hälfte seiner Bewohner Platz hätte; denn
+eben so unermeßlich ist die Zahl derjenigen Vögel, welche umherschwärmen und zu
+dem Meere hin und zurück fliegen. Wollen die zuletzt ankommenden sich
+niederlassen, so müssen immer eben so viele von den sitzenden ihren Platz
+aufgeben.
+
+Auf den mehr niedrigen und mehr zugänglichen Absätzen haben einzelne Schaaren
+von Teisten ihre Wohnstatt aufgeschlagen, und die Rotjes, oder der Seekönig,
+dieser hochnordische schöne Schwimmvogel, nicht größer als ein kleiner Enterich,
+macht so oft als möglich seine Ausflüge in Schaaren von 20 bis 30 Köpfen. Wie
+die Mauerschwalbe wirft er sich hastig in einem Bogen hinab, mit einem lauten
+Schrei, darein sich eine Art von Wiehern mischt. In einer senkrechten Spalte hat
+eine kleine Schaar von Kryckien Larus tridactylus — ihre Colonie. Die
+„Seepferde“, diese Friedensstörer der Vogelberge, sind immer zur Plünderung
+bereit. Kaum hat eine Kryckie ihr Nest einen Augenblick unbewacht gelassen, so
+stürzt er darauf zu. Nun beginnt ein blutiger Streit, der oft damit endigt, daß
+der Räuber hinausgezerrt und unter lautem Schreien mit den Flügeln in die Flucht
+geschlagen wird. Zu oberst auf den freistehenden Kanten hat die Großmöwe ihr
+Nest angelegt, das von einem der Gatten bewacht wird, während der andere um die
+Felswand schwärmt. Sobald er den Beschauer wahrnimmt, fliegt er mit heiserem
+Schreien ein paarmal um das Nest und läßt sich auf der nächsten Spitze nieder,
+als wollte er seine Bewegungen bewachen. Oft sitzt er auch Stunden lang auf dem
+höchsten Kamme des Berges ganz friedlich neben den Alken, obwohl er ohne
+Widerrede ihr schlimmster Feind ist und ihre Nester plündert.
+
+Wir fanden uns hier auch angenehm überrascht von der üppigen Vegetation zwischen
+den gewaltigen Steinen und Blöcken auf den Abhängen an der See. Der Vogelberg
+hatte sie in's Leben gerufen. Cochlearia und Oxyria digyna, dieses vortreffliche
+Gemüse auf der hochnordischen Tafel, wuchsen hier breitblätterig und freudig,
+die erstere Pflanze einen halben, diese einen Fuß hoch. Ranunculus sulphureus
+war noch größer. Von dieser Art ist immer die Vegetation an den Vogelbergen.
+
+Man kann im Allgemeinen, je nach den Familien, welche daselbst brüten, dreierlei
+Arten dieser Vogelberge unterscheiden. Die Colonien der „Seepferde“ bleiben
+gewöhnlich ganz einsam auf ihren stinkenden Felsen; die Möwen wählen ihre
+besonderen klippigen Plätze; die Alken, Teiste und Rotjes, welche mit den Möwen
+unausgesetzt sich im Kriege befinden, haben wiederum ihre eigenen Berge, und nur
+selten findet man ein Paar von der einen Colonie bei der andern. Die Eidergänse
+und Meerschwalben suchen fast immer die flachen Inseln auf.
+
+Dunér bestieg die Höhe des Vorgebirges, in welche das schneebedeckte Gebirge
+verläuft; die Aussicht, besonders über Fair Haven und seinen auf allen Seiten
+von Klippeninseln und Bergen eingeschlossenen Wasserspiegel, war prachtvoll.
+Nachdem wir unsere botanischen und geognostischen Untersuchungen beendigt
+hatten, steuerten wir der äußeren Norwegischen Insel zu, die Magdalena zu
+erwarten, welche gegen die Nacht hin endlich so viel Wind erhalten hatte, um
+durch Kreuzen in den Sund zwischen den beiden Inseln zu gelangen. Hier wurde
+Anker geworfen.
+
+:::
+
+:::: align-center 
+****
+::::
+
 
 
 

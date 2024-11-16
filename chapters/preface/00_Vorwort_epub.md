@@ -24,7 +24,7 @@
 * [Karls XII. Insel und der Trabant](ch003.xhtml#b196)
 * [Eismöwe (Larus eburneus)](ch003.xhtml#b205)
 * [Rennthierkopf](ch003.xhtml#b231)
-* Rennthierjagd
+* [Rennthierjagd](ch003.xhtml#b257)
 * Küste des festen Landes bei der Smeerenbergbai (Granit)
 * Im Innern der Kingsbai
 * Westseite der Kingsbai
