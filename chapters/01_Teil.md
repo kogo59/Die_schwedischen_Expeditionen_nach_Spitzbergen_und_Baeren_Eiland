@@ -8582,6 +8582,489 @@ Anker geworfen.
 ::::
 
 
+## <small>Dreizehntes Kapitel.</small><br /> Die norwegischen Inseln. — Magdalenen-Bai. 
+
+::: justified
+
+:::: fs-xs
+Die Eiderholme. — Sabine's Observatorium. — Vogelsang. — Amsterdam-Eiland. — Die
+Magdalenen-Bai. — Unbehagliche Fahrt. — Risse und Schären der Magdalenen-Bai. —
+Magdalena-Hook-Berg. — Umschau. — Pflanzen auf hohen Bergspitzen. —
+Schneegrenze. — Die Sieben Eisberge. — Cap Mitra. — Formen des Granits. —
+Kesselberge. — Fahrt zur Croß-Bai.
+<br /><br />
+::::
+
+Es war unsere Absicht gewesen, uns in dem Sunde zwischen den Norwegischen Inseln
+nur ein paar Tage aufzuhalten, um so rasch als möglich seine Umgebungen zu
+untersuchen und festzustellen, ob die Localität sich für den Beginn eines
+trigonometrischen Netzes an der Westküste eigne. Aber das Wetter blieb
+ungünstig, es wechselten Südweststürme mit vollkommener Windstille ab, und wir
+mußten einige Tage unthätig verweilen.
+
+Die westliche Norwegische Insel ist den Spitzbergenfahrern als ein „Eidervär“,
+das heißt als eine Stelle bekannt, wo die Eidergans in großen Colonien nistet.
+Auf dem flachen Lande nach Norden hin fanden wir viele Gänse, die meisten Eier
+ausgebrütet, die Jungen zum Theil schon ausgekrochen. Die Mütter sind in dieser
+Zeit kaum scheuer als die zahmen Gänse und verlassen ihr Nest erst dann, wenn
+sie in Gefahr kommen von dem Fuße des Jägers getreten zu werden. Gewöhnlich
+wählt die Eidergans nur kleine und niedrige Inseln, wo sie von den Einbrüchen
+des Gebirgsfuchses verschont bleibt. Es scheint sogar, als ob sie beim Abschiede
+von diesen Brutplätzen jedesmal genau erwägt, ob ihr Holm dem Fuchse zugänglich
+sein könnte; denn hat das Eis ihn etwa mit dem Festlande oder den größeren
+Inseln verbunden, so verläßt sie diesen Platz sicher. Ihre Nester bleiben
+indessen den gefährlichsten ihrer Feinde, den nach Gewinn gierigen, jährlich
+wiederkehrenden Jägern immer zugänglich und ihre Eier und Daunen werden auf das
+Rücksichtsloseste geplündert. Man nimmt Alles ohne Unterschied, die Eier mögen
+frisch oder halb ausgebrütet sein, und bringt sie in ganzen Tonnen auf's Schiff.
+Erst hier untersucht man, ob die Beute brauchbar; ist dieses nicht der Fall, so
+wirft man sie ohne Weiteres in die See. Ist man vielleicht zu spät bei dem
+„Wehr“ eingetroffen, so kommt es wohl vor, daß man im Aerger darüber und um
+seiner Zerstörungslust Genüge zu thun, Steine in die Nester wirft und dadurch
+dem Vogel die Lust benimmt, an derselben Stelle von Neuem seine Eier zu legen.
+
+Nicht weniger verderblich als die Gier nach den Eiern, welche frisch eine
+vorzügliche und kräftige Nahrung bilden, ist das noch vortheilhaftere Einsammeln
+der Daunen. Die Handvoll, welche der Vogel selbst aus seiner Brust rupft und
+womit er die kleine Vertiefung im Kies — sein kunstloses Nest — ausfüttert,
+beträgt etwa zwei bis drei Loth. Um also zehn Pfund Federn zu liefern, müssen
+100 bis 160 Gänse ihre Nester verlassen und zugleich ihre Eier verlieren, welche
+— durchschnittlich sechs Stück auf jedes Nest gerechnet — 600 bis 960 Junge
+geben würden. Die Folgen einer solchen rücksichtslosen Jagd machen sich auch
+bereits sehr fühlbar; denn die Eiderholme, welche noch in Menschengedenken
+tausend Pfund und mehr lieferten, geben jetzt kaum so viel, als zu ein paar
+mäßigen Kissen erforderlich ist. Darum hat das Einsammeln der Daunen jetzt auch
+seine Bedeutung, die es noch vor wenigen Decennien hatte, als es einen nicht
+geringen Beitrag zu dem Gewinne aus der Walroß- und Rennthierjagd lieferte, wohl
+gar das Hauptziel einiger Spitzbergenfahrer bildete, ganz und gar verloren. So
+rüsteten im Jahre 1830 ein paar Fischer aus dem Nordlande eine in ihrer Art
+einzige Daunenexpedition aus, denn ihr Schiff bestand aus einem kleinen
+gedeckten Boot, „Ottring“ genannt, auf welchem sie das Eismeer durchfuhren,
+Spitzbergen besuchten, und — das ganze Boot voller Daunen — glücklich
+wiederkamen. Berechnet man den Werth eines Pfundes Daunen auf zehn Reichsthaler
+(à 11¼ Sgr.), so war ihr Unternehmen allerdings gut bezahlt.
+
+Heutzutage ist es sehr selten, daß man um die Herbstzeit einige größere Schaaren
+junger Eidervögel antrifft. So verschwinden sie auf Spitzbergen mehr und mehr,
+und die Zeit ist nicht fern, da dieser schöne Vogel nur noch in einzelnen
+Individuen vorhanden sein und, wie so viele andere Thiergeschlechter, die
+dasselbe Schicksal gehabt haben, ein warnendes Zeugniß für die Gier der Menschen
+nach Gewinn ablegen wird.
+
+In den steilen Geröllabhängen der Insel hatten zahlreiche Rotjes und Teiste ihre
+Nester mit schon längst ausgekommenen Jungen; auf den höchsten Spitzen saß aber
+die Großmöwe mit ihrer Familie draußen vor dem Neste. Als ein Beweis für die
+Gier dieser Raubvögel mag angeführt werden, daß ein von uns erlegtes Junge vor
+Kurzem ein ganzes mit Daunen bekleidetes Eidergänschen verzehrt hatte.
+
+Hier sahen wir auch zum ersten Male grüne Matten von Polarweiden, Moos und
+Gräsern, Aira alpina und Pestuca hirsuta, zwischen welchen Wahlbergella apetala
+und Potentilla emarginata zerstreut aber üppig wuchsen.
+
+Den 21. Juli unternahmen Blomstrand und Dunér mit dem Steuermanne Mack und einem
+Matrosen eine Bootexcursion, mit Proviant auf acht Tage versehen, und der
+Verabredung, mit unserm Schiffe in der Magdalenen-Bai zusammen zu treffen.
+
+„Vor einer schwachen nordöstlichen Brise fuhren wir erst durch den Sund zwischen
+den Norwegischen Inseln und darauf längs der nach Fair Haven liegenden Küste der
+östlichen Insel bis zu dem in geographischer Hinsicht merkwürdigen Punkte, wo
+Phipps im Jahre 1773 und Sabine — nach welchem die Stelle gewöhnlich Sabine's
+Observatorium genannt wird — im Jahre 1823 seine Beobachtungen angestellt hat.
+Nach kurzem Aufenthalte daselbst setzten wir unsere Fahrt zu einem kleinen Holme
+fort, genannt Hvitö, welcher in dem Sunde zwischen den Norwegischen Inseln und
+dem festen Lande liegt. Die Strömung in diesem Sunde ist sehr stark; jetzt aber,
+da der Wind ihr entgegen wehte, hatte das kleine Boot schwer gegen den starken
+Seegang zu kämpfen. Auf diesem Holme fanden wir Eidergänse in Menge; auch seine
+geologische Bildung war von nicht geringem Interesse, da seine Hauptmasse aus
+einem feinen, weißkörnigen Granit, durchsetzt von Kalkgestein und gröberem
+Granit, bestand.
+
+„Nachdem wir den offenen Fjord passirt hatten, besuchten wir die Insel
+Vogelsang. Der Wind wehte anhaltend schwach aus Nordosten. Es dauerte aber nicht
+lange, so kamen uns gewaltige Wogen aus Südwesten entgegen, welche in
+Gemeinschaft mit der in derselben Richtung befindlichen schweren Wolkenbank
+auswiesen, daß weiterhin ein Sturm raste. Wir schlugen daher an einer kleinen
+freien Stelle mitten in dem furchtbaren Steingerölle, aus welchem die
+niedrigeren Theile der Insel bestehen, unser Zelt auf. Es wurde sodann von den
+Resten eines verunglückten Schiffes am Rande ein Feuer angezündet und das
+Abendbrod gekocht. Hierauf ging Dunér zu dem Gebirge. Selbst ein Land wie
+Spitzbergen hat wenige Stellen aufzuweisen, die an Wildheit und grauenvoller
+Oede mit dieser einen Vergleich aushalten können. Die ganze Insel, die sich
+1,000 bis 1,200 Fuß über dem Meere erhebt, ist nichts als ein einziger
+Steinhaufen und die Vegetation selbst für eine Granitregion überaus dürftig.
+Gleichwohl soll man hier im Jahre 1820 dreißig Rennthiere geschossen haben. Wir
+nahmen keine anderen lebenden Wesen wahr als Rotjes und den Fieldfuchs, der mit
+seinem ängstlichen wilden Schrei uns einen Augenblick die Befürchtung eingab, es
+möchte dem umherkletternden Duner ein Unglück zugestoßen sein. Die Aussicht von
+der Höhe war wild und großartig. Jenseits Fair Haven erschien ein Theil der
+Smeerenberg- und die in der Ecke zwischen beiden belegene Foul-Bai, in welcher
+man bis sechzehn kleinere Inseln zählen konnte. Das Festland erschien als ein
+wildes Durcheinander von zackigen, schwarzen Spitzen, die unteren Abhänge fast
+immer von Gletschern bedeckt, seltener bis zur Spitze in Schnee gehüllt; ein
+wenig zufrieden stellender Anblick in Betreff der projectirten Gradmessung,
+welche, wenn sie an der Westküste vorgenommen werden soll, nothwendig ihren
+Ausgang von Vogelsang nehmen muß.
+
+„Frühe am Morgen fuhren wir weiter zum Cloven Cliff und untersuchten hier ein
+mächtiges Kalkbett, das den Granit durchbricht. Um dem Sturme, der draußen vor
+Vogelsang wüthete, zu entgehen, gaben wir die Weiterfahrt auf und kehrten zu
+unserm Schiffe zurück, das wir am 23. Juli sechs Uhr Morgens erreichten.“
+Abwechselnde Südwestwinde, Windstille und Nebelwetter stellten sich unserer
+Weiterreise entgegen. Die Jagd- und Dreggboote machten Excursionen zur Red-Bai,
+doch ohne wesentlichen Erfolg. Endlich am 25. sprang der Wind nach Nordosten
+herum, das Wetter klärte sich etwas auf und wir gingen am frühen Morgen unter
+Segel. Schon am Abende vorher hatten wir eine Steinpyramide mit einer weißen
+Stange auf der Ebene der äußeren Norwegischen Insel errichtet und darunter für
+den Führer der Expedition einen Bericht niedergelegt. Die Fluth war uns entgegen
+und die Fahrt daher abscheulich.
+
+Der Sund zwischen den beiden Norwegischen Inseln ist durchschnittlich 8 bis 9
+Faden tief, aber es gehen von ihnen ein paar Steinriffe aus, und man muß sich
+daher mit dem Schiffe in der Mitte der Rinne halten. Bei sehr niedrigem
+Wasserstande ist ein Theil des Riffes, welcher die Fortsetzung der Westspitze
+der inneren Insel bildet, sichtbar, doch kann man sich mit kleineren Schiffen
+mitten zwischen diese Schär und die Insel wagen, wenn man nur genau in der Mitte
+der engen Passage bleibt.
+
+Am Vormittage wurde das Excursionsboot ausgesetzt, und Blomstrand und Dunér
+nahmen ihre durch den Sturm vor zweien Tagen unterbrochene Fahrt wieder auf.
+
+Während eines kurzen Aufenthaltes auf der Nordseite des Amsterdam-Eilands
+versuchte Dunér in der Nähe eines Gletschers eine Bergbesteigung. Hier entging
+er kaum einer offenbaren Lebensgefahr, indem ein großer Felsstein, der aus dem
+Gerölle ragte, wenige Augenblicke nachdem er ihn passirt hatte, von seiner
+Stelle wich und mit ungeheurem Donner in die Tiefe stürzte. Während des Nebels
+und Sprühregens wurde die Fahrt fortgesetzt, dann aber wieder gelandet, um, so
+weit der Nebel es zuließ, den Gletscher in näheren Augenschein zu nehmen.
+
+Es haben hier mehrere Eisströme sich zu einem einzigen vereinigt, der auf eine
+steile Felswand trifft und einen Eisfall bildet; dann sammelt er sich wieder und
+stürzt von Neuem über einen Abhang, worauf er in mäßigem Abfall langsam zur See
+niedersteigt. Doch mündet er nicht unmittelbar in dem Meere, sondern in einem
+durch ein schmales Riff davon vollkommen getrennten Landsee, dessen Tiefe so
+bedeutend ist, daß Eisblöcke, welche sich vom Gletscher losgelöst hatten und
+nach ungefährer Berechnung 36 Fuß unter die Wasseroberfläche reichten,
+vollkommen frei darin umherschwammen. Die Entstehung dieses tiefen Bassins ist
+schwer zu erklären. Blomstrand vermuthet, daß von jeher in der Oeffnung der
+Meeresbucht eine flache Stelle gewesen, und daß die vom Gletscher sich
+loslösenden Eisstücke allmählich Steine und Geröll darauf abgelagert haben. Nahe
+dem Gletschersee im Osten traf man einen gewaltigen Block von dunkelrothem
+Granit, der ungefähr noch um 12 Fuß den Meeresspiegel überragte und
+wahrscheinlich einen ganz andern Ursprung hat, als der rings anstehende graue
+Gneisgranit.
+
+:::: { .wrap-100 .caption }
+![Gletscher im Innern der Magdalenenbucht.](Die_schwedischen_Expeditionen_268.jpg "Gletscher im Innern der Magdalenenbucht."){#b268}
+::::
+
+Auf der weiteren Fahrt längs der Ostküste der Insel wurde auch die Stelle
+besucht, wo einst Smeerenberg, die Hauptstation der holländischen
+Walfischfänger, belegen war. Ungefähr sechzig Gräber mit umhergestreuten
+Menschen- und Walfischknochen waren das Einzige, was an die ehemalige Bedeutung
+dieser Stelle erinnerte. Ein Ende von hier, an Danes Gate, dem Sunde zwischen
+dieser Oe und der Dänischen Insel, fand man noch einige Ueberbleibsel der alten
+Thransiedereien. Nachdem sie einige Stunden auf einer kleinen Insel mitten im
+Sunde ausgeruht, fuhren sie, jetzt mit günstigerer Strömung, unter anhaltendem
+Regen, längs der Ostküste der Däneninsel und weiter durch South Gat, dem Sunde
+zwischen der Insel und dem Festlande — der ebenfalls einen der Hauptplätze der
+Walfischfänger gebildet hat —, bis sie endlich, nachdem sie wiederholt an's Land
+gestiegen und überall denselben Gneisgranit angetroffen, Magdalena-Hook
+passirten und den Fjord gleichen Namens glücklich erreichten. Die Magdalenen-Bai
+ist unzweifelhaft einer der interessantesten Punkte auf Spitzbergen, indem man
+hier auf einem verhältnißmäßig kleinen Raume Alles zusammen hat, was für die
+großartige Natur dieses Landes charakteristisch ist: hohe, bizarre Gebirge und
+Gletscher in allen nur denkbaren Formen und Abstufungen. 
+
+„Nachdem wir längs dem nordöstlichen Strande längere Zeit vergeblich nach einem
+geeigneten Landungsplatze gesucht und überall auf tosende Brandungen, steile
+Felswände und ungastliche Gletscher getroffen, erreichten wir endlich eine durch
+ein Sandriff mit dem Lande verbundene Halbinsel, welche nach innen zu einen ganz
+vorzüglichen Hafen bildete. Allerdings bedrohte uns auf der einen Seite der bis
+untenhin gehende Endgletscher, von welchem unaufhörlich größere und kleinere
+Eisstücke abbrachen, auf der andern Seite aber ein von dem Gebirge, fast über
+unseren Häuptern, herabhängender zweiter Gletscher. Doch waren alle diese
+Gefahren mehr in der Einbildung vorhanden.
+
+„Von unserer Lagerstätte auf der Halbinsel — wo eine Menge Gräber von Engländern
+deren frühere häufige Besuche bezeugen wurde gleich nach Mittag ein Ausflug zu
+dem nächsten in der Bucht mündenden Gletscher unternommen und dessen innere
+Seite bis zu einer bedeutenden Höhe bestiegen. Größere und kleinere Spalten,
+vorherrschend in verticaler Querrichtung, durchschnitten ihn, oft erheblich lang
+und einige Fuß breit, so daß man bedeutende Umwege zu machen gezwungen war, wenn
+nicht hartgefrorene Schneemassen eine Art natürlicher Brücken bildeten, über
+welche man wandern konnte. Freilich mußte das Auge sich erst an den
+schwindelnden tiefblauen Abgrund, der unter den Füßen gähnte, gewöhnen. Die
+kleineren Risse und Spalten waren oft bis zu den Rändern mit Wasser gefüllt.
+Diese Erscheinung zeigt, wie dicht das compacte Gletschereis ist, obwohl es dem
+äußerst lockern und porösen Schnee seinen Ursprung verdankt.
+
+„Später unternahmen wir noch einen Ausflug zu dem hohen Berge im innersten
+nordöstlichen Winkel der Bucht gleich neben dem großen Endgletscher, welcher aus
+fünf mit einander verbundenen Eisströmen entstanden ist und doch keine Spur von
+Mittelmoränen zur Schau trägt.
+
+„Während wir den vergeblichen Versuch machten, ein unter einem großen Steine
+befindliches Fuchsloch aufzudecken, ließ der Wächter des Bootes sich verleiten,
+seinen Posten zu verlassen. Der Gletscher bewegt sich, es stürzt ein großes
+Eisstück in die See und rührt sie weit und breit auf; die Dünung füllt das Boot
+zur Hälfte mit Wasser und wirft es auf einen Steinwall am Ufer, so daß das
+Steuer zerbricht. Die Rückkehr wurde daher um so mehr beschleunigt, als
+Magdalena schon seit ein paar Stunden in der Mündung des Fjordes sichtbar war.
+Auf dem alten Ruheplatze trafen wir mit von Yhlen zusammen, der mittlerweile
+dort hingekommen, worauf wir uns Alle an Bord begaben.“
+
+Wir kehren nunmehr zur Slupe zurück, wo wir sie verlassen, nämlich in dem Sunde
+zwischen den Norwegischen Inseln. Erst gegen Mittag nahm man Hackluyt's Headland
+im Südosten wahr, und die Slupe richtete ihren Lauf nach Süden. Der Wind wehte
+ziemlich frisch aus Ostnordost, aber der Gegenstrom wurde immer stärker, so daß
+das Schiff weiter in See gehen mußte. Die Luft wurde nebelig, ein Sprühregen
+hüllte die ganze Landschaft ein und der Wind hörte vollkommen auf. Wir lagen nun
+ungefähr acht englische Meilen vom Lande entfernt in blauem Wasser, unsere
+„Arche“ stampfte und rollte bei der starken westlichen Dünung, die nassen Segel
+hingen schlaff herab oder flatterten dann und wann in dem leichten Ostwinde, der
+uns nur wenig vorwärts-, während die Strömung uns oft lange Zeit hindurch
+zurückbrachte. Solche Stunden sind an Bord nicht sehr angenehm; und wenn nicht
+einmal die Cajüte gegen den durch das Skylight eindringenden Regen geschützt
+ist, und der Geruch des Thranes, der Skelete und des Bodenwassers die Luft
+verpestet, so ist es am besten, sich in seiner Koje dem Schlafe zu überlassen.
+
+So blieben wir beinahe 24 Stunden auf derselben Stelle, bis endlich am
+Vormittage des 26. eine nordöstliche labere Brise die Luft zu reinigen und das
+Segel zu füllen begann. Die Dünung hörte auf, mit ihr das Stampfen der
+Magdalena, und wir konnten unsere Fahrt fortsetzen.
+
+Wir passirten bald die Kobbe-Bai und South Gat, den Sund zwischen der Dänischen
+Insel und dem festen Lande, waren am Abende vor Magdalena-Hook und steuerten in
+den längst ersehnten Hafen. Es dauerte aber nicht lange, so trat wieder
+vollkommene Windstille ein. Die Bugsirboote wurden ausgesetzt, aber das Wasser
+strömte aus der Bucht hinaus, so daß wir wenig ausrichteten und daher am Abend
+mitten in der Oeffnung der Magdalenen-Bai auf zwölf Faden Tiefe Anker warfen. Am
+folgenden Tage wurde sie dann zu einem bessern Ankerplatz bugsirt, den
+Kuylenstjerna am nördlichen Ufer, dem westlichsten der Gletscher, welche auf der
+Südseite des Fjordes herabstürzen, gerade gegenüber gewählt hatte. Das Jagdboot
+ging sofort unter von Yhlen's Führung in das Innere der Bucht ab. Er besuchte
+die erwähnte Sandbank, auf welcher das Jahr zuvor zweihundert Walrosse erlegt
+worden waren, und traf hier mit Blomstrand und dessen Gesellschaft zusammen.
+
+Die Magdalenen-Bai, unter 79° 34´ 11“ nördl. Br. und 11° 14´ 52“ östl. L.
+belegen — die Steinpyramide an der Gräberspitze als Standpunkt genommen —, ist
+ungefähr sechs englische Meilen lang und an ihrer Oeffnung vier, im Innern aber
+zwei Meilen breit. Der beste Ankerplatz ist der erwähnte englische Hafen, mit
+gutem Thon- und Sandboden auf neunzehn bis vier Faden Tiefe. Vor der Spitze des
+Sandriffs liegen zwei Klippen, welche bei niedrigem Wasserstande trocken sind,
+mitten in der Bucht aber eine Schär, Vogelö genannt. Von dem Bergzuge, welcher
+im Norden den Einlauf der Bucht begrenzt, tritt ein kleines Vorgebirge heraus,
+das sich in einer von Westen nach Süden gehenden Untiefe fortsetzt. Eine halbe
+englische Meile gerade im Norden von Magdalena-Hook, der westlichsten Spitze des
+Südufers, liegen drei kleine Klippen. Im Uebrigen ist das Fahrwasser frei von
+Schären, und die durchschnittliche Tiefe am Lande beträgt zehn bis
+sechsundzwanzig, weiter nach dem Gletscher am Ende der Vik aber bis achtzig
+Faden.
+
+Der Fjord ist vorzugsweise bekannt von Buchan's und Franklin's Aufenthalt,
+daselbst im Jahre 1818 und dem der französischen Expedition unter Gaimard 1839.
+Wir waren während der beiden Tage unserer Anwesenheit von dem herrlichsten
+Wetter begünstigt; es war ruhig und klar; die Temperatur stieg bis +11° C., sank
+aber in den Nächten, wenn die Sonne hinter die Berge trat, auf +5° C. Die Jagd-
+und Dreggboote hatten gleichwohl geringen Erfolg; auf dem vorherrschenden
+Steinboden fand man nichts Außergewöhnliches, und der feine Thon von den
+tiefsten Stellen erwies sich als sehr arm. Besser fiel ein Versuch mit dem
+Fischernetze aus, den von Yhlen machte; die großen schönen Gründlinge, welche er
+an Bord brachte, benahmen uns die langgehegte Vorstellung von der Armuth dieser
+Gewässer an Fischen. Das Land und die Berge gaben reichlich Gelegenheit zu
+interessanten Ausflügen, von denen nur eine Bergbesteigung genannt werden mag,
+welche Blomstrand in Gemeinschaft mit Smitt und Dunér unternahm. Er hatte bei
+einer früheren Excursion sich zuvörderst mit der ganzen Situation und dem Wege,
+auf welchem man allein die Spitze des hohen Magdalena-Hook-Berges — unter
+welchem wir vor Anker lagen — erreichen konnte, bekannt gemacht. Nachdem sie den
+erwähnten mächtigen Strandwall und das Plateau dahinter passirt hatten,
+bestiegen sie den eigentlichen Berg, erst über Gerölle, sodann aber in einer
+schmaleren Spalte, auf beiden Seiten von senkrecht aufsteigenden, wilden
+Bergwänden eingeschlossen, in welcher sie bis zur Spitze des Berges gelangten.
+
+In fünfzehnhundert Fuß Höhe wird der Granit von einer ungefähr dreihundert Fuß
+mächtigen Schicht krystallinischen Kalkgesteins durchsetzt. Der Granit war
+überall zerbrochen und zersprengt, der Kalk dagegen weniger angegriffen, weshalb
+man auch in dem Gerölle am Fuße des Berges selten einen Kalksteinblock antrifft.
+Die Spitze des Berges wird von einem kleinen, ziemlich ebenen, etwas nach Westen
+abfallenden Plateau gebildet, das im Norden und Süden, wo der Aneroidbarometer
+eine Höhe von 2,310 Fuß angab, ungefähr 24 Fuß breit ist. Einen Theil dieses
+Plateaus nahm eine kleine niedrige Schneebank ein, im Uebrigen war es, wie fast
+der ganze Felsabhang, auf welchem die Besteigung erfolgte, vollkommen schneefrei
+und von einer Schicht loser Steine bedeckt. Dieses fand sogar bei den anderen
+dreien, so gut wie senkrecht abstürzenden, Bergseiten Statt, welche namentlich
+höher hinauf einer äußerst starken Zersprengung und Zersplitterung ausgesetzt
+schienen.
+
+Die Aussicht von oben war großartig und gewaltig. Im Süden, auf der andern Seite
+des Fjordes, breitet sich eine zusammenhängende Eismasse aus, aus welcher
+kesselförmig gruppirte, zackige Granitrücken, nach Art der Zäune auf einer
+schneebedeckten Ebene, hervorragen. Die fernsten erheben sich nur noch mit ihren
+Spitzen über den weißen Grund, während die näheren, durch größere oder kleinere
+Zwischenräume von einander getrennt, nach dem Fjorde abstürzen und die Eismassen
+— welche dem Beschauer unten nur in deren einzelnen Abflüssen, den Gletischern,
+sichtbar werden — begrenzen. Mitten über der Eis- und Gebirgsmasse, zur Linken
+von der höchsten Bergspitze, schimmert ein Streifen des tiefblauen Meeres,
+dahinter aber die prachtvolle Reihe der Bergspitzen von Prinz Charles Vorland
+herüber.
+
+Nach Südosten zu bildet die Tiefe des Fjordes die Hauptsache. Wie eine Karte
+liegt er vor dem Auge des Beschauers da. Nur die Berge, welche den Endgletscher
+der Bucht umstehen, offenbaren denselben Charakter wie die eben beschriebenen;
+die dahinter liegenden deuten durch ihre Gestaltung wie die im Sonnenscheine
+deutlich hervortretende rothe Farbe auf eine ganz andere Formation hin.
+Diejenigen Berge, welche im Norden den Fjord begrenzen und den Vordergrund
+bilden, haben, obwohl sie der Granitformation angehören, ein von den Bergen im
+Süden ganz verschiedenes Aussehen, indem die Pyramidenform vorherrscht und die
+Kesselgestalt nur nebenbei auftritt. Von mehreren der niedrigen Bergrücken,
+welche von der Höhe, darauf wir uns befinden, nach dem Innern des Fjordes
+fortlaufen, steigen nach beiden Seiten Gletscher herab, für welche die
+Bezeichnung als „Sattelgletscher“ vortrefflich paßt.
+
+Die vielleicht reichste und mannigfaltigste Aussicht bietet die Höhe nach Osten
+und Nordosten dar: ein vollkommenes Chaos von Rücken und zackigen Kämmen,
+verbunden, oder von einander getrennt, je nachdem man es will, von weiten nach
+allen Richtungen herabhängenden Eisfeldern. Rothe und hellgelbe Berge nehmen den
+ganzen Hintergrund des Gemäldes ein. Im Norden zieht sich zuletzt der Archipel
+des Nordwestlandes hin, dessen mehr kuppenförmige Berghäupter sich wesentlich
+von den wilden charakteristischen Formen des Granits unterscheiden, bis zuletzt
+der Blick auf der endlosen Wasserfläche des Meeres ausruht, nur hier und da von
+einem schneeweißen Bande unterbrochen, auf welchem das freundliche Licht der
+Mitternachtssonne gleichsam concentrirt erscheint, während das Meer in seiner
+unmittelbaren Nähe doppelt dunkel und unheimlich blickt.
+
+Wir errichteten auf dem Berge einen zehn Fuß hohen Varde, welcher unten drei
+Ellen im Durchmesser hatte, und legten zu oberst zwischen einige flache Steine
+ein Stück Papier mit unseren Namen, Datum und Jahreszahl.
+
+Auf den Abhängen des Berges hatten wir die beste Gelegenheit, eine Menge von
+Pflanzen zu sammeln, von denen viele nur unmittelbar unterhalb des obersten
+Plateaus, also in einer Höhe von 2,600 Fuß über dem Meere, wuchsen, so z. B.
+Cochlearia fenestrata, Cerastium alpinum, Luzula hyperborea und einige Arten
+Saxifragen. Weiter unten, besonders wo das lose Geröll nicht hindernd in den Weg
+trat, befanden sich zwischen den Steinblöcken kleine weiche Teppiche von der
+Polarweide, Alsine biflora und verschiedenen Gräsern. Aus dem Gerölle erhob
+sich, bisweilen fußhoch, die seltene Saxifraga hieraciifolia und Pedicularis
+hirsuta mit ihren röthlichen Blumenähren, abwechselnd mit gelben Ranunkeln und
+der hochrothen, zarten Silene acaulis. Die mächtig treibende Sonne des hohen
+Nordens hatte manche Blume bereits verblühen und welken lassen, aber auch
+mehrere Draben und die hier seltene Arabis alpina zur Blüthe gebracht und die
+Frucht entwickelt; eine Mahnung für uns, daß der Herbst nahe sei. Hoch oben
+wuchs Erigeron uniflorus, die schöne Pflanze, welche zwischen Moos und Gras ihre
+purpurfarbigen, innen gelben Blüthen — von denen nur erst wenige aufgebrochen —
+verbarg, woraus wir entnehmen konnten, daß die Sonne noch lange nicht ihr Werk
+für diesen Sommer vollendet hatte.
+
+Der Schnee auf dem Plateau befand sich in dem Zustande der Auflösung; von der
+Spitze des Berges bis zu seinem Fuße rannen und murmelten kleine Rinnsale, oft
+von einem lebhaften, aus Moos, Saxifraga rivularis, Stellaria Eduardsi und ein
+paar Arten Poa gebildeten grünen Saume eingefaßt. Es verdient Beachtung, daß die
+Vegetation mit der Höhe über dem Meere nur sehr unbedeutend abnahm, so daß alle
+Pflanzen, welche in der Nähe des Meeresstrandes wuchsen, auch noch bei 2,000 Fuß
+Höhe vorkamen. Das anhaltende Sonnenlicht und der geringe Unterschied in der
+Temperatur ist offenbar der Grund für diese Erscheinung. Daher erscheint es ganz
+ungeeignet, hier von einer Schneegrenze zu reden, obwohl man sonst gewöhnlich
+annimmt, daß sie bis zum Niveau des Meeres reiche.
+
+Die großen Granitblöcke und Steinfragmente, welche den eigenthümlichen
+Strandwall bilden, von dem die Gebirge an der Meeresküste beinahe überall
+begrenzt werden, ist mit der üppigsten Vegetation von Moosen und Flechten
+bedeckt. Der graue, oft sechs Zoll dicke Teppich besteht zum größten Theile aus
+Flechten: Sphaerophoron fragile und Cladonia gracilis, Stereocaulon paschale,
+Cetraria islandiea (islãndisch Moos), Bryopogon jubatum, Alectoria thulensis,
+Umbilicaria aretica, Solorina erocea und vielen anderen. Von Mosen fand man:
+Racomitrium lanuginosum mit neun Zoll langen Stengeln, Encalypta rhaptoearpa,
+Gymnomitrien und Bryen, Polytrichum alpinum und Dieranum fuscescens u. s. w.,
+welche sämmtlich bereits Körner ansetzten. — —
+
+Kuylenstjerna hatte während unseres Ausfluges auf dem Gräbervorsprunge einen
+Varde errichtet und darin Nachrichten für Torell niedergelegt.
+
+Den 29., bei dem herrlichsten Wetter, wanden wir den Anker herauf. Eine
+Wolkenbank im Westen zeigte, daß auf dem Meere ein frischer Wind wehe, während
+bei uns in der Vik vollständige Windstille herrschte; wir kamen indessen mit
+Hülfe der Strömung und der Bugsirboote doch heraus. Hier blies eine labere,
+nördliche Brise, wir hatten eine gute Fahrt und befanden uns bald mitten vor den
+„Sieben Eisbergen“, wo Blomstrand an's Land ging. Gegen Abend hörte der Wind
+auf; die Magdalena trieb hierhin und dorthin und stampfte bei der aus Westen
+kommenden starken Dünung.
+
+Die „Sieben Eisberge“, wie die Karten die Küstenstrecke zwischen der Magdalenen-
+und Croß-Bai bezeichnen, bilden eine einzige Reihe der gewaltigsten Gletscher,
+von denen einer mindestens eine halbe Meile breit ist. Man kann eigentlich
+sagen, das ganze Land sei mit Eis bedeckt, aus welchem nur hier und da einzelne
+Bergspitzen aufragen.
+
+Wir nahmen unsern Weg längs einem dieser Gletscher gegen eine der besonders in's
+Auge fallenden Bergspitzen hin, welche nach unserer Ansicht die Hamburger Bai
+begrenzte. Wir fanden indessen später, daß es das bekannte Cap Mitra, die
+Bischofsmütze sei — nach seiner eigenthümlichen Doppelspitze so benannt —,
+welche Scoresby, der nur wenige Male hier an's Land gegangen, bestiegen hat. Wie
+er erzählt, mußte er sich oben, um sich zu halten, auf den Bergkamm wie ein
+Reiter setzen. Die unbedeutende Bucht, welche von dieser Bergspitze im Süden und
+dem großen Gletscher im Norden gebildet wird, blieb schließlich das Ziel für
+Blomstrand's Excursion, auch wurden die ringsum belegenen Berge näher in
+Augenschein genommen.
+
+Das aus sehr charakteristischen Gneis- und Glimmerschieferbildungen bestehende
+Gestein gab zu erkennen, daß wir über die eigentliche Granitregion, von welcher
+man annehmen kann, daß sie gleich südlich von der Magdalenen-Bai aufhöre, schon
+hinaus waren. Irgend eine bestimmte Grenze kann man zwischen den beiden
+Bildungen indessen nicht ziehen, denn schon auf Amsterdam-Eiland und der
+Dänen-Insel beginnt der Granit eine mehr oder weniger gneisartige Structur
+anzunehmen. Die Form der Berge ist indessen von derjenigen des eigentlichen
+granitischen Gebietes sehr verschieden; die Berge treten weniger isolirt auf,
+langgestreckte Gebirgsrücken kommen häufiger vor, während die Kesselform mehr
+zurücktritt. Die Gebirgskämme sind nicht mehr so wild zerrissen, und das
+verhältnißmäßig viel geringere Steingerölle am Fuße der Berge giebt zu erkennen,
+daß der Gneis und die ähnlichen Gebirgsarten dem Einflusse des Frostes und der
+Kälte besser zu widerstehen vermögen.
+
+Im Anschlusse hieran dürfen wir wohl noch Einiges über die Hauptform der
+Granitbildung, welche kurz vorher als Kesselform charakterisirt ist, mittheilen.
+Man hat darunter eine größere isolirte, schalenartig ausgehöhlte Bergmasse zu
+verstehen, mit zacken- und cirkelförmig gestellten Bergwänden, welche nur an
+einer Seite geöffnet sind, um dem in dem Kessel angesammelten Eise einen Ausfluß
+zu gestatten. Beim flüchtigen Anblick erinnern diese Bergformen unwillkürlich an
+eine Kraterbildung, und es ist nicht eben schwer, Gründe für ihren vulkanischen
+Ursprung zu entwickeln, so unberechtigt diese Annahme auch bei einer näheren
+Untersuchung erscheinen muß. Bei dem schönen kesselförmigen Berge bei Foul Point
+bestand nämlich sowohl die Moräne, welche von dem Gletscher aus dem Innern kam,
+als auch der größere Theil des davor auf dem Flachlande befindlichen Gerölles,
+so gut wie ausschließlich, aus einem feinkörnigen grauen Granit, während die
+umgebenden Felswände aus Gneis und schieferartigem Gestein gebildet waren. Man
+fand sich versucht, anzunehmen, es habe hier einmal eine mächtige Graniteruption
+stattgehabt. Es muß aber offenbar das Auftreten der verschiedenen Gesteine als
+ganz zufällig angesehen werden. Die Erscheinung beruht auf dem zerstörenden
+Einflusse des Eises und des Frostes, welchem das schieferartige Gestein eine
+größere Widerstandskraft entgegen zu setzen vermag. Eine zufällige Aushöhlung
+des Berges ist die Veranlassung gewesen, daß sich darin ein Gletscher gebildet
+hat, und infolge dessen die Kesselform. Aehnliche Kesselberge kommen übrigens
+sehr häufig vor, nicht blos bei der Magdalenen-, sondern auch der
+Smeerenberg-Bai, auf dem festen Lande gerade über der Norwegischen Insel, auch an
+der Westseite der Grey-Hooks-Kette bei der Liefde-Bai und, wie schon früher
+erwähnt, tief am Ende des westlichen Armes der Wijde-Bai, so daß es den Anschein
+hat, es sei nicht einmal der Granit eine nothwendige Voraussetzung für das
+Vorkommen von dergleichen Formen. —
+
+:::: { .wrap-100 .caption }
+![Küste des festen Landes bei der Smeerenbergbai (Granit).](Die_schwedischen_Expeditionen_277.jpg "Küste des festen Landes bei der Smeerenbergbai (Granit)."){#b277}
+::::
+
+Am folgenden Tage, den 30. Juli, lag das Schiff noch auf derselben Stelle, und
+erst gegen Abend begann eine Brise aus Südwesten unsere Segel zu füllen. Obwohl
+wir also Gegenwind hatten, waren wir doch mit der Beendigung der unsere Geduld
+auf die Probe stellenden Windstille einverstanden. Endlich, am 31. Juli, wehte
+ein mehr gleichmäßiger, nördlicher Wind. Wir umsegelten Abends das rothe,
+eigenthümlich gebildete Vorgebirge Mock-Hook, welches im Norden die Mündung der
+Croß-Bai, darin wir nunmehr einfuhren, begrenzte. Die aus der Bucht kommende
+starke Strömung nöthigte uns, am Abend bei dem nördlichen Ufer Anker zu werfen.
+
+:::
+
+:::: align-center
+****
+:::
 
 
 #### **Anmerkungen** {.break-before .unnumbered}

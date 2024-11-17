@@ -5,7 +5,7 @@
 * [Die drei Kronen](ch003.xhtml#b035)
 * [Oestliche norwegische Insel](ch003.xhtml#b036)
 * [Walrosse](ch003.xhtml#b078)
-* Gletscher im Innern der Magdalenenbucht
+* [Gletscher im Innern der Magdalenenbucht](ch003.xhtml#b268)
 * Gletscher in der Croßbai
 * Scoresby's Grotte
 * Das Burgemeisterthor auf Bären-Eiland.
@@ -25,7 +25,7 @@
 * [Eismöwe (Larus eburneus)](ch003.xhtml#b205)
 * [Rennthierkopf](ch003.xhtml#b231)
 * [Rennthierjagd](ch003.xhtml#b257)
-* Küste des festen Landes bei der Smeerenbergbai (Granit)
+* [Küste des festen Landes bei der Smeerenbergbai (Granit)](ch003.xhtml#b277)
 * Im Innern der Kingsbai
 * Westseite der Kingsbai
 * Sortepynt auf Prinz Charles Vorland
