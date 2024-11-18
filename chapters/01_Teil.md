@@ -2377,7 +2377,7 @@ tiefem Wasser zwischen zwei großen Grundeisblöcken lag. Auf diese Art befanden
 sich beide Schiffe in einem aus solchen, auf dem Grunde feststehenden Blöcken
 gebildeten Hafen, wodurch sie gegen das treibende „Schraubeneis“ und die
 flachen, ungefähr 12 Fuß dicken Eisschollen, deren oberer Theil etwa 4 Fuß die
-Oberfläche des Wassers überragte, geschützt waren. Immer mehr wurde der Fijord
+Oberfläche des Wassers überragte, geschützt waren. Immer mehr wurde der Fjord
 mit Eis gefüllt, und bevor der Abend kam, waren wir buchstäblich von den
 Schollen gefesselt. Wir konnten kaum mit dem Boot an's Land oder von dem einen
 Schiffe zum andern gelangen. Es schien, daß wir sobald nicht von hier fortkommen
@@ -7882,7 +7882,7 @@ zwischen dieser Insel und dem eigentlichen Spitzbergen befindlichen Sunde Anker.
 
 Während dessen wurde von Torell und Malmgren eine Bootexcursion gemacht. Sie
 landeten in der Little Red Bay, wo die Dünung sehr hoch ging, und unternahmen
-eine längere Wanderung längs dem Strande. Der Fijord findet sich bereits in der
+eine längere Wanderung längs dem Strande. Der Fjord findet sich bereits in der
 Parry'-schen Karte eingezeichnet, doch stimmt die Wirklichkeit nicht sehr mit
 jener Aufnahme überein. Er hat seinen Namen von einem ziegelrothen Sandstein
 erhalten, welcher mit seinen fast horizontalen Schichten einen hohen Berg auf
@@ -9065,6 +9065,511 @@ starke Strömung nöthigte uns, am Abend bei dem nördlichen Ufer Anker zu werfe
 :::: align-center
 ****
 :::
+
+## <small>Vierzehntes Kapitel.</small><br /> Croß und Kings-Bai. 
+
+::: justified
+
+:::: fs-xs
+Gestalt der Croß-Bai. — Gletscher. — Eisberge. — Der kleinere Fjordarm. —
+Abenteuer mit einem Weißwal. — Gletschergrotten. — Der große Gletscher. — Die
+Kings-Bai. — S. Lovéns Besuch. — Thier- und Pflanzenleben. — Im Innern der
+Kings-Bai. — Der Gletscher „kalbt“. — Fahrt durch Eis. — Steinkohlenlager. —
+Scoresby's Grotte. — Unterirdische Abflüsse. — Nutzloser Aufenthalt.
+<br /><br />
+::::
+
+Sobald der Anker gefallen, waren wir zu neuer Arbeit bereit. Das Boot wurde
+hinabgelassen und wir begaben uns mit Büchse und Mappe an's Land, um wieder eine
+unbekannte Küste zu betreten, über Steinfelder zu klettern und ein paar Blumen
+zu pflücken. Die Flora war nicht reicher als in der Treurenberg-Bucht, aber der
+Eifer und die Lust, etwas zu sammeln, durch die unfreiwillige Muße der letzten
+drei Tage bedeutend geschärft.
+
+Gleich über dem Strande, einer senkrechten, fünfzig Fuß hohen Bergwand, erhebt
+sich das Land zu einem mit kleinen, scharfkantigen Steinen bedeckten Plateau,
+wie es überall, wo ein hartes Schiefergestein vorherrscht, der Fall ist. Während
+unserer Wanderung kamen wir zu einer größeren, von Südwesten nach Nordosten
+gehenden Kluft, wo wir die geologischen Verhältnisse leichter untersuchen
+konnten. Auf der Nordwestseite dieser Kluft lag zuoberst eine Schicht von Kalk,
+darunter wechselten Quarzit mit Thonschieferlagen ab. In den letzteren zeigten
+sich eigenthümliche Grotten, welche einen Zug von Poesie in dieses im Uebrigen
+so prosaische Steinmeer brachten. Wir traten in eine derselben ein, über eine
+Schneewehe, durch ein drei Klafter hohes Thor schreitend, vor Kälte schauernd.
+Drinnen brach sich das Tageslicht an den Eiskrystallen, womit die dunkeln,
+feuchten Wände bedeckt waren, in wechselnden Farben. Weiter nach innen im
+Halblichte zeigten sich stalagmitenartige Eisbildungen, und wir standen eine
+Weile bewundernd vor den regelmäßigen, seltsamen Gestaltungen. Draußen herrschte
+der tiefste Frieden der hellen Sommernacht; von einem Thierleben ließ sich nicht
+das Geringste spüren.
+
+Auf der Rückfahrt lächelte uns das Glück, da wir hier zum ersten Male in
+Spitzbergen auf das Schlangengras — Cystopteris fragilis — stießen. Es war ein
+interessanter Fund. Aber trotz aller unserer Aufmerksamkeit gelang es uns doch
+nur zwei kleine Exemplare zu entdecken. Mittlerweile war es Mitternacht
+geworden; Magdalena hatte ihre Flagge an dem Topmast aufgehißt: — also an Bord!
+— und bald lagen wir Alle in tiefem Schlafe.
+
+Wir fuhren weiter, in der Absicht bei dem niedrigen Vorsprunge am Strandwalle
+einen sichern Ankerplatz zu suchen, aber der Wind war schwach und das Bugsiren
+brachte uns erst am Morgen des 1. August zu der erwünschten Stelle. Wir warfen
+auf 2½ Faden Tiefe, und zwar auf moorigem Grunde Anker. Der Vorsprung besteht
+aus einem ungefähr vier Fuß hohen, aus Steinen und Gerölle gebildeten Riffe,
+welches eine ziemlich große und zwei Faden tiefe Lagune einschließt, zu der man
+von Norden durch eine enge Oeffnung gelangt. Ihr Boden trägt eine ungewöhnliche
+Menge von Algen, zwischen denen viele Kroppfische leben, nebst ein paar Arten
+Schnecken, Krebsen und Seesternen. Ganz in der Nähe des südlichen Strandes
+findet man die Ruinen einer Hütte und daneben einige Gräber. Im Nordosten der
+Lagune ist der eigentliche Hafen, ein großer, durch das Riff und den flachen
+Strand gebildeter Halbkreis, aus welchem einzelne Spitzen vortreten. Die
+nördlichste derselben wurde am Ende des vorigen Jahrhunderts von den Holländern
+als Begräbnißplatz benutzt. Ihre Lage ist 79° 16´ nördl. Br. und 11° 57´ östl.
+L.
+
+Erst hinter der Gräberspitze, welche die Aussicht vom Hafen aus fast ganz
+begrenzt, öffnet sich der eigentliche Fjord, welcher zwar kaum länger als eine
+schwedische Meile, aber in mehr als einer Hinsicht einer der interessantesten
+Fjorde ist, welchen wir besucht haben. Wie Wijde-Bai, an welche er in gewissem
+Sinne erinnert, wird er von einem hohen Gebirgskamme (gewöhnlich Midterhuk
+genannt) in zwei Arme getheilt, welche von der Richtung des Hauptfjordes wenig
+abweichen, während von der Midterhuk noch ein kleiner Arm sich nach Osten
+erstreckt. Diese dreitheilige Gestalt hat dem Fjorde wahrscheinlich die
+Bezeichnung Croß-Bai oder Kreuzbucht — norwegisch Kryds-Bai — verschafft.
+
+:::: { .wrap-100 .caption }
+![Gletscher in der Croß-Bai.](Die_schwedischen_Expeditionen_280.jpg "KGletscher in der Croß-Bai."){#b280}
+::::
+
+Auf seiner Westseite herrscht ein bröckliger hellgelber Kalkstein vor,
+abwechselnd mit dünnen Schichten eines harten Quarzit. Er tritt meist in mehr
+oder weniger unregelmäßigen, pyramidalisch gestalteten einzelnen Bergen, mit
+geradlinigen Contouren auf. Oestlich vom Fjorde sind dagegen Kieselschiefer und
+krystallinischer Kalk die vorherrschenden Gesteine, welche der Gestaltung der
+Berge daher auch einen ganz andern Charakter verleihen. Die schwarzen,
+scharfgepackten Quarzitberge, in langen parallelen Ketten aneinander gereiht,
+abwechselnd mit helleren, unregelmäßig abgeschliffenen Kalkbergen, geben ein
+solches Bild des Schichtenwechsels im Großen, wie man es wahrzunehmen selten
+Gelegenheit haben möchte; zugleich bilden sie mit ihren von allen Abhängen
+niederhängenden, oder bis zum Meere herabsteigenden Gletschern die prachtvollste
+Landschaft. Dieser Reichthum an Gletschern ist es, was der Croß-Bai ihren
+Hauptreiz verleiht, und sicher würden wenige Punkte auf Spitzbergen eine gleich
+gute Gelegenheit darbieten, um ihre Phänomene zu studiren. Vor allen ist es der
+große Gletscher am Ende des nordwestlichen Armes, welcher sich die
+Aufmerksamkeit des Beschauers erzwingt, lange bevor man ihn zu Gesichte bekommt,
+und zwar durch die selbst hier unerhört großen Eisblöcke, welche ununterbrochen
+aus dem Fjorde am Ankerplatze vorbeikommen und ihren Weg nach dem offenen Meere
+nehmen. In ihrer Höhe von 40 bis 50 Fuß über dem Wasserspiegel und ihrer Länge
+und Breite von 150 bis 200 Fuß können sie mit Recht als wahrhafte Eisberge
+bezeichnet werden, mit denen die von den Gletschern in Wijde-Bai,
+Magdalenen-Bai, den Sieben Eisbergen u. s. w. losgebrochenen Eismassen auch
+nicht den entferntesten Vergleich aushalten. 
+
+Es wurden zwei längere Bootfahrten nach dem Innern des Fjordes unternommen, um
+womöglich in der Nähe diesen großen Gletscher zu untersuchen. Ueber den ersten,
+am 2. August von Blomstrand, Dunér und von Yhlen unternommenen Ausflug berichtet
+einer der Theilnehmer wie folgt:
+
+„Heftige, aus dem Innern des Fjordes kommende Gebirgswinde machten die Fahrt
+schon an und für sich ziemlich abenteuerlich. Sie wurde es um so mehr, als
+stellenweise beinahe der ganze Fjord von schwimmendem Gletschereise bedeckt war.
+Wir passirten es indessen glücklich, obwohl das Boot sich einmal in der großen
+Gefahr befand, auf einen Eisberg zu rennen, welcher bei der schnellen Fahrt und
+vom Segel verdeckt unserer Aufmerksamkeit entgangen war. Nicht im Stande,
+Midterhuk zu erreichen, wohin wir unsern Cours gerichtet hatten, steuerten wir
+auf gutes Glück nach der östlichen Küste. Die Brandung machte es unmöglich, an
+Land zu steigen; indem wir aber mit großer Anstrengung längs dem Strande gegen
+Wind und Wellen ruderten, erreichten wir endlich den nach Osten einschneidenden
+kleineren Fjordarm, der gegen den Wind geschützt war und nunmehr zu unserm Ziele
+erwählt wurde. Indem wir uns fast einundzwanzig Stunden in diesem kleinen
+schönen Fjord mit seinen prächtigen Bergen und zahlreichen Gletschern, welche an
+die Magdalenen-Bai erinnerten, aufhielten, hatten wir Zeit genug, seine
+Umgebungen und besonders die Gletscher in Augenschein zu nehmen.
+
+„Von der Höhe des in der Richtung des Fjordarmes fortlaufenden Gebirgsrückens
+hatten wir einen vortrefflichen Ueberblick. Im Nordwesten lag der große
+Endgletscher mit seinen gewaltigen Eisbrüchen frei vor unserm Blick; nur daß ein
+kleiner Theil von dem vortretenden Midterhuksgebirge, welches, obwohl es mit dem
+festen Lande zusammenhing, oder wenigstens davon durch Wasser nicht getrennt
+war, von hier gesehen als eine isolirte, in der Richtung des Fjords streichende,
+bedeutende Gebirgsinsel erschien. Zu unserer Rechten, am Ende des östlichen
+Fjordarmes, breitete sich eine unerhörte Eisfläche aus, welche weit von Osten
+her kommend, — wenn auch nach innen zu von den hohen Strandgebirgsketten und
+nach Norden von den zerstreut aufschießenden Bergspitzen verdeckt — diesem
+Fjordarm vorbei, im rechten Winkel zu seiner Richtung, sich hinzieht, und, ohne
+von Midterhuk aufgehalten zu werden, erst weiter im Westen ihren eigentlichen
+Abfluß hat. Vor unseren Augen liegt unter uns der kleine Fjordarm mit seinen
+steilen Quarzitbergen und den deutlich erkennbaren Eismassen, welche von dem
+Endgletscher und dessen schönen Umgebungen kommen. Nach Süden, auf der andern
+Seite der Höhe, trifft der Blick auf die Berge und Gletscher an der Südseite der
+Kings-Bai; weiter, zur Rechten von den fernen Bergen des „Vorlandes“, welche
+aber die Aussicht begrenzen, steigt an der Fjordmündung, von demselben
+Kalkgebirge, an welchem auch in der Nähe unseres Ankerplatzes ein Gletscher
+herabhängt, ein anderer mächtiger Gletscher zum Meere hernieder.
+
+„Der Bergrücken, von welchem uns diese Aussicht zu Theil wurde, besteht aus
+Glimmerschiefer, durchschnitten von breiten Bändern eines weißen, körnigen
+Kalks. Unter den Geschieben befanden sich große Blöcke feinkörnigen Granits,
+welche von weit entfernten Gegenden herrührten und aus jener Zeit stammten, als
+die Gletscher eine weit größere Ausdehnung als gegenwärtig hatten.
+
+„Um neun Uhr Abends traten wir unsere Rückreise an. Der Wind hatte zwar etwas
+nachgelassen, war indessen noch immer so stark, daß wir uns seiner nur zur
+Heimkehr bedienen durften. Wir segelten mit dem guten Ballast und doppelt
+gerefften Segel vortrefflich, bis wir den östlichen Fjordarm verließen und nun
+mit den Rudern uns durch die dichten, schwimmenden Gletschereismassen hindurch
+zu arbeiten gezwungen waren. Wir kamen zwar glücklich davon, doch hätte ein
+kleines unerwartetes Abenteuer bald schlimme Folgen haben können. Von Yhlen, der
+es übernommen, an der Spitze des Bootes auszuschauen, ruft plötzlich:
+„Geschwenkt! Eis dicht vor uns!“ Kaum ist dieses gesagt und das Boot demgemäß
+gelenkt, so werden wir von einem heftigen Stoße überrascht und zugleich von
+einem Sturzregen überschüttet. Eine gewaltige Schwanzflosse, die dicht an unserm
+Boote ein paar Augenblicke in der Luft erschien, ließ uns über den Grund dieser
+Erscheinung nicht lange im Unklaren. Ein großer Weißwal (je älter, desto heller
+wird er) hatte wahrscheinlich im Wasser geschlafen, und wir waren — Dank von
+Yhlen's Aufmerksamkeit der unmittelbaren Berührung mit ihm zwar entgangen, ihm
+aber doch schon nahe genug gekommen, um ihn in seinem behaglichen Schlummer zu
+stören. Hätte der Wal bei seinem plötzlichen Sprung in die Tiefe sich nur einige
+Zoll dem Boote näher befunden, so würden wir ihm vielleicht sämmtlich
+Gesellschaft geleistet haben. Aber die Gefahr war mit ihrem Eintritt auch
+vorbei, und das kleine Abenteuer bildete nur eine neue Episode in dieser in
+vielen Beziehungen so interessanten Excursion, bei welcher es uns freilich nicht
+gelungen war, den großen Fjordarm zu erreichen und zu untersuchen.
+
+„Bei einem neuen Ausfluge am folgenden Sonntagsabend konnten wir wenigstens bis
+zur Midterhuk und dem nordöstlichen Hauptarme gelangen, aber Wind und Eis
+hinderten uns auch diesesmal an der Erreichung des großen Armes.
+
+„Zufällig besuchten wir noch einmal den früheren Lagerplatz in dem kleineren
+Fjordarme. Während unseres dortigen Aufenthaltes, welcher eigentlich nur auf ein
+paar Stunden berechnet war, hatten wir sogar die Verwegenheit, das von einem
+Gletscherbache gebildete Eisthor eines bis zum Meere niedersteigenden Gletschers
+zu besuchen, — ein allerdings lange gehegter Plan — um hier in größter Nähe die
+so interessanten Phänomene zu studiren. Ich brauche kaum zu sagen, daß die
+Situation auf einem brausenden Strome unter einer Eiswölbung eigenthümlich genug
+war. Der Versuch lief indessen glücklich ab. Eine Weile nachdem wir aus dieser
+Eisgrotte zurückgekehrt, setzte eine von dem Gletscher herabstürzende Eismasse
+das Wasser des Fjordes in solche Bewegung, daß unser Boot, obwohl weit auf das
+Land gezogen, beinahe verloren ging. In der That eine ernste Mahnung!
+
+„Der nordöstliche Fjordarm endigte mit so flachem Wasser, daß wir den letzten
+Theil desselben zu Fuß neben den Midterhuksbergen passirten. Der Versuch, sie zu
+besteigen, um wenigstens von oben einen Blick auf den großen Gletscher zu
+erhalten, blieb fruchtlos, da überall kleinere Gletscher die Zwischenräume der
+steilen Felsabhänge einnahmen. In einem größeren dieser Gletscher eigentlich ein
+nur weit hinabgehender Hänggletscher — gestattete eine eigenthümliche klaffende
+Spalte ein Ende hinein freien Zugang, bis der Weg von einem Eisblock gehemmt
+wurde, über welchen ein Bach strömte, der in der engen, auf allen Seiten
+geschlossenen, dunkelblauen Eiskluft den prachtvollsten Wasserfall bildete.
+
+„Sowohl auf der Hin- als auch der Rückfahrt besuchten wir den am weitesten nach
+Norden vortretenden Theil der Midterhuk. Es ist eine in vieler Hinsicht
+interessante Bergspitze. Ihre kühnen Formen würden ein dankbarer Vorwurf für
+einen Maler sein. Die zahllosen Vogelschaaren, welche in den senkrechten
+Felswänden brüteten, — der Vogelberg bei Flat-Hook erschien im Vergleich mit ihm
+ganz unbedeutend — verfehlten nicht die Augen der Zoologen zu bezaubern; aber
+auch der Botaniker fand schließlich sich zufrieden gestellt durch die
+unglaublich reiche und saftige Vegetation, welche die Abhänge vor den
+Vogelcolonien bedeckte, wo auch der Landwirth — wenn es dessen heutzutage noch
+bedürfte — den bedeutenden Nutzen des Vogelguanos kennen lernen könnte. Außer
+ihrer in der That erstaunlichen Ueppigkeit bot hier die Vegetation noch manches
+Andere von speciellem Interesse, zum Beispiel die für Spitzbergen neue Pflanze
+Ranunculus arcticus.“ 
+
+Obwohl alle Versuche, den großen Gletscher in der Croß-Bai zu erreichen,
+fehlschlugen, so ist er, als vor allen hervorragend, doch so oft genannt worden,
+daß wir nothwendig seine, im Vergleich mit den anderen von uns besuchten
+spitzbergischen Gletschern eigenthümlichen Verhältnisse zu erklären uns bemühen
+müssen. Man möchte den Grund für die gewaltigen Dimensionen der losgebrochenen
+Eisstücke einfach darin finden, daß der Gletscher überhaupt größer als
+gewöhnlich ist und demgemäß auch die in's Meer niederfließende Eismasse. Ein
+Blick auf die Karte zeigt indessen sofort, daß nach der Croß-Bai durchaus nicht
+so große Eisfelder ihre Abflüsse niedersenden als anderswo, zum Beispiel nach
+der Wijde-Bai. Der Grund kann also nur in der größeren Tiefe des Fjordes, in
+welchen der Gletscher mündet, gefunden werden. Ueberhaupt darf man annehmen, daß
+auf Spitzbergen von den großen im Meere endenden Eisfeldern die bei Weitem
+meisten auf dem Meeresgrunde, also auf fester Unterlage ruhen, weshalb für
+gewöhnlich auch immer nur kleinere Stücke losbrechen. Ist dagegen das Wasser so
+tief, daß er nicht bis zum Grunde reicht, sondern gleichsam auf dem Wasser
+schwimmt, so können auch viel größere Eismassen mit einem Male abbrechen. Daher
+die gewaltigen Eisberge, welche aus den tiefen Fjorden Grönlands hinaus in's
+Meer segeln; daher auch die mit ihnen in gewissem Grade zu vergleichenden
+Eismassen, welche in und vor der Croß-Bai schwammen. Die Tiefe der letzteren
+bestimmten unsere Zoologen aber auf 250 Faden, was alle anderen uns bekannten
+Tiefen auf Spitzbergen bei Weitem übersteigt. Wenn man also in diesem Theile des
+hohen Nordens so selten von Eisbergen redet, so beruht dieses nicht auf der
+Kleinheit der Gletscher und der geringen Ausdehnung des Binneneises, sondern
+ganz einfach auf der flacheren Bodengestaltung der Küsten. Die größeren
+Eismassen der Croß-Bai erreichen wahrscheinlich nie die offene See, indem sie
+viel zu tief liegen, als daß sie über die Untiefen an den Küsten hinweg könnten.
+Sie bleiben vielmehr hier zurück in der Gestalt des sogenannten Grundeises.
+
+Früh am Morgen des 8., nach einer kalten Nacht, lichteten wir wieder die Anker.
+Die schwache Brise aus Nordosten hörte bald auf, es wurden daher die Bugsirboote
+ausgesetzt. Wir waren aber noch nicht aus dem Hafen gekommen, als wir merkten,
+daß die Magdalena stille stand, obwohl die Leute in den Booten ihre Kräfte nicht
+sparten. Wir waren auf ein Riff, eine flache Steinbank, gerathen, über welcher
+das Wasser nur sieben Fuß hoch stand. Der Versuch, uns an einem Tau in's tiefere
+Wasser zu holen, schlug fehl, und die Fluth war noch immer im Fallen. Endlich,
+gegen elf Uhr Vormittags, begann dieselbe wieder zu steigen, eine halbe Stunde
+später waren wir flott und bereit unter Segel zu gehen, sobald sich ein Lüftchen
+erheben werde. So lagen wir bis zum Abende; es erhob sich ein frischer Südwest,
+der uns trübe Luft und Sprühregen brachte; die Segel wurden aufgezogen und wir
+lavirten aus der Croß-Bai hinaus. Da aber vom Vorlandssunde aus schwerer
+Wogengang in die Bucht drang, konnten wir erst um Mitternacht in die Kings-Bai
+wenden. Der Wind nahm bei anhaltendem Regen mehr und mehr zu, die Segel wurden
+verringert, und da der Strom aus dem Fjorde kam, so gewannen wir durch Kreuzen
+nicht viel. Gegen den Morgen hin nahm der Wind ab und am Mittage trat
+vollständige Stille ein, die uns wieder zum Bugsiren zwang. Erst um vier Uhr
+Nachmittags kamen wir zum Lande und ließen den Anker an dem Südstrande des
+Fjordes, hinter einem Sandriff, das eine Lagune umschloß, fallen. Vom
+Vorlandssunde aus begann der Wind wiederum hohe Wellen in unsern Hafen zu
+treiben, weshalb wir auch den zweiten Anker auswarfen.
+
+Die Kings-Bai hat ungefähr dieselbe Größe wie die Croß-Bai, und mit dieser
+dieselbe Mündung. Auch die geologischen Verhältnisse stimmen in der Hauptsache
+überein, wenn auch die Gruppirung der verschiedenen Bergpartien in Folge der
+Richtung des Fjordes eine etwas andere ist. Auf der Südseite, näher der offenen
+See, erheben sich hohe kegelförmige Kalkberge von derselben Art wie am
+Weststrande der Croß-Bai. Der am weitesten vorspringende ist die den Schiffern
+wohlbekannte Quad-Hoek. Weiter nach innen folgen schwarze Schieferberge. Die
+größeren einzelnen Bergmassen sind von einander durch Gletscher und von dem
+Meere durch ein flaches Band getrennt, welches längs dem Strande um den ganzen
+Fjord läuft. An der Nordseite erkennt man die parallel laufenden Bergketten des
+Oststrandes der Croß-Bai, aus welchen, ungefähr in der Mitte des Fjordes, eine
+hohe Spitze aufragt, an deren Rücken sich ein verhältnißmäßig unbedeutender
+Fjordarm befindet. Das Ende des Fjordes wird schließlich in seiner ganzen Breite
+von einem mächtigen Gletscher eingenommen, von dem man sagen kann, daß er durch
+die niedrige Felskette in der Mitte in zwei getheilt werde, da hinter derselben
+sich Alles zu einem einzigen Gletscherbette zusammenschließt. Aus diesem erheben
+sich, ziemlich weit vom Strande, die eigenthümlich gestalteten, isolirten
+Bergspitzen, welche unter dem Namen „Drei Kronen“ die Kings-Bai von Alters her
+berühmt gemacht haben. Eigentlich ist es eine Gebirgsgruppe, aus welcher die
+drei Spitzen blos hervorragen und mit ihrer bestimmt ausgeprägten Kegelform dem
+Ganzen diesen Namen verleihen.
+
+Aus Professor S. Lovén's Tagebuch seiner Reise nach Spitzbergen entnehmen wir
+folgende, das Innere dieses Fjordes betreffende Aufzeichnungen. Es war am 24.
+Juli 1837. An dem Nordstrande der Croß-Bai, auf welchem man drei Jahre vorher
+über tausend Walrosse angetroffen, von denen infolge der Ungeschicktheit der
+Harpunirer indessen nur dreihundert erlegt wurden, lag der Schoner Enighed
+(Einigkeit), Capitän Anders Michelsen von Hammerfest, und von ihm aus unternahm
+man den Ausflug zur Kings-Bai.
+
+„Wir ruderten erst zu einem, vor der Südspitze der Croß-Bai belegenen Holme, auf
+welchem sich eine Menge Eidervögel befanden. Sie flogen bei unserer Ankunft auf
+und die Leute plünderten ihre Nester. Darauf ruderten wir längs der Küste. Der
+Strand — die Fortsetzung des Gebirgsfußes — war etwa 10 bis 12 Fuß hoch, senkte
+sich ein wenig nach dem Wasser zu und wurde von einer Menge Bäche durchströmt,
+in deren Nähe etwas Grün und Moos sich befand. Während wir weiter zu der Spitze
+ruderten, von welcher man das Ende der Kings-Bai sehen kann, ging ich an Land
+und folgte dem Strande. Der Boden war fast ganz bloß, hier und da standen ein
+paar Büschel von Draba hirta oder Saxifraga oppositifolia in dem scharfkantigen
+Geröll, das in der Hauptsache aus einem Conglomerat kleiner Steine bestand, in
+einen röthlichen Kitt zusammengebacken, aber so locker, daß sie von dem Eise und
+dem schmelzenden Schnee leicht losgebrochen werden. An manchen Stellen hatte das
+Eis Geröll und Steine in der Art zusammengehäuft, daß es Menschenwerken glich.
+Wo der Strand aber breiter, waren von dem Wogenschwall und dem Eise
+mannigfaltige Höhlen und Kammern gebildet. Wir fuhren darauf mit dem Boote in
+den Fjord zu dem ersten Holme, einem guten „Dunvär“, obwohl es in diesem Sommer
+mindestens schon zweimal geplündert worden war. Der Eidervogel wohnt stets in
+großen Colonien, ganz einsam und immer auf Inseln; nur selten findet man in
+seiner Gesellschaft die Große Möwe oder Raubmöwe — Anser bernicla. Die
+Meerschwalbe, welche hier so häufig, hält sich gleichfalls allein, und nur ein
+paar vereinzelte Individuen von Tringa maritima und Phalaropus fulicarius hausen
+mit ihr. Nähert man sich einem Daunenwehr, so hat man einen sonderbaren Anblick.
+Auf dem flachen Holme sieht man Hunderte von Gänsen, denn in dieser Zeit haben
+die Männchen sich von den Weibchen getrennt und leben in großen Schaaren auf dem
+Wasser. Einige erheben sich, um zu sehen, wer sie beunruhigt, andere bleiben
+ungestört sitzen, bis man ihnen ganz nahe kommt. Hier aber, wo man sie so oft
+aufscheucht, war dieses selten der Fall. Wenn das Boot sich näherte, reckten sie
+ihre Hälse und entfernten sich in ihrem watschelnden Gange. Mit einem Male flog
+dann die ganze Schaar auf, kreuzte ein paarmal um das Boot und warf sich in die
+See, während die Große Möwe auf einer vorspringenden Spitze saß und ihr „Gliy“
+ertönen ließ, bis auch sie davon flog. Unsere „Räuber“ sprangen auf den Holm, um
+zu plündern. Es war traurig, zu sehen, wie arm an Daunen die Gänse waren, welche
+wir schossen; wo aber in den Nestern nicht mehr als ein oder zwei Eier lagen,
+hatten sie eine Schnecke, Buceinum glaciale, daneben gelegt. Ich fand mehrere
+noch ganz warm in den eben verlassenen Nestern.
+
+„Der nächste Holm, zu welchem wir kamen, war höher und bestand aus demselben
+Conglomerat. Die dem Gletscher zugewandte Seite schien eingestürzt und vielfach
+zerklüftet. Hier brüteten die Kryckien.
+
+„Unter einer steilen Felswand fanden wir eine geeignete Stelle zum Kochen. Wir
+besorgten uns Wasser, hingen den Kessel über die Flamme und kochten Vögel und
+Eier. In unserer Nähe standen Salix polaris, Saxifraga nivalis und hieraciifolia
+in schönster Pracht, auch Polygonum viviparum mit seinen weißen Blüthenähren.
+Bald kamen wir wieder zu einem andern Holme, auf welchem nur Meerschwalben und
+Pringa maritima brüteten. Hier fanden wir zahlreiche Spuren von Rennthieren und
+Füchsen, auch wuchs hier üppig Saxifraga hirculus mit den schönen goldgelben
+Blüthen. Als wir auf einem andern Holme landeten, sprang ein Bergfuchs auf, er
+wurde sofort verfolgt und mit einer Ladung Vogeldunst, für die Schnepfen
+bestimmt, erlegt. Es war ein Männchen, in seinem Sommerkleide, mit einzelnen
+weißen Haaren, und offenbar hierher geschwommen, um die Eier und Jungen der
+Vögel zu fressen.
+
+:::: { .wrap-80 .caption }
+![Gletscher in der Croß-Bai.](Die_schwedischen_Expeditionen_289.jpg "Gletscher in der Croß-Bai."){#b289}
+::::
+
+„Mit dieser Beute beladen fuhren wir zu der letzten und merkwürdigsten dieser
+kleinen Inseln. Niedrig auf der Seite wo wir landeten, stieg sie allmählich auf,
+reich an allerlei Moosen und Büscheln von Dryas octopetala, zwischen denen auch
+ein paar Phalaropus fulicarius standen. Ich ging nach ihrer inneren Seite und
+hatte plötzlich eine höchst wunderbare Landschaft vor mir. Von dem nach dem Ende
+des Fjordes und dem Gletscher zu gerichteten eisbedeckten Strande erhob sich
+der rothbraune, vollkommen bloße Sandsteinboden bis zu einer Gruppe kleiner
+Felsberge in den kühnsten Formen, bald in senkrechten Wänden, bald in Spitzen
+oder Kämmen von den seltsamsten Gestaltungen. Ueberall schlossen diese
+„Diminutivalpen“ von 30 bis 40 Fuß Höhe in ihren Thälern kleine Seen ein; aber
+nirgends fand man die geringste Spur einer Vegetation. Es war eine durchaus neue
+Bildung. Der feine braunrothe Sand schloß eine unzählige Menge anderer Gesteine
+ein: scharfe und abgeschliffene; hoch oben saß sogar einer von der Größe eines
+Kubikfußes. Es war nicht schwer, einen Punkt zu finden, wo ich im Vordergrunde
+ein solches Thal, und im Hintergrunde, auf der andern Seite des etwa tausend Fuß
+breiten Fjordes, den großen Gletscher und das gewaltige Alpengebirge vor mir
+hatte. Ein majestätischer Anblick!
+
+„Weiter im Hintergrunde erblickt man, wenn der Nebel es gestattet, einige hohe,
+fast ganz mit Schnee bedeckte Bergspitzen, und weiter im Osten die drei Kronen,
+wunderbare, pyramidenförmige Berge mit Stufen, bald schneebedeckt, bald
+senkrecht aufsteigend und in der Sonne gelblich schimmernd. Unten sind sie von
+steil abfallenden, in Schnee gehüllten Gletschern eingeschlossen. Dem Fjorde
+näher, fast in der Mitte des Landschaftsbildes, erhebt sich ein Bergklumpen von
+röthlichem Gestein, mit Schichten, deren Steigung 20 bis 30 Grade beträgt. Er
+wird auf allen Seiten von einem Gletscher umschlossen, der an Schönheit und
+Größe kaum seines Gleichen auf Spitzbergen hat, mit einem mindestens zweihundert
+Fuß hohen Absturz und ausgezeichnet durch seine basaltartigen Sprünge und
+Klüfte, deren Schatten in's Grünliche spielen. Vor der senkrechten Eiswand
+dieses Gletschers befinden sich ungeheure Eisblöcke in den wunderlichsten
+Formen, welche sich von ihm losgelöst haben, oder mit Donnergekrach von ihm
+herabgestürzt sind. Rings um diese Blöcke bildet das Buchteneis eine Art
+Schärenflur, darauf Rugggänse und Anser berniela sich tummeln. In einem der
+kleinen Teiche auf dem Holme schwamm eine Lumme — Colymbus septentrionalis. Sie
+flog schon in der Ferne auf. Als ich ihr nachschoß, wurde der Knall von dem
+Gletscher und einem ungeheuren Eisstücke, das sich infolge der Lufterschütterung
+loslöste und in den Fjord stürzte, erwiedert. Dieser Fall brachte einen solchen
+Aufruhr des Wassers hervor, daß, trotz des dazwischenliegenden Buchteneises, die
+Fluth sich wiederholt auf den Strand wälzte; sie sowohl, wie der Schaum, waren
+röthlich gefärbt von dem braunrothen Thone, daraus der Meeresboden besteht. Nun
+glaubte ich die Entstehung des Conglomerats und der Sandberge, zwischen welchen
+ich mich befand, zu erkennen. Wenn der Gletscher „kalbt“ und die Eisberge, einer
+nach dem andern, niederstürzen, so daß der flache Fjord davon aufgerührt, sie
+selber aber gewälzt und umgekehrt werden, so daß ihr Fuß nach oben zu stehen
+kommt und einen Theil des Bodens mit sich nimmt, dann schwimmen sie nach dem
+Holme und legen hier ihre Ladung nieder. Der Holm ist daher nichts Anderes als
+eine zum Gletscher gehörige, wenn auch etwas abgelegene Sandmoräne. Der feine
+rothe Schlamm, der Grus und das Gerölle bilden erst eine lockere Masse; wenn sie
+aber von dem schmelzenden Schnee getränkt und geebnet worden, wird sie
+allmählich fester und härter, und zuletzt zu einer Art Conglomerat, daraus hier
+überall die Holme bestehen.
+
+„Während meiner Wanderung zum Boote stieß ich in einer Strandbucht auf zwei
+Exemplare von Anser segetum. Im Boote lagen schon Alle im Schlafe; auch ich
+legte mich nieder. Wir wurden aber bald wieder vom Lappen Samuel geweckt,
+welcher bemerkte, daß wir im Begriff waren von dem Eise eingeschlossen zu
+werden, das sich von dem nordöstlichen Strande — wo es bei unserer Hinfahrt in
+einem breiten Bande zwei Inseln umschloß — losgelöst hatte. Wir mußten daher zu
+einem andern Holme rudern, den wir vorher nicht besucht hatten. Hier zündeten
+die Leute Feuer an, um zu kochen, während ich und Michelsen uns noch ein wenig
+auf's Ohr legten. Aber auch hier wurden wir bald vom Eise eingeschlossen, das
+sich rings um uns packte, und wir mußten mehrere Stunden warten, bis es weiter
+trieb. Das Eis war von einem starken nordöstlichen Winde, der nun zum Sturme
+anwuchs, losgerissen worden. Sobald es daher die Lage desselben gestattete,
+begannen wir so weit als möglich unter Land zu rudern, um einen Hafen zu finden,
+und erreichten mit angestrengter Arbeit einen solchen in der That. Hier blieben
+wir einige Stunden, bis es stiller wurde, und kehrten dann rudernd zu unserm
+Schiffe zurück.“  — —
+
+Wir nehmen unsere eigenen Fahrten wieder auf. — 
+
+Im Sandsteine auf dem flachen Südstrande fand Blomstrand ein nicht unbedeutendes
+Steinkohlenlager, welches zugleich mit den im Sandstein befindlichen Abdrücken
+von Blättern und anderen Pflanzentheilen offenbart, daß es in der Geschichte
+unseres Erdballs einst eine Zeit gegeben hat, wo schattige Wälder, die
+wahrscheinlich aus einer Art von Ahornbäumen bestanden haben, überall die Thäler
+und Abhänge bedeckten, während dieselben jetzt entweder ganz und gar von
+mächtigen Eismassen eingenommen werden, oder als einzigen Repräsentanten der
+Baumwelt die längs dem Boden kriechende zollhohe Polarweide aufzuweisen haben.
+
+Indem wir verschiedene andere Ausflüge übergehen, wollen wir nur noch der
+Umgebungen des oben genannten kleineren Fjordarmes Erwähnung thun, woselbst man
+sich in dem Gebiete des krystallinischen Kalkes befindet, der in der Gestalt
+eines blaugrauen oder ziegelrothen Marmors auftritt, aus welchem z. B. die große
+Bergspitze — dahinter die kleine Bucht — in ihrer ganzen Masse besteht. Man
+hatte hier die beste Gelegenheit, die beim Kalk so oft hervortretende Neigung,
+Grotten und Höhlungen zu bilden, wenn auch in viel geringerem Grade als bei den
+berühmten Kalkgrottenbildungen im südlichen Europa — zu beobachten. Eine solche
+schon von Scoresby beschriebene Grotte befindet sich an der Außenseite der
+erwähnten Bergspitze. Wohl sind die Dimensionen weit geringer, als er sie
+angiebt, — die Länge beträgt 63, die Breite 40, die Höhe des Gewölbes 13 und die
+Tiefe des Wassers 12 Fuß — doch ist sie immerhin interessant genug. Besonders
+war die Aussicht über den Fjord und die dahinter liegenden Gebirge, eingefaßt in
+den Felsrahmen der Grottenöffnung, von eigenthümlichem Zauber. Fahren wir mit
+einem Boote weiter in die Bucht, so treffen wir eine Reihe von Höhlen an, eine
+immer sonderbarer wie die andere. Ausgezeichnet ist namentlich eine größere
+Grotte, von ungefähr derselben Größe wie die oben erwähnte, mit einer runden
+Oeffnung in dem Gewölbe, wodurch, besonders bei starkem Sonnenlichte, der
+Contrast des durchsichtigen smaragdgrünen Wassers in der Höhle und der
+hochrothen Felsmassen, welche in schweren, phantastischen Draperien über den
+durch einen vorspringenden Bogen zum Theil verdeckten Eingang niederhangen, von
+einer großartigen Wirkung ist.
+
+:::: { .wrap-100 .caption }
+![Scoresby's Grotte.](Die_schwedischen_Expeditionen_292.jpg "Scoresby's Grotte."){#b292}
+::::
+
+Auf der andern Seite der Bucht, wo ein weites Hügelland das eigentliche Gebirge
+vom Meere trennt, trafen wir auf neue Beweise von dem Vorhandensein des
+Grottenkalkes. Es ist bekanntlich eine keinesweges seltene Erscheinung in
+solchen Gegenden, daß die Flüsse sich einen Weg unter der Erde suchen und oft
+spurlos auf einer Stelle verschwinden, um auf einer andern wieder eben so
+plötzlich zu Tage zu treten. Dies zu beobachten hat man hier die beste
+Gelegenheit, indem die Ströme theils unmittelbar aus dem Massiv der Berge,
+theils aus kleinen, dicht am Strande belegenen Lagunen kommen, ohne daß man
+sieht, woher sie ihre Zuflũsse erhalten. Ein solcher kleiner See, welcher durch
+eine Sandbank kaum einen Büchsenschuß weit vom Meere liegt, speist einen
+schäumenden Elf. Nur die Luftblasen, welche von dem Boden des kleinen Landsees
+ununterbrochen aufsteigen, deuten darauf hin, daß das abfließende Wasser in
+irgend einer Weise ersetzt wird. Auf einer andern Stelle strömt ein Fluß
+brausend aus einer unbedeutenden Erhöhung. Ein Ende weiter nach oben wird die
+Wassermenge immer geringer, bis schließlich das Gerölle, womit der Abhang
+bedeckt ist, vollkommen trocken daliegt. Es ist also gerade umgekehrt, als es
+sonst zu sein pflegt, wenn man ein fließendes Gewässer allmählich im Sande
+verrinnen sieht. Ein dritter Elf wird durch seine malerische Umgebung
+interessant. Er strömt auf der hier ziemlich hohen, senkrechten Strandklippe
+unmittelbar in das Meer, in zweien schönen Kaskaden, deren weiße Bänder sich
+schon aus der Ferne lebhaft von den dunkeln, mit Flechten bedeckten Felsen
+abheben. Besteigen wir nun das Bergplateau, so sind wir überrascht zu sehen, daß
+die Ströme ihren Ursprung fast unmittelbar an derjenigen Stelle der Felswand
+haben, wo sie niederstürzen, nämlich aus einem kleinen, rings von steilen Felsen
+umgebenen Bassin. Es muß schon eine Quelle mit starken Zuflüssen sein, welche so
+bedeutende Wassermassen liefert. Denn außer den beiden erwähnten Armen, welche
+in's Meer stürzen, verliert sich noch ein dritter in einem runden Loche des
+Kalkgesteins und sucht auf diesem Wege weniger bemerkt abzufließen. — —
+
+:::: { .wrap-100 .caption }
+![Im Innern der Kingsbai.](Die_schwedischen_Expeditionen_293.jpg "Im Innern der Kingsbai."){#b293}
+::::
+
+Theils ungünstiger Wind, theils Windstille hielten uns noch immer zurück. Es
+verging ein Tag nach dem andern, ohne daß etwas Sonderliches ausgerichtet werden
+konnte; die Zeit verstrich uns ohne Nutzen, und den Jägern, die nach besseren
+Jagdplätzen verlangten, wurde sie sogar lang. Es wurde daher beschlossen, daß
+Blomstrand und von Yhlen der Magdalena voraus nach dem Eisfjord, unserm nächsten
+Reiseziele, gehen sollten, indem von Yhlen, der seiner Privatinteressen halber
+der Expedition nicht weiter folgen konnte, hoffte, dort einen Schiffer zu
+treffen mit welchem er vor dem Ende des August nach Norwegen zurückkehren
+könnte.
+
+:::
+
+
+:::: align-center
+****
+::::
+
+
 
 
 #### **Anmerkungen** {.break-before .unnumbered}

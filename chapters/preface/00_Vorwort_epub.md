@@ -6,8 +6,8 @@
 * [Oestliche norwegische Insel](ch003.xhtml#b036)
 * [Walrosse](ch003.xhtml#b078)
 * [Gletscher im Innern der Magdalenenbucht](ch003.xhtml#b268)
-* Gletscher in der Croßbai
-* Scoresby's Grotte
+* [Gletscher in der Croßbai](ch003.xhtml#b280)
+* [Scoresby's Grotte](ch003.xhtml#b292)
 * Das Burgemeisterthor auf Bären-Eiland.
 * Green-Harbour im Eisfjord
 
@@ -26,7 +26,7 @@
 * [Rennthierkopf](ch003.xhtml#b231)
 * [Rennthierjagd](ch003.xhtml#b257)
 * [Küste des festen Landes bei der Smeerenbergbai (Granit)](ch003.xhtml#b277)
-* Im Innern der Kingsbai
+* [Im Innern der Kingsbai](ch003.xhtml#b293)
 * Westseite der Kingsbai
 * Sortepynt auf Prinz Charles Vorland
 * Bohne von Entada gigalobiuam
