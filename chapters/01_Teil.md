@@ -9569,6 +9569,710 @@ könnte.
 ****
 ::::
 
+## <small>Fünfzehntes Kapitel.</small><br /> Der Eisfjord. 
+
+::: justified
+
+:::: fs-xs
+Im Vorlandssund. — Allgemeiner Charakter des Eisfjords. — Armuth an Gletschern.
+— Reiche Vegetation. — Steinkohlenflötz. — Geologisches. — Metamorphisirtes
+Gestein. — Geologisches. — Zurückgelassen. — Der russische Patriarch. —
+Allenberge. — Steinkohlenflötz. — Magdalena geräth auf den Grund. — Im
+Vorlandssunde. — Reiche Vegetation. — Die Adventbucht. — Fette Rennthiere. —
+Bituminöser Thonschiefer. — Jagdwild. — Ueberraschungen durch die Fluth. — Große
+Aufregung. — Blinder Lärm. — Wir verlassen den Eisfjord. — Zusammentreffen mit
+dem Aeolus. — Freudiges Wiedersehen.
+<br /><br />
+::::
+
+
+Die Jagdboote waren bald ausgerüstet und den 21. August fuhr man ab. Ueber diese
+Excursion schreibt Blomstrand:
+
+„Nachdem wir während eines immer dichter werdenden Nebels und nach langem Rudern
+aus der Kings-Bai gekommen, begann ein günstiger Wind zu wehen, das Segel wurde
+aufgezogen und die Fahrt ging schneller von Statten, als sich mit einem
+genaueren geognostischen Studium des Landes vereinigen ließ. Wir erreichten in
+Kurzem die Englische Bai. Da aber der Wind gut und das Verlangen, endlich
+vorwärts zu kommen, groß war, steuerten wir weiter. Trotz der Entfernung nahmen
+wir einen breiten rothen Streifen oben an den Bergen in der Nähe der Bucht wahr,
+welcher zu erkennen gab, daß der rothe Sandstein auch hier noch immer vorkomme.
+
+„In demselben Verhältniß als der Nebel dichter, wurde der Wind frischer; wir
+durchstrichen in hastiger Fahrt den Vorlandssund, indem wir uns bald dem einen
+bald dem andern Ufer näherten, ohne indessen vor Regen und Nebel etwas deutlich
+zu erkennen. Die Strandflächen, welche die Berge von dem Meere trennen,
+schienen, je weiter wir nach Süden kamen, immer breiter zu werden. Es springen
+die niedrigen Ausläufer weit in das Meer vor und nöthigen den Schiffer, sich von
+den Bergen noch ferner zu halten. Bald haben wir die schmalste Stelle des
+Sundes, bei dem sogenannten Langör, erreicht, finden aber kein tiefes Wasser,
+sondern gerathen in die Brandung. Ein weißer Streifen gerade vor uns deutet eine
+Blindschär an, die in unserm Wege liegt; aber schon ist es zu spät, ihr
+auszuweichen. Im nächsten Augenblicke sind wir daran. Wilde Sturzseen
+überstürzen einander. Es sieht fast so aus, als ob die Wogen sich verirrt und
+ihre Richtung verloren hätten. In rastloser Eile folgen sie einander und stellen
+sich zugleich in den Weg. Der weiße Schaum bespritzt uns, aber — noch ein paar
+Sturzwellen, ein sonderbares Gefühl von Beklemmung, das uns ein paar Augenblicke
+erfaßt, — und wir befinden uns wieder in tieferem Wasser, wo der Kampf zwischen
+Wellen und Strömung sich weniger bemerkbar macht, die Wellen wie früher ihren
+gleichmäßigen Gang gehen und der weiße Schaumstreifen schon weit hinter uns
+liegt.
+
+„An verschiedenen Stellen suchten wir an's Land zu steigen, wurden aber überall
+von Gletschern und Brandungen daran gehindert. Wir mußten die See halten,
+segelten indessen dem festen Lande so nahe als möglich. Die Felsen bestehen
+meist aus einem harten Schiefergestein. Wir steuerten in St. John's Bai, um hier
+unser Nachtquartier zu nehmen. Auf dem Strande dieser kleinen, schönen, kaum
+drei Viertelmeilen langen, durch einen Endgletscher geschlossenen Vik machten
+wir einen Ausflug und schossen einen Fuchs. Die Felsen bestehen aus einem
+grobkörnigen Conglomerat von rundgeschliffenen Quarzitstücken, welches mit
+Schichten eines bald grünen, bald schwarzen, schön glänzenden Schiefers
+abwechselt. Wir erkannten bald, daß es unmöglich sei, irgendwo am Lande mit dem
+Boote anzulegen, befestigten dasselbe daher etwa acht Uhr Morgens am Grundeise
+in der Nähe des Strandes und legten uns zur Ruhe.
+
+„Mittlerweile lichtete sich der Nebel und der Wind ließ nach, so daß wir ein
+Ende längs dem Strande rudern konnten. Bald wehte jedoch der Wind wieder
+stärker; wir ließen Spitze um Spitze hinter uns und erreichten das niedrige
+Riff, welches den Eisfjord nach Norden hin begrenzt und den unheimlichen Namen
+„Dödmansören“, auf Grund eines daselbst vor mehreren Jahren begangenen Mordes,
+führt. Wir steuerten auf Green-Harbour los, die westlichste der in den Südstrand
+des Eisfjordes einschneidenden Buchten, um irgend ein Schiff anzutreffen, das
+zur Rückfahrt bereit wäre und nach der Gewohnheit der spitzbergischen Jäger hier
+sich noch mit Rennthieren versehe. In der That lag hier der schon früher
+mehrfach erwähnte Mattilas mit seiner Jacht. Wir befanden uns bald nach
+Mitternacht am 23. August an seiner Seite und gingen an Bord. Wir wurden von dem
+freundlichen Finnen gastlich aufgenommen, mit Rennthierbraten bewirthet, und
+erhielten Grüße und Nachrichten vom Aeolus. Hierauf legten wir uns in unserm
+Boote zur Ruhe.
+
+„Der Eisfjord, wenn wir vom Storfjord absehen, der eigentlich als ein Sund zu
+erachten, ist ohne alle Frage der größte Meerbusen Spitzbergens und bietet schon
+mit seiner weiten prachtvollen Wasserfläche, ganz abgesehen von den rings
+umgebenden Bergen, einen überraschenden Anblick dar. In einer durchschnittlichen
+Breite von fünf bis sechs Meilen schneidet er mit einer Reihe von Armen tief in
+das Festland ein, im Süden der schon genannte Green-Harbour, die Advent-, Coal-
+und die noch ansehnlichere Sassen-Bai. Nach Osten hin findet er eine mehrere
+Meilen lange Fortsetzung in zweien durch eine „Midterhuk“ getrennten Armen.
+
+„Die Gebirgsbildung beim Eisfjord ist in vieler Hinsicht interessant. Nur in der
+Nähe der Meeresküste, und vor Allem auf der Nordseite, behält die Bergbildung
+den gewöhnlichen Spitzbergencharakter bei, wie er vorzugsweise auf der Westküste
+auftritt: wild zerrissene, von mächtigen Gletschern unterbrochene Bergspitzen.
+Kalk und Quarzit, in mehr oder weniger steilen, gebrochenen, bogenförmig
+gelagerten Schichten, bleibt auch noch auf der Nordseite die vorherrschende
+Gebirgsart. Auf dem Südstrande dagegen, bei Green-Harbour und so weit man von
+hier nach Osten sehen kann, deuten schon die abweichenden Formen der Berge an,
+daß hier andere Gesteine mit wesentlich verschiedenen Lagerungsverhältnissen
+auftreten. Thonschiefer und Sandstein, mit einander in vollkommen horizontalen
+Lagen abwechselnd, haben einen bestimmenden Einfluß auf die Plateauform der
+Berge, welche wiederum von Thälern rechtwinklig durchschnitten werden. Durch die
+über einander vortretenden Sandschichten, welche in merkwürdiger, regelmäßiger
+Wiederkehr von dem herabfallenden Gerölle durchbrochen und gefurcht werden,
+erhalten die Berge nicht selten das Aussehen kolossaler Gebäude mit mehreren
+Etagen. Nur hier und da steigen einzelne Berge auf in Pyramidenform und mit
+scharfen Grenzlinien, gleichsam die Thürme dieser Bergstadt, in einer
+Einfachheit des Styls, welche vortrefflich mit der Ruhe und dem ernsten
+Charakter des Ganzen übereinstimmt. Das auffallende Fehlen der Gletscher in
+diesem ganzen Berggebiete, trotz der breiten und tief einschneidenden Thalgänge,
+könnte scheinbar seinen Grund in der mehr südlichen Lage und dem milderen Klima
+haben. Es ist jedoch kaum einem Zweifel unterworfen, daß hier einfach die
+Gebirgsart von entscheidendem Einflusse gewesen. Den deutlichsten Beweis bildet
+der Green-Harbour-Fjord, welcher sich in der Mitte beider Gebirgsformationen
+befindet. Auf dem von Quarzitgestein gebildeten westlichen Strande steigen drei
+bedeutende Gletscher herab. Nach Osten hin laufen zwei Thäler, wohl eine
+schwedische Meile weit, in die Sandsteinregion hinein, auf allen Seiten von
+Bergen umgeben, welche unter anderen Verhältnissen die Thalvertiefungen
+unzweifelhaft mit Eis ausgefüllt haben würden; aber der dunkle, tiefe und
+lockere, so zu sagen warme Erdboden, welcher aus einer Mischung des äußerst
+leicht verwitternden Thonschiefers und Sandsteingruses besteht, ist der Bildung
+des Eises ungünstig. Die Gletscher bleiben so gut wie ganz aus oder treten in
+einem äußerst untergeordneten Grade auf. Wir besitzen von den Gletscherregionen
+des südlichen Europa bereits sichere Beobachtungen, betreffend den intimen
+Zusammenhang dieser Gletscher mit dem Felsboden, auf welchem sie ruhen.
+Andererseits braucht kaum bemerkt zu werden, daß ein solcher warmer Boden eine
+Vegetation hervorrufen mußte, welche an Reichthum und Ueppigkeit die anderswo
+und unter den gewöhnlichen Verhältnissen auftretende bei Weitem übertrifft.
+
+„Mittags machten wir einen Ausflug nach dem Innern der beiden Thäler. Mehrere
+früher nicht gesehene Gräser, und vor allen die üppig blühende Arnica alpina,
+welche auf den steilen Strandklippen in ungefähr fünfzig Fuß Höhe wuchs, gaben
+mir den ersten Beweis von der ungewöhnlichen Fruchtbarkeit des Bodens. Meine
+Genossen machten sich auf die Rennthierjagd, während ich umherstreifte und nach
+dem Ursprunge der Steinkohlenbrocken, welche ich an dem Fuße des Berges
+angetroffen hatte, suchte.
+
+„Nach einer beschwerlichen und theilweise sogar gefährlichen Wanderung glückte
+es mir, zu einer Höhe von siebenhundert Fuß zu kommen und hier dicht unter der
+obersten Sandsteinschicht ein Kohlenflötz zu entdecken. Es war mir jedoch nicht
+möglich, seine Mächtigkeit und übrigen Verhältnisse festzustellen, da der steile
+Fels überall, wo nicht ein härterer Sandstein zu Tage trat, mit einer dicken,
+augenblicklich hartgefrorenen Schicht festen Thongruses bedeckt war. Er kam von
+dem mit dem Sandstein in mächtigen Lagen abwechselnden, leicht zerreiblichen
+Thonschiefer her. Ich mußte mich mit der Thatsache begnügen, daß die Steinkohle
+hier wirklich in Flötzen auftritt, und, so weit die ungünstigen Verhältnisse es
+zuließen, mich auf die Untersuchung der nächsten Gesteine beschränken. In dem
+feinkörnigen, gleichsam grauwackenartigen, glimmerhaltigen Sandsteine fand ich —
+außer verschiedenen anderen nicht zu bestimmenden Pflanzenresten, als verkohlten
+Zweigen und Holzstücken, sowie Blattabdrücken u. s. w. — auch ein deutliches,
+wenngleich nicht vollständiges Blatt eines Laubbaumes, welches in allen
+Beziehungen an das früher erwähnte in der Kings-Bai erinnerte, das ich
+gleichfalls in der unmittelbaren Nähe der Steinkohle gefunden hatte.
+
+„Auf der andern Seite des Thales, näher der Mündung des Fjordes, fand ich eine
+eigenthümliche lockere Schicht von ungefähr sechs Zoll Dicke, zwischen Lagen
+eines außerordentlich harten Sandsteins, wie es schien, aus gewöhnlichem blauen
+Thon bestehend. Bei näherer Untersuchung zeigte sich aber, daß er in seiner
+ganzen Masse von feinen, metallisch glänzenden Schwefelkiesen durchzogen war,
+und eine chemische Analyse ergab, daß dieselben ungefähr 83 Procent ausmachten.
+Daß das äußerst fein vertheilte Mineral, welches in einer unermeßlich langen
+Zeit dem Einflusse der Luft und der Feuchtigkeit ausgesetzt gewesen war, nicht
+die mindesten Spuren eines unter solchen Verhältnissen leicht eintretenden
+Verwitterungs- oder Rostprocesses zeigte, ist offenbar schwer zu erklären. Ein
+Theil der Petrefacten, welche in dem harten Sandsteine dicht dabei vorgefunden
+wurden, bestand gleichfalls aus Schwefelkies.
+
+„Als ich von diesem Ausfluge heimkehrte, waren die Jäger, mit ihrer Jagd wenig
+zufrieden, auch schon zurück. Wir verließen deshalb am 24. Nachmittags die
+Bucht, diesesmal aber auf der Westseite. Um möglicher Weise die Uebergangsformen
+der verschiedenen Gebirgsarten und den Ursprung der an Petrefacten reichen
+Moränensteine am Strande zu entdecken, stieg ich bei dem mittleren Gletscher
+an's Land, während meine Genossen die Fahrt fortsetzten, um weiter im Norden
+einen bessern Jagdgrund zu finden.
+
+„Nach einer ermüdenden Wanderung erreichte ich den Rücken des Gletschers und
+stieg auf ihm bis zu dem aus dem Eise ragenden Felskamm. Er bestand, wie ich
+erwartet hatte, aus einem äußerst kieselhaltigen Kalkgestein, stellenweise aus
+reinem Quarzit, besonders ein Theil der Schichten, welche mit Petrefacten von
+Brachiopoden und den Arten Spirifer und Productus förmlich gespickt waren. Die
+Neigung der ziemlich gebogenen Schichten von Norden nach Süden betrug 60 bis 30
+Grad. Da das Eis die Felsen auf allen Seiten umschloß, so war die unmittelbare
+Grenze des Sandsteins nicht zu entdecken.
+
+„Der hier anstehende, feine, bräunlichgraue Sandstein hatte, bei andauernder
+Streichung nach Norden, ungefähr einen Fall von 35 Graden nach Osten. An einer
+andern vom Eise entblößten Stelle war der Sandstein gröber, grau, an der Luft
+gelb, mit einer östlichen Neigung von 45 Graden. Darüber ruhte ein
+feinblätteriger, grauer Thonschiefer, welcher bald eine intensive rothbraune
+Farbe annahm und unvwillkürlich an gebrannte Ziegel erinnerte. Seine feinen
+Lamellen standen in allen Richtungen, bald senkrecht, bald nach Osten und
+Westen, während die Hauptneigung eine östliche blieb. Ich habe nirgends
+Gelegenheit gehabt, einen gleich augenscheinlichen Beweis des Einflusses starker
+Hitze auf eine sedimentäre Bildung zu beobachten. Ungefähr fünfzehn Fuß von der
+Grenze, wo dieser Farbenwechsel im Thonschiefer seinen Anfang nahm, zeigte sich
+auch die nicht zu verkennende Ursache dieser Erscheinung in Gestalt einer
+geschichteten, von Norden nach Süden streichenden, ungefähr 30 Fuß mächtigen
+Bank eines ziemlich grobkrystallinischen, in große Blöcke und Würfel gespaltenen
+Diorits. Indem er zwischen die Schichten gepreßt worden, zeigte er dieselbe
+Neigung nach Osten. Ein Ende später trat der feinkörnige Sandstein von Neuem zu
+Tage, mit zerstreuten Petrefacten, kleinen Bivalven; weiterhin war das ebene
+Bergplateau nach dem Meere zu ohne Unterbrechung dicht mit Steingetrümmer
+bedeckt.
+
+„Ich wandte mich deshalb nach Norden, wo ich bald, ungefähr in der Mitte der
+Thalsenkung, zwischen den Eisbergen und dem nächsten dem Fjorde zulaufenden
+Bergrücken, in einer beinahe ununterbrochenen Folge lauter freistehende
+Gesteinsschichten vorfand. Ein ansehnlicher Gebirgsstrom hatte nämlich die Lagen
+senkrecht, zuweilen bis auf eine Tiefe von 40 Fuß durchschnitten. Der Sandstein
+erschien hier besonders reich an allerdings nicht erkennbaren Pflanzenresten,
+welche theils aus Blattabdrücken, theils stengelartigen Fragmenten, theils
+Resten von Stämmen und größeren Zweigen bestanden.
+
+„Weiter im Osten trat ein mächtiges Bett von blauem Thonschiefer auf, welches an
+das bei dem Kohlenflötze in der KingsBai erinnerte und wie dieses von schmalen,
+härteren, glimmerhaltigen Schichten durchsetzt war — was bei allen ähnlichen
+Bildungen der Fall zu sein scheint —, auch einige Spuren von Schuppen und
+anderen Fischfragmenten enthielt. Nach einer Lage Sandsteins folgte wieder eine
+mächtige Schicht eines harten Thonschiefers, welcher aus unregelmäßigen Stücken
+mit glatten abgerundeten Flächen bestand und hier und da vielfache, doch nicht
+zu bestimmende Pflanzenabdrücke enthielt. Nicht selten war sie auch mit
+eigenthümlichen meist kugelförmigen, birnen- oder flaschenartigen Concretionen
+gespickt, welche von einem Zoll bis zu einem Fuß groß waren und ihrer Masse nach
+vorherrschend aus Kiesel bestanden. Diese Schichten wurden in der Nähe des
+Strandes von einer andern fast senkrechten eines weißen Sandsteins durchsetzt,
+welche längs dem ganzen Fjordarme sich hinzieht und namentlich bei der Einfahrt
+in Green-Harbour sofort die Aufmerksamkeit auf sich zieht, indem sie ein Ende
+weit in die See vorspringt.
+
+„Die obengenannte Schlucht, welche der Strom gebildet hatte, war stellenweise
+von hartgefrorenem Schnee überbrückt. Meist traten aber die Felsschichten frei
+zu Tage. Man hatte hier eine vortreffliche Gelegenheit, die
+Lagerungsverhältnisse zu beobachten, namentlich wie die Schichten ihre
+Neigungswinkel veränderten, oft in die Verticale übergingen und häufig gebogen,
+gebrochen und verworfen waren.
+
+„Es möchte kaum einem Zweifel unterliegen, daß alle diese über dem Quarzit
+gelagerten, mehr oder weniger nach Osten geneigten Sandstein- und
+Thonschieferschichten derselben Bildung angehören, welche nach dem Augenmaß
+2,000 -2,300 Fuß mächtig ist. Offenbar sind die Bildungen auf der andern Seite
+des Fjordes von diesen in keiner Weise verschieden. Wir haben hier also eine
+Fjordkluft vor uns, welche sich wesentlich von anderen unterscheidet, z. B. von
+der bei der Croß-Bai, wo die Schichten beinahe senkrecht nach verschiedenen
+Richtungen niedersteigen, während bei Green-Harbour sie auf der einen Seite ihre
+ursprüngliche horizontale Lage beibehalten haben, auf der andern dagegen
+vollkommen senkrecht gegen den Horizont gestellt sind. Man kann sich den Grund
+hierfür kaum anders denken, als daß eine von der Seite, und zwar von Westen her,
+wirkende Kraft die Schichten zugleich aufgehoben und zusammengepreßt hat, bis
+sie schließlich auf einem Punkte, wo sich jetzt der Fjord befindet, quer
+durchgerissen wurden, wodurch die bewegende Kraft weiter nach Osten hin sich
+nicht mehr geltend zu machen vermochte.
+
+„Auf der andern Seite könnte man mit Recht annehmen, daß die gewaltsamen Stöße,
+welche hier stattgefunden, einer weit enilegenen Periode angehören und zugleich
+die gegenwärtige Lage des Quarzits und des darüberliegenden Sandsteins und
+Thonschiefers bestimmt haben. Schon früher habe ich sowohl beim Quarzit wie bei
+den relativ jüngeren Bildungen auf die offenbare Uebereinstimmung beider im
+Streichen und Fallen hingewiesen. Dieselben Verwerfungen, gebrochenen und
+gebogenen Schichten — welche z. B. beim blauen Thonschiefer so deutlich
+hervortreten — kommen in noch größeren Massen in den hohen Quarzitbergen weiter
+im Westen vor. Es liegt auf der Hand, daß die treibende Kraft viel mächtiger
+gewesen sein muß, als daß ihre Wirkungen eine Folge blos des Durchbruchs, etwa
+der genannten Dioritbank, sein könnten. Wahrscheinlich hatte der Diorit sogar
+schon seine gegenwärtige Stelle eingenommen, als der große Stoß erfolgte. Aus
+demjenigen, was ich früher von ihm angeführt, folgt offenbar, daß der Einfluß,
+welchen diese und andere eruptive Massen auf die umgebenden sedimentären
+Schichten ausgeübt haben, von untergeordneter und durchaus nur localer Bedeutung
+gewesen ist. Doch darf man unbedenklich annehmen, daß sie erst dann jene
+Schichten durchbrochen haben, als sie sich bereits in ihrer jetzigen Stellung
+befanden.
+
+„Ich kehrte zum Strande zurück, suchte aber vergebens nach dem Boote und seiner
+Mannschaft. Lange wanderte ich längs dem schmalen Strande zwischen der
+steigenden Fluth und den senkrechten Bergwänden, traf schließlich auch das
+aufgeschlagene Zelt und ein Küchenfeuer an, aber keinen Menschen. Endlich fand
+sich Einer der Leute ein und erzählte, daß er zurückgeblieben, während von Yhlen
+sich mit dem Boote zur Magdalena begeben — die jetzt im Eisfjorde ankere —, um
+dort Abschied zu nehmen und dann mit Mattilas nach Norwegen abzusegeln.
+
+„Am 25. Morgens kam das Boot zurück. Während die Mannschaft Nachmittags
+ausruhte, unternahm ich noch eine Excursion, und zwar nach dem Innern des
+Thales, in welchem wir unsern Lagerplatz gewählt hatten. Ich folgte dem Flusse,
+welcher nicht weit von jener Stelle ein Delta bildete. Er nahm seinen Lauf durch
+ein Hügelland und stürzte sich an mehreren Stellen in kühnem Sprunge über die
+Absätze, die immer höher wurden, je weiter man in's Land und in die dort
+vorherrschende Quarzitregion kam. Nachdem ich etwa eine halbe Meile gewandert
+war, gelangte ich zu dem Ursprunge des Flusses, einem außerordentlich schönen,
+von steilen Bergen eingeschlossenen See, in dessen klarem Wasser sich Rennthiere
+mit vielem Behagen spiegelten. Zurückgekehrt, verließ ich das Land, um die Fahrt
+weiter nach der Advent-Bai fortzusetzen, wo wir unser Schiff anzutreffen hoffen
+konnten.
+
+„An Green-Harbour haften, außer seinen Erinnerungen von der „Walfischzeit“ her,
+welche jetzt freilich so gut wie vergessen ist, noch mancherlei andere. Hier
+haben — nach Lovén — die Norweger einst ein Etablissement gehabt, wo sie
+überwinterten. Er fand dieses Haus noch bei seinem Besuche im Jahre 1837 vor.
+Auch die Hauptstation der Russen für die Winterjagd hat hier gestanden. In der
+noch vorhandenen Russenhütte durchlebte der russische Jäger Starastschin — nach
+der Angabe des englischen Generalconsuls Crove, welcher sich viel mit
+Spitzbergen beschäftigt hat — 39 Winter, einmal 15 hintereinander, und wurde
+hier auch zuletzt begraben. Lovén, welcher sein Grab unter den vielen anderen
+aufzufinden versuchte, hatte von den Norwegern erfahren, daß er ein kleiner,
+munterer, röthlicher Mann mit weißem Haar gewesen, eine Art von Patriarch. So
+wie er hat wohl Niemand hier gehaust, und Wenige möchten es wagen. So lange
+indessen Green-Harbour besteht, sollte man ihm eine freundliche Erinnerung
+bewahren. Diese Bucht ist übrigens auch im Jahre 1858 von Torell, Nordenskiöld
+und Quennerstedt besucht worden.
+
+„Während wir die Mündung von Green-Harbour passirten, stießen wir auf Treibeis,
+welches uns wenig behinderte, aber die Gelegenheit gab, einen von den vielen
+Seehunden, welche ihm folgten, zu schießen. Am Oststrande der Vik erschienen
+einige Rennthiere. Wir legten am Lande an und erbeuteten zwei fette prächtige
+Thiere, worauf wir unsere Fahrt fortsetzten. Wir hatten nunmehr eisfreies Wasser
+vor uns und segelten mit gutem Winde längs dem Lande nach Osten, bis wir zu der
+zweiten nach Süden einschneidenden Bucht, der Kohlen-Bai, kamen. In der Mitte
+der Mündung, eine Viertelmeile vom Lande entfernt, trafen wir auf ein
+schwimmendes Rennthierkalb, das uns zur leichten Beute fiel. Dann schlugen wir
+unser Nachtlager am Strande auf.
+
+Der 16. August trat mit Schnee und kaltem, stürmischem Wetter auf, so daß die
+Reise nicht fortgesetzt werden konnte. Ich benutzte den Aufenthalt, um einen
+längeren Ausflug in's Land hinein zu wagen und einen Berg zu besteigen. Hierbei
+machte ich die eigenthümliche Entdeckung, daß das schöne blaue Polemonium
+pulchellum noch 400 Fuß über dem Meere vorkam.
+
+„Als das Schneewetter aufgehört und der Wind etwas nachgelassen hatte, gingen
+wir wieder unter Segel. Wir passirten, nachdem wir die Vik verlassen, die
+östliche Küste und kamen dicht an einigen verlassenen Alkenbergen vorüber,
+welche mit einer senkrechten Höhe von 2,000 Fuß in's Meer niederstürzten.
+
+„Der harte Sandstein herrschte hier durchaus vor; selbst der nur sehr
+untergeordnet auftretende Thonschiefer war grobblättrig und hart. Er enthielt
+Glimmerblättchen und zuweilen eingesprengte Schwefel- und Arsenikkiese, woher
+die bei den norwegischen Spitzbergenfahrern verbreitete Sage herstammen mag, daß
+die Vogelberge in der Kohlen-Bai durch ihren Reichthum an Kupfererz
+ausgezeichnet seien. Senkrecht, zuweilen sogar überhängend, fallen diese Berge,
+aus denen hier und da eine Schicht weiter vorspringt, nach dem Meere ab. Rudern
+wir ein Ende hinaus, so erblicken wir eine neue Felswand, welche sich über die
+erstere erhebt, dahinter aber einen prachtvollen schneebedeckten Kegel, der in
+einer Höhe von 3,000 Fuß das Ganze überragt. Auf der andern Seite dieser Berge
+trifft man in der festen lothrechten Felswand ein Steinkohlenlager von ungefähr
+einer Elle Mächtigkeit, sechs Fuß über der Meeresfläche bei der Ebbe, in einem
+schwachen Bogen aufsteigend, bis es zuletzt unter dem Steingerölle verschwindet.
+Weiter nach oben folgen drei bis vier schmälere Steinkohlenbänder, in parallelen
+Streifen, vier bis zehn Fuß von einander entfernt.
+
+„Im Falle einer nothwendigen oder freiwilligen Ueberwinterung in der nahen
+Advent-Bai könnte dieses Steinkohlenflötz vielleicht gute Dienste leisten,
+theils wegen seiner vortrefflichen Lage unmittelbar am Strande, welcher bei
+stillem Wetter für Boote einen guten Landungsplatz darbietet, theils wegen
+seiner leichten Zugänglichkeit, — so lange wenigstens nur von einer geringen
+Ausbeutung die Rede ist, denn die darüber befindliche, fast überhängende
+Sandsteinwand läßt Brüche befürchten. Sollte später einmal wieder von einer
+Ueberwinterung die Rede sein — eine Thatsache, welche sich früher während der
+russischen Spitzbergenperiode so oft ereignet hat, und — wie ich mich hier
+vielfach überzeugt habe in neuester Zeit von den norwegischen Fahrern oft in
+Abrede gestellt wird, so würde kein Punkt in allen Beziehungen so große
+Vortheile darbieten, als die genannte Bucht des großen Eisfjordes. Die
+gewinnbringende Rennthierjagd gegen den Herbst hin kann allerdings leicht dazu
+verlocken, die Rückkehr zu verschieben. Ist der Fjiord die eine Woche eisfrei,
+wie er es etwa den ganzen Sommer über war, so kann er — nach unserer eigenen
+Erfahrung zu urtheilen — in der nächsten vom Meereise so gut wie gesperrt sein,
+da dieses beim Nahen des Winters von Osten her um das Südcap zu kommen und sich
+vor den Fjorden der Westküste anzuhäufen pflegt. —
+
+ „Da der Wind mittlerweile aufgehört hatte, so legten wir den übrigen Theil des
+ Weges rudernd zurück und trafen am Morgen des 27. August in der Advent-Bai
+ ein.“ —
+
+Unsere Magdalena war schon vor uns angelangt. Wir haben sie verlassen, da sie
+vor Anker in dem kleinen Fjordarme der Kings-Bai lag. Erst am 23. August änderte
+sich der Wind; es wehte eine frische Brise aus Nordwesten, welche den ganzen
+Vormittag über anhielt. Bald Nachmittags wurde der Himmel klarer, wir hißten die
+Segel auf und fuhren aus dem Hafen, indem wir lavirten. Das Fahrwasser war enge,
+Magdalena, die nicht schnell wandte, wurde zurückgeworfen und blieb auf einer
+Blindschär festsitzen. Die Dünung ging hoch, jede Woge stieß das Schiff ziemlich
+heftig auf den Grund. Indessen gelang es nach einiger Zeit doch, sie flott zu
+bekommen. Sie hatte schon härtere Kämpfe gegen das Eis bestanden, ohne Schaden
+zu nehmen, und bewährte sich auch diesesmal. Die ganze Nacht setzten wir das
+Kreuzen fort; am Morgen des 24. hatten wir Quad-Hoek erreicht und fuhren mit
+frischem, günstigem Winde weiter.
+
+Um den langen Umweg westlich um Prinz Charles Vorland zu vermeiden, beschlossen
+wir durch den Sund zu gehen. Die Morgensonne beleuchtete klar die wilden Alpen
+des Vorlandes sie gehören zu den höchsten des westlichen Spitzbergen — mit ihren
+kegelförmigen Spitzen und gewaltigen Gletschern, welche in den Thalrinnen
+niedersteigen und in ungeheurer Ausdehnung gegen den Strand hin abstürzen. Der
+südlich von Langören befindliche nimmt fast eine Meile ein. Die unzugänglichen
+wüsten Bergabhänge und ewigen Eismassen, welche keinen Raum für ein grünes
+Plätzchen übrig lassen, verleihen dem großartigen Gemälde einen
+unbeschreiblichen Ausdruck von Kälte und Erstarrung. Es ist durchaus nicht einer
+der wechselnden Scenerien, mit welchen wir früher Bekanntschaft gemacht haben,
+zu vergleichen. Der Kanal bei Langören ist schmal, kaum drei Faden tief, und
+überall nimmt man schon aus der Entfernung den hellen Sandgrund wahr, der den
+Schiffer warnt, langsamer zu fahren und das Senkblei zur Hand zu nehmen. Hat er
+guten Wind, so braucht er einfach nur die Mitte zwischen beiden Küsten zu
+halten; dagegen ist es wegen der oft starken Strömung und des schweren
+Wogenganges nicht räthlich, den Sund bei schlimmem Wetter zu passiren.
+
+Mit wenigen Segeln, beständig ausschauend und lothend hatten wir schon um neun
+Uhr die engste Stelle hinter uns und steuerten weiter durch den breiten
+Vorlandsfjord, der nördlich auf allen Seiten von hohen Bergen und
+Gletscherabstürzen begrenzt wird, während im Süden von St. John's Bai weit
+ausgedehnte Ebenen folgen, die sich bis zur Südspitze des Vorlandes erstrecken,
+wo sich wiederum eine gewaltige Alpenmasse erhebt, während das Festland fast
+durchweg aus einem Flachlande besteht. Um fünf Uhr Nachmittags hatten wir das
+weit vortretende Oerland und das kleine Schärenband, welches im Norden die
+Mündung des Eisfjordes umschließt, passirt. Der Wind ließ nach. Die Nacht war
+außergewöhnlich schön, der Himmel blau und klar; die Sonne ging prachtvoll unter
+und warf ihren röthlichen Schein über die dunkeln abgerundeten Berghäupter. Die
+einzelnen Schneeflecken an den Spitzen und in den Klüften der Abhänge aber
+übergoß sie mit einem solchen Purpurschimmer, daß man sie durch ein rothes Glas
+zu sehen wähnte. Der bleiche Mond spiegelte sich auf der dunkeln, kaum von einem
+Windhauche gekräuselten Meeresfläche. Darüber aber, einige Meilen weit nach
+Westen, wurde ein „Eisblink“ sichtbar, der Wiederschein von einem Packeisfelde,
+welches wahrscheinlich um das Südcap gekommen war und nun nach Norden trieb. Wir
+konnten von dem Mastkorbe aus sogar einzelne Spitzen erkennen, die über die
+Wasserfläche hervortraten. Ueber dem Ganzen weilte der wunderbare Frieden und
+die majestätische Stille, welche dem hohen Norden eigenthümlich sind.
+
+An der Südseite des Fjordes erblickten wir eine Yacht, die hinaussteuerte: es
+war unser alter Freund Mattilas auf seiner Heimreise. Ein wenig nach Mitternacht
+kam Yhlen von seiner Excursion zurück, um uns Lebewohl zu sagen. Wir trieben
+mit dem Strome, je nachdem er wechselte, bald vorwärts bald zurück, bis der Wind
+gegen Mittag (den 25.) gleichmäßiger wurde und wir nach der Advent-Bai fahren
+konnten. Vor der Kohlen-Bai begegneten wir einer großen Heerde von Walrossen und
+einigen Weißwalen; da aber der Harpunirer und das Jagdboot noch nicht
+zurückgekehrt waren, so ließen wir sie ruhig ihre Wanderung nach dem Meere
+fortsetzen. Die Berge zeigten immer mehr die eigenthümliche Form großartiger
+Tempel und Bauwerke. Zuweilen traf der Blick auf ein grünes Feld an ihren
+dunkeln Abhängen. Als wir Abends in die Advent-Bai steuerten, wurden wir sehr
+angenehm überrascht von der für Spitzbergen auffallend reichen Vegetation,
+welche die Berge des Weststrandes noch bis zur Spitze bekleidete und in den
+Thälern und Vertiefungen üppig gedieh. Um sieben Uhr Abends ließen wir den Anker
+fallen und gingen an's Land, um zu botanisiren.
+
+In der Nähe des Strandes trafen wir ein Feld von Schiefersteinen mit Geröll und
+Erde. Hier wuchs Stellaria humifusa neben der kleinen anspruchslosen Cochlearia
+fenestrata. Die grünen und gelben Matten, welche nur stellenweise von dem
+feinen, grauen Schiefergeröll unterbrochen waren, wurden von kleinen Kanälen aus
+den Gletscherbächen bewässert und boten dem Botaniker die reichste Abwechssslung
+dar, denn mindestens zwei Dritttheile aller Phanerogamen Spitzbergens hatten
+sich hier niedergelassen. Es wechselten hier im freudigen Wachsthum mit einander
+ab: Poa pratensis, cenisia und stricta, Aira alpina, Alopecurus alpinus,
+Calamagrostis stricta und Trisetum subspicatum mit dem hier großblumigen
+Polygonum viviparum, Andromeda tetragona, Dryas octopetala und breite gelbe
+Bänder von Saxifraga hireulus und flagellaris neben Potentilla emarginata,
+Ranunculus sulphureus und dem ganzen Reste der arktischen Pflanzenplebejer:
+Draba alpina und birta, Salix polaris, Luzula hyperborea, Juncus biglumis,
+Eriophorum capitatum und vielen anderen. Die feuchtesten Stellen wurden, wie
+gewöhnlich, von den Moosen eingenommen: Polytrichum alpinum, Pottia latifolia
+und anderen; dazwischen Chrysosplenium tetrandrum und die aus unserer Jugend
+bekannte Cardamine pratensis, allerdings ein wenig anders an Größe und Gestalt,
+aber trotzdem leicht erkennbar. Der Ausflug war so angenehm, daß wir uns nur mit
+großer Mühe von der Stelle losrissen und erst spät in der Nacht an Bord
+zurückkehrten.
+
+Die Advent-Bai ähnelt in der Hauptsache den beiden früher besprochenen Fjorden
+und bildet einen der besten Häfen auf Spitzbergen, indem man hier gegen Wind und
+Wetter durchaus geschützt ist. Sie mag acht englische Meilen lang und fünf breit
+sein. Fährt man durch ihre etwa 1½ englische Meilen breite Mündung, so darf man
+keiner der beiden Küsten zu nahe kommen, indem sich von der Strandebene aus
+Riffe unter dem Wasser fortsetzen. Hat man aber die Spitze des Weststrandes mit
+der darauf befindlichen Russenhütte passirt, so kann man längs dem Strande nach
+der Mündung des Bergelf — welcher jetzt gegen den Herbst hin beinahe
+ausgetrocknet war — fahren. Drei Kabellängen vom Lande hat man hier einen
+vorzüglichen Ankergrund auf sechs bis zehn Faden Tiefe. Die größte Tiefe der
+Bucht beträgt etwa 30 Faden; weiter nach Süden wird sie immer flacher und bei
+niedrigem Wasserstande schließlich ganz trocken. Das Ende unterscheidet sich
+wesentlich von den Fjorden, welche wir bis dahin besucht haben, indem es fast
+überall aus dem Schlamm eines noch thätigen Gletschers bestand. Hier aber sind
+die Gletscher zum größten Theile verschwunden; der Schlamm erhält nur einen
+verhältnißmäßig geringen Zuschuß an organischen Stoffen von den Bergflüssen; er
+ist gewissermaßen alt zu nennen, und seine dunkelgraue Farbe und das moderartige
+Aussehen schreibt sich von den vielen in ihm vertheilten Organismen her. Hier
+ist ein, wenn auch nicht an Formen, reiches Thier- und Pflanzenleben zur
+Entwicklung gekommen: Muscheln — Cardium, Astarte, Tellina, Crenella und
+Schnecken — Natica und Tritonium; sie erreichen hier eine verhältnißmäßig
+kolossale Größe und kommen in unglaublicher Menge vor. Dasselbe war der Fall mit
+den übrigen niedrigeren Thiergruppen und den Algen, unter welchen sich eine
+ungewöhnlich große Menge hochnordischer Fische aus dem Geschlechte Cottus und
+Lumpenus neben der Brut von Gadus aeglefinus und Drepanopsetta platessoides
+befand.
+
+Das Wasser wimmelte von Quallen, den hochnordischen Beroe und Cydippe, welche
+gegen den Herbst hin ihre großte Entwicklung erlangen, außerdem einer Menge
+anderer. — 
+
+Den 27. kehrte Blomstrand mit unseren Jagdleuten zurück, denen es gelungen war,
+vier Rennthiere und einen Seehund zu erlegen. Immer befanden sich nunmehr ein
+paar von uns auf der Jagd, jedoch ohne einen wesentlichen Erfolg; denn die
+heimkehrenden Walroßjäger, darunter namentlich einer aus Hammerfest, waren uns
+zuvorgekommen; sie hatten ihre Yachten ausschließlich mit Rennthierfleisch und
+Fellen beladen. Der an Rennthieren sonst so reiche Eisfjord war so gut wie
+verlassen, und die wenigen Thiere, auf welche wir stießen, hielten nicht Stand.
+Es glückte uns indessen doch, bis zum 1. September neun Stück zu schießen. In
+dieser Jahreszeit ist das spitzbergische Rennthier so fett, daß es eine
+hinreichende Last für zwei Mann abgiebt, während es im Frühjahre mit
+Leichtigkeit von Einem getragen werden kann. Im Allgemeinen ist es kleiner als
+das zahme skandinavische Rennthier, von diesem auch durch die Bildung seiner
+Beine und dadurch verschieden, daß es in der zweiten Hälfte des Sommers zwischen
+Fleisch und Haut eine zwei bis drei Zoll dicke Lage eines ziemlich festen,
+weißen und wohlschmeckenden Specks erhält, welcher gesalzen die Stelle der
+Butter vertritt. Dieses Fettpolster erlangt es in ganz kurzer Zeit. Schon Ende
+Juli hat das magere, kaum eßbare Juni-Renn seine Speckhülle bekommen, von
+welcher es wahrscheinlich während des langen Winters, da es eingeschneit im
+Winterschlafe liegt, sein nur mattes Leben fristet. — —
+
+Den 1. September unternahmen Blomstrand und Dunér mit dem Steuermanne und einem
+Manne von der Besatzung einen längeren Ausflug zu dem Innern des Eisfjordes.
+
+„Nach einer langen, ermüdenden Ruderfahrt kamen wir zu der genannten Midterhuk,
+einer weiten Ebene, die sechs bis sieben Fuß hoch vom Meere allmählich nach dem
+Innern zu aufsteigt. Wir gingen hier einige Male an's Land, um Rennthiere zu
+jagen, allein ohne Erfolg. Nach einigen weiteren Stunden und nachdem wir die
+Mündung eines Elf passirt, wo sich Tausende von Gänsen — Anser bernicla —
+versammelt hatten, wahrscheinlich um gemeinschaftlich die Rückreise nach
+südlicheren Regionen anzutreten, wählten wir unsern Lagerplatz neben einer
+Spitze, wo wir endlich einen Blick über den erwünschten Fjordarm, welcher nach
+vielfachen Mittheilungen der längste des Eisfjordes sein sollte, erhielten. Der
+Boden bestand hier aus einer tiefen Schicht von zerriebenem, ungewöhnlich
+lockerm Thonschiefer, welchen wir schon unterweges an mehreren Stellen in ganzen
+Hügeln angetroffen hätten, ferner aus zerstreuten, oft sehr bedeutenden
+Sandsteinfragmenten. Beide Bergarten mußten unseren Zwecken dienen. Eine
+Sandsteintafel bildete den schönsten Tisch für unser Mahl, und der Thonschiefer
+lieferte uns das beste Material zur Verstärkung unseres Feuers, das von dem
+nassen, mühsam zusammengebrachten Treibholze nur kümmlich unterhalten werden
+konnte. Einen solchen bituminösen Thonschiefer hatte ich hier noch nirgends
+gefunden. Nachdem wir unsere Mahlzeit eingenommen und die zahlreichen frischen
+Spuren, welche nach allen Richtungen in den feuchten Boden eingedrückt waren —
+nicht blos von Rennthieren, Füchsen u. a., sondern auch von einem ganz
+respectabeln Eisbären — untersucht hatten, setzten wir unsere Reise nach dem
+Innern des Fjordes fort. Wir versprachen uns Alle das lebhafteste Vergnügen von
+einem etwaigen Zusammentreffen mit dem „Amtmann“ Spitzbergens, den wir seit
+unserm Aufenthalte in der Treurenberg-Bucht nicht mehr zu Gesicht bekommen
+hatten. Bald glaubten wir auch einen Bären auf einem Berge zu erkennen, stiegen
+an's Land und eilten hinauf. Aber das beschwerliche Klettern war der einzige
+Lohn für unsern Eifer, denn von dem Bären sahen wir auch nicht die Spur weiter.
+
+„Wir fuhren nun zu einer weit in den Fjord vortretenden Landzunge, auf welcher
+sich eine Russenhütte befand. Nachdem wir eine halbe Stunde lang gerudert,
+erblickten wir am Strande elf Rennthiere und gingen an's Land, um unser
+Jagdglück zu versuchen. Aber auch diesesmal hatten wir keinen Erfolg: die Thiere
+waren ungewöhnlich scheu und ergriffen die Flucht, lange bevor sie uns in
+Schußweite gekommen, ein sicheres Zeichen, daß wir heuer nicht die Ersten hier
+waren. Wenig zufrieden mit diesem Ausgange setzten wir unsere Fahrt zu der
+Russenhütte fort. Dieselbe war mit außergewöhnlicher Sorgfalt aufgeführt und die
+Wände mit Rasen, auf welchem Cochlearia außerordentlich üppig wuchs, bekleidet.
+Hier schlugen wir unser Zelt auf und rasteten einige Stunden. Als wir uns zur
+Abfahrt bereiteten, erreichte uns der Nebel, welchen wir vorher in der Gestalt
+eines silberweißen Streifens vor dem Fjorde gesehen hatten, und umgab uns auf
+allen Seiten. Das Innere des Fjordes lag ziemlich offen vor uns, und da er, wie
+es schien, schmaler und auf allen Seiten von Bergen umschlossen wurde, so hätte
+wohl ein Versuch gemacht werden können, die Reise weiter fortzusetzen. Aber die
+Vorstellung, daß wir dadurch möglicher Weise die Abfahrt des Schiffes
+verzögerten, mahnte uns, wie schon in so vielen früheren Fällen, an die
+Heimkehr. Dazu kam noch ein äußerer Zufall, der uns zur Eile nöthigte. Wir
+hatten nämlich unser Boot nicht genügend weit auf's Land gezogen; die Fluth war
+gekommen, hatte die Stützen des Bootes fortgeschwemmt und das letztere selber
+umgeworfen, so daß ein Theil unserer Sachen in dem Wasser umhertrieb. Nachdem
+wir Alles geborgen, traten wir unsere Rückreise an und blieben die Nacht zum 3.
+September, wegen des anhaltenden Nebels, auf einem etwa vier Fuß hohen
+Sandriffe, welches sich neben dem obengenannten Elf befindet. Eine Fortsetzung
+der Fahrt über den drei Meilen breiten Fjord war unmöglich, da wir es
+unterlassen hatten, einen Kompaß mitzunehmen. Unsere Jagd hatte keinen Erfolg
+gehabt, Fleisch war nicht vorhanden, so mußten wir uns mit einem spitzbergischen
+Pudding begnügen, welchen der Steuermann aus erweichtem, in Butter geschmortem
+Schiffszwieback bereitete, ein vortreffliches Gericht, das wir allen in einer
+gleichen Lage Befindlichen empfehlen können.
+
+„Das Zelt war auf der höchsten Stelle des Sandriffs aufgeschlagen und wir legten
+uns zur Ruhe. Wir wurden aber bald von dem Rufe unseres Bootwächters erweckt und
+sahen, daß die Fluth uns wieder einen Streich gespielt hatte. Das Wasser stand
+rings um das Zelt, das Boot lag weit davon, durch ein über drei Fuß tiefes
+Wasser vom Lande getrennt, und es schien, daß kaum noch ein trockener Fleck
+übrig bleiben werde. Aber die Fluth hatte bereits ihre größte Höhe erreicht, das
+Wasser begann zu fallen, und wir konnten uns wieder ruhig dem Schlafe
+überlassen.
+
+„Erst am Vormittage lichtete sich der Nebel so weit, daß wir unsere Rückreise
+anzutreten wagten. Sie ging am Anfange längs der Küste. Nach einer Weile
+entdeckten wir Rennthiere, und der Steuermann schoß zwei; aber sie waren für uns
+wenigstens von keinem Nutzen mehr, denn wir fuhren nunmehr glücklich über den
+Fjiord; erst in der Advent-Bai wurde der Nebel wieder dichter. Wir konnten
+ununterbrochen das Land wahrnehmen und trafen um neun Uhr Abends an Bord an.
+Nach unserer Berechnung waren wir, vom Schiffe aus gerechnet, fünf Meilen weit
+in das Innere des Fjordes vorgedrungen.“ — —
+
+Die Witterung blieb außerordentlich veränderlich. Kalte und regnichte Tage,
+Schlackenwetter und Nebel wechselten mit stillen, klaren und sonnigen Tagen ab.
+Die Temperatur stieg einmal über +4,~6~°; der Wind wurde gegen Abend meist
+durchdringend kalt; die Bäche und selbst der Fjord am Strande belegten sich hier
+und da während der nunmehr schon einige Stunden dunkeln Nacht mit einer
+Eiskruste; am Morgen lag der Reif auf den grünen Hügeln, verschwand aber
+stellenweise wieder bei Tage. Mit einem Wort: der Sommer war zu Ende und der
+Herbst gekommen. Wir warteten nur noch, an welchem Tage nun das Land wohl sein
+wirkliches Winterkleid anlegen werde. Im Uebrigen waren wir bereit, den Eisfjord
+so bald als möglich zu verlassen; aber die anhaltende Windstille, welche mit dem
+September eingetreten, stellte sich uns hindernd in den Weg. Die Jäger gingen
+mittlerweile am 5. auf die Jagd zur Kohlen-Bai, und verabredeten mit uns, zur
+Magdalena entweder hier oder in Green Harbour zu stoßen. Aber kaum waren zwölf
+Stunden verflossen, so kehrten sie mit der Nachricht zurück, daß der Weg von der
+Kohlen-Bai zum Green Harbour durch ein Eisband gesperrt und die ganze Oeffnung
+des Eisfjordes vom Eise geschlossen sei.
+
+Die Spitzbergenfahrer haben im Allgemeinen eine große Furcht vor dem Herbsteise,
+und das vielleicht mit Recht, indem sie sich der häufigen unfreiwilligen
+Ueberwinterungen und des unglücklichen Ausganges derselben — oft eine Folge der
+zu kärglichen Ausrüstung — erinnern. Es war deshalb nicht zu verwundern, daß,
+als wir am Morgen auf Deck kamen, wir nur besorgte Mienen zu sehen und muthlose
+Aeußerungen in Betreff der Zukunft zu hören bekamen. Ein Vorschlag folgte dem
+andern. Unser alte gute Bootsmann meinte, wir sollten, so lange der Boden noch
+nicht gefroren sei, und während wir noch Kräfte genug hätten, unsere Gräber
+graben, um doch unserm so gut wie gewissen Schicksal wenigstens mit dem
+Bewußtsein entgegen zu sehen, daß wir in einem anständigen Grabe ruhen würden.
+Ein Zweiter, der nicht so trübe in die Zukunft sah, gab den mehr praktischen
+Rath, sich sofort auf die Ueberwinterung einzurichten, auf die Berge zu steigen
+und Rennthiere zu jagen. Ein Dritter war allerdings der Gescheidteste, indem er
+den Vorschlag machte, sich zu überzeugen, ob die Jäger auch recht berichtet, ob
+sie nicht infolge ihrer erregten Phantasie blinden Lärm geschlagen hätten.
+Sofort begaben sich daher zwei Partien an's Land, um einige Berge zu besteigen
+und zugleich der Rennthierjagd obzuliegen. Die Jagdpartie, welche aus Smitt, dem
+Steuermann Mack und drei Matrosen bestand, nahm ihren Weg auf das Bergplateau,
+wo sie die aus den Thälern verjagten Rennthiere anzutreffen hofften. Dunér und
+Blomstrand folgten dem Abhange nach der Oeffnung des Fjordes hin und nahmen hier
+von einem etwa 500 Fuß hohen Berge wahr, daß das Eis sich fast über den ganzen
+äußeren Fjord ausbreitete, aber, wie es den Anschein hatte, so dünn und
+vertheilt, daß sie eine Fahrt, mindestens längs dem Lande im Norden, für
+ausführbar hielten. Die Jäger hatten das Eis wahrscheinlich blos vom Wasser aus
+gesehen, wo es den durch die Angst vor einer Ueberwinterung ein wenig verwirrten
+Augen als eine dicht zusammengepackte Masse erschienen war. Die Partie kam
+Mittags, zwar ohne Jagbdbeute, aber mit um so besseren Nachrichten zurück.
+Uebrigens hatten sie nicht weit vom Hafen ein Steinkohlenlager entdeckt, das uns
+von gutem Nutzen geworden wäre, wenn das Eis aus dem Spiele Ernst gemacht und
+uns wirklich eingesperrt hätte. Die Partie, welche mit Hülfe der grönländischen
+Hunde drei Rennthiere erbeutet hatte, bestätigte Blomstrand's und. Dunér's
+Angaben in Betreff des Eises.
+
+Obwohl für den Augenblick beruhigt, beschlossen wir doch in jedem Falle von dem
+Südwestwinde, so conträr er auch war, Nutzen zu ziehen und uns von den Gefahren
+des Fjordes zu befreien. Die Strömung war günstig, der Wind frisch; aber die
+Jagdpartie kam nicht vor acht Uhr Abends zum Schiffe zurück; wir mußten daher
+noch bis zum andern Morgen liegen bleiben, um die veränderte Strömung
+abzuwarten. Die physikalischen Instrumente und andere Effecten waren
+mittlerweile schon Nachmittags an Bord gebracht, Nachrichten für Torell in der
+Russenhütte niedergelegt und Alles zur Abfahrt fertig gemacht worden. Wir gingen
+daher viel ruhiger zu Bette, als wir aufgestanden waren. In der Frühe des 6.
+September hißten wir die Segel, hatten Mittags die Advent-Bai verlassen und
+begannen im Eisfjorde zu kreuzen. Da ein „laberer“ Wind aus Südwesten wehte, so
+ging es nur langsam vorwärts. Das sehr vertheilte Eis bildete kein wesentliches
+Hinderniß; es zog sich überdies mehr nach der südlichen Küste hin und füllte die
+Advent-Bai. Am Morgen des 7. befand sich Magdalena der Kohlen-Bai gegenüber,
+aber erst um fünf Uhr Nachmittags in der Mündung des Eisfjordes; hier traf sie
+wieder auf Eis und mußte darin noch die ganze erste Woche über am 8. September
+segeln. Um acht Uhr Vormittags war das Eis passirt; im Westen und Norden lag das
+Meer vollkommen offen da, und nur in Südosten erschien das Treibeis gepackt und
+sperrte wahrscheinlich die südlichsten Fjorde Spitzbergens, den Bellund
+Hornsund.
+
+Dorthin sollte nun der Weg gehen. Die Naturforscher der Magdalena, Goës und
+Smitt, welche überall mit unermüdetem Eifer die Producte des Meeres und Landes
+gesammelt hatten, sehnten sich danach, auch diese Buchten zuletzt noch zu
+untersuchen. Blomstrand durfte, im Hinblick auf die schönen von ihm gemachten
+Entdeckungen, auf wichtige, die Geologie des Landes betreffende Aufschlüsse
+rechnen; — aber die Zeit war abgelaufen, Magdalena mußte dem Aeolus
+entgegenfahren. Da überdies Torell und Nordenskiöld schon 1858 diese Fjorde
+untersucht hatten, so wurde der Plan aufgegeben und mit dem frischen Südwinde
+nach Norden — diesesmal westlich vom „Vorlande“ — gesteuert. Die Kühlte nahm im
+Laufe des Tages mehr und mehr zu; ein Schneeschauer löste den andern ab; mit
+Mühe konnte man das Land im Auge behalten, und am Morgen des 9. wüthete der
+Sturm mit der ihm hier eigenen Gewalt. Später wurde die Luft klarer; die Berge
+der Kobbe-Bai kamen in Sicht; es lag dort ein Schiff vor Anker: unser Aeolus. Um
+nicht auf den Strand zu gerathen, hielten wir uns vom Lande entfernt und
+segelten mit halbem Winde. Dadurch, sowie infolge des Gegenstromes kamen wir
+aber in Gefahr, auf den Grund getrieben zu werden. Noch ein paar Kabellängen und
+Magdalena hätte festgesessen. Aber ein paar geschickte Manöver befreiten uns aus
+der Gefahr. Wir erreichten wieder tiefes Wasser und befanden uns um sechs Uhr
+Morgens am 9. September neben dem Aeolus.
+
+Man eilte von einem Schiffe zu dem andern. In der Freude des Wiedersehens, nach
+zehnwöchentlicher Trennung, Alle frisch und munter, verging der erste Tag
+schnell genug. Wie viel war nicht zu erzählen, was hatte man nicht gesehen, was
+erfahren! Alle hatten abenteuerliche Fahrten durchgemacht, ein Jeder
+unverdrossen zur Erreichung des Allen gemeinschaftlichen Ziels das Seinige
+beigetragen. Man zeigte einander, was man von dem Eingesammelten für das
+Interessanteste erachtete, von Gesteinen, Pflanzen und Thieren, und die
+Vorstellung, daß wir infolge unserer emsigen Bemühungen zur Kenntniß dieser
+hochnordischen Natur ein größeres Material zusammengebracht, als irgend eine
+Expedition vor uns, gab der Freude des Wiedersehens einen Zug wahrer
+Zufriedenheit, welche nur begreifen kann, wer einmal an einem solchen
+Augenblicke Theil genommen hat. Aber Alle stimmten darin überein, daß der Sommer
+zu kurz gewesen, daß so Vieles nicht gesehen und ununtersucht geblieben, und die
+Rückkehr zu nahe sei.
+
+Der Tag hatte übrigens noch eine besondere persönliche Bedeutung für den Leiter
+unserer Expedition; er wurde deshalb auch mit einem Festmahl am Bord des Aeolus
+und einer Extraverpflegung der Mannschaft gefeiert. Beide Schiffe hatten zu
+seinen Ehren geflaggt.
+
+:::: { .wrap-80 .caption }
+![Westseite der Kingsbai.](Die_schwedischen_Expeditionen_315.jpg "Westseite der Kingsbai"){#b315}
+::::
+
+:::
+
+:::: align-center
+****
+::::
 
 
 
