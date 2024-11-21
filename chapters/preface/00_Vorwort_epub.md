@@ -26,10 +26,10 @@
 * [Rennthierkopf](ch003.xhtml#b231)
 * [Rennthierjagd](ch003.xhtml#b257)
 * [Küste des festen Landes bei der Smeerenbergbai (Granit)](ch003.xhtml#b277)
-* [Im Innern der Kingsbai](ch003.xhtml#b293)
-* [Westseite der Kingsbai](ch003.xhtml#b315)
-* Sortepynt auf Prinz Charles Vorland
-* Bohne von Entada gigalobiuam
+* [Im Innern der Kingsbai](ch003.xhtml#b289)
+* [Westseite der Kingsbai](ch003.xhtml#b293)
+* [Sortepynt auf Prinz Charles Vorland.](ch003.xhtml#b315)
+* [Bohne von Entada gigalobiuam](ch003.xhtml#b365)
 * Danskö (dänische Insel)
 * Axel Thordsen
 * Der „Balsfjording“ am Steuer

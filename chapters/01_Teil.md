@@ -541,7 +541,7 @@ an jedem Ende aus, so wird die Mahlzeit doppelt animirt. Steckt man ihn auf
 einen Angelhaken, so ereignet es sich nicht selten, daß der Vogel gefangen wird.
 Seine gewöhnliche Nahrung sind die unzähligen Schalthiere und Mollusken, von
 denen das Meer immer wimmelt. In dem Magen eines von uns geschossenen fanden wir
-die schöne Schnecke Limaeina arctieca.
+die schöne Schnecke Limaeina arctica.
 
 :::: { .wrap-80 .caption }
 ![Procellaria glacialis.](Die_schwedischen_Expeditionen_017.jpg "Procellaria glacialis"){#b017}
@@ -9409,7 +9409,7 @@ weißen Haaren, und offenbar hierher geschwommen, um die Eier und Jungen der
 Vögel zu fressen.
 
 :::: { .wrap-80 .caption }
-![Gletscher in der Croß-Bai.](Die_schwedischen_Expeditionen_289.jpg "Gletscher in der Croß-Bai."){#b289}
+![Im Innern der Kingsbai.](Die_schwedischen_Expeditionen_289.jpg "Im Innern der Kingsbai."){#b289}
 ::::
 
 „Mit dieser Beute beladen fuhren wir zu der letzten und merkwürdigsten dieser
@@ -9549,7 +9549,7 @@ in's Meer stürzen, verliert sich noch ein dritter in einem runden Loche des
 Kalkgesteins und sucht auf diesem Wege weniger bemerkt abzufließen. — —
 
 :::: { .wrap-100 .caption }
-![Im Innern der Kingsbai.](Die_schwedischen_Expeditionen_293.jpg "Im Innern der Kingsbai."){#b293}
+![Westseite der Kingsbai.](Die_schwedischen_Expeditionen_293.jpg "Westseite der Kingsbai"){#b293}
 ::::
 
 Theils ungünstiger Wind, theils Windstille hielten uns noch immer zurück. Es
@@ -10265,7 +10265,7 @@ und einer Extraverpflegung der Mannschaft gefeiert. Beide Schiffe hatten zu
 seinen Ehren geflaggt.
 
 :::: { .wrap-80 .caption }
-![Westseite der Kingsbai.](Die_schwedischen_Expeditionen_315.jpg "Westseite der Kingsbai"){#b315}
+![Sortepynt auf Prinz Charles Vorland.](Die_schwedischen_Expeditionen_315.jpg "Sortepynt auf Prinz Charles Vorland."){#b315}
 ::::
 
 :::
@@ -10274,6 +10274,1686 @@ seinen Ehren geflaggt.
 ****
 ::::
 
+
+
+## <small>Sechzehntes Kapitel.</small><br /> Aus der Geschichte von Spitzbergen.
+
+::: justified
+
+:::: fs-xs
+Hudson. — Poole. — Bennet. — Edge. — Abenteuer und Streitigkeiten. — Fotherby. —
+Baffin. — Kriegszustand. — Vertheilung der Häfen. — Erste Ueberwinterungen. —
+Pellham. — Vorbereitung der Ueberwinterung. — Die lange Winternacht. — Kälte. —
+Hunger. — Beute. — Endliche Erlösung. — Unglückliche Versuche der Engländer. —
+Prämien. — Erfolge. — Der Walfisch. — Scoresby. — Holländische Ueberwinterungen.
+— Unglücklicher Ausgang. — Smeerenberg. — Die übrigen Völker. — Friedrich
+Martens. — Sein klassisches Werk. — Die deutschen Nordseestädte. — Des Schweden
+Martin Reise. — Sein interessanter Bericht. — Eigenthümlicher Hafen. — Die
+Walfischjagd. — Die Brandwacht. — Die Katastrophe. — Triumphgeschrei. — Das
+Abspecken. — Unglücksfälle. — Gewinn. — John Bacstrom. — Fahrt durch die
+„Pasteten“. — Klarheit der Luft. — Stille. — Die höchste mit einem Schiffe
+erreichte Breite. —„Schmeerenburger Hafen.“ — Der Besuch bei den Russen. — Die
+russischen Expeditionen. — Winter in Spitzbergen. — Schneeschuhe. — Raub. —
+Glück der Dunkelheit. — Die vier russischen Matrosen. — Russische Stationen. —
+Die Norweger. —Tschitschagoff. — John Phipps. — Buchan. — Clavering und Sabine.
+— Parry. — Keilhau. — Lovén. — Die französische Expedition 1839. — Torell. —
+Englische Touristen. — Der Golfstrom. — Bohne von Entada gigalobium.
+<br /><br />
+::::
+
+Die wenigen Tage, die wir in der Kobbe-Bai zubrachten, hatten wir benutzt, um
+verschiedene Ausflüge zu machen, unter Anderm zu der schon früher erwähnten
+Smeerenberg-Bucht. Die Erinnerung an die lebhafte Bewegung, welche einst an
+dieser Stelle herrschte, mag uns Veranlassung geben, einen Blick auf die
+Geschichte Spitzbergens, dieses so sonderbaren, unbewohnten Landes zu werfen.
+
+Nachdem Barents im Jahre 1596 Spitzbergen entdeckt, wurde es erst nach elf
+Jahren wieder von dem berühmten arktischen Seefahrer Henry Hudson besucht,
+welcher im Jahre 1607 von der sogenannten Moscoyy Company ausgesandt wurde, um
+einen Weg nach China zu entdecken. Nach einer sechs Wochen langen Fahrt, oft
+durch Treibeis, erreichte er 80° 23´ und wandte sich erst ostwärts, dann aber
+bald nach Süden, wegen des vielen Eises. Nachdem er noch eine Bootexcursion in
+einen der Häfen auf der Nord- oder Nordwestküste Spitzbergens unternommen, und
+ein Ende nach Nordosten gefahren war, kehrte er mit der Ueberzeugung zurück, daß
+in dieser Richtung eine Passage nicht zu finden sei.
+
+„In der Bucht, von welcher ich früher gesprochen,“ — sagt Hudson — „und ringsum
+an den Küsten schwammen mehr Seehunde, als ich sonst irgendwo zuvor wahrgenommen
+hatte.“
+
+Er war also der Erste, der die Aufmerksamkeit auf Spitzbergen als einen guten
+Jagdplatz lenkte. Er spricht von dem Reichthum an Treibholz, dem blauen und
+grünen Meerwasser und dem Eisblink, widerlegt auch die zu seiner Zeit
+herrschende Ansicht der Geographen, daß Grönland umschifft werden könne.
+
+Drei Jahre später wurde von derselben Compagnie Jonas Poole, welcher schon
+früher an den sechs Expeditionen nach Bären-Eiland unter Bennet und Welden, 1603
+— 1609, Theil genommen, ausgerüstet. Er kam den 16. Mai nach Spitzbergen und
+ankerte vor einer Bucht, welche den Namen Hornsund erhielt, und zwar nach einem
+am Strande gefundenen Rennthierhorn. Einem südlich von ihr gelegenen Berge, dem
+ersten, welchen er wahrnahm, gab er den Namen Moscovy Mount. Von diesem
+Ankerplatze begab er sich nach Nordosten zu einer Insel in 78° 37´ nördl. Br.,
+deren Spitze Fair Foreland genannt wurde. Auf einem kleinen Holme vor einer
+Bucht — Deersund — schoß er einen Eisbären und entdeckte hier zugleich sehr gut
+brennende Steinkohlen.
+
+Beim Amsterdam-Eiland ging er in die von ihm Fair Haven benannte Vik, jagte
+Rennthiere und Walrosse und kehrte am Ende des Juli zurück. Während seiner
+ganzen Reise erblickte er in der Nähe der Küsten eine große Zahl von Walfischen,
+unzweifelhaft seine wichtigste Entdeckung, denn von Poole's Reise 1610 datirt
+der Walfischfang auf Spitzbergen.
+
+Daß die Kunst Nimrod's schon frühe gegen die größten Thiere der Welt in
+Anwendung gekommen, ist bekannt. Schon Alfred der Große erzählt, daß Other von
+Halogoland in der Nähe von Drontheim auf dem Walfischfang gewesen „und so weit
+nach Norden gegangen, als die Walfischfänger für gewöhnlich kommen.“ Biscayer,
+Spanier, Franzosen und Flamänder jagten schon frühe auf Walfische in der Nähe
+ihrer Küsten, und seit 1575 auch in entfernteren Regionen. Die Engländer, welche
+erst 1594 den Walfischfang an den Küsten Nordamerikas zu treiben begannen, und
+später bei Island und dem Nordcap, wandten sich nun mit aller Energie
+Spitzbergen zu.
+
+Die Moscovy Company rüstete sogleich nach Poole's Rückkehr zwei Schiffe aus,
+unter Leitung von Poole und Stephen Bennet, nebst Edge als „Factor“ und sechs
+biscayischen Harpunirern. Sie hatten eine höchst abenteuerliche Fahrt. Die
+Schiffe wurden von einander getrennt, Poole fuhr nach Norden bis zum 80. Grade,
+sodann nach Grönland und nach Bären-Eiland. Edge dagegen wurde, nachdem er einen
+Wal erlegt, in Foulsund vom Eise eingeschlossen und kochte hier aus dem Speck
+des Thieres Thran. Sein Schiff ging verloren, er aber begab sich mit zweien
+Booten erst zum Hornsund, wo er ein Schiff von Hull antraf, das ihm seine Ladung
+abnahm, und sodann weiter nach Bären-Eiland. Nachdem er vierzehn Tage lang
+gesegelt, erreichte er nicht blos diese Insel, er traf auch wunderbarer Weise
+mit Poole und dessen Schiff zusammen. Sie kehrten nun Alle zum Foulsund zurück,
+wo sie den 14. August anlangten, und fanden hier das Schiff von Hull und den
+Rest der Besatzung, welche in den Booten nicht Platz gefunden hatte, noch vor.
+Dann gingen sie nach Bären-Eiland zurück, verloren durch Unachtsamkeit auch das
+zweite Schiff und kehrten mit dem Huller Schiffe nach England zurück. Die
+ausgestandenen Gefahren müssen auf sie keinen großen Eindruck gemacht haben,
+denn im folgenden Jahre, als von der Moscovy Company eine neue Expedition nach
+Spitzbergen ausgerüstet wurde, war Poole wieder zur Theilnahme bereit. Sie
+machten einen guten Fang: 17 Wale und einige Walrosse, welche zusammen 180
+Tonnen Thran gaben. Zwei holländische Schiffe, welche vor ihnen dort waren,
+wurden an der Ausübung der Jagd gehindert und zuletzt vertrieben. Ein Kaufmann
+Kijn, welcher sich auf dem einen dieser holländischen Schiffe befand,
+verunglückte bei einer unvorsichtigen Bergbesteigung auf Prinz Charles Vorland.
+Ein spanisches Fahrzeug war gleichfalls dort und machte einen guten Fang in
+Green Harbour, aber sein Lootse, der Engländer Woodcock, mußte nach seiner
+Rückkehr nach England das Verbrechen, auf einem fremden Schiffe gedient zu
+haben, mit sechsmonatlichem Gefängniß büßen. Solche Anschauungen hatte man
+damals vom Handel und der Concurrenz. Aber in den folgenden Jahren wurde es noch
+viel schlimmer, so daß fast anhaltend eine Art von Kriegszustand zwischen den
+Engländern und den übrigen Nationen auf Spitzbergen herrschte. Die englische
+Handelsgesellschaft erhielt 1613 ein Royal Charter, durch welches sie das Recht
+erlangte, mit Ausschluß aller anderen Engländer und der Fremden, bei Spitzbergen
+den Fang und die Jagd zu betreiben. Um ihr Monopol aufrecht zu erhalten, rüstete
+sie sieben bewaffnete Schiffe aus, von denen das Hauptschiff zwanzig Kanonen
+führte. Sie stießen auf acht spanische, vier oder fünf holländische, fünf
+französische, vier englische und mehrere biscayische Schiffe. Da diese der
+Flotte der Compagnie nicht gewachsen waren, so wurden sie geplündert und
+vertrieben, mit Ausnahme zweier französischen, welche gegen Erlegung eines
+Tributes die Erlaubniß erhielten, weiter zu jagen. Ueberdies wurde ein
+holländisches Schiff mit englischer Besatzung als gute Prise aufgebracht; sein
+Werth betrug ungefähr 130,000 Gulden. Die Holländer, welche sich mit Recht über
+dies Verfahren beschwerten, benahmen sich übrigens genau ebenso gegen die
+Spanier. Es mag hier noch angeführt werden, daß der später so berühmte Baffin,
+welcher damals der englischen Flotte folgte, mit scharfem Blicke die
+außerordentlich ungleiche Strahlenbrechung in den verschiedenen Luftschichten
+entdeckte, indem er sagt: „Ich vermuthe, daß die Strahlenbrechung größer oder
+minder ist, je nachdem die Luft dichter oder dünner ist; doch überlasse ich die
+Entscheidung hierüber den Gelehrten.“ —
+
+Im folgenden Jahre 1614 war die holländische Jagdflotte von vier Kriegsschiffen
+begleitet und dadurch den Engländern überlegen. Es kamen keine Streitigkeiten
+oder Gewaltthaten vor; man machte vielmehr auf beiden Seiten reiche Ausssbeute.
+Die Holländer hatten achtzehn Schiffe, die englische Flotte bestand aus zwölfen,
+unter dem Befehl von Fotherby, mit dem Auftrage, auch eine Entdeckungsreise
+weiter nach Norden zu machen. Sie wählten Fair Haven zu ihrem Standquartier,
+bestimmten die Lage von Magdalena-Hook auf 79° 34´ und drangen mit Booten durch
+das Eis zur Red Beach vor, fanden jedoch die ganze Nordküste von Eis
+umschlossen. Darauf gingen sie zu Schiffe „acht starke Seemeilen“, von Vogelsang
+ab gerechnet — damals Cape Barren genannt nach Nordosten, bis sie auf Eis
+trafen. Auf dieser Fahrt geschah es, was sonst seltener in den kälteren Gegenden
+sich zu ereignen pflegt, daß das Meer in der Nacht zum 16. August sich mit Eis
+bedeckte, „von der Dicke eines Thalers“.
+
+Im Jahre 1615 wurde Baffin wieder ausgesandt, doch kam er nicht weiter als bis
+zu Hakluyt's Headland. Er nahm eine Karte von den Küsten auf und giebt als das
+Ergebniß seiner Reise an, daß er trotz des vielen Eises eine Fahrt zwischen
+Spitzbergen und Grönland für möglich halte. Er räth auch der englischen
+Gesellschaft, jährlich 100 bis 200 Pfund Sterling auf die Ausrüstung eines
+kleinen Schiffes, mit 100 Mann Besatzung, zu verwenden, um das Meer zwischen
+Grönland und Spitzbergen zu erforschen. Ein besserer Rath konnte wohl auch kaum
+gegeben werden, denn mit kleinen Schiffen wird man in diesen Gewässern immer
+viel besser vorwärts kommen, als mit großen.
+
+Die Holländer waren auch dieses Jahr stärker als die Engländer und hatten einen
+guten Erfolg, während er den letzteren, die noch dazu vom Eise eingeschlossen
+waren, fehlte. Jetzt traten aber auch die Dänen mit dreien großen Kriegsschiffen
+auf und forderten als Besitzer von Grönland — wozu nach der damaligen Ansicht
+Spitzbergen gehörte — von den Engländern Tribut. Diesen Ansprüchen stellten die
+Engländer ihr gewöhnliches Argument entgegen, daß ihr Landsmann Willoughby das
+Land entdeckt habe. Die Zwistigkeiten hatten kein anderes Resultat, als daß die
+Dänen beschlossen, den Walfischfang bei Spitzbergen nunmehr selbst zu betreiben.
+
+Da die Engländer mit einer Flotte von acht Schiffen im Jahre 1616 einen sehr
+guten Fang machten, die Holländer mit blos vieren aber einen sehr schlechten, so
+kamen nun die ersteren im folgenden Jahre mit vierzehn Schiffen an und
+erbeuteten nicht weniger als 150 Walfische, oder 1,800 bis 1,900 Tonnen Speck,
+außer einer großen Menge, die sie aus Mangel an Raum zurücklassen mußten. Edge,
+welcher den Befehl über die Flotte führte, erlaubte sich wieder
+Gewaltthätigkeiten gegen ein holländisches Fahrzeug, das sich auf seine
+Aufforderung hin nicht entfernen wollte, und der alte Streit loderte von Neuem
+auf. Dazu kam, daß das Patent, welches König Jakob von England im Jahre 1618
+ausgefertigt hatte, und nach welchem Engländer, Schotten und Holländer für
+gleichberechtigt angesehen werden sollten, nicht beobachtet wurde. Die
+aufgebrachten Holländer sandten daher eine Flotte von 23 Schiffen nach
+Spitzbergen, schlossen alle Häfen und verhinderten die Engländer, Jagdboote
+auszuschicken. Zuletzt fielen fünf holländische Schiffe drei englische in einem
+Hafen des „Vorlandes“ an, schossen ihre Takelage zu Schanden, tödteten einen
+Theil der Besatzungen, nahmen die Kanonen und Munition fort, verbrannten die
+Fässer und führten die Schiffe als gute Prise mit sich. Nach Hause gekommen,
+gaben sie dieselben indessen später wieder zurück. Dieses war aber auch das Ende
+der Streitigkeiten, die Regierungen legten sich dazwischen, und man beschloß,
+alle damals noch gleich guten Häfen zu vertheilen. Im Jahre 1619 wurde die
+Theilung vollzogen. Die Engländer bekamen nicht blos zu wählen, sondern auch
+mehr Häfen als die anderen. Sie nahmen Bellsund, Safe Haven im Eisfjord,
+Hornsund und die Magdalenen-Bai. Nach den Engländern wählten der Reihe nach die
+Holländer, die Dänen, die Hamburger und zuletzt die Biscayer. Die Holländer
+ließen sich bei Amsterdam-Eiland nieder, die Dänen stationirten sich in der
+Kobbe-Bai und bei der Däneninsel, und die Hamburger, welche bald nach den Dänen
+ihr erstes Jagdschiff ausgesandt hatten, wählten die kleine Hamburger Bai. Die
+Spanier und Franzosen, obwohl sie zu den ersten Walfischjägern auf Spitzbergen
+gehört hatten, mußten sich mit den Häfen an der Nordküste begnügen. An sie
+erinnert der Name „Biscayer-Hoek“ noch heute.
+
+Seitdem blieb es hier im Allgemeinen friedlich und still. Dieser Zustand wurde
+wohl zuweilen unterbrochen, doch nur infolge der anderswo auf Erden herrschenden
+Kriege, nicht aber aus sonstigem Neid oder Mißgunst beim Walfischfange. Um
+bessern Wind abzuwarten, oder in Unglücksfällen, durften die Schiffe auch in
+fremde Häfen einlaufen, indessen während ihres Aufenthaltes sich keiner Jagd
+hingeben. Die Regierungen der Staaten, von welchen Schiffe auf den Fang
+ausgingen, wetteiferten nun mit einander, durch Belohnungen das Unternehmen
+aufzumuntern, und nur zwischen den in den einzelnen Ländern gebildeten Jagd- und
+Handelsgesellschaften ging der Wetteifer oft in Neid und Intriguen über.
+Unermeßlich war der Gewinn, wenn Alles wohl vorbereitet ausgeführt wurde, groß
+aber auch die Verluste, wenn es dem Unternehmen an Geschick und Leitung fehlte.
+Wer die Walfischjagd und ihre Geschichte gründlich kennen lernen will, mag
+Scoresby's berühmte Arbeit, welche in der Hauptsache der folgenden Darstellung
+zu Grunde liegt, zur Hand nehmen.
+
+Werfen wir zuerst auf die Geschichte des englischen Walfischfanges einen Blick,
+so finden wir, daß nach dem ungünstigen Jagdjahre 1619 die East India Company,
+welche sich mehrfach mit der Moscovry oder Russia Company associirt und in das
+Unternehmen 120,000 Pfund Sterling gesteckt hatte, in die Lage kam, sich von
+demselben durchaus zurückzuziehen. Hierauf übernahmen vier Mitglieder der
+Moscoyy Company das Geschäft und betrieben die Walfischjagd mit wechselndem
+Glücke. Außer der Compagnie hatten die schon einige Jahre vorher in Hull
+gebildete Gesellschaft, auch einige Privatleute in London Schiffe auf den Fang
+geschickt. Man erkannte bald die Nothwendigkeit, Wohnhäuser und Thransiedereien
+zu erbauen, und suchte den Plan der Holländer, aus den bloßen Jagdstationen
+dauernde Ansiedelungen zu bilden, auszuführen. Mindestens sollten zum
+Unterbringen der Jagdgeräthe und der Thrantonnen die geeigneten Schuppen
+errichtet werden. Eine große Belohnung wurde denjenigen versprochen, welche zu
+überwintern versuchen würden. Aber noch fand sich Keiner, der den Muth dazu
+gehabt hätte.
+
+In einem Jahre des dritten Decenniums erwirkte sich die Moscovy Company die
+Erlaubniß, einige zum Tode verurtheilte Verbrecher auf Spitzbergen überwintern
+zu lassen. Aber obwohl man ihnen Begnadigung versprach, wenn sie dort blieben,
+konnte man sie nicht dazu bewegen, als sie dieses fremde und unheimliche Land
+kennen lernten. Sie baten wieder zurückgebracht zu werden und zogen es vor ihre
+Strafe zu erleiden.
+
+Einige Jahre später ließ ein Schiff von London, das sich vor dem Eise retten
+mußte, neun Mann in einer Bucht des Eisfjordes, in Bottle Cove, zurück. Sie
+kamen sämmtlich elendiglich um; man fand von ihnen im folgenden Jahre nichts als
+ihre von wilden Thieren verstümmelten Glieder. Solche unfreiwillige
+Ueberwinterungen kommen in der Geschichte Spitzbergens nicht selten vor. Schon
+im folgenden Jahre 1630 ereignete es sich, daß derselbe Capitän Wil. Goodler
+wieder acht Mann zurückließ, welche wunderbarer Weise den ganzen Winter
+aushielten und Alle wohl und gesund nach London zurückkehrten. Einer dieser
+Leute, Pellham, „gunnersmate“ auf dem Schiffe Salutation, gab 1631 eine
+Beschreibung dieser merkwürdigen Ueberwinterung heraus, welche allerdings nicht
+die einzige geblieben ist. Der andere Bericht, welcher im Jahre 1855 von der
+Yakluyt Society herausgegeben worden, und aus welchem wir einen Auszug
+mittheilen, lautet: „God's power and providence in the preservation of eight men
+in Greenland^[^1600]^, nine moneths and twelve dayes.“
+
+Den 15. August wurden sie an's Land in der Nähe des Eisfjordes geschickt, um
+Rennthiere zu jagen, während das Schiff in der Mündung der Bucht kreuzte. Schon
+den ersten Tag erlegten sie 14 Rennthiere. Als sie am andern Morgen erwachten,
+herrschte ein so dichter Nebel, daß sie das Schiff nicht mehr sehen konnten. Die
+Mündung des Fjordes hatte sich mit Treibeis gefüllt. Sie begaben sich deshalb in
+dem Boote längs der Küste bis Green Harbour, wo sie ein anderes Schiff zu finden
+hofften, das, wie ihr eigenes, unter dem Befehle Goodler's stand, und wohin
+zwanzig Mann von der Salutation geschickt worden waren. Unterwegs schossen sie
+wieder acht Rennthiere. Als sie aber nach Green Harbour kamen, fanden sie zu
+ihrer Ueberraschung, daß das Schiff den Hafen bereits verlassen hatte. Nun
+begaben sie sich zum Bellsund, wo nach der Verabredung ihre Schiffe sich treffen
+sollten, warfen, um das Boot zu erleichtern, ihre Jagdbeute über Bord, kamen
+aber im Nebel ohne Compaß zu weit südlich zum Hornsund. Einer von ihnen, der
+schon sechs- oder siebenmal auf Spitzbergen gewesen, war Lootse, kannte aber den
+Weg doch nicht genau, weshalb die Anderen ihn bestimmten, umzukehren. So fuhren
+sie denn ein Ende nach Norden, das Wetter klärte sich auf und der Lootse
+versicherte, sie wären auf dem falschen Wege. Nun gingen sie wieder nach Süden.
+Zuletzt erhielten sie die Ueberzeugung, daß der Lootse Unrecht habe; Pellham
+ergriff das Steuer, und sie wandten sich wiederum nach Norden. Der Wind kam
+ihnen zu Hülfe, und am 21. August erreichten sie Bell Point. Aus dem Fjorde
+blies ein so steifer Nordost, daß sie Schutz vor dem Winde und einen Hafen für
+ihr Boot suchen mußten. In Bellsund bei „Rynier's Bai“ war einige Jahre vorher
+von den Holländern ein größeres Vorraths-Etablissement errichtet worden, aber
+seitdem von den Engländern benutzt und als ihr Eigenthum angesehen. Es bestand
+aus mehreren Häusern, von denen eines 80 Fuß lang und 50 breit und mit
+Dachpfannen gedeckt war, auch mehrere Oefen zum Kochen und Sieden enthielt.
+Pellham und seine Begleiter hofften hier das Schiff mit ihren Kameraden zu
+finden; es wurden deshalb zwei Mann dorthin geschickt. Sie kehrten indessen bald
+mit der traurigen Nachricht zurück, daß das Schiff auch von dort abgefahren sei.
+Als der Sturm etwas nachgelassen hatte, ruderten sie nach Bottle Cove auf der
+andern Seite des Bellsund, fanden aber auch hier nichts. Die schrecklichen
+Empfindungen, welche gerade diese Stelle in ihnen erregen mußte, denn sie
+wußten, welches der Ausgang ihrer Berufsgenossen im letzten Jahre eben hier
+gewesen war, lassen sich kaum schildern. Pellham sagt von dieser Lage: „Als
+wären wir schon zu Eis erstarrt, wie dieses Land selbst, standen wir da, ohne
+Empfindung und ohne Besinnung, und blickten nur düster und voll trauriger
+Theilnahme einander an.“ So entblößt sie auch von Allem waren, ohne Nahrung,
+Kleider und Wärme, faßten sie doch bald Muth und beschlossen einhellig, nach
+Green Harbour zurückzukehren, um ihren Bedarf für den bevorstehenden Winter zu
+schießen. Denn an eine Heimkehr in dem Boote war nicht zu denken.
+
+Sie hielten sich im Eisfjord bis zum 3. September auf, schossen 19 Rennthiere
+und 4 Bären, hätten aber bei einem Sturme in Bottle Cove beinahe Alles verloren,
+indem die beiden Boote, — eins hatten sie bei Green Harbour gefunden — auf denen
+sich die Jagdbeute befand, in einer stürmischen Nacht mit Wasser angefüllt
+wurden, so daß sie in dem aufgeregten Meere umherwaten mußten, um das Verlorene
+wieder zu sammeln. Als sie zum Bellsund zurück kamen, wählten sie als ihre
+Wohnung das erwähnte Bretterhaus, welches früher als Tonnenbinder-Werkstatt
+benutzt worden war.
+
+Ein in der Nähe befindliches Haus zum Thrankochen lieferte ihnen das genügende
+Bauholz nebst Ziegeln; sie führten in der Tonnenbinderwerkstatt ein Haus auf,
+von denen zwei Wände mit den schon vorhandenen verbunden wurden, und zwar ganz
+und gar von Ziegeln. Die beiden übrigen Wände machten sie von doppelten Brettern
+und füllten den einen Fuß breiten Zwischenraum mit Sand aus. Die Kälte war oft
+so stark, daß der Mörtel, um nicht zu gefrieren, erwärmt werden mußte.
+
+Auf solche Art erhielten sie eine ziemlich geräumige, 20 Fuß lange und 16 Fuß
+breite Stube. Freilich war sie ohne Fenster und das Licht kam nur durch die
+ungefähr vier Fuß lange Schornsteinröhre. Das Dach bestand aus fünf- und
+sechsfachen Brettern, die Thüre aber wurde mit einer zufällig vorgefundenen
+Matratze verdeckt. An den Wänden richteten sie vier Kojen ein, jede für zwei
+Mann; die Felle der geschossenen Rennthiere vertraten die Stellen der Betten.
+Zur Feuerung dienten die zu dem Etablissement gehörigen sieben nicht mehr
+brauchbaren Boote, welche von Walfischfängern zurückgelassen waren, nebst Tonnen
+u. A. Doch vermieden sie solche Dinge zu verbrauchen, welche für die Jagd im
+folgenden Jahre von irgend welchem Nutzen sein konnten.
+
+Am 12. September, als sie alles dieses verrichtet hatten, kam etwas Treibeis in
+die Bucht. Auf einem Stücke lag ein Walroß mit seinem Jungen. Mit einer alten
+Harpune erlegten sie beide, und fühlten sich sehr glücklich, als sie eine Woche
+später noch ein Walroß erhielten. Nun überrechneten sie ihren Speisevorrath und
+fanden, daß er nur für die halbe Zeit ihres Aufenthaltes ausreiche. Sie kamen
+deshalb überein, blos fünfmal in der Woche und nur einmal täglich zu essen, am
+Mittwoch und Freitage zu fasten, indessen so, daß es einem Jeden freistand, von
+den Ueberbleibseln der Walfische, die man auf dem Strande vorfand, zu genießen.
+Nachdem sie mit Nadeln aus Fischbein und Hanffäden ihre Kleider in Ordnung
+gebracht hatten, gab es nichts mehr vorzubereiten. Aber nun begann sich die
+Sorge einzustellen, besonders als nach dem 10. October die Kälte die Bucht
+ringsum mit Eis belegte. Sie faßten indessen wieder Muth, und gottesfürchtig wie
+sie Alle waren, verdoppelten sie ihre Bitten um Kraft und Geduld in ihrem
+Elende.
+
+Um den geringen Vorrath von Brennmaterial besser zu sparen, brieten sie nun
+jeden Tag ein halbes Renn und packten es in einem Fasse ein; doch ließen sie so
+viel ungebraten, daß sie einen Sonntag im Monat und zu Weihnachten
+frischgebratenes Fleisch haben konnten. Aber sie fanden nun weiter, daß der
+Vorrath nicht ausreichen werde, wenn sie so viel wie bisher äßen; sie
+beschlossen daher, sich von jetzt ab an vier Tagen der Woche von den
+Ueberbleibseln der Walfische zu nähren, eine schon an und für sich scheußliche
+Kost, welche nun überdies zu verderben begann, so daß man sie kaum noch zu
+genießen vermochte. Aber es heißt ja: „Noth kennt kein Gebot,“ oder besser: Noth
+ist ein harter Lehrmeister.
+
+Am 14. October ging die Sonne unter und kam vor dem 3. Februar nicht wieder zum
+Vorschein. Anfangs schimmerte es noch etwa acht Stunden täglich; aber auch
+dieses Licht nahm täglich um zehn Minuten ab bis zum 1. December; dann herrschte
+bis Neujahr eine vollkommen dunkle Nacht; nur zuweilen zeigte sich am südlichen
+Himmel bei klarem Wetter ein weißer Streifen, wie von Schnee, der sie daran
+erinnerte, daß ihre Verwandten und Freunde in der Heimath sich nun des
+Tageslichtes erfreuten. Um nicht von der Dunkelheit gemartert zu werden, die
+nach allen Beschreibungen die größte Qual und der schlimmste Feind bei einer
+solchen Ueberwinterung sein soll, fertigten sie drei Lampen aus einem Stücke
+Zinn und erhielten sie die ganze Zeit über brennend. Der Docht bestand aus
+Hanffäden von Tauenden, statt des Oeles aber brannten sie Walfischthran. Zwar
+hätte der Mond scheinen sollen; aber für gewöhnlich war die Luft so dick und
+neblig, daß er die eisige Landschaft nicht zu beleuchten vermochte. Am 1. Januar
+nahmen sie wieder eine Dämmerung wahr, die täglich länger wurde. Bis zum Januar
+war die Kälte erträglich, dann nahm sie aber mit jedem Tage zu, und
+wahrscheinlich haben sie dieselbe nicht übertrieben, wenn sie sagen: „sie sei so
+streng gewesen, daß sie Blasen auf der Haut bekamen, wie wenn sie sich verbrannt
+gehabt hätten.“ Noch bis zum 10. Januar hatten sie eine Wake in einem kleinen
+Teiche am Strande offen erhalten, aber nun fror er bis zum Boden zu, und sie
+mußten — bis zum 20. Mai — um Wasser zu bekommen, eine heiße Stange Eisen in den
+Schnee stecken.
+
+Am letzten Januar hatte die Dämmerung schon eine Länge von sieben bis acht
+Stunden. Sie erkannten nun, daß ihr Mundvorrath nicht mehr länger als sechs
+Wochen ausreichen könnte; aber wenn die Noth am größten, ist die Hülfe am
+nächsten: am 3. Februar kam eine Bärin mit ihrem Jungen zu ihrem Hause; dieselbe
+stürzte, wahrscheinlich von demselben Hunger, wie diese Menschen, getrieben, auf
+sie los und wurde mit Spießen erlegt. An diesem Tage beleuchtete auch die Sonne
+zum ersten Male wieder die Spitzen der Berge, und „die Klarheit der Sonne und
+der Glanz des Schnees waren so gewaltig, daß sie hätten einen Todten erwecken
+können“. Mit dem Lichte verbesserte sich allmählich auch ihre Lage. Es kamen
+sehr viele Bären zu ihrem Hause heran, — man zählte bis 40 Stück — es wurden
+sieben erlegt, und sie begannen wieder zwei- und dreimal des Tages zu essen, so
+daß sie ihre alte Kraft wieder erlangten. Sie hüteten sich jetzt, die Leber zu
+verzehren, wie sie es das erste Mal gethan; denn sie waren davon krank geworden
+und hatten die Haut verloren. Anfangs März fanden sich auch Alken ein und
+Füchse. Sie errichteten Fallen, legten Köder von Alken hinein, die sie auf dem
+Schnee fanden, und erbeuteten etwa fünfzig Füchse. Die Alken fingen sie in der
+Art, daß sie ein Bärenfell, die innere Seite nach oben, ausbreiteten und darauf
+Schlingen anbrachten, mit Springfedern von Fischbein. So erhielten sie etwa
+sechzig Stück. Am 24. Mai erblickten sie ein Rennthier und versuchten die Hunde,
+welche ihre Gefangenschaft getheilt hatten, auf dasselbe zu hetzen. Sie waren
+aber so fett und schwerfällig geworden, daß sie das Thier nicht einzuholen
+vermochten. An demselben Tage fanden sie auch 30 Eier eines Vogels (Willock),
+und beabsichtigten am folgenden Tage mehr zu holen, als ein eigenthümliches
+Ereigniß eintrat.
+
+Sie waren in der letzten Zeit jeden Tag auf einen Berg gestiegen, um nach einem
+Schiffe zu spähen. Diesen Tag wehte aber ein so heftiger Wind aus Nordosten, und
+es war so kalt, daß sie sich drinnen hielten. Der Wind trieb das von den
+Westwinden schon zerbrochene Eis aus der Bucht, und es kamen zwei Schiffe von
+Hull hinein, um zu sehen, ob die Unglücklichen noch lebten. Die ausgeschickten
+Leute trafen erst auf das Boot unserer Helden, das zur Walroßjagd ausgerüstet
+dalag, und eilten zum Hause. Als die von draußen ihr übliches „Hoi“ riefen und
+die drinnen es mit lautem „Ho“ beantworteten, blieben sie anfangs ganz
+erschreckt stehen. Aber schon waren die glücklichen, überraschten Bewohner des
+Hauses draußen, führten ihre Landsleute hinein und boten ihnen all' ihr Bestes
+an: vor vier Monaten gebratenes Rennthierfleisch und frisches Wasser.
+
+Nach vier Tagen, am 28. Mai, kam die Londoner Flotte an. Der Admiral behielt
+unsere Helden zwei Wochen lang bei sich, und sie wurden in dieser Zeit so
+vollkommen wiederhergestellt, daß vier von ihnen auf seinem Schiffe Dienste
+nahmen, die übrigen aber bei einem andern Schiffer, der sie allerdings auf das
+Unfreundlichste empfing, „indem er sie Ausreißer nannte und mit anderen rohen
+und unchristlichen Namen, die sich für einen gebildeten Menschen nicht ziemen,
+belegte.“ Erst am 21. August verließen sie Spitzbergen und durften nach
+glücklich überstandenen Mühen ihr Vaterland wiedersehen.
+
+Die Namen dieser Ueberwinterer verdienen der Nachwelt erhalten zu werden. Sie
+sind: Wil. Fakely, gunner (d. h. Constabel); Edward Pellham, gunnersmate; John
+Wise und Robert Goodfellow, Matrosen; Phomas Ayers, sꝑecksynder, d. h.
+Speckhauer; Henrik Bett, Böttcher; John Daves und Richard Kellet, Thransieder. —
+—
+
+Wir kehren zu dem Walfischfange der Engländer bei Spitzbergen zurück. Er wurde
+nach dem Jahre 1623 matter betrieben, obwohl die Moscory Company 1635 von Karl
+I. das Privilegium erhielt, ausschließlich Thran und Fischbein in England
+einzuführen. Trotzdem wurde nur gelegentlich das eine und andere Schiff nach
+Spitzbergen gesandt, mitunter fand man hier kein einziges englisches vor,
+wogegen die Holländer und Hamburger drei- bis vierhundert hatten. Die Regierung
+nahm daher die Sache 1672 in die Hand und erließ eine für zehn Jahre gültige
+Acte, nach welcher jeder einheimische Walfischfänger von Zöllen befreit sein und
+die Erlaubniß haben solle, die Hälfte der Besatzung aus Ausländern zu wählen.
+Diese Bestimmung hatte jedoch keinen andern Erfolg, als daß ein paar
+Privatpersonen einige Versuche wagten. Sieben Jahre später befand sich der
+Walfischfang wieder in derselben Agonie.
+
+Man machte nunmehr den Vorschlag, eine Actiengesellschaft zu gründen, aber es
+blieb bei dem Vorschlage. Im Jahre 1690 wurden die Privilegien von 1672 auf vier
+weitere Jahre erneuert, doch kam es nicht zur Ausrüstung eines einzigen
+Schiffes. Im Jahre 1693 brachte endlich William Scaves mit 41 Personen die Summe
+von 40,000 Pfund zusammen und bildete eine Gesellschaft, welche von dem
+Parlamente auf den Zeitraum von 14 Jahren, unter der Bezeichnung: „The company
+of merchants of London trading to Greenland“ anerkannt wurde, Zollfreiheit und
+das Recht, die halbe Schiffsmannschaft aus Ausländern zu wählen, erhielt. Sie
+betrieb den Walfischfang aber mit so geringem Erfolge, daß, obwohl sie 1703
+wieder 42,000 Pfund zusammenschoß, nach einigen Jahren, hauptsächlich wegen des
+Ungeschicks und der Sorglosigkeit der Befehlshaber, und der zu kostspieligen
+Ausrüstung, von dem eingelegten Capital nichts mehr übrig war und mit der Jagd
+aufgehört werden mußte. In derselben Zeit hatten aber die Holländer — und zwar
+im Jahre 1697 — 121 Schiffe bei Spitzbergen, welche 1,262 Wale erlegten. Die
+Hamburger erhielten mit 54 Schiffen 515 Wale, die Bremer mit 15 Schiffen 119,
+die Embdener mit 2 Schiffen 2 Wale; zusammen 192 Schiffe mit 1,888 Walfischen.
+
+Durch solche Verluste muthlos geworden, machten nun die Engländer keinen
+weiteren Versuch, die Jagd fortzusetzen, bis im Jahre 1724 die bekannte „South
+Sea Company“ — infolge des Jahre langen, energischen Andringens von Henry Elking
+und John Eyles, die theils den Walfischfang kannten, theils die Verluste
+erwogen, welche ihrem Lande durch die Einführung so nothwendiger Artikel wie
+Thran und Fischbein vom Auslande her zugefügt wurden — die Wiederaufnahme der
+Angelegenheit beschloß.
+
+Zum Beweise, daß jene Beiden nicht Unrecht hatten, mag angeführt werden, daß in
+der Zeit von 1715 bis 1721 jährlich blos nach London 150 Tonnen Fischbein
+importirt wurden, nach den übrigen englischen Häfen aber ungefähr 100 Tonnen.
+Der Preis einer Tonne belief sich aber zuweilen auf 400 Pfund Sterling. Aber
+obwohl das Parlament der Compagnie auf sieben Jahre die früheren Freiheiten
+verlieh, und diese zwei Jahre später noch mehr erweitert wurden, indem sie auch
+auf den Fang in der Davisstraße in Amerika, von wo man die Holländer seit dem
+Jahre 1719 zu vertreiben angefangen, ausgedehnt wurden, und obwohl die
+Zollfreiheit sich auch auf Speck, Felle und Zähne der Walrosse u. A. erstrecken
+sollte, — trotzdem mußte die Compagnie infolge der kostspieligen Ausrüstungen,
+schweren Verluste und des schlechten Fanges mit der Walfischjagd im Jahre 1732
+aufhören. Man hatte die Sitte eingeführt, die Harpune auf die Walfische nicht zu
+werfen, sondern zu schießen, aber es wollte nicht recht gelingen, weil die
+holländischen Harpunirer von ihren alten Gewohnheiten nicht abgehen mochten. Nur
+1733 wurde auf einem Privatschiffe die Kanone so oft angewandt, daß man zwei
+Drittheile der Walfische auf diese Art erlegte. Der Hauptgrund, weshalb die
+Compagnie so bedeutende Verluste erlitt, bestand in der großen Zahl von
+Ausländern, welche man für sehr hohe Sätze heuern mußte, besonders die
+kostspieligen Harpunirer, die sonderbarer Weise alle aus Föhrde in Holstein
+stammten. Im Jahre 1733 erklärte die Regierung, daß sie als Prämie für jede
+Tonne eines Walfischfängerschiffes über 200 Tonnen 20 Schilling zahlen werde.
+Aber es half nicht viel. Im Jahre 1749 wurde die Prämie verdoppelt, wobei die
+Schiffe der amerikanischen Colonien unter gewissen Voraussetzungen dieselben
+Berechtigungen erhielten, und die protestantischen Ausländer, welche drei Jahre
+an Bord eines englischen Walfischfängers gedient hatten und naturalisirt worden
+waren, in dieser Beziehung den Briten gleichgestellt sein sollten.
+
+Dieses hatte den gewünschten Erfolg; denn nun begannen die Schotten an dem Fange
+Theil zu nehmen, und im Jahre 1756 war die Zahl der vereinigten englischen und
+schottischen Schiffe auf 83 gestiegen; im Jahre 1775 sogar auf 105. Obwohl
+infolge dessen der Ertrag bedeutend zunahm, fiel der Preis doch nur unerheblich.
+Es ist dieses unzweifelhaft dem ungeheuren Verbrauch von Fischbein zu den
+Reifröcken der Damen zuzuschreiben, gerade so wie heutzutage die Crinolinen
+unerhörte Massen von Stahl verschlingen.
+
+Aus den zahlreichen Bestimmungen in den Parlamentsbeschlüssen aus dieser Zeit
+mag nur Folgendes angeführt werden. Jedes Schiff mußte mit Proviant auf drei
+Jahre versehen sein. Schiffe unter 200 Tonnen sollten ebenfalls die Prämie
+erhalten. Als die Prämie vom Jahre 1777 ab von 40 auf 30 Schilling herabgesetzt
+wurde, gingen im Jahre 1781 nur noch 39 Schiffe auf den Fang. Infolge dessen
+stellte man 1782 den alten Betrag der Prämie her, worauf die Zahl der Schiffe
+1786 wieder 185 betrug. Von 1749 ab bis zu diesem Jahre hatte der Staat nicht
+weniger als 1,265,000 Pfund Sterling an Prämien gezahlt.
+
+In der Zeit von 1750 bis 1788 gingen 2,879 Schiffe auf den Walfischfang aus,
+davon der bei Weitem größte Theil in die spitzbergischen Gewässer. Auf das Jahr
+1788 kamen von diesen Schiffen allein 265. Im Jahre 1810 liefen von England und
+Schottland 97 aus, 1814: 143 und 1818: 157 Schiffe; in den Jahren 1814-1817:
+586, wovon nur 8 verunglückten; sie erlegten 5,030 Walfische, das heißt, es
+trafen auf jedes Schiff durchschnittlich 8,5 Walfische jährlich. Diese
+Mittheilungen sind allerdings nicht so zu verstehen, als ob alle diese Schiffe
+Spitzbergen besuchten.
+
+Der Wal oder der „Eilandsche Walvisch“, wie er von den Holländern genannt wird,
+hält sich stets in der Nähe des Treib- oder auch des festen Eises auf, wenn es von
+Treibeis umgeben ist, am liebsten aber bei dem Baieneise, welches so schwach
+ist, daß er zum Athemholen ein Loch hineinstoßen kann. In der ersten Zeit
+erlegte man ihn daher mit Leichtigkeit und in großer Zahl, im Frühlinge, an den
+Küsten und in den Buchten, wo noch solches Baieneis vorhanden war. Nachdem er
+aber dreißig Jahre lang ununterbrochen verfolgt worden, scheint er sich in der
+Mitte des 17. Jahrhunderts zurückgezogen und mehr in der Nähe des Treibeises
+aufgehalten zu haben. Die Schiffe mußten daher gleichfalls die hohe See
+aufsuchen, obwohl sie auch oft zum Lande zurückkehrten, um Thran zu sieden.
+Später ging man nur noch selten an Land, hielt sich in dem Treibeise zwischen
+Spitzbergen und Grönland auf und brachte den Fang in rohem Zustande nach Hause.
+Da das Eis sich immer weit westlich und nordwestlich von dem spitzbergischen
+Archipel hält und die Wale im Uebrigen die Stellen, wo sie so schonungslos
+verfolgt worden waren, mieden, so wurde auch der Besuch in den spitzbergischen
+Gewässern immer geringer. Man hatte dafür einen neuen Jagdplatz entdeckt: die
+Davisstraße, wo die Jagd mit großem Erfolge betrieben wurde und die Schiffe der
+Holländer schon 1719 erschienen waren.
+
+Es ist nicht bekannt, seit wann die Engländer die Davisstraße besuchten; im
+Jahre 1777 hatten sie nur 9 Schiffe dort, die anderen 77 gehörten anderen
+Nationen an. Die Zahl nahm aber jährlich beträchtlich zu, so daß sich 1814 in
+der Davisstraße 67 und bei Spitzbergen — oder vielmehr westlich davon 76 Schiffe
+befanden. Nach dem Jahre 1820 dürften nicht mehr viele englische Walfischfahrer
+in die Nähe von Spitzbergen gekommen sein, wie man denn überhaupt mit diesem
+Jahre den Walfischfang daselbst für beendigt ansehen kann.
+
+In dieser Zeit war es, daß Scoresby, Capitän der Rosolution — welche schon
+vorher 10 Jahre lang von seinem Vater geführt worden war, — später mit mehreren
+anderen Schiffen von Whitby — einer Stadt, die schon seit 1763 den Walfang stark
+betrieben hatte — seine berühmten Fahrten unternahm, auf denen er seine
+interessanten und genauen Beobachtungen der arktischen Natur gemacht, mit eben
+so erstaunlicher Vielseitigkeit als überraschendem Scharfsinne seine
+Aufmerksamkeit nach allen Seiten gerichtet und kaum irgend einen Zweig der
+Naturforschung unberührt gelassen hat. Die Früchte seiner Arbeiten sind in
+seinem ausführlichen Werke niedergelegt: An account of arctic regions, with a
+history and description of de northern Whale Fishery, welches 1820 in Edinburg
+in zweien Theilen herauskam.
+
+Der Walfisch war von einem seiner Hauptplätze vollkommen. vertrieben, denn
+heutzutage ist es eine große Seltenheit, wenn man ihn in Spitzbergen antrifft.
+Der Kampf wird jetzt in viel ungastlicheren und kälteren Gegenden fortgesetzt,
+um wahrscheinlich auch dort mit einer vollständigen Ausrottung zu endigen. Von
+England aus wurde diese Verfolgung niemals in dem Umfange betrieben als von den
+Holländern, deren Antheil an dem Walfischfange wir nunmehr noch kurz berühren
+wollen. Zahlen reden bekanntlich eine allgemein verständliche Sprache. Dieselben
+künden nun zwar von der Höhe, zu welcher der Unternehmungsgeist der Holländer
+die Angelegenheit entwickelt hatte, zugleich aber auch von dem Eigennutz und der
+Gier der Menschen nach Gewinn.
+
+Man theilt, mit Scoresby, die Geschichte des holländischen Walfischfanges am
+besten in vier Perioden, ganz verschieden von einander in Ansehung der
+Ausrüstung der Schiffe und des Ausganges der Unternehmungen.
+
+Die erste Periode geht bis zu dem Punkte, da die Wale beinahe schon vollständig
+aus den Buchten verschwunden waren. Ihre Hauptstation hatten die Holländer seit
+der Theilung der Häfen im Jahre 1619 bei Smeerenberg, oder — wie es auch heißt
+Smeerenburg, auf dem Amsterdam-Eiland, wo sie in der Erwartung, daß der Fang
+niemals aufhören werde, mit ungeheuren Kosten Häuser aufführten, deren Zahl
+allmählich so zunahm, daß sie ein Dorf oder eine kleine Stadt bildeten. Die
+Resultate übertrafen jede Erwartung, oft war es unmöglich, die ganze Jagdbeute
+nach Hause zu schaffen.
+
+Bei der holländischen Grönlandscompagnie tauchte nunmehr der Plan auf, eine
+dauernde Station auf Spitzbergen zu errichten. Nachdem Pellham und dessen
+Begleiter die Ueberwinterung glücklich überstanden, setzte sie 1633 eine
+Belohnung für den aus, welcher hier oder auf Jaen Mayen, wo die Holländer schon
+seit dessen Entdeckung 1611 den Walfischfang betrieben und Thransiedereien
+errichtet hatten, überwintern würde. Sofort meldeten sich Mehrere dazu. Sieben
+von ihnen wurden für Spitzbergen und eben so viele für Jaen Mayen bestimmt. Die
+Ersteren landeten am 30. August auf Amsterdam-Eiland. Sie schildern — nach
+Zorgdrager — Herbst und Winter folgendermaßen: Den 3. Oectober begannen die
+Vögel zu ziehen; die Möwen versammelten sich, um wärmere Länder aufzusuchen.
+Nach dem 13. trat ein so strenger Frost ein, daß das Bier in den Fässern drei
+Zoll dick gefror und den Boden heraustrieb. Obwohl es nur acht Fuß vom Kamine
+entfernt stand, war es doch bald vollkommen gefroren und mußte, behufs des
+Aufthauens, in Stücke gehauen werden. Den 15. erschien noch die Sonne gerade
+über einem Berge im Süden, den 27. waren an Stelle des Tages nur noch 7 bis 8
+Stunden Dämmerung getreten. Am 26. November war es so kalt, daß ein Eisloch 2
+bis 3 Stunden nachdem es aufgehauen worden, schon wieder mit handdickem Eise
+belegt war.
+
+Den 7. December war die Kälte noch strenger. Sie konnten sich in den Kojen nicht
+erwärmen und mußten sich rings um das Feuer setzen. Der 24. und 25. brachte ein
+prachtvolles Nordlicht. In den letzten Tagen dieses Monats wurden sie oft von
+den Bären besucht, aber der Schnee war so tief, daß sie dieselben nicht
+verfolgen konnten. Am Anfange des Januar erlegten sie zweie. Den 25. dauerte die
+Dämmerung 6 bis 7 Stunden. Während des Februarmonats schossen sie wieder einige
+Bären. Am 22. erschien die Sonne wieder über einem Berge. Den 3. März hatten sie
+einen Strauß mit einem Eisbären; er wurde von zweien Kugeln verwundet, fiel
+nieder, „stopfte aber die Wunden mit seinen Tatzen zu“. Man griff ihn darauf mit
+einer Lanze an. Aber der Bär setzte sich zur Wehre, schlug seinem Gegner die
+Lanze aus der Hand und warf ihn zu Boden, worauf die Anderen ihm zur Hülfe kamen
+und der Bär die Flucht ergriff. In der zweiten Hälfte des Monats schoß man viele
+Füchse und einige Bären. Den 7. April brachte man wieder das Boot in's Wasser
+und harpunirte ein Walroß. Nun trat bald Kälte, bald mildes Wetter ein. Den 1.
+Mai fand sich ein Seevogel ein, eine Bergente (Eidergans?); später kamen noch
+mehrere Vögel. Man beschäftigte sich nun mit der Jagd auf Bären, Walrosse,
+Seehunde und Vögel bis zum 27. Mai, da die ersten Walfischfänger von Holland
+ankamen. Die Holländer, welche auf Jaen Mayen den Versuch der Ueberwinterung
+gemacht hatten, fielen im Laufe des April und am Anfange des Mai sämmtlich dem
+Skorbut zum Opfer. Sie hatten einen verhältnißmäßig milden Winter, namentlich
+bis zum 7. December. Der Rest des December war kalt, der Januar dafür milde mit
+heftigem Schneefall. Februar und März waren erträglich. Sonnenschein wechselte
+mit Schneewetter ab. Anfangs April befanden sich Alle, mit Ausnahme von Zweien,
+krank. Den 16. starb ihr „Buchhalter“, mit dem 30. schließt ihr Tagebuch. Die
+sechs Anderen lebten damals zwar noch, aber ohne Hülfe. Als am 4. Juni das erste
+Schiff ankam, waren sie Alle todt. Dieser zweifelhafte Ausgang des
+Colonisationsversuches hielt die Holländer indessen nicht ab, noch einen zweiten
+zu wagen. Im folgenden Jahre erklärten sich wiederum Viele zu einer
+Ueberwinterung bereit, und wie das erste Mal wurden Sieben ausgewählt und nach
+Spitzbergen geschickt. Obwohl sie mit allem Nothwendigen versehen waren, hatte
+sich dennoch schon im October und November der Skorbut eingeschlichen. Den 14.
+Januar war ihm bereits Einer erlegen. Am 26. Februar — mit welchem Tage ihr
+Tagebuch schließt — waren nur noch Vier übrig, Alle in hülflosem Zustande.
+Vermuthlich sind sie Alle bald darauf gestorben. Seitdem gab man den Versuch
+einer Colonisation Spitzbergens auf.
+
+Mit dem Jahre 1685 hatte die Ausbeute der holländischen Grönlandscompagnie bei
+Spitzbergen ihren Höhepunkt erreicht. Bald darauf begannen die Wale sich
+zurückzuziehen; die bedeutenden Kosten, welche die Ausrüstung der Schiffe und
+die Errichtung der Thransiedereien bei Smeerenberg erforderte, verzehrten die
+Einnahmen; es trat eine Zeit der Verluste ein, welche indessen nur einige Jahre
+dauerte, indem 1642 das Monopol der holländischen Grönlandscompagnie — infolge
+des Andringens mehrerer niederländischen Genossenschaften — aufgehoben wurde.
+Die Zahl der Walfischfahrer vermehrte sich nun außerordentlich — die
+privilegirten Gesellschaften hatten niemals mehr als 30 Schiffe im Sommer
+ausgesandt — und es trat eine dritte Periode ein, welche sich durch eine weniger
+kostspielige Ausrüstung der Schiffe und eine genauere Berechnung des Gewinnes
+und der Ausgaben bemerkbar machte. Jeder Handwerker, welcher in irgend einer Art
+an der Ausrüstung Theil nahm: Bäcker, Segelmacher, Böttcher u. a., erhielten im
+Falle eines guten Erfolges doppelte Bezahlung, wogegen sie sich aber auch
+verbindlich machten, den Verlust mit zu tragen.
+
+In dieser Zeit stand Smeerenberg in seinem höchsten Glanze. Man sott hier zwar
+keinen Thran mehr und konnte auch nicht mehr in der Nähe jagen; aber es war hier
+doch noch immer der Sammelplatz, und zuweilen lagen hier zu gleicher Zeit 2- bis
+300 Schiffe mit über 12,000 Mann Besatzung. Hier hatten sich Kaufleute und
+Handwerker mit allem Erforderlichen etablirt; die Schiffe holten täglich ihr
+frisches Brod vom Lande, und die Bäcker pflegten durch ein Signal anzudeuten,
+wenn es gebacken war. Diese Periode, welche mit der zweiten Hälfte des 17. und
+fast dem ganzen 18. Jahrhundert zusammenfällt, währte ungefähr 130 Jahre. Wie
+ungeheuer der Gewinn der Holländer in dieser Zeit war, geht aus folgenden Zahlen
+hervor.
+
+Von 1669 bis 1778 gingen 14,167 Schiffe auf den Fang aus, vorzugsweise in den
+Gewässern westlich und nordwestlich von Spitzbergen, und erlegten 57,690 Wale,
+davon der reine Gewinn 44,292,800 Gulden oder 3,691,066 Pfund Sterling betrug.
+Von diesen 109 Jahren lief in wenigstens sechs Jahren wegen des herrschenden
+Krieges kein Schiff aus. Es gingen von den Schiffen nur 561 zu Grunde, das heißt
+vier Procent; immerhin noch mehr als in der Davisstraße, wo die Holländer nur
+zwei und die Engländer ein Procent verloren.
+
+In dieser Periode — Ende des 17. und Anfang des 18. Jahrhunderts — war es, daß
+der ausgezeichnete holländische Walfischfänger Zorgdrager seine Reise nach
+Spitzbergen und dem Westeise unternahm. Seine Erfahrungen hat er in einem großen
+Werke über die Wale und ihre Jagd niedergelegt.
+
+Die vierte und letzte Periode zeichnet sich durch große Verluste aus. Schon mit
+dem Jahre 1770 begann der Fang abzunehmen, und von 1785 bis 1794 wurden jährlich
+blos noch etwa 60 Schiffe nach Spitzbergen und der Davisstraße gesandt. Sie
+fingen zwar noch 2,295 Wale, aber der Verlust betrug jährlich doch 248,978
+Gulden. Während der Kriege der französischen Republik und Napoleon's ging kein
+einziges Schiff auf den Walfischfang aus, und obwohl die Regierung 1814 als
+Prämie für jedes Schiff 4,000 Gulden, und überdies 5,000 aussetzte, wenn es
+nichts erbeutete, wurde im Jahre 1815 kein einziges und in den folgenden drei
+Jahren jährlich nur ein Schiff ausgerüstet, so daß man hiermit die Reisen der
+Holländer als geschlossen ansehen kann.
+
+Die Spanier und Biscayer dienten mehr bei anderen Nationen als auf eigenen
+Schiffen. Wir haben über sie nur geringe Kunde. Im Jahre 1721 sandten sie 20
+Schiffe aus, am Ende des Jahrhunderts scheinen sie aber damit ganz aufgehört zu
+haben.
+
+Französische Schiffe finden wir schon im Jahre 1613 bei Spitzbergen, und zwar im
+Streite mit der Moscovy Company; 1636 wurden 14 von den Spaniern genommen. Sie
+scheinen sich meist in der offenen See gehalten zu haben. Thransiedereien
+besaßen sie nicht. Im folgenden Jahrhundert wurde die Jagd ganz und gar
+aufgegeben, bis Ludwig XVI. in Dünkirchen sechs Schiffe ausrüsten ließ, die
+mehrere Reisen unternahmen und einen guten Fang machten. Auch später noch wurden
+Schiffe nach verschiedenen Richtungen hin ausgesandt, aber nach der Revolution
+hörte jede Thätigkeit auf diesem Gebiete auf.
+
+Dänemark, welches im Jahre 1615 Ansprüche auf Spitzbergen, als zur Krone
+Norwegen gehörig, erhob, begann bald darauf den Walfischfang zu betreiben. Der
+König stiftete eine Compagnie, welche zwar zwei Schiffe aussandte, dieses aber
+nicht länger als vier Jahre fortzusetzen vermochte. Im Jahre 1632 ließ König
+Christian IV. die dänischen Schiffe durch eine Kriegsbrigg begleiten, und sandte
+1638 zu demselben Zweck Corfitz Ulfeldt mit dreien Kriegsschiffen aus. Die
+Gesellschaft erhielt dadurch wieder neues Leben, jagte aber nicht blos auf
+Walfische, sondern suchte auch nach Gold und Silber. Wahrscheinlich war es in
+dieser Zeit, daß der „Reichshofmeister“ von Dänemark, um seine Wißbegier zu
+befriedigen, einen gewissen Leonin nach Spitzbergen schickte, von Geburt ein
+spanischer Hidalgo, dessen Reise uns in einer an wunderlichen Fabeln reichen
+Beschreibung vorliegt.
+
+Im Jahre 1697 gingen noch vier Schiffe auf den Fang aus; nach einer Gewinn
+verheißenden Verordnung vom Jahre 1751 nahm aber die Rührigkeit in dem Grade zu,
+daß 90 Schiffe an verschiedenen Stellen mit dem Fange beschäftigt waren und 344
+Wale erbeuteten. Hierauf nahm der Fang wieder ab, bis im Jahre 1785 eine Prämie
+von ungefähr 50 Reichsthalern für eine jede Tonne ausgesetzt wurde;
+ausländische, auf den Walfischfang ausgesandte Schiffe sollten Zollfreiheit
+haben. Infolge dessen blühte die Industrie wieder auf, so daß zum Beispiel im
+Jahre 1803 nicht weniger als 35 Schiffe ausgingen.
+
+Die Hamburger, welche die Bucht gleichen Namens als Station erwählt hatten,
+begannen etwas später als die Dänen mit dem Walfischfange, betrieben ihn aber in
+weit größerem Umfange. So schickten sie zum Beispiel von 1670 bis 1710 nicht
+weniger als 2,289 Schiffe nach Spitzbergen aus und fingen 9,976 Wale. Sie
+verloren davon allerdings 84 Schiffe, das heißt 8, Procent, während der Verlust
+der Holländer nur 1,5 Procent betrug; trotzdem kam der Gewinn, auf die einzelnen
+Schiffe vertheilt, für beide Nationen ziemlich gleich hoch zu stehen.
+
+Die Geschichte des Hamburger Walfischfanges aus jener Zeit hat eine in
+wissenschaftlicher Hinsicht höchst interessante Episode aufzuweisen. Im Jahre
+1671 ging nämlich das hamburgische Fahrzeug „Jonas im Walfisch“ nach
+Spitzbergen, auf welchem sich als Schiffschirurg Friedrich Martens befand, einer
+der scharfsinnigsten und energischesten Naturforscher, welche jemals Spitzbergen
+besucht haben. Im Jahre 1675 erschien seine kurze aber inhaltreiche
+„Spitzbergische oder Grönlandische Reisebeschreibung“, worin er — nachdem ein
+Tagebuch über den Gang der Reise vorausgeschickt worden — mit ungewöhnlicher
+Genauigkeit, in einer klaren, prägnanten, zuweilen humoristischen Sprache seine
+Beobachtungen, betreffend Land und Meer, Thier- und Pflanzenleben, niedergelegt
+hat. Er spricht zuerst über die geographische Lage Spitzbergens und zeigt sich
+hierin sehr unterrichtet. Er selbst hat den nordwestlichen und nördlichen Theil
+Spitzbergens besucht und den 81. Grad nördl. Br. erreicht. Smeerenberg war zu
+seiner Zeit schon lange verlassen. Er erzählt: „Es standen daselbst noch mehrere
+Häuser, die eine Art Dorf bildeten; einige waren abgebrannt. Gerade über
+Smeerenberg befanden sich auch ein paar Häuser und eine Siedepfanne. Diese
+Stelle wird „Harlinger Kocherey“ genannt. Die Häuser haben folgende Form: nicht
+groß, mit einer Vorstube und dahinter eine Kammer, so breit als das Haus. Die
+Packhäuser waren etwas größer; wir fanden darinnen einige zersprungene Fässer;
+die Eisklumpen hatten noch die Form derselben. Ein Amboß, Zangen und andere
+Werkzeuge, die zur Kocherei gehört hatten, lagen eingefroren im Eise. Die Pfanne
+war noch fest eingemauert und der Trog von Holz stand neben ihr.“
+
+Weiter beschreibt Martens mit großer Genauigkeit das Eismeer und dessen
+verschiedene Färbung, welche er von dem Wechsel des Himmelslichtes herleitet;
+das Treibeis mit seinen phantastischen Formen und schönen Farben; das großartige
+Schauspiel der Bildung des Schraubeneises; das Bersten der schwimmenden Blöcke,
+den Eisblink und die Fahrt durch das Treibeis. Er stellt seine meteorologischen
+Beobachtungen zusammen, betreffend die Nebel, die oft von Eisnadeln angefüllte
+Luft und die daraus fließenden Lichterscheinungen, sowie die verschiedenen
+Formen des Schnees. Er handelt von den Pflanzen, von denen er — zwar roh aber
+doch ziemlich treu — ungefähr vierzehn Arten beschreibt und abzeichnet, und
+kommt dann zu seinem Lieblingskapitel: den spitzbergischen Thieren. Er
+beschreibt erst die Vögel, von denen er vierzehn Arten kennen gelernt hat,
+berührt ihre Art und Weise zu leben und führt die meisten in Abbildungen vor.
+Sodann wendet er sich zu den Säugethieren, von welchen er — außer den Walen —
+fünf kennt und abzeichnet. Darauf giebt er ein Kapitel von den wirbellosen
+Thieren und den Fischen, und zuletzt eine ausführliche Abhandlung über den
+Walfisch, sein Aussehen, den Unterschied von dem Finwal, seine Lebensweise, den
+Fang und die Thranbereitung; ganz am Schlusse aber die Beschreibung einiger im
+Eismeere vorkommenden charakteristischen Mollusken und Medusen: Clio borealis,
+Cydippe und eine andere Art von Acalepher.
+
+So ist Martens' Reisebericht eine der ältesten und zugleich besten Quellen für
+unsere Kenntniß der arktischen Natur. Man findet hier auf einem kleinen Raume
+die Resultate einer reichen Erfahrung, welche die sparsamen Mittheilungen der
+arktischen Reisenden unseres Jahrhunderts bei Weitem übertrifft. Neben der
+ausgezeichneten Arbeit Scoresby's wird er stets den classischen Mittelpunkt
+dieser ganzen Literatur bilden.
+
+Vom Jahre 1719 ab, das ganze folgende Jahrhundert hindurch, betrieben die
+Hamburger den Walfischfang gleichmäßig fort. Im Jahre 1795 hatten sie 25 Schiffe
+draußen; sodann verminderte sich die Zahl allmählich und 1802 erschienen nur
+noch 15 in den spitzbergischen Gewässern. Aber noch 1821 fuhren sie fort,
+Schiffe auszuschicken, und es darf nicht unerwähnt bleiben, daß der deutsche
+Naturforscher Dr. Martin Wilhelm Mandt in diesem Jahre auf dem vom Engländer
+John Rose geführten „Blücher“ seine arktische Reise ausführte. Er kam allerdings
+gar nicht an das Land, da die Schiffe in dieser Zeit nur noch sehr selten bei
+Spitzbergen anlegten.
+
+Von Altona, Glückstadt, Bremen und einigen anderen kleineren Hafenstädten an der
+Elbe und Weser wurden gleichfalls Schiffe auf den Walfischfang geschickt, deren
+Gesammtzahl sich bis zum Jahre 1818 vermehrte, während sich die Zahl der von den
+einzelnen Plätzen ausgesandten verminderte. Als Beispiel mag angeführt werden,
+daß von Bremen im Jahre 1697: 12 Schiffe ausliefen, 1721: 24, und im 18.
+Jahrhundert etwa 7 das Jahr, wogegen 1817 von allen Häfen zusammen 30, 1818 aber
+40 Schiffe ausgingen. Wie es scheint, verschmähten sie nicht, wie die anderen
+Walfischfänger, auch Seehunde zu jagen; sie werden also auch wohl eine bessere
+Ladung heimgebracht haben.
+
+Daß Deutsche oft auf englischen Schiffen dienten, ist schon früher mitgetheilt
+worden.
+
+Wir wollen schließlich nicht unerwähnt lassen, daß auch der schwedische Name
+einen, wenngleich nur höchst bescheidenen Platz in der Geschichte des
+Walfischfanges einnimmt. Unter Gustav's III. Regierung wurde in Stockholm eine
+Grönländische Handelsgesellschaft mit ausschließlicher Berechtigung zum Fange
+bei Spitzbergen und in der Davisstraße, und mit einer Staatsunterstützung von
+300,000 Reichsthalern, gegründet. Schon früher, in der Mitte des 18.
+Jahrhunderts, hatte sich in Gothenburg eine Grönländische Compagnie gebildet,
+welche zum ersten Male 1755 ein Schiff auf den Fang aussandte. Diese Compagnie
+ist uns darum von besonderm Interesse, weil eins ihrer Schiffe im Jahre 1758 zum
+ersten Male einen schwedischen Naturforscher in die arktischen Regionen führte.
+Es gereicht derselben zur Ehre, daß eines ihrer Mitglieder, Pehr Samuel Bagge,
+aus Interesse für die Sache den Vorschlag machte, ihre Schiffe möchten einem
+Gelehrten die Gelegenheit darbieten, die Natur des unbekannten hohen Nordens zu
+studiren. Der damalige Studiosus der Mediein Anton Rolandsson Martin, ein
+Schüler Linné's, wurde von der Akademie der Wissenschaften behufs der
+Untersuchung des Eismeeres und der Natur seiner Küsten ausgerüstet und erhielt
+zu dem Zwecke 600 Thaler Kupfermünze, einen Thermometer und — Pontoppidan's
+dickleibiges Werk über Norwegen, von Privatpersonen aber noch einen Quadranten
+und einen Azimuthkompaß. Sein Tagebuch befindet sich noch jetzt in der
+Bibliothek der Akademie. Er begab sich am 17. April mit dem Schiffe „de Visser“,
+einem Holländer, geführt von Jan Dircks Claessen, auf die Reise. Am 6. Mai
+begegneten sie dem ersten unbedeutenden Eise, „das am Anfange wunderlich aussah,
+aber“ — setzt Martin hinzu — „ich bekam es zuletzt doch überdrüssig.“ Er
+beschreibt die Fahrt durch das Treibeis in folgender Art:
+
+„Es wurde das große Segel aufgezogen; der Commandeur stieg, um sich umzuschauen,
+den Mast hinan; ein Jeder stand an seiner Stelle bereit, um Taue und Segel zu
+handtiren. Die beiden wachthabenden Harpunirer geben auf die ankommenden
+Eisstücke Acht und commandiren: Rechts, Links, Brassen u. s. w. Das muß wie ein
+Uhrwerk gehen. Man braßt, lavirt zwischen den Eisblöcken und wendet bald das
+Fock-, bald das Marssegel, wenn man von dem einen zum andern kommen will. Damit
+das Schiff an einen Eisberg nicht anstoße, braucht man das Kreuz- und
+Hintersegel. Trotz aller Vorsicht ereignet es sich aber doch, daß man anrennt,
+so daß das Schiff in allen Fugen kracht und man auf dem Deck zu Boden fällt.“
+
+Am 9. Mai befanden sie sich in 77° 15´ nördl. Br. und befestigten — wie es
+damals Sitte war — das Schiff an einem Eisberge. Er spricht von dem Süd- und
+Westeise der Walfischjäger. „Unter dem ersteren verstanden sie dasjenige,
+welches von dem Südcap Spitzbergens kam, unter dem letzteren aber das Polareis.
+Jenes ist kleiner, dieses größer.“ Man mache sogar einen Unterschied in Betreff
+des Fanges bei dem einen oder andern Eise, zwischen dem „Südijsvisch“ und dem
+„Westijsvisch“. Der erstere habe einen weicheren Speck und sei, obwohl nicht so
+scheu als der andere, mit der Harpune nur schwer zu fangen; auch habe er einen
+platteren Rücken als der Westijsvisch. Es ist nicht bekannt, ob ein solcher
+Unterschied mit Recht gemacht werden darf.
+
+Die höchste Breite, welche Walfischfänger gewöhnlich erreichen, ist — nach
+Martin — der 81., selten der 82. Grad. Er spricht von den Vortheilen, wenn man
+den Walfisch neben größeren Eisfeldern oder meilenlangen Treibeisstücken jagen
+kann, von der Ruhe des mit Eis angefüllten Meeres, auch wenn ein heftiger Sturm
+wüthet. Den 11. Mai erreichten sie den 78. Grad und fuhren Prinz Charles Vorland
+vorbei. Die Kälte war sehr heftig, das Wasser fror in den Kesseln, Töpfen und
+Tonnen, so daß man, um Wasser zu bekommen, einen glühenden Eisenring um den
+Zapfen legen mußte; ja man glaubte sogar zu bemerken, daß die Taschenuhren bei
+der Kälte fünf Minuten schneller gingen.
+
+Die Schneesperlinge begannen allmählich sich einzufinden. Den 14. machte man das
+Schiff von Neuem fest und bekam zum ersten Male über 20 Walfische zu sehen, ohne
+einen zu erlegen. Den 15. hatte man Wind und 20 Grad Kälte, „das Meer gerann
+rings um uns, so daß das Schiff, obwohl es unter Segel ging, beinahe festfror.
+Das Eis war 1, Zoll dick, und sah wie runde, nach der Mitte aufwärts gebogene
+Platten aus.“
+
+Den dritten Tag nach Pfingsten hatten sie einen schweren Sturm mit Schnee und
+Hagel, bei welchem elf Schiffe, vier holländische, fünf englische, ein
+flensburgisches und ein hamburgisches im Eise untergingen. Man schloß mit einem
+Hamburger das Uebereinkommen, Gewinn und Verlust bei dem Unternehmen zu theilen,
+trotzdem wollte es keinen gedeihlichen Fortgang nehmen. Den 1. Juni erlegte man
+zwischen dem Treibeise einen Seehund (Cystophora eristata). Martin erzählt, daß
+ihr Harpunirer einmal mit einem solchen in Kampf gerathen sei, unter ihn zu
+liegen gekommen, und daß ihm dabei die Hosen zerrissen worden. Er beschreibt
+ausführlich einen, von einem holländischen Schiffe gefangenen Walfisch, den er
+jedoch genauer nicht untersuchen konnte. Den 7. Juni legten sie an einem
+Eisfelde von einer Viertelmeile Länge an, mußten aber bald darauf wieder weiter,
+weil das Treibeis sie auf allen Seiten umgab, so daß sie, um sich vor den
+größeren Eisblöcken zu bergen, ein Stück aus dem flachen Eise aussägten und das
+Schiff hier, wie in einem Hafen, unterbrachten. Zwei holländische Schiffe
+retteten sich auf dieselbe Art. Die Arbeit war allerdings beschwerlich; die
+Leute mußten dabei im Wasser stehen, fielen hinein und wurden von den anderen
+herausgezogen.
+
+Weiter spricht Martin von den Eisbären, von denen er zwei Felle auf einem
+holländischen Schiffe sah, und erzählt, daß die Walfischfahrer den Bären mit
+einem Köder von Walfischspeck an das Schiff zu locken pflegen, so daß sie ihn
+leicht schießen können. „Wird er aber nicht so getroffen, daß er sofort stirbt,
+so soll er Schnee nehmen, in die Wunde stopfen und seines Weges gehen.“
+
+Den 11. Juni wurde das Eis von einem Westwinde etwas gelockert. Man hält ihn für
+den günstigsten, weil er das Eis am ehesten zu zerstreuen pflegt. Sie kamen aber
+nicht weit und mußten wieder in ihren Eishafen zurückkehren. Am folgenden Tage
+machten sie mit besserm Erfolge den Versuch, aus dem Eise zu kommen. Am 14.
+waren sie aber mit 20 anderen Schiffen wieder ganz eingeschlossen. Erst am 20.
+gelang es ihnen, nach einer zwei Tage langen Arbeit mit Schieben und Bugsiren,
+dem Eise zu entrinnen. „Wir kamen also das dritte Mal aus dem Eise, ohne die
+Hoffnung noch etwas zu fangen, denn die Jagdzeit ist bald nach dem Mitsommer zu
+Ende. Die Walfische pflegen sich nämlich in dieser Zeit von Spitzbergen westlich
+nach der Davisstraße zu ziehen. Wir beschlossen daher nach Hause
+zurückzukehren.“ Den 26. passirten sie das „Vorland“; Martin beobachtete Finwale
+und bemerkt, daß ihr Erscheinen bei Spitzbergen den Schluß der Walfischjagd
+anzeige. Den 27. peilten sie Quad-Hoek und beabsichtigten weiter nach Norden zu
+Yakluyts Headland zu segeln; sie hörten aber, daß dort das Eis noch fest am
+Lande liege. Sie versuchten nun in die Kings- oder Croß-Bai zu gehen, aber das
+Eis schloß auch die Fjorde. Zwischen dem 26. und 29. Juni hatten sie
+Sonnenschein und 8 Grade Wärme. Den 1. Juli bot sich Martin endlich die
+Gelegenheit dar, auf einige Holme, in der Nähe des Vorlandes, zu gelangen. Der
+Schnee lag noch zum großen Theile auf den Ebenen fest, aber die Hügel waren
+bereits schneefrei. Er sah hier Eidergänse zu Tausenden auf ihren Eiern sitzen —
+man erlegte 30 Stück und sammelte 1½ Tonnen Eier sowie eine halbe Tonne Daunen —
+und pflückte einige noch nicht ausgeschlagene Stengel von Cochlearia, Saxifraga
+caespitosa und oppositifolia, ein paar Flechten und Algen. Man befand sich aber
+kaum drei Stunden an Land, so erhob sich ein starker Wind und nöthigte sie
+wieder zum Schiffe zurückzukehren.
+
+Damit endigte Martin's Untersuchung Spitzbergens; denn eine Partie, welche am 3.
+Juli an's Land ging, um Walrosse zu jagen und Wasser zu holen, wurde durch den
+aufsteigenden Nebel daran gehindert. Man beschloß daher die Rückkehr. Den 4.
+Juli steuerte man nach Süden. In 76° nördl. Br. untersuchte Martin die
+Temperatur des Wassers, acht Faden unter der Oberfläche, indem er den
+Thermometer in eine mit Sand gefüllte Bütte steckte und sie eine Zeit lang unter
+dem Wasser hielt. Die Temperatur betrug +3° C. Er holte auch verschiedene Proben
+Wasser aus einer Tiefe von 18 Faden herauf.
+
+Den 29. Juli ankerte das Schiff bei Gothenburg. 
+
+In diesem Jahre waren 250 Schiffe draußen bei Spitzbergen gewesen; 150 von
+Holland, 80 von England, 17 von Hamburg, 2 von Bremen, 1 von Flensburg und 3 von
+Kopenhagen. Martin hat uns auch eine gute Beschreibung der Walfischjagd
+hinterlassen. Sie stimmt mit der Darstellung von Martens, Zorgdrager und
+Scoresby überein, so daß diese Kunst während der beiden letzten Jahrhunderte
+keine besonderen Veränderungen erlitten zu haben scheint.
+
+Sie geschah auf folgende Art. Das Schiff legte sich entweder vor Anker, oder
+dicht an das Treibeis, oder fuhr ein Ende zwischen die kleineren Schollen, die
+Lieblingsstelle der Walfische, hinein. Jedes Schiff führte 3 bis 6 Jagdboote mit
+6 bis 10 Rudern mit sich, und in jedem Boote befanden sich 6 Mann: ein
+Harpunirer, ein Steuermann, ein Mann für die Leine und drei Ruderer. Der
+Harpunirer an der Spitze des Bootes hatte es lediglich mit der Harpune zu thun.
+Seine Waffen bestanden in sechs Lanzen oder Harpunen, von denen jedes Boot drei
+zu haben pflegte, mit seinen „Vorläufern“, das heißt einer biegsamen Leine von 5
+bis 7 Ellen Länge, welche mit ihrem einen Ende an der Harpune und mit der andern
+an der großen Jagdleine befestigt war. Ein jedes Boot besaß eine solche, in drei
+bis vier und mehr Theile getheilt, jeder 100 bis 200 Klafter lang, sorgfältig in
+einer Kiste oder Tonne, welche sich an dem Hinterende des Bootes befand,
+untergebracht. Außerdem lagen ein paar Hundert Klafter Reserveleinen vorn im
+Boote. Die Lanzen waren sechs Fuß lang und an dem einen Ende mit einer Hülse für
+eine acht Fuß lange Holzstange versehen. Die Harpunen hatten die Pfeilform,
+starke Widerhaken und einen 2½ bis 3 Fuß langen Schaft, welcher, in der Mitte
+dünn, sich nach oben in eine trichterförmige Hülse erweiterte, in welcher die
+ungefähr acht Fuß lange hölzerne Harpunstange lose stak.
+
+Lag nun das Schiff fest vor Anker oder im Eise, so wurden ein bis zwei Boote mit
+ihrer Besatzung und Ausrüstung auf die „Brandwacht“ geschickt, um sich bereit zu
+halten und den Walfisch, sowie er sich nur zeigte, anzufallen. Die besten
+Jagdplätze waren an den Rändern der großen Eisfelder; man konnte hier den
+harpunirten Wal leichter verfolgen. Denn wenn er unter das Eis tauchte, so war
+man gewiß, daß er auf der andern Seite wieder zum Vorschein kommen werde.
+Zwischen den Eisblöcken entkam er oft, die Harpune ging verloren und die Boote
+konnten ihm nur schwer folgen. Erscheint ein Wal, so rudern die wachthabenden
+Boote leise heran und halten sich ihm so nahe als möglich; der Harpunirer macht
+sich bereit und wirft aus einer Entfernung von zwei bis drei Klaftern die
+Harpune in den Rücken des Walfisches. Nun folgt eine lebhafte Scene. Der Wal
+taucht sofort unter; 12 Fuß der Leine laufen in einer Secunde ab; der
+Leinenhalter muß fortwährend Wasser auf die Bootkante gießen, darüber sie geht,
+und ist bei dem geringsten Hindernisse, oder wenn sie plötzlich zu Ende gehen
+sollte, bereit sie zu kappen — denn sonst wäre das Boot verloren. In den meisten
+Fällen reichen aber die Reserveleinen aus, und laufen auch sie ab, so geben die
+anderen Boote ihre Leinen her. Sind etwa 800 bis 1000 Klafter abgelaufen, so
+kann man die Leine ruhig am Boote befestigen; denn nun dauert es nicht lange, so
+muß der Wal wieder auf, um Luft zu holen. Es nähert sich ihm ein anderes Boot;
+er erhält eine zweite Harpune in seinen Körper, und dasselbe Schauspiel
+wiederholt sich. Aber schon ist er müde; er muß in kurzer Zeit wieder hinauf, um
+zu athmen. Jetzt greift man ihn mit den Lanzen an und sticht sie fünf Fuß tief
+in seinen Körper, um das Herz zu treffen. Nunmehr wird das Schauspiel, aber auch
+die Gefahr größer. Das fünfzig bis sechzig Fuß lange Thier schwimmt hierhin und
+dorthin, umkreist von unzähligen Möwen und „Mallemucken“; es taucht wohl auch
+einen Augenblick unter, aber um sofort wieder herauf zu kommen; es peitscht das
+Wasser verzweifelnd mit Schwanz und Flossen, schleudert Kaskaden von Blut durch
+sein Spritzloch und besudelt damit Boote und Menschen. Das Wasser schäumt. Das
+Tosen, sein Blasen und Schlagen mit dem Schwanze ist meilenweit hörbar. Die
+Harpunirer schreien: „Ruder an — streich!“ — je nachdem sie dem Thier einen
+neuen Lanzenstoß versetzen wollen oder einen Schlag von seinem Schwanze zu
+befürchten haben, da Alles verloren wäre. Bald ist der Wal verendet und wendet
+sich mit seinem Bauche nach oben. Nun hört man laute Freudenrufe von den Booten,
+Alle schwingen ihre Mützen und schreien laut: „Geluk dem Commendeur, Geluk toe
+dem Vische“! Der Capitän des Schiffes erwiedert: „Ock u allen, dappere Mannen!“
+Das Schiff zieht die Flagge auf, zum Zeichen, daß die Beute ihm gehört. Ein oder
+zwei Boote, welche keine Harpune ausgeworfen haben, rudern weiter, um die Leinen
+loszumachen, die nun eingeholt und aufgerollt werden sollen; keine kleine
+Arbeit, da der Wal auf dem Rücken liegt. Der „Spoecksnijder“ schneidet den
+Schwanz ab, durchbohrt die Flossen und bindet sie sowie den Schwanz fest am
+Bauche an, damit sie beim Bugsiren des Wals kein Hinderniß bilden. Es wird in
+die Haut neben dem Schwanzende ein Loch eingeschnitten und die Leine darin
+befestigt. Nun beginnen die Boote das Thier zu ihrem Schiffe zu bugsiren. Hier
+werden sie mit einem Glase warmen Branntweins empfangen. Zeigt sich kein anderer
+Wal in der Nähe — in welchem Falle man eine neue „Brandwacht“ ausstellt — so
+macht man sich an's Abziehen des Opfers. Man befestigt einen Yaken in dem
+Unterkiefer und dem Schwanzende, um den Wal ein wenig über die Oberfläche des
+Wassers zu heben. Dann steigt der Speckschneider mit Stiefeln, in denen sich
+Eissporen befinden, auf den Wal, unterstützt von zweien Booten, deren Besatzung
+„Mallemucken“, d. h. Möwen, genannt wird. Mit einem zwei Fuß langen Messer macht
+er in den Speck, so weit er sich über dem Wasser befindet, 1, bis 2 Fuß von
+einander entfernt, tiefe Schnitte, sodann aber längs dem Wasser einen
+Längenschnitt, welcher die ersteren im rechten Winkel kreuzt. In jede Furche,
+welche auf diese Weise gebildet wird, bohrt er in der Nähe der Wasseroberfläche
+ein Loch in die Haut; es wird ein Haken mit einer Leine eingehakt, und der
+Speck, wenn er mit dem Messer abgelöst ist, in die Höhe gehoben und
+abgeschnitten, sobald ein sechs Fuß langes Stück vom Körper losgetrennt ist. Ein
+solches Speckstück giebt 11 Tonnen Thran. Dabei ertönen die heitersten Lieder.
+Die großen Stücke werden gereinigt, auf dem Deck in fußlange Streifen
+zerschnitten und in den Schiffsraum geworfen, woselbst der „Speckkönig“, von
+Kopf bis Fuß von Thran triefend, sie in Empfang nimmt und in Tonnen packt. Ist
+die eine Seite des Wals auf diese Art abgespeckt, so wird er umgedreht, so daß
+die andere Seite und ein Theil des Rückens nach oben kommt, und dieselbe
+Operation wiederholt. Nun aber wendet man sich zu den Barten, schneidet sie aus,
+zieht sie hinauf, reinigt und sortirt sie. Dann kehrt man den Wal vollständig um
+und behandelt das letzte Drittel wie früher. Sind mehrere Walfische auf einmal
+getödtet worden, so bleibt das Verfahren dasselbe, nur die Reihenfolge der
+einzelnen Arbeiten ist ein wenig anders.
+
+Das Ganze bildet ein Fest für den Capitän und die Besatzung; man bekommt eine
+Extraverpflegung und vergißt darüber den Schlaf. Aber so roh auch die Sache
+immerhin sein mag, so hat sie doch schon als Gegenstand für eine poetische
+Darstellung, oder besser eine „Reimschmiederei“, dienen müssen. Zorgdrager
+theilt uns ein langes Gedicht mit, welches den ganzen Fang, das Bugsiren,
+Speckschneiden u. s. w. schildert, ein Seestück in niederländischer Manier,
+nicht ohne anregende Frische und lebendigen Vortrag.
+
+Es läßt sich von vornherein annehmen, daß die Geschichte einer so blutigen Jagd
+wie diese eine Menge interessanter Abenteuer mit mehr oder weniger glücklichem
+Ausgange aufzuweisen haben werde, und die Chronik Spitzbergens ist so reich
+daran, daß wir uns hier auf dieses Kapitel kaum einzulassen brauchen. Es wird
+genügen, wenn wir hervorheben, daß Schiffbrüche zwischen dem Treibeise
+keinesweges zu den Seltenheiten gehören. Im Jahre 1746 gingen bei einem Sturme
+hier 33 Schiffe verloren, drei Engländer und drei Holländer. Dazu kommen die
+nächsten Folgen solcher Unglücksfälle: Abenteuerliche Bootfahrten mit unzähligen
+Leiden, Hunger und Kälte; Umhertreiben auf Eisschollen u. A., was z. B. im Jahre
+1646 fünf Mann von der Besatzung eines Walfischfahrers bei Spitzbergen passirte.
+Sie retteten sich auf ein Treibeisstück und irrten vierzehn Tage hoffnungslos
+umher. Einer von ihnen starb vor Hunger, die anderen wurden schließlich von
+einem Holländer aufgenommen.
+
+Es liegt auf der Hand, daß ein solches mit Gefahren und Opfern verbundenes
+Unternehmen, wie der Walfischfang, nicht besonders verlockend sein möchte, wäre
+nicht die Ausbeute von so erheblichem Werthe. Um hiervon ein ungefähres Bild zu
+entwerfen, wollen wir nur einige Zahlen anführen, wobei wir vorausschicken, daß
+die Ausrüstung eines Schiffes mit 26 bis 40 Mann von Zorgdrager auf etwa 11,000
+Gulden berechnet wird.
+
+Ein Wal von 55 Fuß Länge liefert durchschnittlich 80 bis 90 Kardel Speck oder 60
+bis 70 Kardel Thran. Doch giebt es auch Wale, bei welchen die Ausbeute an Speck
+100 Kardel beträgt. Ein Kardel enthält zwei Tonnen. Wird nun jedes Kardel Thran
+mit 60 Gulden — dies war der Preis am Ende des 17. Jahrhunderts — bezahlt, so
+beträgt der Thranwerth eines Wals durchschnittlich 3,600 Gulden. Hierzu kommt
+der Werth des Fischbeins, welchen man auf die Hälfte des Thranwerthes, also auf
+1800 Gulden berechnen kann. Ein großer Wal repräsentirt also einen Werth von
+5,400 Gulden.  —  — 
+
+Nach dieser Abschweifung wenden wir uns einem andern Reisenden zu, dem
+„Engländer von schwedischer Abkunft“ John Bacstrom (wahrscheinlich Bäckström),
+von welchem man im Uebrigen weiß, daß er 1779 dem Sir Joseph Banks einige
+Zeichnungen von Walfischen lieferte, welche Lacepède zu seiner Arbeit über die
+Wale benutzte. Das Original: Account of a voyage to Spitzbergen in 1780 by John
+Bacstrom, London 1800 8^vo^ ist eine große Seltenheit; es existirt aber davon
+eine deutsche Uebersetzung in Archenholtz' „Minerva“ für 1802.
+
+„Ich wurde — schreibt Bacstrom — als Feldscheer auf dem Schiffe the rising sun,
+geführt von Capitän W. Souter, angestellt. Es war ein tüchtiges,
+wohlausgerüstetes Schiff von 400 Tonnen, mit etwa 40 Mann Besatzung und 20
+neunpfündigen Kanonen. Wir fuhren von London Ende März 1780 ab und liefen
+Lerwick, die Hauptstation der Shetlandsinseln an. Nachdem wir daselbst Wasser
+und einen guten Vorrath von Federvieh, Eiern, Wachholderbranntwein u. A.
+eingenommen, lichteten wir wieder die Anker und steuerten weiter nach Norden.
+
+Die Nächte wurden immer kürzer. Beim Nordcap in 70° 10“ nördl. Br. hörten sie
+ganz auf. Hier überfiel uns ein schrecklicher Nordweststurm, welcher drei Tage
+undgelegt, so daß wir wähnten, es werde sich nicht wieder aufrichten können. In
+diesen hohen Breitengraden ist der Sturmwind so außerordentlich kalt, daß es
+unmöglich ist, ihm das Gesicht zuzuwenden. Er durchdringt Alles und macht die
+Haut zerspringen. In ungefähr 76° nördl. Br. trafen wir das erste Treibeis,
+runde Flarden, welche die Matrosen „Pasteten“ nennen, und kamen durch dieses Eis
+in stilleres Wasser.
+
+Das Meerwasser, welches nördlich von Holland grünlich, nordwestlich von den
+Shetlands- und Fär-Inseln blau ist, nimmt hier eine tiefere Farbe an und
+erscheint beinahe schwarz. Wir fuhren mehrere Tage zwischen den „Eispasteten“
+hindurch; in einem noch höheren Breitengrade öffnete sich uns aber wieder ein
+freies Meer von dunkler Färbung. Als wir in die Region des 77. oder 78.
+Breitengrades kamen, trafen wir wieder auf Treibeis. Dasselbe besteht aus
+großen, 20 bis 30 Klafter dicken Blöcken, von denen manche fünf- bis sechsmal so
+groß als unser Schiff waren. Mit großer Sorgfalt sucht man diesen Massen, welche
+einander zuweilen so nahe kommen, daß nur ein schmaler Kanal für das Schiff
+offen bleibt, auszuweichen. Ich beobachtete dieses Schauspiel einen ganzen Tag
+lang. Bei einer solchen Gelegenheit steigt der Capitän auf den Fockmars — auch
+wohl noch weiter hinauf — und theilt seine Befehle aus. Eine solche Fahrt ist
+mit großen Gefahren verbunden, indem das Eis zuweilen zwei bis drei Klafter weit
+unter dem Wasser sich erstreckt, ohne daß man es wahrnehmen kann.
+
+Nachdem wir diese Treibeismassen durchkreuzt hatten, erblickten wir im Osten die
+Küste Spitzbergens. Man sieht sie schon in unglaublicher Weite, oft in 20 Meilen
+Entfernung, ein Beweis, daß ihre Höhe sehr bedeutend ist. Gewöhnlich erscheint
+sie in einem wunderbaren Glanze, wie das Licht des Vollmondes, während Luft und
+Himmel weißlich aussehen.
+
+Unter dem 79. oder 80. Grade wurden wir von einer festen, zusammenhängenden
+Eismasse, oder vielmehr einer Ansammlung von Eisfeldern, von denen manche
+mehrere Meilen lang sind, aufgehalten. Man befestigt das Schiff an diesem Eise
+mit Ankern und beginnt in zwei oder drei Booten, welche beständig auf Wacht
+sind, nach den Walfischen auszuschauen.
+
+Kein Schiff würde im Stande sein, die unermeßlichen Treibeismassen zu
+durchfahren, wenn das Meer hier nicht immer so ruhig wäre, wie der Wasserspiegel
+der Themse. Die unregelmäßig zerstreuten Eismassen hindern das Wasser, dem Druck
+des Windes nachzugeben und Dünungen zu bilden, welche mit der Zeit zu hohen
+Wogen anschwellen müßten.
+
+Sobald wir dieses ruhige, etwa 25 bis 30 Meilen vom Lande entfernte Meer
+erreicht hatten, machten die Kälte und die Strenge des Klimas, welche wir in
+einem viel niedrigeren Breitengrade erfahren hatten, einer milderen Luft Platz.
+Das Wetter wurde zuweilen so warm, daß die von den großen Eisblöcken
+herabhängenden Eiszapfen zu schmelzen anfingen. Im Juni erbeuteten wir mehrere
+große Walfische und liefen in die Magdalenen-Bucht ein, um sie abzuspecken und
+unsere Tonnen damit zu füllen.
+
+Wenn man sich den Küsten Spitzbergens nähert, so wähnt man sie in 3 bis 4
+Stunden zu erreichen, während man doch in Wahrheit vielleicht noch 7 bis 8
+Meilen davon entfernt ist. Diese Täuschung hat ihren Grund in der ungeheuren
+Höhe der Schnee- und Eisberge, welche vom Meere aus aufsteigen. Daher sehen
+große Häfen auch nur wie kleine Bassins aus und die größten Schiffe darin wie
+Spazierboote.
+
+Die Magdalenen-Bucht ist groß genug, um die ganze Flotte Großbritanniens
+aufzunehmen; infolge der ungeheueren Berge aber, welche sie rings umgeben, macht
+sie den Eindruck einer kleinen Vik. Wir hielten uns in derselben 3 Wochen lang
+auf. Während die Besatzungen mit allen den Arbeiten beschäftigt sind, welche zur
+Unterbringung und zum Transport der Jagdbeute erforderlich, besuchen die
+Capitäne und Feldscheere von den verschiedenen Schiffen einander und unterhalten
+sich so gut es geht. Diese Besuche nehmen zuweilen eine Ausdehnung von 24
+Stunden an, denn hier giebt es keine Nacht, welche die Unterhaltung und das
+Vergnügen unterbräche.
+
+Das Erste, was in diesen Gegenden die Aufmerksamkeit des Beschauers auf sich
+zieht, ist die feierliche Stille, welche hier herrscht. Nur zuweilen wird sie
+von einem Krachen, einem fernen Donner unterbrochen, infolge des Falles eines
+Eis- oder Felsblocks, welcher von Stufe zu Stufe nieder in das Meer stürzt.
+
+Ich unternahm es, einen dieser Berge, Rochehill, zu besteigen, doch erreichte
+ich nur die Hälfte seiner Höhe, und auch dieses nur nach mehrstündiger schwerer
+Anstrengung. Die Felsen waren mit Vogeleiern von verschiedener Größe bedeckt.
+
+Man findet hier viele Bäche und Wasserfälle mit vortrefflichem Wasser, welche
+sich beim Aufthauen des Schnees bilden. Von Pflanzen traf ich hier oft
+Cochlearia, „wilden Sellerie und Wasserkresse“ und eine kleine Zahl anderer
+Pflanzen und Blumen, obwohl die Vegetation, welche die Felsen bedeckt, sich in
+der Hauptsache auf einige Arten von Moosen und Flechten beschränkt. Man findet
+hier weiße Bären von außerordentlicher Größe, weiße Füchse, Steinböcke (?),
+Elchthiere (? Rennthiere) und ungefähr 20 verschiedene Arten von Land- und
+Seevögeln, z. B. wilde Gänse, Enten, Lunnen, Möwen und „Mallemucken“ — wie die
+Matrosen sie nannten, Enten mit schönem scharlachrothen Kopfe und gelben Füßen,
+nebst Schneesperlingen, welche fast eben so schön wie der Hänfling oder die
+Nachtigall singen.
+
+Einen so schönen Sommer hatte man lange nicht erlebt; es blieb das schönste
+Wetter. Da wir auf unserm Schiffe noch Platz hatten und die Jahreszeit noch
+nicht weit vorgeschritten war, verließen wir die Magdalenen-Bucht und steuerten
+nach Norden, in der Hoffnung, noch einen oder zwei Walfische zu fangen. Als wir
+zum 80. Breitengrade kamen, fanden wir ein eisfreies Meer und sahen keinen
+Walfisch mehr. Wir fuhren weiter nach Norden mit einer guten südlichen Brise und
+bei dem schönsten Wetter von der Welt. Selbst von dem großen Maste aus konnten
+wir kein Eis im Norden entdecken, sondern nur eine zusammenhängende große
+Eismasse im Westen und Osten, so daß wir uns in einer Art Kanal befanden,
+welcher zwei bis drei Meilen breit war. Wir segelten immer weiter, und der
+Capitän und ich scherzten über unsere directe Fahrt zum Nordpole.
+
+Endlich bestimmten Capitän Souter und ich die Polhöhe, und wir fanden, daß wir
+uns in 82° und einigen Minuten nördl. Breite befanden, die vielleicht noch
+Keiner vor oder nach uns erreicht hatte^[^1601]^. Die hohen Schneeberge auf
+North Bank oder North Foreland waren südlich in glänzendem Scheine sichtbar.
+
+Wir hatten große Lust, noch weiter nach Norden zu segeln, aber die Furcht vor
+dem Eise, welches sich von beiden Seiten in Bewegung setzte und uns
+einzuschließen drohte — in welchem Falle wir rettungslos verloren waren — bewog
+den Capitän, nach North Foreland zu steuern. Gleichzeitig sprang der Wind nach
+Norden herum und wir landeten nach einer Fahrt von zwei Tagen bei North Bank an
+einer Stelle, welche man „Schmeerenburger Hafen“ nannte. Wir sahen daselbst eine
+große Zahl Finwale („Simer“), weiße Wale und Narwale, ein Zeichen, daß die Zeit
+zum Fange der schwarzen Wale, die sich dann nach Norden begeben, vorbei sei.
+
+Da Einer unserer Leute im Jahre vorher an einem russischen Etablissement auf
+North Bank gewesen war und versicherte, daß er den Weg zu den Hütten kenne, so
+machte mir Capitän Souter — ein wißbegieriger und unternehmender Mann — den
+Vorschlag, ihnen einen Besuch abzustatten. Wir nahmen 10 oder 12 Mann mit uns,
+einen Kompaß, einige Flaschen Wein, Brod, Käse u. s. w., ferner einige gute
+Messer und ein Tönnchen Pulver, um den Russen ein Geschenk damit zu machen.
+
+Wir landeten in der Tiefe der Bucht auf der Ostseite, wo wir ein großes, mehrere
+Meilen weites Thal, fast ganz von Schneebergen eingeschlossen, fanden. Wo die
+Sonne den Schnee aufgethaut hatte, traten die braunen und schwarzen Klippen zu
+Tage. Ueberall strömten klare Bäche und bildeten malerische Wasserfälle.
+
+Der Boden bestand aus einer Art Rasen und Thon, darauf man bequem gehen konnte.
+Wir hatten mehrere kleine, meist nur 2 bis 3 Fuß breite, aber sehr tiefe Bäche
+zu passiren. An ihren Rändern fanden wir Cochlearia, „Wasserkresse und Sellerie“
+und einige kleinere Pflanzen. Eine große Zahl von Landvögeln flog auf, sobald
+wir uns ihnen näherten. Wir kamen über eine Stelle, wo die Holländer früher ihre
+Todten begraben hatten; drei oder vier Särge, welche menschliche Gebeine
+enthielten, standen offen. Einige in Bretter geschnittene Inschriften — es
+befanden sich etwa 20 neben den Gräbern — datirten aus den Jahren 1630, 1640 u.
+s. w. Wir stießen auch auf die Ruinen eines aus Backsteinen errichteten
+Bauwerks, das ein Ofen gewesen war. Die Holländer pflegten hier früher Thran zu
+kochen und nannten die Bucht daher Smeerenburg („Smeerenberg“, von „Smeer“, Fett
+und „bergen“, verwahren). Wir hatten noch sechs englische Meilen nach Norden zu
+wandern und waren infolge des unebenen Weges und der Hitze sehr ermüdet, als wir
+endlich die Hütten der Russen entdeckten. Sobald sie uns wahrnahmen, schickten
+sie uns zwei oder drei Leute entgegen, um uns zu begrüßen.
+
+Sie sahen gar sonderbar aus; man hätte sie für Juden von einem Trödelmarkte
+halten können. Sie trugen Pelzmützen, Kleider von schwarzen Schaffellen, die
+rauhe Seite nach außen, Stiefel und große, säbelartige Messer an der Seite. Als
+wir zur Hütte gelangten, wurden wir den Caravelks, d. h. dem Führer und
+Feldscheer, vorgestellt, welche uns sehr höflich empfingen und in ihre Hütte
+einluden. Unsere Leute wurden in den inneren Raum geführt und mit Fleisch und
+Branntwein aufgenommen. Zufällig war der Feldscheer ein geborener Deutscher, ein
+Berliner, Namens Dietrich Pochenthal; wir konnten uns daher mit einander
+unterhalten und dienten zugleich als Dolmetscher zwischen meinem und seinem
+Chef.
+
+Capitän Souter übergab nun dem russischen Befehlshaber das Tönnchen Pulver und
+ein halbes Dutzend guter Messer und Gabel. Auch er war in Pelz gekleidet, doch
+von besserer Beschaffenheit, und trug, wie alle Anderen, einen großen Bart. Der
+Russe empfing die Gabe mit großer Freude und machte uns ein Gegengeschenk,
+bestehend in einem halben Dutzend weißer Fuchsfelle, zweien Roggenbroden, drei
+geräucherten Rennthierzungen und zwei dergleichen Seiten, wofür wir ihm herzlich
+dankten. Wir fanden diese Sachen vortrefflich, wohlschmeckender als geräucherte
+Zunge oder eingesalzenes Fleisch in England.
+
+Nun setzten wir unsern Wein, das Brod und den Käse auf den Tisch, wogegen der
+Russe geräucherte Rennthierzungen, frischgebackenes Brod, guten Branntwein und
+vortreffliches Wasser vorfahren ließ. Wir befanden uns in der heitersten
+Stimmung. Die Zungen und das Roggenbrod bildeten förmliche Delicatessen; dagegen
+war unser Chester-Käse und Schiffszwieback wieder eine leckere Speise für die
+Russen. Wir tranken das Wohl der Czarin und Königs Georg.
+
+Die Hütte bestand aus zwei großen Stuben, von denen jede fast 30 Fuß im Quadrat
+hielt, aber so niedrig war, daß man mit der Pelzmütze an die Decke stieß. Mitten
+in der Stube befand sich ein runder Ofen zum Kochen und Backen, sowie Heizen.
+Das Brennmaterial bestand aus Treibholz, welches das Meer hier im Ueberfluß
+auswirft. Es waren ganze Stämme ohne Zweige. Ein Schornstein führte den Rauch
+durch das Dach. Man konnte aber durch ein Nebenrohr den Rauch in den zweiten
+Raum hineinlassen, um Rennthierfleisch und Zungen und Bärenschinken zu räuchern.
+Um drei Seiten des ersteren Raumes lief eine drei Fuß breite, mit Bärenfellen
+bedeckte Bank, welche zum Schlafen diente. Die Bettdecke des Capitäns bestand
+aus zusammengenähten weißen Fuchsfellen, ebenso die des Feldscheers, die anderen
+aus Schaffellen. Die Wände waren gehobelt, das Dach aus geschnittenen Brettern
+zusammengefügt.
+
+Zur Erleuchtung des Raumes dienten ein paar kleine Glasfenster, welche ungefähr
+zwei Fuß im Quadrat hielten. Den Boden bildete ein Estrich. Der ganze Bau — von
+außen gemessen mochte etwa 60 Fuß lang und 34 Fuß breit sein. Er war aus großen,
+vierkantig behauenen und etwa 12 Zoll dicken Balken errichtet, die übereinander
+gelegt, an den Ecken geschürzt, mit trockenem Moos verstopft und mit Pech oder
+Theer bestrichen waren, so daß die Luft durchaus nicht eindringen konnte. Das
+Dach bestand aus Balken, welche mit beiden Enden auf der oberen Kante der Wände
+ruhten. Gerade so sind die Häuser in Rußland, besonders bei Archangel, erbaut.
+
+Der deutsche Feldscheer, ein sehr verständiger Mann, machte mir über diese
+russische Colonie in der Smeerenburger Bucht folgende Mittheilungen. Einige
+Kaufleute in Archangel rüsten zusammen jährlich ein Schiff von ungefähr 100
+Tonnen aus, mit einem Führer, Capitän, Steuermann, Feldscheer, Zimmermann, Koch
+und ungefähr 15 Mann, alle mit Musketen, Büchsen, Pulver und großen Messern
+versehen, nebst solchen Geräthschaften, welche zum Fange von Walfischen,
+Narwalen (Walrossen?), Rennthieren, Bären und Füchsen erforderlich sind.
+
+Das Schiff läuft, mit einem ausreichenden Vorrath von Mehl, Branntwein,
+Kleidern, Schneeschuhen, Brettern, Zimmergeräthen u. s. w. versehen, jedes Jahr
+im Monat Mai von Archangel aus und trifft im Juni oder Juli bei Smeerenberg ein,
+um die neue Colonie an's Land zu setzen. Hier bleibt es zwei bis drei Wochen im
+Hafen, um seine Schäden auszubessern, und führt dann die alte Colonie mit deren
+Ausbeute, bestehend in Fellen von weißen Füchsen und Bären, Eiderdaunen,
+Walroßzähnen — die dem Elfenbein gleichen und niemals gelb werden — nebst
+geräucherten Rennthierzungen, nach Archangel zurück.
+
+Die Colonisten erhalten keinen bestimmten Lohn, sondern eine gewisse Tantième:
+der Führer 50 vom Tausend, der Capitän und Feldscheer 30, der Zimmermann,
+Steuermann und Koch jeder 10, und die übrigen Leute Jeder 1 vom Tausend des
+mitgebrachten Werthes. Der Feldscheer erzählte mir, daß dem Führer 1000 Rubel,
+ihm selbst 600 und jedem von der Schiffsmannschaft 50 bis 60 Rubel zufielen. Er
+fügte hinzu, daß, wenn sie ihre Reise glücklich zurücklegten, die Besatzung von
+ihrem Lohne ein ganzes Jahr lang leben könne, weil die Lebensbedürfnisse in
+Archangel sehr billig wären. Bis dahin habe die Handelsgesellschaft in Archangel
+sehr gute Geschäfte gemacht.
+
+Er berichtete weiter, daß er diese Fahrt nun schon das zweite Mal unternommen,
+so gut habe ihm die erste gefallen. „In den Nächten, welche man die langen
+nennt, ist die Finsterniß niemals, oder wenigstens äußerst selten so stark, daß
+man nicht noch die Dinge in der Nähe wahrnehmen könnte, und die Kälte auch nicht
+so schrecklich als in Petersburg. Bei Schneestürmen darf man das Haus nicht
+verlassen; bei schönem Wetter kann man sich dagegen mehrere Meilen weit
+hinauswagen. Bei Mondschein und dem in diesen hohen Breitengraden so wunderbaren
+Sternenschein, sowie während eines Nordlichtes, ist es so hell, daß man dabei
+lesen oder schreiben kann.“
+
+„Im Winter kommen die schwarzen Walfische in den Hafen und wagen sich bis dicht
+an den Strand; zuweilen tödten wir einen durch Harpunen, die wir aus einem
+Mörser abschießen. Von Eisbären, Rennthieren, Füchsen und Vögeln tödten wir so
+viele, als die nächtliche Jahreszeit es erlaubt. Dieselbe beginnt im September.
+Dann verlassen uns die Landthiere und begeben sich über das Eis nach Novaja
+Semlja und Sibirien. Auf dieselbe Art ziehen die Landvögel fort. Wir erlegen in
+der Bucht auch Walrosse, ihres „Elfenbeins“ halber, welches nach Deutschland und
+Frankreich ausgeführt wird.“
+
+Der Feldscheer und ich machten einen Ausflug auf Schneeschuhen, eine Art
+Schlittschuhe ohne Eisen und ungefähr zwei Fuß lang, mit welchen man über Schnee
+und Eis gleitet. Da ich in meiner Jugend ein guter Schlittschuhläufer gewesen
+war, so bediente ich mich derselben eben so gut wie er. Wir legten in einer
+Stunde sechs bis sieben Meilen zurück, ohne zu ermüden.
+
+Bevor wir unsern russischen Wirth verließen, erzählte er uns noch, daß er vor
+einigen Wochen, als er von einer Jagd zu seinem Hause zurückgekehrt sei, einen
+englischen Capitän mit neun oder zehn Mann eben beim Plündern angetroffen habe.
+Da er seine Kiste aufgebrochen fand, so nannte er den Capitän einen
+Straßenräuber.
+
+Es entstand ein Streit, „die Engländer gaben auf uns Feuer“ — sagte der
+Feldscheer — „und tödteten einen Mann. Wir schossen wieder und verwundeten
+mehrere, worauf sie eiligst die Flucht ergriffen.“ Als nun der Russe seine Rubel
+nachzählte, fand er, daß 600 fehlten. Er beabsichtigte, von dieser Angelegenheit
+seiner Regierung Mittheilung zu machen.
+
+Nachdem wir über zwölf Stunden bei den Russen zugebracht hatten, nahmen wir
+Abschied und baten sie, auch uns an Bord zu besuchen. Wir kehrten auf demselben
+Wege, auf dem wir gekommen waren, nach ungefähr achtzehnstündiger Abwesenheit
+wieder zu unserm Schiffe zurück.
+
+Nunmehr bereiteten wir uns ernstlich auf die Rückreise vor; wir füllten unsere
+Tonnen mit gutem Wasser, brachten Alles in Ordnung und gingen in der Mitte des
+Juli bei einem schwachen Nordwinde unter Segel. Wir passirten wieder viel
+Treibeis; da unser Schiff ein Schnellsegler war, so ließen wir viele andere, die
+ebenfalls nach England zurückkehrten, hinter uns.
+
+Die erste uns willkommene Veränderung bestand darin, daß es wieder ein wenig
+dunkel wurde und wir in unserer Cajüte ein Licht anzünden mußten. Welch ein
+Genuß! — Wenn man Monate lang ohne Dunkelheit gewesen, wird das Tageslicht
+zuletzt ermüdend, und man empfindet eine herzliche Freude, so wie das erste
+Licht wieder in der Cajüte brennt, draußen aber Alles dunkel ist. Bevor wir zu
+südlicheren Breitengraden kamen, betrachtete ich mit Entzücken den Niedergang
+der Sonne, welche friedlich über dem Horizonte thronte. Sie erschien von einer
+außerordentlichen Größe, umstrahlt von den herrlichsten Farben, worauf sie sich
+wieder in ganzer Majestät erhob. Die Erhabenheit und Pracht dieses Schauspiels
+läßt sich nicht mit Worten schildern.
+
+Wir warfen Ende Juli bei Lerwick Anker. Nach dreiwöchentlichem Aufenthalte
+daselbst setzten wir die Reise fort und kamen gegen Ende des August nach einer
+Abwesenheit von überhaupt fünf Monaten wieder glücklich in Greenwich an.“ — —
+
+So weit Bacstrom.
+
+Die Russen, von deren Leben auf Spitzbergen wir hier eine so lebendige
+Schilderung erhalten, hatten schon lange vorher den Walfischfang auf diesen
+Küsten betrieben. Aus dieser früheren Zeit, das heißt aus dem Jahre 1743, datirt
+sich die berühmte Erzählung von den vier russischen Matrosen, welche sechs
+Winter auf einer der Inseln in der Nähe der Südostküste von Stans Vorland
+zubrachten — russisch Maloy Broun oder „Klein-Spitzbergen“, zum Unterschiede von
+Belschoy Broun, „Groß-Spitzbergen“. Die Geschichte dieser vier Männer: Alexei
+Himkof, Jvan Himkof — welche schon früher einige Winter auf der Westküste
+verlebt hatten —, Stephan Scharapof und Feodor Werigwin, die, nachdem ihr Schiff
+von den Eisbergen eingeschlossen worden, an's Land gingen, um eine vor ein paar
+Jahren errichtete Hütte aufzusuchen; wie sie, gleich vielen Anderen vor und nach
+ihnen, das Schiff verloren, sodann, von Allem entblößt, aus der Wurzel eines
+Treibholzstammes einen Bogen, aus einem gefundenen Stücke Eisen ein paar Lanzen
+verfertigten, womit sie einen Eisbären erlegten; wie sie aus dessen Sehnen
+Bogenstränge machten und aus einem andern Stücke Eisen Pfeilspitzen arbeiteten
+und mit diesen Waffen eine Menge Rennthiere, Füchse und zehn Bären schossen; wie
+sie Alle, mit Ausnahme des Feodor Werigwin, der starb, dem Skorbut entgingen,
+namentlich infolge ihrer fast beständigen Arbeit in freier Luft; wie die übrigen
+Drei 1749 glücklich nach Archangel zurückkamen u. s. w.: dieses alles ist so oft
+und in so mancherlei Formen dargestellt worden, daß wir kein Recht haben, uns
+hierbei länger aufzuhalten, und nur auf die ursprüngliche Schilderung, welche
+1766 von Professor P. L. le Roy in Petersburg herausgegeben wurde — er hatte die
+Geschichte aus dem Munde der beiden Himkof selbst vernommen und noch ihre
+eigenthümlichen Geräthschaften und Waffen gesehen — verweisen wollen. Im
+Uebrigen fehlen uns bis jetzt noch alle Quellen für eine genauere Kenntniß der
+russischen Spitzbergenfahrten. Wir können nur aus den vielen und verhältnißmäßig
+neuen Denkmälern, den theils noch wohlerhaltenen, theils verfallenen
+„Russenhütten“, deren es an jedem größeren Fjord zwei oder drei giebt, und in
+welchen sie die Winter zugebracht haben, schließen, daß die Russen während des
+letzten Jahrhunderts, und mindestens während der ersten drei oder vier Decennien
+des gegenwärtigen, Spitzbergen ziemlich fleißig besucht haben, um Walrosse,
+Seehunde, Weißwale, Bären und Füchse zu jagen. Sie hatten Hauptstationen, wo sie
+sich das ganze Jahr über aufzuhalten pflegten; oder sie gingen im August von
+Archangel aus und kehrten im April zurück. In der Nähe solcher großen Stationen
+besaßen sie wieder kleinere Hütten, in welchen sie während der Jagd selbst ein
+Unterkommen fanden. In der letzten Zeit hatten die Russen ihre Hauptstation in
+der Oeffnung des Storfjordes auf Stans Vorland. Als Keilhau sie 1827 besuchte,
+war sie auch schon aufgegeben, aber doch noch bis zum Jahre 1825 benutzt worden.
+Sie bestand aus zwei größeren und mehreren kleineren Hütten, und neben ihnen
+befanden sich fünf griechische Kreuze mit der ältesten Jahreszahl 1809.
+
+Ungefähr im Jahre 1818 überwinterten zwei russische Lodjen am Südcap, wo man
+auch noch die Rudera einer Hütte vorfindet. Sie machten einen ungeheuren Fang:
+1,200 Walrosse und fast eben so viele Weißwale nebst Füchsen, Bären und
+Seehunden.
+
+Im Hornsund erblickt man ebenfalls noch guterhaltene Ueberbleibsel einer auf 20
+Mann berechneten Hütte, und zweier kleineren für fünf Mann. Auch an anderen
+Stellen des Fjordes trifft man auf undeutliche Spuren alter Russenhütten. Eine
+verlassene Lodje und die halbverzehrten Leichen von 13 Männern fand man 1820
+neben der größeren Hütte.
+
+Im Bellsund haben die Russen eine oder zwei Hauptstationen mit verschiedenen
+kleineren Hütten gehabt, und zwar an der Stelle, wo 1823 eine Lodje
+überwinterte. Auch im Eisfjord stößt man auf die Ueberbleibsel vieler solcher
+Russenhütten. Green-Harbour war wegen des Weißfischfanges besonders besucht.
+Hier starb 1826 Starastschin, von welchem wir schon früher gesprochen haben.
+Solche Spuren von Russenhäusern giebt es auch auf der Südspitze von Prinz
+Charles Vorland, in der Croß-Bai, der Hamburger Bai, auf dem Festlande,
+geradeüber dem Amsterdam-Eiland, wo eine Expedition — wahrscheinlich 1823 —
+überwinterte, und auf den Nordküsten der Red-Bai, Wijde- und Mossel-Bai. Selbst
+auf dem Nordostlande trifft man noch deren verfallene Trümmer an.
+
+Aber die Fahrten der Russen nahmen mehr und mehr ab; gegen das Ende des dritten
+Jahrzehnts waren es nur noch einige Privatpersonen sowie das reiche Kloster
+Solowetskoi am Weißen Meere, welche ein paar Schiffe aussandten. Wann die letzte
+russische Expedition Spitzbergen besucht hat, wissen wir nicht, aber nach dem
+fünften Jahrzehnt scheinen alle diese Fahrten aufgehört zu haben.
+
+Die Norweger allein besuchen heutzutage noch Spitzbergen wegen des
+Walfischfanges. Sie haben seit uralten Zeiten die Kunst verstanden Delphine und
+Wale zu fangen; ob dieses aber auch in den spitzbergischen Gewässern geschehen
+sei, davon wissen wir nichts. Die im Jahre 1721 in Bergen gestiftete
+Grönländische Compagnie schickte ihre Schiffe meist in die Davisstraße. Die
+eigentlichen Fahrten der Norweger begannen viel später und verfolgten nicht den
+Walfischfang. Nach Keilhau ging die erste norwegische Unternehmung nach
+Spitzbergen 1795 von einem Kaufmanne in Hammerfest, in Gemeinschaft mit einem
+Russen, aus; ein Theil der Besatzung bestand aus Fischlappen und Russen, welche
+auf der Insel überwinterten. Eigentlich datiren aber die gegenwärtigen
+norwegischen Spitzbergenfahrten vom Jahre 1819, indem eine englische
+Handelsgesellschaft auf Bodö eine Galeas mit elf Mann zu einer Fahrt nach
+Spitzbergen und Bären Eiland ausrüstete. Sie kamen von Spitzbergen — denn
+Bären-Eiland hatten sie verfehlt — mit der Nachricht von seinem Reichthume an
+Walrossen, Rennthieren und Eidergänsen zurück, worauf man wieder eine kleine
+Expedition von Hammerfest mit acht Mann aussandte. Als man aber nach
+Bären-Eiland kam und der größere Theil der Besatzung an's Land geschickt wurde,
+um zu jagen, verirrte der Capitän in Wind und Nebel, so daß er die Insel nicht
+wieder finden konnte und nach Hammerfest zurückkehrte. Die zurückgelassenen
+Leute verproviantirten sich mit Walroßfleisch und gingen in ihrem offenen Boote
+nach Norwegen zurück. Eine eben solche Expedition mit derselben Mannschaft und
+demselben Capitän, auch mit demselben Ausgange, wurde 1821 unternommen. Jetzt
+ging man aber mit größerem Ernste daran, den Fang im Eismeere zu betreiben und
+stehende Winterstationen anzulegen. Den ersten Versuch machte man 1822 in
+Croß-Bai, wo man zwei Hütten erbaute, und die Ueberwinterung lief so glücklich
+ab, daß man sie im folgenden Jahre mit 16 anderen Leuten wiederholte. Da aber
+die Lage der Station für den Fang unvortheilhaft erschien, so begaben sie sich
+zum Eisfjord in eine der dortigen Russenhütten, wo indessen drei Leute —
+wahrscheinlich am Skorbut — starben. Die im Jahre 1825 zur Ueberwinterung von
+Hammerfest ausgerüstete Expedition ließ sich ebenfalls im Eisfjord, an einer
+alten russischen Station nieder. Sie machten eine geringe Ausbeute und erlagen
+sämmtlich dem Skorbut. Nun begannen auch Tromsö und Bergen Schiffe abzusenden;
+doch klagten sie alle über schlechten Fang und geringen Gewinn. Die Jagd ist
+trotzdem immer anhaltend von 12 bis 15 und mehr Schiffen von Tromsö und
+Hammerfest, Quelle des Reichthums für die Rheder, sondern auch für Capitän und Seeleute
+zu einer Schule geworden, in welcher sich die besten Eigenschaften eines
+Seemannes entwickeln können. Wir wenigstens haben aus dieser „Eismeerschule“
+Männer kennen gelernt, denen wir unsere höchste Achtung nicht versagen konnten.
+
+Wir wollen nun noch kurz diejenigen Expeditionen nach Spitzbergen berühren,
+welche in dem vorigen und in diesem Jahrhundert im geographischen und
+naturhistorischen Interesse unternommen worden sind.
+
+Die Kaiserin Katharina von Rußland schickte im Jahre 1765 ihren Admiral
+Tschitschagoff mit dreien Schiffen aus, um von Spitzbergen nach dem Nordpol zu
+fahren. Die Expedition verließ Kola am 10. Mai und ankerte den 16. Juni im
+Bellsund. Hier blieb sie bis zum 4. Juli, steuerte nach Norden und erreichte am
+24. eine Polhöhe von 80° 21´. Weiter nach Norden vorzudringen war unmöglich;
+jeden Tag wurde man einige Minuten nach Süden zurückgeworfen; und als man am 29.
+bei einem heftigen Nordsturme große unübersehbare Eismassen sich von Nordosten
+nach Westsüdwesten erstrecken sah, beschloß der Admiral umzukehren, überzeugt,
+daß das Ziel nicht zu erreichen. Anfangs von der Kaiserin ungnädig empfangen,
+gelang es Tschitschagoff später sich zu rechtfertigen. Er erhielt im folgenden
+Jahre wiederum den Befehl über dasselbe Schiff. Diesesmal kam er einige Minuten
+weiter nach Norden; den 29. Juli observirte er 80° 28´. Aber das festgepackte
+Eis schnitt jede Hoffnung ab; am folgenden Tage kehrte er wieder nach Bellsund
+und Archangel zurück.
+
+Das erste bedeutende Unternehmen dieser Art wurde 1773 von Constantin John
+Phipps, später Lord Mulgrave, mit den Schiffen Racehorse und Caracay in der
+Absicht gemacht, den Nordpol zu erreichen. Wir haben schon früher dieser
+glücklichen Expedition Erwähnung gethan, bei welcher Phipps in den letzten Tagen
+des Juli 80° 37´ erreichte, die Sieben Inseln in Sicht bekam, einige derselben
+nebst Low Island besuchte und diesen Theil von Spitzbergen kartographirte.
+Anfangs August wurde er in 80° 37´ nördl. Br. und 19° östl. L. von Eis
+eingeschlossen, das an manchen Stellen 12 Fuß dick war. Er sägte sich aber
+hindurch, forcirte die Fahrt, erreichte endlich am 11. August Amsterdam-Eiland
+und ankerte in Fair Haven, worauf er am 19. August die Anker lichtete und nach
+England zurückkehrte.
+
+In derselben Absicht wie Phipps segelte Dav. Buchan 1818 nach Spitzbergen mit
+den Schiffen Dorothea und Trent, das letztere unter Führung des arktischen
+Märtyrers John Franklin. Am 3. Juni ankerten sie in der Magdalenen-Bai, den 7.
+verließen sie diesen Hafen, um nach Norden zu gehen, stießen aber bald auf Eis
+und gingen nach 13tägigem Segeln im Eise in Fair Haven bei der Red-Bai vor
+Anker. Den 6. Juli fuhren sie wieder aus, erreichten 80° 15´ nördl. Br., drangen
+in's Treibeis ein, wurden aber in 80° 34´ eingeschlossen, kehrten um und kamen
+glücklich wieder los. Sie steuerten nun westlich, längs der Eiskante, wurden
+aber von einem Sturme überfallen, mußten zwischen die Hummocks gehen und würden
+ihr Schiff verloren haben, wenn der Sturm nicht aufgehört hätte. Es gelang ihnen
+wieder offenes Wasser zu erreichen; sie gingen, um ihre schlimmen Lecke zu
+repariren, wieder nach Fair Haven, das sie am 30. August verließen, um nach
+England zurückzukehren. Der Bericht über diese Reise ist von dem damaligen
+Lieutenant Frederick Beechey abgefaßt und zeichnet sich durch seine lebhaften
+Schilderungen aus.
+
+Die nächste Expedition nach Spitzbergen wurde im Jahre 1823 von Clavering und
+Sabine mit dem Schiffe Griper unternommen. Ihre Absicht war, einen möglichst
+hohen Breitengrad zu erreichen und in Hammerfest, Spitzbergen und Grönland
+Pendelschwingungen und magnetische Untersuchen anzustellen. Diese Beobachtungen
+sollten von Sabine, damals englischem Artilleriecapitän, geleitet werden,
+während Clavering mit dem Schiffe nach Norden fuhr. Den 30. Juni erreichte man
+Yakluyt's Headland; hier ging Sabine mit einem Officier, Arzt und sechs Leuten
+nebst einer Ausrüstung für sechs Monate an's Land, und zwar auf die innere
+Norskö, wo Phipps seine Beobachtungen 1773 gemacht hatte. Clavering kam auf
+seiner Fahrt nach Norden nur bis 80° 20´ nördl. Br. und befand sich am 11. Juli
+wieder bei Yakluyt's Headland. Am 24. waren die physikalischen Untersuchungen
+geschlossen. Man fuhr hierauf nach Grönland hinüber, um die Beobachtungen
+daselbst fortzusetzen, später nach Drontheim, und kehrte von hier nach Hause
+zurück.
+
+Trotz aller Enttäuschungen hatten die Engländer ihr Lieblingsproject, den
+Nordpol zu erreichen, nicht aufgegeben. Bald nachdem der unermüdliche Parry von
+seiner dritten arktischen Reise, welche die Entdeckung einer Nordwestpassage zum
+Zweck hatte, zurückgekehrt war, regte er den Gedanken an, zu Eis und Schlitten
+den Nordpol zu erreichen, und unternahm 1827 seine bekannte Expedition mit dem
+Hecla. Wir haben über dieselbe schon früher gehandelt. Sein Bericht ist, wie
+alle seine arktischen Reisebeschreibungen, von großem Werthe für die
+Wissenschaft, und zeichnet sich durch außerordentliche Treue und Genauigkeit
+aus.
+
+In denselben Jahre wurde Spitzbergen von dem norwegischen Geologen Keilhau
+besucht, auf einer kleinen von dem deutschen Touristen von Löwenigh in der
+Absicht ausgerüsteten Slup, um die Geschichte der russischen Spitzbergenfahrten
+zu vervollständigen. Die Besatzung bestand nur aus sechs Mann. Sie gingen am 16.
+August in See und landeten den 20. auf Bären-Eiland, deren geologische und
+physikalische Verhältnisse Keilhau mit vieler Genauigkeit untersuchte. Sie
+steuerten hierauf durch den gewöhnlichen Bären-Eilandsgürtel von Treibeis nach
+dem Südcap. Den 26. befanden sie sich auf der Westküste vor dem Eisfjord, aber
+alle Fjorde waren, wie gewöhnlich in dieser Jahreszeit, bereits vom Eise
+gesperrt. Am 29. und 30. hatten sie einen schweren Sturm zu bestehen, der sie
+bis zum 79. Grade nach Norden trieb, gingen dann wieder nach Süden und warfen am
+3. September im Treibeise vor dem Südcap Anker. Hier stiegen sie an mehreren
+Stellen an's Land. Als sie sich durch das Eis wieder zum Schiffe zurückwandten,
+war dasselbe verschwunden. Man fand es zwar wieder, aber in's Eis eingeschlossen
+und in einer sehr schlimmen Lage. Die Gefahr währte indessen nur zwanzig
+Stunden, indem die Strömung das Eis wieder aunseinander trieb. Am 9. steuerten
+sie nordöstlich zu Stans Vorland, hielten sich bei der dortigen russischen
+Station acht Tage lang auf und kehrten darauf nach Hammerfest zurück. Keilhau's
+Schilderung dieser Reise, reich an interessanten Beobachtungen, findet man in
+seiner fesselnden Arbeit: Reise i Ost- og West-Finmarken. Christiania 1831.
+
+Zehn Jahre später machte unser Landsmann Professor Lovén eine Reise nach dem
+westlichen Spitzbergen, über welche er der Akademie der Wissenschaften am 10.
+Januar 1838 einen Bericht vorlegte. Nachdem er sich längere Zeit in Finmarken
+aufgehalten hatte, fuhr er am 19. Juni mit dem Walroßfänger P. Michelsen, auf
+dem Schoner „Enigheden“, von Hammerfest ab. Den 22. hatte er bei starkem Nebel
+Bären-Eiland erreicht. Der Capitän weigerte sich, ihn an's Land zu setzen, aus
+Furcht, er könnte durch Eis und Wetter genöthigt werden, ihn seinem Schicksale
+zu überlassen. Doch hatte er Gelegenheit, in der Nähe der Insel einige Versuche
+mit dem Bodenkratzer anzustellen, die ersten, welche in diesem Theile des
+Eismeeres gemacht worden sind. Am 3. Juli erreichten sie 75° 8´ nördl. Br. und
+steuerten längs der Eiskante westlich, später wieder nördlich. Den 7. bekam man
+Prinz Charles Vorland in Sicht; den 10. wurde in Green-Harbour (Eisfjord) Anker
+geworfen. Hier hielt er sich eine Woche auf, machte Ausflüge, entdeckte
+secundäre, Versteinerungen enthaltende Schichten, und kam bis zum Vogelberge
+„Dödmanden“ (der todte Mann) auf der andern Seite des Fjordes, und zur
+Sassen-Bai, wo sie mehrere Walrosse erlegten. Das Schiff ging darauf zur
+Croß-Bai, wo man den Meeresgrund untersuchte. Auch eine Bootfahrt in das Innere
+der Kings-Bai wurde unternommen. Den 27. Juli wollte man zum Eisfjord
+zurückkehren, aber Sturm und Nebel verhinderten es, und man fuhr weiter nach
+Süden. Der Sommer war sehr ungünstig. Das Treibeis erstreckte sich noch anfangs
+August ohne Unterbrechung von Bären-Eiland bis zum Südcap. Der Plan, diese Insel
+und das Meer ringsum genauer zu untersuchen, mußte daher aufgegeben werden. Den
+7. August war Lovén wieder in Hammerfest. Seine kurze aber lehrreiche Reise ist
+die erste, welche von Schweden aus lediglich im wissenschaftlichen Interesse
+nach dem arktischen Norden unternommen worden ist.
+
+Die französische Regierung schickte im folgenden Jahre 1838 auf der Corvette La
+Recherche, Capitän Favre, unter Leitung von P. Gaimard, eine wissenschaftliche
+Commission nach dem Norden, an welcher Bravais, Martins, Lottin, Marmier und
+einige skandinavische Naturforscher Theil nahmen; von Schweden: C. J. Sundevall,
+C. B. Lilliehök, P. A. Siljeström und Graf Ulrik Gyldenstolpe; von Norwegen:
+Chr. Boeck; von Dänemark: Kröyer und Vahl. Die Recherche besuchte in diesem
+Jahre den Bellsund und im folgenden die Magdalenen-Bai. Das über diese Reise
+herausgegebene Prachtwerk ist allerdings nicht zum Abschlusse gelangt. Es
+enthält außer vortrefflichen Ansichten der besuchten Gegenden, wichtige
+meteorologische und physikalische Beobachtungen und eine große Zahl
+naturhistorischer Abbildungen, welche zum größten Theile unter der Leitung der
+dänischen und norwegischen Naturforscher ausgeführt sind.
+
+Im Jahre 1858 besuchte O. Torell Spitzbergen. Er rüstete in Hammerfest, auf
+seine Kosten, die Yacht Frithjof von 19½ Lasten aus und fuhr am 3. Juni in
+Begleitung von A. E. Nordenskiöld und A. Quennerstedt und dem Fischer Anders
+Jakobsson ab. Sie hatten günstigen Wind bis auf einige Meilen südlich von
+Bären-Eiland, sodann mit Gegenwind zu kämpfen und kamen in's Treibeis, welches
+die Insel unzugänglich machte. Eine ganze Woche lang kreuzten sie nun im Eise,
+einmal bis 30 Meilen westlich vom Bellsund, bis es ihnen gelang, das sich einige
+Meilen vom Lande hinziehende Eisband zu durchbrechen. Den 18. Juni erreichten
+sie den Hornsund, und nahmen mit Verwunderung wahr, wie das weiße Winterkleid
+der Holme und Berge unglaublich schnell verschwand. Es wurden nach allen Seiten
+Ausflüge unternommen, die geologischen Verhältnisse studirt, die Gletscher
+bestiegen, die Moränen untersucht. Zugleich „dreggte“ man mit vielem Erfolge in
+verschiedenen Tiefen, sogar bis auf hundert Faden. Am 28. segelten sie zum
+Bellsund und warfen am folgenden Tage bei Midterhuk Anker. Hier gab der
+Bodenkratzer wiederum reiche Ausbeute. Es wurden Vögel und Säugethiere
+geschossen und präparirt, eine Tertiärbildung mit Pflanzenabdrücken entdeckt,
+Pflanzen, besonders Moose und Flechten, gesammelt. Am 6. Juli verließen sie
+diesen Platz, um nach Norden zu fahren. Aber Windstille und Gegenwind zwangen
+sie, wieder in denselben Fjord einzulaufen. Nordenskiöld fand hier mächtige
+Schichten von Kalk und Kieselschiefer, reich an Versteinerungen der Arten
+Productus und Spirifer, welche er daher der Steinkohlenformation zuzählte. Diese
+verticalen Schichten waren wiederum mit beinahe wagrechten Lagen derselben
+tertiären Bildung mit Blattabdrücken, welche er bei Midterhuk beobachtet hatte,
+bedeckt. Am 24. Juli gingen sie wieder unter Segel und warfen am 28. in
+Green-Harbour Anker. Sie untersuchten den Eisfjord bis zum 2. August und
+steuerten dann nach Norden. Den 4. befanden sie sich beim Amsterdam-Eiland, den
+7. in einem andern Hafen zwischen der Norskö und Cloven Cliff, den 10. in der
+Magdalenen-Bai, den 13. in der Englischen, den 16. in der Advent-Bai im
+Eisfjord. Hier verweilten sie bis zum 22., fuhren dann in der Absicht ab, die
+„Tausend Inseln“ zu erreichen, wurden aber durch einen Sturm aus Osten
+gezwungen, ihren Cours nach Hammerfest zu richten, wo sie am 28. mit reicher
+wissenschaftlicher Ausbeute anlangten.
+
+In den letzten Jahren haben auch englische Touristen ihren Weg nach Spitzbergen
+gefunden. Lord Dufferin machte 1856 einen Ausflug zu seiner Westküste; James
+Lamont jagte hier in den Sommern 1858 und 1859. Die Reise des Letzteren galt der
+bis dahin so gut wie unbekannten Ostküste von Stans Vorland und dem Storfjord,
+welche Gegend er in seiner werthvollen Arbeit „Seasons with the seahorses“
+geschildert hat. Zuletzt, und zwar im Jahre 1864, wurde Spitzbergen von Al.
+Newton und Birckbeck besucht, um ornithologische Studien zu machen. — —
+
+Diese Aneinanderreihung wechselvoller Bestrebungen der Menschen ist es, was wir
+die Geschichte Spitzbergens nennen.
+
+Erst trat die rohe Gier auf den Schauplatz, welche um des Gewinnes willen die
+Geschöpfe schonungslos vernichtete, die gewaltigen Walfische ausrottete und dann
+die schwächern Thieren anfiel. Aber in ihre blutige Spur trat die Wissenschaft;
+willige Hände gaben sich ihren friedlichen Arbeiten hin, und die einzelnen
+Völker trugen wetteifernd zur Untersuchung von Fragen bei, deren Lösung
+wahrscheinlich niemals irgend einen praktischen „Nutzen“ im Gefolge haben wird.
+
+:::: { .wrap-70 .caption }
+![Bohne von Entada gigalobiuam.](Die_schwedischen_Expeditionen_364.jpg "Bohne von Entada gigalobiuam."){#b364}
+::::
+
+Es ist ein milder von Süden kommender Meeresstrom, dem sowohl die Gewinnlust,
+als auch der Forschungseifer ihre besten Resultate verdanken. Aus dem
+mexikanischen Busen, seiner Quelle gleichsam, fließt der Golfstrom an Florida
+vorbei, mit einer Schnelligkeit von vier englischen Meilen in der Stunde, ein
+8,000 Fuß tiefer, 60 englische Meilen breiter Fluß im Meere, durch sein blaues
+Wasser und seine höhere Temperatur von dem grünlichen und kalten Wasser, das
+seine Ufer und sein Bette bildet, unterschieden. So läuft er längs der Küste
+Nordamerikas und wendet sich dann nach Osten, um Millionen Quadratmeilen des
+Atlantischen Oceans zwischen Islands und Norwegens Küsten, denen er noch bis
+nach Vardö folgt, zu bedecken. Seine letzten Spuren erkennt man selbst noch bei
+Novaja Semlja. Die Seethiere, sowie jede Pflanze, jedes Geschöpf, welches ein
+von diesem Strome bespültes Land bewohnt, fühlen im Winter den Einfluß seiner
+belebenden Wärme. Er macht, daß Irland so grün, daß in England noch Heerden
+weiden, während in Amerika unter demselben Breitengrade der Boden gefroren ist;
+daß auf der ganzen Erde kein Land zu finden, welches bei gleicher Entfernung von
+dem Aequator ein so mildes Klima hat als Norwegen, wo die Gerste noch unter dem
+70. Grade reift; daß das Meer westlich von Spitzbergen — „the“ whalers bight“
+(der Walfischfänger Bucht) — den ganzen Sommer über eisfrei bleibt. Wir haben
+gesehen, wie unsere Schiffe oft Streifen seines blauen Wassers durchschnitten,
+wie sich seine höhere Temperatur noch an dem Nordende der Heenloopen Straße
+geltend machte. Und wie er zu den Küsten Norwegens Cocosnüsse und andere Früchte
+aus dem warmen Amerika bringt, so giebt er auch an den nördlichsten Strandebenen
+Spitzbergens sein Dasein und seinen südlichen Ursprung zu erkennen, indem er
+hier, außer Fischergeräthschaften von Norwegen und Bimsstein von Island, die
+Frucht von Entada gigalobium, ein Schotengewächs mit drei Fuß langen Hülsen, das
+in Westindien an den Bäumen hinaufklettert, niederlegt. Eine solche Bohne in
+ihrer natürlichen Größe, dieselbe, welche Torell bei Shoal Point gefunden, haben
+wir hier abgebildet. Hierbei darf wohl angeführt werden, daß — nach Decandolle —
+eine solche unter dem ältesten Kastanienbaum zu Paris gefundene Bohne, wieder
+eingepflanzt, keimte und wuchs, und daß eine andere, die sich jetzt im
+Reichsmuseum zu Stockholm befindet, in einem Torfbruch bei Tjörn in Bohuslän, 30
+Fuß über dem Meere, aufgegraben wurde.
+
+:::
+
+
+:::: align-center
+****
+::::
 
 
 #### **Anmerkungen** {.break-before .unnumbered}
@@ -10308,3 +11988,7 @@ G. de V. S. 74. 75.]{.footnote}
 [^0600]: [Barrow, Voyages of Discovery and Researches within the arctic Regions. Pag. 313.]{.footnote}
 
 [^1000]: [Vergl. Runeberg, Fähnrich Staͤl's Erzählungen.]{.footnote}
+
+[^1600]: [D. h. Spitzbergen.]{.footnote}
+
+[^1601]: [Die schwedische Expedition unter Nordenskiöld gelangte 1868 mit dem Schraubendampfer Sophia bis 81° 42´, Parry zu Schlitten bis 82° 45´.]{.footnote}
