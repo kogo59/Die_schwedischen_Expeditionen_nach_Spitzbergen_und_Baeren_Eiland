@@ -1,3 +1,8 @@
+:::: { .fs-jumbo .break-after .align-center }
+<br /><br /><br /><br /><br /><br /><br />
+1861
+::::
+
 # Expedition von 1861 unter Torell's Leitung. {#erstes .unnumbered}
 
 ## <small>Erstes Kapitel.</small><br /> Von Tromsö bis Bären-Eiland. 
@@ -11950,6 +11955,423 @@ Fuß über dem Meere, aufgegraben wurde.
 
 :::
 
+:::: align-center
+****
+::::
+
+## <small>Siebenzehntes Kapitel.</small><br /> Rückkehr nach Norwegen.
+
+::: justified
+
+:::: fs-xs
+Das Leben der Meerestiefe. — Grenze des thierischen Lebens. — Untersuchungen bei
+Island und Sicilien. — Torell in Grönland. — Neuer Bodenkratzer. —
+Bulldogmaschine. — Verschiedene Tiefenmessungen. — Ueberraschendes Resultat. —
+Uebereinstimmungen. — Abschied von Spitzbergen. — Temperaturen. — Erste
+„Europäer“. — Tromsö. — Ankunft und Trennung. — Danskö.
+<br /><br />
+::::
+
+Unsere Reise nähert sich ihrem Ende. Die länger werdenden Nächte gemahnten uns,
+daß der Herbst mit schnellen Schritten nahe, und daß es Zeit sei an die Rückkehr
+zu denken. Unsere Schiffe wurden daher zu diesem Zwecke ausgerüstet, Wasser und
+Ballast eingenommen. Mittlerweile waren die Dreggboote noch im Gange. Wir
+erfreuten uns hier zum ersten Male an dem rothen Schnee, der eigenthümlichen
+Alge Haematococcus nivalis, welche auf älterem Schnee gedeiht und dessen
+Oberfläche eine schöne rosa, zuweilen auch eine scharlachrothe Farbe verleiht,
+welche man indessen nicht mit einer ganz ähnlichen Farbe, die ihren Ursprung in
+verwittertem, eisenhaltigem Gestein oder den fast blutrothen Excrementen der
+Rotjes — Mergulus Alle — hat, verwechseln darf.
+
+Als der Wind am 12. September nach Nordosten herumging, machten wir uns bereit.
+Es wurden alle noch am Lande befindlichen Sachen an Bord gebracht und die Anker
+gelichtet. Um 6½ Uhr stach Aeolus, eine Stunde später Magdalena in See. Bald
+aber wandte sich der Wind wieder nach Südwesten, während die Strömung nach
+Nordosten ging. Wir wurden bis zum Amsterdam-Eiland zurückgetrieben und kamen
+nicht von der Stelle. Dieses war um so unangenehmer, als wir bei Bären-Eiland zu
+landen und daselbst die Bodenkratzer auszuwerfen beabsichtigten. Am 14. wehte
+der Wind wieder aus Norden. Mittags observirten wir 79° 3´. nördl. Br. und
+ungefähr 8° östl. L. Während der Nacht hatte es geschneit, die Temperatur
+schwankte zwischen —1,7° C. und —2,5° C., Schneewetter und Nebel wechselten den
+ganzen Tag über mit einander ab, und das Schiffsdeck konnte nur mit Mühe vom
+Schnee frei erhalten werden. Während der beiden folgenden Tage hielt dieses
+Wetter an. Den 16. Mittags observirten wir 77° 53´ nördl. Br. Prinz Charles
+Vorland mit seinen in Nebel gehüllten Bergen lag also bereits hinter uns.
+
+Bis dahin hatten wir uns nur über solchen Tiefen befunden, welche von unseren
+Zoologen schon vielfach untersucht worden waren; nunmehr wurde das Meer aber so
+tief, daß wir eine Messung vorzunehmen beschlossen. Von unseren
+wissenschaftlichen Arbeiten hatten wir diese immer für eine der wichtigsten
+erachtet, weil sie uns einen Aufschluß über das Vorkommen des organischen Lebens
+in großen Meerestiefen versprach.
+
+An der Oberfläche des Meeres scheiden sich zwei Welten lebender Wesen. Die eine
+wohnt darüber und athmet die atmosphärische Luft, die andere darunter und athmet
+dieselbe Luft, so weit sie im Wasser eingeschlossen ist. Wenn wir vom
+Meeresstrande zu unseren Gebirgen aufsteigen, so durchwandern wir verschiedene
+sehr ungleiche Vegetationsgürtel: die von Kiefern, Birken und Weiden gebildeten
+Wälder, bis zuletzt nur noch die unvollkommensten Pflanzen vorkommen und wenige
+Thierarten. Die Erhebung des Landes setzt also den Bedingungen für Leben und
+Existenz eine Schranke. Man fragt sich nun mit Recht: Wie verhält es sich im
+Meere? Wo ist der Punkt, wo die Tiefe, da das Leben ebenso erstirbt, wie auf den
+höchsten Berggipfeln? Und in der That, wie auf dem festen Lande die einzelnen
+Regionen sich ablösen, so ist es auch im Meere. Dem flachen Ufer mit seinen
+Tangarten, seinen eigenthümlichen Muscheln und Schnecken, Crustaceen und anderen
+Seethieren folgt der großblättrige Gürtel der Laminarien, davon ein Drittheil
+bis zu einer Tiefe von ungefähr 120 Fuß geht. Jede folgende Tiefenstufe kann man
+als die Heimath einer mehr oder weniger eigenthümlichen Fauna betrachten.
+Hierbei ist aber zugleich die Beschaffenheit des Bodens selber von großer
+Bedeutung. Ein felsiger und sandiger Boden hat ganz andere Bewohner als der
+Thongrund. Aus unorganischen Stoffen bestehend, welche zum großen Theile von dem
+nahen Lande aufgeschwemmt worden, wird dieser Thon umgearbeitet und verfeinert
+von den unzähligen Thieren, Mollusken, Würmern, Echinodermen u. a., welche ihn
+gleichsam durchpflügen, ihn fortwährend in sich schlucken und von sich geben,
+nachdem sie sich den darin befindlichen Inhalt von organischen Stoffen
+angeeignet haben. Von dieser Art ist der Boden unserer Meere fast überall, und
+dieser Thon, — je tiefer und je weiter vom Lande, desto feiner — scheint den
+größten Theil des Meergrundes zwischen den aufsteigenden Felsen zu bedecken.
+
+Man hat mit großer Genauigkeit Alles untersucht, was aus den verschiedenen
+Tiefen des Meeres zu Tage gefördert ist. An der Westküste Norwegens, in dessen
+tiefen Fjorden und in der Nordsee, weit vom Lande, giebt es längst bekannte
+Stellen, wo der Fischer mit seinen Geräthen nicht selten aus einer Tiefe von
+1,200 bis 1,800 Fuß große Korallen — Oculina —, große Büsche von Gorgonia
+lepadifera und das mannshohe Aleyonium arboreum heraufholt. Auf den Aesten
+dieses Strahlenthieres leben aber Actinien, Bryozoen, Mollusken, Würmer und
+Echinodermen. Der bekannte Polarfahrer Sir John Roß erzählt, daß, als er in der
+Baffins-Bai mit seiner „deep-sea-clam“ lothete, aus einer Tiefe von 6,000 Fuß
+„correctly“ den Meeresboden heraufholte, welcher aus feinem Thon und Würmern
+bestand, und daß sich an der Leine, bei 4,800 Fuß Tiefe, ein Astrophyton von
+zwei Fuß Länge eingeschnürt befand, ein anderes Mal aber ein kleiner Seestern.
+Aber nicht blos Thiere von niedriger Organisation leben in dieser Tiefe. In
+Grönland fischen die Eskimos bei mehr als 2,000 Fuß eine Art Flunder,
+Pleuronectes pinguis; in Norwegen fängt man den Königsfisch, und im
+Mittelländischen Meere einen Lepidoleprus bei kaum geringerer Tiefe. Man muß
+sich daher mit Recht darüber verwundern, daß man einst geneigt war, die Grenze
+des thierischen Lebens nach der Tiefe schon bei 1,800 Fuß anzunehmen. Die des
+Pflanzenlebens befindet sich allerdings viel weiter nach oben.
+
+In neueren Zeiten hat man an verschiedenen Stellen des Oceans mit wechselndem
+Erfolge den Versuch gemacht, Proben aus der Tiefe heraufzuholen. Die meisten
+davon sind Ehrenberg zur Untersuchung übergeben. Außer einem unbedeutenden
+Bestandtheile unorganischer Stoffe bildete stets das mikroskopische Leben,
+unendlich kleine Rhizopoden — ein Neuntel oder Zehntel des Ganzen — kalkschalige
+Polythalamien und kieselgepanzerte Radiolarien, die Hauptmasse. So waren auch
+die Proben beschaffen, welche man bei der ersten Untersuchung des atlantischen
+Meeresgrundes — vor Legung des Kabels — aus einer Tiefe von 14- bis 15,000 Fuß
+heraufbrachte. Wir dürfen jetzt aber als festgestellt ansehen, daß die
+Radiolarien, deren mikroskopische Skelete in den größten Tiefen den
+Hauptbestandtheil der Bodenmasse bilden, nicht dort gelebt haben, sondern nur
+hinabgesunken oder von den Strömungen fortgeführt worden sind.
+
+Bis zum Jahre 1860 waren dieses die einzigen brauchbaren Nachrichten, welche wir
+über die aus größeren Tiefen heraufgeholten Organismen besaßen. Damals wurde
+eine neue Untersuchung des nordatlantischen Bettes vorgenommen, von M'Clintock
+als Leiter und Wallich als Naturforscher, und die Tiefenmessung mit äußerster
+Sorgfalt angestellt. Man fand, wie früher, daß die Masse des Bodens aus
+Polythalamien und Radiolarien bestand; aber im Südosten von Island, in 60°
+nördl. Br. hatten sich aus einer Tiefe von 7,500 Fuß einige Seesterne — Ophicoma
+granulata — an die Leine gehängt; aus 4,100 Fuß folgten zwei Aneliden: Serpula
+vitrea und Spirorbis nautiloides mit. Wenn diese Artbestimmung richtig ist, so
+gehörten also sonderbarer Weise diese aus so großer Tiefe heraufgeholten Thiere
+zu den litoralen, die ihre Wohnstatt in dem oberen Meeresgürtel aufgeschlagen
+haben. Es hat aber der norwegische Zoologe Sars diese Angaben geprüft und
+gefunden, daß der Seestern, aller Wahrscheinlichkeit nach, Ophiacantha spinulosa
+gewesen, ein in der Tiefe lebendes Thier, welches Torell bei Grönland aus 1,500
+Fuß heraufholte, und Goëss und Smitt in der Kings-Bai aus 1,200 Fuß Tiefe; daß
+Wallich's Serpula vitrea vermuthlich Placostegus politus sei, eine
+Tiefwasserart, auch fügt er hinzu, daß Spirorbis nautiloides, welche an der
+Meeresküste lebt, in Norwegen in einer Tiefe von 1,800 Fuß gefunden ist.
+
+Im Jahre 1861 untersuchte Milne Edwards der jüngere ein Ende des
+Telegraphenkabels, welches zwei Jahre vorher zwischen Sicilien und Algier gelegt
+worden. Es war aus einer Tiefe von 6,700 bis 7,500 Fuß aufgenommen. Mit ihm
+kamen herauf: eine vollkommen festgewachsene Ostraea cochlear von 2 Decimalzoll,
+ein Pecten opercularis, var. Audouini, ein Pecten Testae, zwei Schnecken:
+Monodonta limbata und Fusus lamellosus; kleine Korallen Caryophyllia und
+Gorgonia, eine Serpula, eine Art von Bryozoa. Das Vorkommen von Pecten
+opercularis in so großer Tiefe ist allerdings auffallend. Doch muß man nicht
+übersehen, daß beide Fundstellen, bei Island und bei Sicilien, sich in einem
+vulkanischen Gebiete befinden, wo erhebliche Hebungen und Senkungen der festen
+Erdoberfläche bekannt, oder doch mindestens wahrscheinlich sind.
+
+Als unsere Expedition vorbreitet und ausgeführt wurde, waren die vorstehenden
+Angaben so ziemlich die einzigen, welche man in Betreff des Lebens in großen
+Meerestiefen kannte. Die Bedeutung der Frage liegt auf der Hand. Die von uns
+vorzunehmenden Untersuchungen waren von Torell daher auch lange und mit großer
+Umsicht vorbereitet. Schon während seiner letzten Reise nach Grönland hatte
+Torell in 1,500 bis 1,700 Fuß Tiefe, und zwar in den Mündungen der Eisfjorde von
+Omenak und Upernavik, den Boden untersucht. Diese Fjorde, so sagt er in seinem
+Reisebericht, befinden sich vor dem mächtigen Binneneise, welches in dieselben
+abfließt; der Meeresgrund besteht aus dem feinsten Thon, dem durch die Bewegung
+der Gletscher zerriebenen Gestein, einer Art Mehl, welches theils von den
+Gletscherbächen, theils von den damit bedeckten Eisstücken in's Meer geführt
+wird. Die aus der Tiefe heraufgeholte Fauna fand er so reich, daß keine Abnahme
+in Betreff der Abnahme zu merken war. Sie umfaßte die verschiedensten Arten der
+wirbellosen Thiere. Er beobachtete sogar, daß bei Omenak und Upernavik zwei nach
+ihren Arten ganz verschiedene Faunen, in derselben Tiefe und in einem Boden,
+welcher seiner äußeren Bildung nach kaum irgend einen Unterschied erkennen ließ,
+vorkamen. Er erkannte aber zugleich, daß die bis dahin übliche Art, Thiere aus
+so großer Tiefe heraufzuschaffen, mit allzu großen Schwierigkeiten verbunden
+sei. Man brauchte damals zwei Boote mit zehn Mann, um den Bodenkratzer
+heraufzuholen. Offenbar mußte man die Sache anders angreifen. Torell erfand
+einen leichten kleinen Bodenkratzer, an welchen zwei Kanonenkugeln oder andere
+Gewichte in der Art befestigt wurden, daß sie beim Berühren des Bodens abfielen,
+infolge dessen man eine weit geringere Last heraufzuziehen hatte. Es war eine
+Modification des Apparates von Brooke, welcher so eingerichtet ist, daß das
+senkende Gewicht, sobald es den Grund berührt, sich loslöst und abfällt. Die
+Leine aber, die so dünn sein kann, daß Hunderte von Faden nicht über ein Pfund
+wiegen, ist an einer eisernen Spindel befestigt, welche an ihrem Ende hohl ist
+und einen Theil des Bodens heraufbringt. So gering diese Masse auch immerhin
+sein mag, so gab sie doch sehr genaue Aufschlüsse über den Zustand des
+Meeresgrundes, indem sie darlegte, daß der Boden des nordatlantischen Oceanes in
+einer Tiefe von ungefähr 12,000 Fuß in weiter Ausdehnung aus den Schalen der
+Rhizopoden besteht. Man kann nicht daran denken, größere Thiere mit diesem
+Apparate heraufzuholen. M'Clintock setzte daher einen andern, größeren zusammen,
+welchen er nach seinem Schiffe Bulldogmaschine benannte. Torell brachte von ihr
+eine ausreichende Zeichnung nach Tromsö mit, und Chydenius übernahm es, mit
+Hülfe eines dortigen geschickten Schmieds, Häggbom, eine solche zu construiren.
+Zugleich wurden mancherlei Verbesserungen angebracht. Die Schöpfer, welche
+infolge einer starken Feder mit großer Kraft zusammenschlugen, waren so groß,
+daß sie auseinander gelegt einen Flächenraum von 20,~61~ Quadratdezimalzollen
+bedeckten und 64,~07~ Kubikzolle enthielten. Sie war erheblich leichter als die
+ursprüngliche Bulldogmaschine, und die daran befindlichen Kugeln senkten sie
+sehr schnell; je weiter nach unten, desto schneller, indem das Wasser während
+der Senkung bald alle Zwischenräume der Leine durchdringt. Hatte sie die größte
+Tiefe erreicht, so war sie so leicht, daß ein einziger Mann sie mit seinen
+Händen heraufzuholen vermochte. Torell hatte aber überdies für zwei Winden
+gesorgt, welche man im Boote befestigen konnte. Als wir das erste Mal mit
+Brooke's Apparat und darauf mit unserer Bulldogmaschine lotheten, stimmten die
+Resultate in Ansehung der Tiefe so genau überein, daß der äußerst geringe
+Unterschied sich auch aus der ungleichen Tiefe des Meeresgrundes erklären ließ,
+indem das Boot während der längeren Dauer dieser Messungen seine Stelle ganz von
+selbst wechselte. Auch Brooke's Apparat war in Tromsö gearbeitet und hatte
+einige Veränderungen erfahren. Die Leine daran bestand aus dreien Enden von
+ungleicher Dicke, zusammen etwa 15,000 Fuß lang. Die erforderlichen Kugeln und
+Bomben hatten wir durch des Staatsraths Motzfeldt gütige Vermittelung in
+Drontheim erhalten. So war denn Alles in bester Ordnung, um Thiere aus der
+größtmöglichen Tiefe des Meeres heraufzubringen.
+
+Wir haben schon im zweiten Kapitel von den Messungen gehandelt, welche am 17.
+und 18. Mai in einer Tiefe von 6- bis 8000 Fuß ausgeführt wurden. Die Apparate
+erwiesen sich als durchaus brauchbar und gaben die Tiefen sehr genau an. Wir
+wünschten nunmehr den Versuch zu wiederholen. Am 16. September, in 77° 46´
+nördl. Br. und 10° 32´ östl. L. zeigte sich das Wetter ziemlich günstig;
+Chydenius ging daher in einem Boote vom Aeolus auf die Tiefenmessung aus. Zuerst
+kam Brooke's Apparat zur Anwendung. Das Boot wurde in allen Fällen mit seinem
+Ankerende, von welchem der Apparat gesenkt wurde, gegen den Wind gestellt, damit
+man, wenn eine kommende Woge das Boot hob, die Leine schneller abwinden und
+dadurch die Gefahr des Zerreißens vermeiden konnte. Man hielt auch mit den
+Rudern immer gegen den Wind, so daß die Leine stets senkrecht ablief. Zwei bis
+drei Mann waren hiermit beschäftigt, während einer auf die Winde sah, und
+Chydenius mit einem vierten das Einsenken selbst beförderte und überwachte. Die
+ersten hundert Faden mußten immer ganz langsam abgewickelt werden, weil sich
+sonst leicht Schlingen bilden konnten. Bei unseren früheren Versuchen in Tromsö
+und bei Spitzbergen waren wir schon darauf aufmerksam geworden, und hatten auch
+gelernt augenblicklich zu erkennen, wenn der Apparat den Boden berührte. Sein
+Gewicht wurde leichter; ja sogar die Ruderer im Boote merkten es sofort, nachdem
+sie ein paarmal bei einer solchen Messung zugegen gewesen waren. Brooke's
+Apparat wurde von 2 oder 3 Mann mit den Händen heraufgezogen, die
+Bulldogmaschine aber mittels einer Winde.
+
+Wir erreichten den Boden mit Brooke's Apparat das erste Mal bei 3,600 Fuß; aber
+beim Heraufziehen riß die Leine und der Apparat sammt etwa 100 Faden Leine ging
+verloren. Nun wurden zwei Kugeln am Kratzer so befestigt, daß sie bei der
+Berührung des Bodens abfallen mußten. Er kam glücklich herauf, aber der Boden
+bestand aus kleinen Steinen und Sand, war also arm an Thieren, obwohl ein paar
+Fragmente von Bryozoen sich dabei befanden.
+
+Ein frischer Ostnordostwind führte uns nun so schnell nach Süden, daß Aeolus am
+17. Mittags sich in 76° 43´ nördl. Br. und 130 15 östl. L. befand. Da Wind und
+See sich etwas abstillten, so legte Aeolus um sechs Uhr Nachmittags bei, und
+Chydenius erreichte den Boden auf 6,000 Fuß Tiefe mit einem andern Brooke'schen
+Apparat. Beim Heraufholen ging aber auch dieser verloren, und die einbrechende
+Dunkelheit schnitt alle weiteren Versuche ab. In der Nacht legten wir daher
+wieder bei, um uns nicht von der Stelle zu entfernen, und am Morgen des 18. ging
+Chydenius von Neuem aus. Wir befanden uns in 76° 17´ 12“ nördl. Br. und 13° 53´
+54“ östl. L. und die Tiefe betrug 8400 Fuß. Die Bulldogmaschine kam herauf, die
+Schöpfer so gefüllt, daß sie sich nicht vollkommen schließen konnten. Torell
+untersuchte sofort die Temperatur der darin enthaltenen feinen Masse. Sie betrug
+in der Mitte +0,3° C., an der Oberfläche des Schöpfers aber +0,8° C. Die
+Temperatur des Meeres war +5°, die der Luft +0,6° C. Das Heraufwinden hatte zwei
+und eine halbe Stunde gedauert. Man darf hiernach annehmen, daß die Temperatur
+des Grundes +0,3° oder etwas niedriger gewesen; und diese Beobachtung ist
+wahrscheinlich zuverlässiger als irgend eine andere, welche vorher in so großer
+Tiefe gemacht worden, indem die Bestimmungen mit Sir' Thermometer an einer sehr
+großen Unsicherheit leiden.
+
+In dieser erheblichen Tiefe, wo die Temperatur fast unverändert dem
+Gefrierpunkte nahe bleibt; wo keine andere Bewegung des Meeres sich geltend
+macht, als die Strömung von den Polen zum Aequator; wo das Wasser mit dem
+zweihundertfachen Druck der Atmosphäre auf jeden Punkt wirkt; wo das Licht
+verschwunden, der Luft- und Salzgehalt des Wassers aber wahrscheinlich derselbe
+ist wie an der Oberfläche des Meeres: hier fand man in den paar Quadratzollen
+des Bodens, welchen die Schöpfer berührten, eine so große und formenreiche Zahl
+von Thieren, wie man sie sonst nur in geringeren Tiefen anzutreffen wähnen
+möchte. Es zeigte sich, daß der Boden des nördlichen Eismeeres, so tief unter
+der Oberfläche des Meeres als die höchsten Bergspitzen Norwegens sich darüber
+erheben, mit einem feinen, fettig anzufühlenden, gelblichbraunen oder grauen
+Sediment bedeckt ist, welches außer einigen kleinen Steinfragmenten und
+Sandkörnern aus den sehr fein vertheilten Ueberresten mikroskopischer
+Schalenthierchen — Polhythalamien — besteht, oder aus Kieseltheilen von
+Radiolarien, Diatomeen und Spongien. Ein Durchschnitt der heraufgeholten, 64
+Kubikzoll enthaltenden Masse zeigte fünf Schichten von verschiedener Dicke, von
+2 bis herunter zu ⅓ Zoll, deutlich durch ungleiche Farben von einander
+unterschieden; vielleicht ein Zeichen, daß hier ein Wechsel in den Bewegungen
+und anderen Verhältnissen stattgefunden hat, welche die Gesetze der Ablagerungen
+und vielleicht auch die Lebensbedingungen bestimmt haben. In dieser Masse lebten
+Radiolarien und zahlreiche Polythalamien, unter ihnen mehrere große und kräftige
+Formen von Globigerina, Biloculina, Dentalina, Nonionina; von Aneliden ein
+Spiochaetopterus und ein Cirratulus; von Crustaceen eine Cuma rubicunda
+Liljeborg; ein Apseudes; von Mollusken ein Cylichna; von Holothurien ein
+Fragment von Myriotrochus Rinki Steenstrup, nebst einer andern verwandten Form,
+welche ein neues Geschlecht zu bilden scheint; von Gephyreen ein Sipunculus,
+ähnlich dem S. margaritaceus Sars; zuletzt eine Spongia, in welcher drei Arten
+von Crustaceen gefunden wurden.
+
+Professor Lovén äußert über diese Thiere, daß sie zwar einen hochnordischen
+Charakter haben, sich aber durch keine besonders hervorstechenden
+Eigenthümlichkeiten auszeichnen, und daß — so weit man nach einer so kleinen
+Zahl urtheilen kann — in der bedeutenden Tiefe dieses Eismeeres eine Fauna lebt,
+welche sich von der in weit geringeren Tiefen vorkommenden nicht wesentlich
+unterscheidet. Steigt man dagegen bei unseren Küsten von 50 bis 60 Faden zum
+Strande auf, so wird man einen viel größeren Reichthum und mehr Mannigfaltigkeit
+wahrnehmen, auch wo der Boden im Uebrigen ganz dasselbe Gepräge hat. Erinnert
+man sich hierbei, daß in dem südlichen Eismeere Formen von Mollusken und
+Crustaceen auftreten, welche theils eine generelle Uebereinstimmung, theils eine
+beinahe specifische Gleichheit mit den nordischen und hochnordischen Formen
+verrathen, so gelangt man wohl zu der Vorstellung, daß in einer Tiefe von 60 und
+80 Faden und weiter bis zu den größten, in welchen wir bis jetzt das organische
+Leben kennen gelernt haben, mindestens überall, wo der Boden mit dem feinen
+Schlamm bedeckt ist, den man unter der allgemeinen Bezeichnung Thon begreift, —
+daß überall, von Pol zu Pol, unter allen Breitengraden, eine Fauna von demselben
+gemeinsamen Charakter vorherrscht, und daß in ihr einige Arten eine besonders
+große Verbreitung haben. Vielleicht wird man erkennen, daß diese Fauna, je näher
+den Polen, desto mehr sich der Oberfläche des Meeres nähert, während sie sich in
+wärmeren Regionen tiefer hält, immer aber an den Küsten eine reiche, wenn auch
+ihrem Gebiete nach mehr beschränkte Fauna über sich hat. Woodward, welcher die
+in Westindien von Barrett aus großen Tiefen heraufgeholten Thiere verglichen und
+untersucht hat, fand, daß sie einen hochnordischen Charakter hätten. Wie auf dem
+Lande die Alpenvegetation und die Fjeldfauna noch in den Polargegenden
+vorkommen, aber hier bis zur Oberfläche des Meeres niedersteigen, so dürfte auch
+die Fauna der Meerestiefe sich nach den Polen hin ausbreiten und zu den Küsten
+hin aufsteigen, während die zahlreichen Thiere und Pflanzen, welche in wärmeren
+Gegenden die Ebenen und Hügelländer, und diejenigen, welche nur die obersten
+oder nicht sehr tiefen Regionen des Meeres bewohnen, schon viel früher ihre
+nördliche Grenze erreichen. Wenn man aber unter den Thieren des antarktischen
+Meeres hochnordische Typen wieder erkennt, so scheint dieses darin seinen Grund
+zu haben, daß sie zu einer gemeinschaftlichen Fauna gehören, welche in dem
+atlantischen Ocean ihr von Pol zu Pol gehendes, mehr oder weniger
+zusammenhängendes Gebiet haben.
+
+Der Erfolg unserer Tiefmessungen weckte in uns Allen das lebhafte Verlangen nach
+einer Fortsetzung derselben. Aber der Wind war heftig und für die Weiterfahrt
+nach Süden sehr günstig, unser Wasservorrath gering, zumal wenn Gegenwind
+eintreten sollte: so beschloß Torell den Cours nach Tromsö zu richten.
+
+Während der Messungen hatten beide Schiffe einander aus dem Gesicht verloren, so
+daß jedes für sich allein die Weiterreise fortsetzte. Die Küsten Spitzbergens
+waren in den letzten Tagen allmählich unter den Horizont gesunken, wir
+erblickten rings um uns nur noch das weite Meer, und in mehr als einem Tagebuche
+wurden Abschiedsworte dem Lande gewidmet, „das uns so lieb geworden, wo wir so
+Vieles gesehen und gelernt; wo wir so oft, unter der Sonne des fast ein halbes
+Jahr langen Tages, den stillen, glücklichen Frieden der grünen Ebenen und Thäler
+und der spiegelklaren Fjorde, die erhabene Pracht der Schneeberge und Gletscher
+entzückt bewundert hatten; wo wir so tief das unnennbare Glück empfunden, die
+Grenze der bekannten Erde zu erreichen und zu überschreiten; wo die
+Voraussetzungen für das organische Leben kaum noch vorhanden und der Tod so
+gewaltig in den Vordergrund tritt; wo kein Mensch mehr geboren wird, und der
+Nordländer, wenn er mit offenem Auge sein eigenes Land beschaut, sich
+vergegenwärtigen kann, was es dereinst gewesen.“ —
+
+Nach dem 1. September hatten wir die Sonne nicht mehr über dem Horizonte
+gesehen; die Nächte wurden bereits dunkel; man brauchte Licht beim Kompaß und in
+der Cajüte. Der Himmel war anhaltend bewölkt, kein Stern zu erblicken. Auch die
+Temperatur hatte erheblich abgenommen; vom 14. bis zum 18. September stand der
+Thermometer nicht mehr über Null, zuweilen ein bis zwei Grade darunter. Das
+Feuer im Kamine mußte häufiger als sonst angezündet werden.
+
+Während der ganzen Fahrt bis zum 18. beobachteten wir unausgesetzt die
+Temperatur des Meeres. Nördlich von 78° nördl. Br. wechselte dieselbe zwischen
++4,~2~ und +0,~7~ C. Am 15. z. B. betrug sie 
+
+|||
+|---|---|
+|um 5 Uhr Morgens|+0,~7~° C.|
+|um 8 Uhr Morgens|+0,~8~° C.|
+|um 9 Uhr Morgens|+0,~6~° C.|
+|am Mittage| +1° C.|
+|um 3 Uhr Nachmittags|+1,~1~° C|
+|um 4 Uhr Nachmittags|+1,~6~° C|
+|um 5 Uhr Nachmittags|+4° C|
+|um 6 Uhr Nachmittags|+4,~2~° C|
+
+Während dieser Zeit fuhren wir zwischen 78° 31´ und 78° 18` nördl. Br. und 9°
+11´ und 9° 29´ östl. L. Innerhalb dieser Grenzen berührte also der warme Strom
+den kalten, das heißt das durch die Gletscher abgekühlte Wasser. Vom 78. Grade
+nördl. Br. bis zum 76. stieg die Temperatur nicht über +5° C.; auch hier kamen
+noch geringere Schwankungen vor. Bis zum 74. Grade war die Temperatur nicht über
++6,~4~° gestiegen, bis zum 71. nicht über +7°; die höchste Temperatur, bis wir
+Tromsö erreichten, betrug überhaupt +7,~4~° C.
+
+Von den fünf folgenden Tagen ist nicht viel zu berichten. Die Temperatur der
+Luft war anhaltend milde, zuweilen warm; am 19. starker Sturm, am 20. fast
+Stille und am 21. wieder heftiger Wind. Die Höhe von Bären-Eiland passirten wir
+während des Sturmes, und da er mit Nebel und Regen verbunden war, so konnten wir
+noch weniger daran denken, an dieser schwer zugänglichen Insel zu landen. Unter
+solchen Umständen war es nicht ohne Gefahr, sich Nachts der norwegischen Küste
+zu nähern. Wir befanden uns indessen am 22. bei Tagesgrauen einige Meilen von
+der westlichen Tromsöer Einfahrt durch den Qualsund und Mittags im Sunde selbst.
+Wir waren schon mehreren Booten begegnet und immer freudig auf Deck geeilt, um
+wieder — wie wir es nannten — Europäer zu sehen. Nordenskiöld, Malmgren und
+Chydenius gingen an's Land und erfreuten sich an den herrlichen Grasmatten, vor
+Allem aber an den Bäumen, welche — in ihrem vollen Grün — für uns ein Schauspiel
+waren, das wir ein ganzes Jahr lang entbehrt hatten. Nachdem wir uns an
+Früchten, frischen Kartoffeln und Milch erquickt hatten, mietheten wir uns ein
+kleines Boot, fuhren auf dem schönen, spiegelglatten, im Mondscheine
+zauberhaften Sunde in die milde Nacht hinein und setzten um Mitternacht unsern
+Fuß wieder auf den Kai Tromsös. Wir pochten unsere früheren Wirthsleute heraus,
+welche auch jetzt uns freundlich aufnahmen, wurden von ihnen auf das Herzlichste
+empfangen und mit Zeitungen, der besten von allen ihren Gaben, erfreut.
+
+Nachdem Aeolus im Qualsunde ein Ende weiter gekreuzt, wurden um 8 Uhr Abends die
+Bugsirboote ausgesetzt, der Strom half eine Weile mit, und um 6½ Uhr Morgens
+den 23. September lag der Schoner auf seinem alten Ankerplatze in Tromsö.
+
+Magdalena hatte sich nach unserer Trennung mehr nach Osten gewandt, um
+Bären-Eiland nicht zu verfehlen, wohin sie gehen sollte. Sie kam in das blaue
+Wasser des Südstromes. Den 19. hatte sie Sturm und Nebel, und man war nicht
+sicher, ob man sich östlich oder westlich von der Insel befinde, obwohl die
+Brandungen über den Bänken ihre Nähe verkündeten. Nach der Windstille am 20.
+wehte wieder guter Wind. Am Morgen des 22. erblickte man Sord bei Hammerfest,
+den 24. ging die Magdalena bei der Karlsö vor Anker, am 27. lag sie vor Tromsö.
+
+Unter den Ersten, die an Bord kamen, befanden sich zweie von den Capitänen, mit
+welchen wir die Gefangenschaft in der Treurenberg-Bai getheilt hatten, und es
+erfreute uns, mit ihnen noch einmal die Erinnerungen und Abenteuer der
+verflossenen Tage zu durchleben.
+
+Die Schiffe wurden ausgeladen und ihren Eigenthümern übergeben, die Mannschaften
+abgelohnt. Unsere gemeinschaftliche Arbeit war zu Ende. Mit dem lebhaftesten
+Gefühl des Dankes für die Vielen, welche in Tromsö uns wohlwollend und
+gastfreundlich empfangen und mit Rath und That beigestanden, und nicht weniger
+für die muthigen und energischen Männer, welche wir in dem Eismeere als Führer
+der norwegischen Spitzbergenschiffe kennen gelernt hatten, schickten wir uns
+wiederum an, die gastfreundliche Hauptstadt Finmarkens zu verlassen. Nur noch
+einmal versammelten wir uns, um den vortrefflichen Führern unserer Schiffe,
+Lilliehöök und Kuylenstjerna, ein herzliches Lebewohl zu sagen — und zerstreuten
+uns dann nach allen Weltgegenden. Torell und mehrere Andere kehrten über
+Drontheim und Christiania zurück; Nordenskiöld ging durch Lappland über
+Haparanda nach Stockholm; nur Goës und Malmgren blieben noch einige Zeit in
+Finmarken zurück, um zu sammeln. Es gab Niemand unter uns, der nicht mit
+Befriedigung auf unser gemeinsames Unternehmen zurück und, im Hinblick auf die
+gewonnenen wissenschaftlichen Resultate, freudig in die Zukunft geschaut hätte.
+
+:::: { .wrap-100 .caption }
+![Danskö (dänische Insel).](Die_schwedischen_Expeditionen_378.jpg "Danskö (dänische Insel)."){#b378}
+::::
+
+:::
 
 :::: align-center
 ****

@@ -30,7 +30,7 @@
 * [Westseite der Kingsbai](ch003.xhtml#b293)
 * [Sortepynt auf Prinz Charles Vorland.](ch003.xhtml#b315)
 * [Bohne von Entada gigalobiuam](ch003.xhtml#b365)
-* Danskö (dänische Insel)
+* [Danskö (dänische Insel)](ch003.xhtml#b378)
 * Axel Thordsen
 * Der „Balsfjording“ am Steuer
 * Beeren-Eiland (Karte)
