@@ -8,7 +8,7 @@
 * [Gletscher im Innern der Magdalenenbucht](ch003.xhtml#b268)
 * [Gletscher in der Croßbai](ch003.xhtml#b280)
 * [Scoresby's Grotte](ch003.xhtml#b292)
-* Das Burgemeisterthor auf Bären-Eiland.
+* [Das Burgemeisterthor auf Bären-Eiland](ch004.xhtml#b390)
 * Green-Harbour im Eisfjord
 
 ## In den Text gedruckte.
@@ -31,10 +31,10 @@
 * [Sortepynt auf Prinz Charles Vorland.](ch003.xhtml#b315)
 * [Bohne von Entada gigalobiuam](ch003.xhtml#b365)
 * [Danskö (dänische Insel)](ch003.xhtml#b378)
-* [Axel Thordsen](ch003.xhtml#b386)
-* [Der „Balsfjording“ am Steuer](ch003.xhtml#b388)
-* Beeren-Eiland (Karte)
-* Scoresby's Tonne
+* [Axel Thordsen](ch004.xhtml#b386)
+* [Der „Balsfjording“ am Steuer](ch004.xhtml#b388)
+* [Beeren-Eiland (Karte)](ch004.xhtml#b401)
+* [Scoresby's Tonne](ch004.xhtml#b402)
 * Safe Haven
 * Gletscher am Alkenhorne
 * Westküste des Storfjordes

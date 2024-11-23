@@ -248,4 +248,446 @@ Den 17. Morgens hatten wir Bären-Eiland in Sicht.
 :::
 
 
-[^2100]: [Hier wie später immer von Greenwich gerechnet.]{.footnote}
+## <small>Zweites Kapitel.</small><br /> Bären-Eiland.
+
+
+::: justified
+
+:::: fs-xs
+Die gefährliche Grotte. — Das Burgemeisterthor. — Die Russenhütte. — Gullholm. —
+Steile Küste. — Die Wassermarke. — Nochmalige Landung. — Die Insel. —
+Ueberwinterungen. — Gefahren einer Landung. — Das innere Plateau. — Geologie. —
+Kohlenlager. — Zweifelhafte Funde. — Mittlere Temperatur. — Klunge. — Keilhau's
+Mittheilungen.
+<br /><br />
+::::
+
+
+Als wir im Frühling und Vorsommer der Jahre 1858 und 1861 an Bären-Eiland
+vorüber fuhren, waren seine Küsten noch von dicht gepackten Treibeismassen
+gesperrt, bei der Rückkehr im Herbste aber wurde eine Landung wiederum durch
+Sturm und Nebel unmöglich gemacht. Wir hatten also bereits viermal diese Insel
+passirt, ohne sie auch nur einmal, wenngleich nur flüchtig, zu untersuchen.
+Jetzt lag Bären-Eiland zwar noch in seinem Winterkleide vor uns, aber das Meer
+ringsum erschien eisfrei. Wir waren auch bis dahin noch keinem Treibeise
+begegnet, woraus wir schließen durften, daß das „Frühjahrseis“ noch die
+Südküsten Spitzbergens umgebe, daß der Storfjord noch nicht zugänglich sei, und
+daß daher ein Aufenthalt von einigen Tagen an dieser so wenig bekannten und so
+selten erreichbaren Insel unserm Hauptziele, den Recognoscirungsarbeiten im
+Storfjord, keinen Abbruch thun werde.
+
+Wir beschlossen daher an's Land zu steigen und steuerten nach dem Südhafen der
+Insel. Der Wind war indessen so matt, daß wir erst am folgenden Tage, mehr von
+der Strömung als dem Winde getrieben, diesen Ankerplatz, — welcher zwar Südhafen
+genannt wird, die Bezeichnung eines Hafens aber durchaus nicht verdient, indem
+er nach Süden und Südosten vollkommen offen ist, — erreichten. Die in der Nähe
+befindlichen Ufer werden von senkrechten, rostbraunen Felswänden gebildet,
+damals zwar bereits schneefrei, aber dicht mit Vögeln und Vogelnestern bedeckt.
+Weiter nach dem Innern zu bis an den Fuß des gewaltigen Mount Misery erstreckte
+sich eine einzige Schneefläche. Der Himmel blickte klar und heiter; nur der
+Gipfel des Berges war von leichten graulichen Wolken umkränzt. Selbst die
+Oberfläche des Meeres erschien spiegelklar. Aber eine starke Dünung, welche
+lautlos an den Felswänden das Ufer in die Höhe schwoll, dann jedoch mit
+betäubendem Tosen zurückgeworfen wurde, zeugte noch von der Heftigkeit des
+letzten Sturmes. Die Polarwelt begrüßte uns hier also mit einem ihrer
+frischesten und herrlichsten Sommertage, ohne Nebel, Nacht und Qualm.
+
+Die arktische Munterkeit der Genossen ließ auch nicht lange auf sich warten. Die
+Leiden der Seekrankheit waren bei einer kräftigen Mahlzeit bald vergessen; es
+wurden drei Boote bemannt, wir schafften unsere Instrumente und Büchsen hinein
+und fuhren mit raschem Ruderschlage dem Lande zu. In der nächsten Nähe unseres
+Ankerplatzes waren die Strandklippen allerdings vollkommen unzugänglich, so daß
+wir, um eine geeignete Stelle zum Landen zu finden, ein gutes Ende weiter längs
+dem Strande zwischen ruinenartigen, zerbrochenen Felsen steuern mußten, an
+welchen sich die im Meere kaum erkennbare Dünung in gefährlichen Brandungen
+brach. An unzähligen Stellen waren diese Felsen von dem Wogenschwalle zu
+gigantischen Grotten und Gewölben ausgehöhlt, welche dem Ganzen das Aussehen
+einer ungeheuren, einst großen und mächtigen, jetzt in Ruinen liegenden Stadt
+verliehen. An dem Eingange der größten dieser Grotten lag das Meer beinahe still
+und schaumfrei da. Weiter nach innen machte das Licht einem mystischen
+Halbdunkel Platz, in welchem wir kolossale Gewölbe und endlose Pfeilerreihen zu
+erblicken glaubten. Es zog uns mit Zaubermacht hinein. Ein paar kräftige
+Ruderschläge, und wir waren im Eingange. Sofort schnellte aber eine aus dem
+Innern zurückgeworfene schäumende Woge das Boot so weit in die Höhe, daß wir
+beinahe mit unseren Köpfen an das Gewölbe stießen, und es fehlte wenig, so wäre
+das Boot umgestürzt, da die Welle sich eben so schnell wieder zurückzog, als sie
+gekommen. Einige Ellen weiter, und das Boot wäre unrettbar verloren gewesen.
+Auch hier erschien die Gefahr so drohend, daß wir uns so hastig als möglich
+zurückzogen. Eine zahlreiche Colonie von „Seepferden“, welche auf den
+Außenwänden der Grotte brüteten, zogen im nächsten Momente unsere Aufmerksamkeit
+auf sich, und die Bewunderung der großartigen Natur Bären-Eilands machte rasch
+einer durch diesen Anblick geweckten Jagd- oder besser Mordlust Platz. Indem der
+wissenschaftliche Drang dazu kam, erhob sich ein lebhaftes Schießen, welches
+sich zuvörderst gegen alles Lebendige, so weit es erreichbar, wandte, dann aber
+sich in der Verfolgung einer Schaar von Pracht-Eidergänsen concentrirte, welche
+an dem Eingange zur Grotte schwammen und einen bessern Beitrag für unsere Küche
+versprachen als die Mallemucken. Petersen hatte zwar immer den delicaten Braten
+nicht genug zu rühmen gewußt, uns hielt jedoch schon der Gestank des Vogels
+davon ab, ihn auch nur zu kosten. Bei der Weiterfahrt trafen wir auf einen
+prachtvollen Felsbogen, welcher von uns photographirt wurde und von der
+zahlreichen Graumöwen- oder Burgemeister-Colonie, welche diese steilen Klippen
+zu ihrem Brutplatze erwählt hatte, den Namen Burgemeisterthor erhielt. Selbst
+große Boote können durch seine Oeffnung rudern und gelangen dann in eine kleine,
+von allen Seiten mit Felsen umschlossene Bucht, neben welcher sich die
+Russenhütte und der Walroßstrand befinden. Es ist die einzige Stelle, an welcher
+man in diesem Theile der Insel bequem landen kann. Bevor wir aber das Boot auf
+den Vorstrand zogen, legten wir auf den Wunsch unserer Leute noch an
+verschiedenen Klippen an, um Eier einzusammeln. Die Ausbeute war zwar reich
+genug, aber ohne allen Nutzen, indem sich in den sonst ganz leckeren Möweneiern
+bereits die Jungen entwickelt hatten, während die Eier der Seepferde so übel
+rochen, daß sie selbst den Appetit der Leute nicht reizten. Beides wurde
+allerdings erst nach unserer Rückkehr zum Schiffe bemerkt, man betrieb daher das
+Einsammeln mit einer wahren Leidenschaft. In wenigen Minuten waren alle Winkel
+im Boote, sowie die in Taschen und Säcke verwandelten Jackenärmel und geölten
+Hosen der Leute mit Eiern angefüllt.
+
+:::: { .wrap-100 .caption }
+![Das Burgemeisterthor auf Bären-Eiland. <small>Nach einer Mitternachts-Photographie.</small>](Die_schwedischen_Expeditionen_390.jpg "Das Burgemeisterthor auf Bären-Eiland."){#b390}
+::::
+
+Wir ruderten nunmehr zum Strande und setzten endlich unsern Fuß auf den Boden
+von Bären-Eiland, das bei den früheren Expeditionen so eifrig erstrebte und
+nicht erreichte Ziel. Gelandet, wandten wir uns nach verschiedenen Seiten,
+Nordenskiöld zum Fuße des Mount Misery, Malmgren zur Ostseite der Insel. Dunér
+hielt sich eine Zeit bei der Russenhütte auf, um Sonnenhöhen zu nehmen, und
+begab sich darauf nach dem Innern der Insel. Weiter am Tage ließ Nordenskiöld
+seinen photographischen Apparat an das Land bringen, verwandelte die Hütte,
+indem er Thüre, Fenster und Rauchfang mit Leinwandplanen verhängen und zustopfen
+ließ, in ein Atelier und nahm einige Küstenansichten auf, darunter das schon
+erwähnte Burgemeisterthor. Leider sind wir nicht im Stande, auch eine Abbildung
+der Russenhütte zu geben, welche zu verschiedenen Malen den nördlichsten
+europäischen Wintercolonien als Aufenthalt gedient hat, zuletzt im Winter von
+1865 auf 1866 dem norwegischen Schiffer Tobiesen und dessen Gefährten wenigstens
+als Vorrathshaus. Bei unserm Besuche befand sich die Hütte in einem sehr
+baufälligen Zustande, ohne Fenster und Thüren, der Boden und die Bettstätten mit
+Eis bedeckt. In Ansehung der Größe und der Architektur stimmte sie übrigens mit
+den Russenhütten auf Spitzbergen überein.
+
+Am folgenden Tage machten wir einen Versuch, zur Westküste der Insel zu rudern.
+Nachdem wir einen Theil der Küste passirt hatten, welcher so ziemlich den
+Umgebungen in der Nähe des Hafens gleicht, kamen wir zu dem Sunde zwischen
+Bären-Eiland und dem Gullholm, einer kleinen Insel, welche nach Mancher
+Behauptung von dem Meere verschlungen sein soll, wahrscheinlich aber noch
+Jahrtausende lang der Wuth der Wogen Trotz bieten wird. Der Sund wird auf der
+einen Seite gebildet von der ungefähr 400 Fuß hohen, senkrechten Felsküste
+Bären-Eilands, und auf der andern Seite von den ebenfalls lothrechten Wänden des
+Gullholm. Nachdem wir über eine Bucht gerudert, welche weiterhin in die
+Hauptinsel einschneidet, wurden die Berge noch höher und steiler, und wir hatten
+einen von Millionen Alken bewohnten Vogelberg vor uns. Auch hier veranlaßte
+unsere Jagdlust ein lebhaftes Schießen, doch entsprach die Ausbeute nicht ganz
+unserer Erwartung (nämlich 7 bis 8 Vögel auf jeden Schuß), indem der größere
+Theil der getödteten Alken auf den unzugänglichen Absätzen des Berges liegen
+blieb.
+
+Fast überall an der ganzen Küste, längs welcher wir ruderten, stürzen die Felsen
+senkrecht zum Meere ab, so daß keine Möglichkeit einer Landung vorhanden.
+Zuweilen befindet sich aber zwischen der Felswand und dem Wasser ein schmaler
+Vorstrand, auf welchem man, wenn die See ruhig ist oder die Wogen sich schon
+vorher an einigen außerhalb befindlichen Klippen brechen, das Boot auf das Land
+ziehen kann. An solchen Stellen stiegen wir aus und fanden unter Anderm auf dem
+dem Gullholm gegenüberliegenden Strande, unmittelbar an dem Fuße der hohen
+Felswand, über welche in einem Bogen sich ein Wasserfall stürzte, einige Nester
+der Großen Möwen. Die auf ihren Eiern sitzenden Vögel schienen sich in dem
+Staubregen ganz wohl zu befinden. Allmählich näherten wir uns dem hohen, von
+zweien gewaltigen Thoren durchbrochenen Felspfeiler, welcher im Süden der Insel
+unmittelbar aus dem Meere bis zu einer Höhe von 500 Fuß aufsteigt. Schon gaben
+wir uns der freudigen Hoffnung hin, ihn näher untersuchen zu können, als eine
+starke von Südosten kommende Dünung uns nöthigte umzukehren und zum Südhafen zu
+rudern. Hier fanden wir unsern Capitän sehr unruhig und im Begriff die Anker zu
+lichten, aus Furcht, der Ostwind könne an Stärke zunehmen, das Schiff von dem
+unsichern Ankergrunde losreißen und auf's Land werfen. Zu unserm großen Bedauern
+mußten wir daher den Platz verlassen. Während dieses geschah und die Schute nahe
+vor den außerhalb belegenen Schären kreuzte, ruderte Nordenskiöld noch einmal
+an's Land, um seinen, in der Russenhütte zurückgebliebenen photographischen
+Apparat abzuholen und an dem prachtvollen Burgemeisterthor eine Wassermarke
+einzuschlagen.
+
+„Diese Marke wird durch einen in den Fels eingeschlagenen Eisenkeil gebildet,
+dessen Mitte am 19. Juni 1864, vier Uhr Nachmittags, sich vier Fuß über der
+Oberfläche des Meeres befand. Wenn man von dem kleinen Hafen bei der Russenhütte
+durch das Burgemeisterthor rudert, so ist die Wassermarke gleich zur Linken,
+bevor man in das Thor selber kommt.“
+
+Unsere Absicht ging dahin, an mehreren Stellen der spitzbergischen Küsten
+dergleichen Wassermarken einzuschlagen, damit man möglicher Weise in der Zukunft
+einen Anhalt bei Beantwortung der Frage habe, ob das Land in diesen arktischen
+Regionen wirklich aufgestiegen sei. Leider ist das Gestein an den weißen Küsten
+Spitzbergens aber so lose oder morsch, daß eine Marke darin dauernd kaum
+befestigt werden kann.
+
+So hastig und nach einer so unvollständigen Untersuchung diese so höchst
+interessante, wenngleich schwer zugängliche Insel zu verlassen, widersprach doch
+zu sehr den Hoffnungen, mit welchen wir uns bereits geschmeichelt hatten.
+Nachdem wir mit dem Schiffe an der Südspitze der Insel vorbei und ein Ende längs
+der Westküste gesegelt waren, ließen wir daher, trotz des starken Seeganges und
+der Warnungen des Capitäns, uns wieder in einem Boote an das Land setzen. Wir
+mußten erst eine Weile längs des Strandes und der schäumenden Brandungen fahren,
+bevor wir eine Stelle fanden, wo das mindestens einhundert Fuß hohe Plateau der
+Insel nicht senkrecht in's Meer abfiel und der Strand aus einer Geröllbank
+bestand, auf welche wir das Boot ziehen konnten. Die Brandung war so stark, daß
+wir anfangs keine Möglichkeit des Landens sahen; nach einigem Zaudern wagten wir
+doch den Versuch und kamen glücklich an's Ufer. Auch hier verliehen die Tausende
+von Grotten und zerbrochenen Gewölben den von der schäumenden Brandung umgebenen
+Felsen einen überaus großartigen Charakter. Der Eindruck wurde noch überdies
+durch einen damals mächtigen Wasserfall vermehrt, welcher in einem einzigen
+Bogen von dem höchsten Absatze des senkrechten Ufers niederstürzte. Einige
+Teiste hatten sich gerade unter diesem Wasserfalle niedergelassen. Zuweilen
+flogen sie auf, beschrieben einige Kreise in der Luft und flogen wieder zu ihrem
+alten, von dem krystallklaren, hinabfließenden Wasserteppich geschützten
+Ruheplatz. Dunér blieb an der Stelle zurück, wo wir gelandet waren, um einige
+Sonnenhöhen zu nehmen; Malmgren und Nordenskiöld gingen über die noch von einem
+weichen Schnee, oder besser Schneebrei, bedeckte Ebene, welche das Innere der
+Insel bildet, nach dem Mount Misery. Die bloßen Stellen, welche hier und da in
+der Schneewüste hervortraten, verriethen keine Spuren irgend einer Vegetation
+und bestanden nur aus zahlreichen eckigen, selten Versteinerungen enthaltenden
+Kalksteinfragmenten. Sie erkannten bald, daß eine Wanderung über diese
+Schneefläche kaum von Interesse sein könne, weder für den Geologen noch für den
+Botaniker, und da der Wind sehr bedenklich zu wachsen begann, so konnte an einen
+so langen Aufenthalt, als zu einer auch nur flüchtigen Untersuchung der
+wichtigen Kohlenlager am Nordhafen erforderlich war, gar nicht gedacht werden.
+Sie beeilten sich daher, zum Boote zurückzukehren, brachten dasselbe glücklich
+durch die Brandung und kamen zu dem Schiffe zurück. Wir hatten, bevor wir den
+Bootplatz verlassen, dem Koch, welcher als Ruderer mitgefahren war, eine Flinte
+nebst reichlicher Munition mit dem Auftrage gegeben, irgend einen eßbaren Vogel
+zu schießen, am Strande ein Feuer anzuzünden und ihn zu braten, so daß wir bei
+unserer Rückkehr unsere Abendmahlzeit fertig fänden. Der Koch hatte allerdings
+die ganze Munition verbraucht, aber, da die Vögel vom Knall allein noch nicht
+sterben, keine andere Beute gemacht als eine einzige unglückliche, zu nahe
+gekommene und dafür gehörig gestrafte Grauwöwe.
+
+Der größte Theil von Bären-Eiland besteht aus einer fast durchweg gleich hohen,
+100 bis 250 Fuß über dem Meere aufsteigenden Hochebene, an deren südlichem und
+nordöstlichem Ende sich zwei Berge terrassenförmig erheben. Der größte derselben
+erreicht eine Höhe von 1,200 Fuß und hat schon in älteren Zeiten den sehr
+bezeichnenden Namen Mount Misery erhalten. Der andere, der Vogelberg, ist
+erheblich kleiner. Am Fuße des Berges zieht sich eine nach dem Schmelzen des
+Schnees kahle und öde, von zahlreichen seichten Teichen bedeckte Ebene hin,
+welche überall in senkrechten Felswänden nach dem Meere hin abfällt. Nur an
+einigen wenigen Stellen werden die steilen Felsen von dem Meere durch einen
+schmalen, niedrigen Vorstrand geschieden, welcher in jener Zeit, da große
+Walroßheerden die Insel besuchten, diesen trägen, unbeholfenen Thieren einen
+bequemen Ruheplatz darbot. Ungeheure Massen von Walroßknochen liegen noch jetzt
+hier zerstreut und zeugen von der unerbittlichen Jagd, um derentwillen
+Bären-Eiland früher viel öfter besucht und zeitweise sogar bewohnt wurde. Zwei
+Hütten erinnern noch an diese Besuche. Die eine von den Russen erbaute befindet
+sich gleich neben dem Burgemeisterthore, die andere wurde 1822 von Kaufleuten
+aus Hammerfest aufgeführt, welche hier ein paar Jahre lang Leute überwintern
+ließen, um zu jagen, bis die ganze Colonie, infolge eines außergewöhnlich
+ungünstigen Winters, dem Skorbut erlag.
+
+Während der letzten Jahre hat wieder eine Schiffsbesatzung auf Bären-Eiland
+überwintert. Ihr in der Nordsee hart mitgenommenes Schiff war nämlich an diese
+ihnen ganz unbekannte Insel getrieben worden. Ein Theil der Fracht wurde an's
+Land geschafft und man hoffte sogar das Schiff zu bergen, als ein plötzlicher
+Sturm es losriß und an den Felsen zerschellte. Es glückte der Besatzung
+indessen, sich zu retten, und es blieb ihr keine Wahl, als sich auf der wenig
+einladenden Insel, wohin sie nun einmal das Schicksal geworfen, so gut als
+möglich einzurichten.
+
+Ein so trauriges Land hatten auch die am weitesten herumgekommenen Seeleute noch
+niemals erblickt, und der üble Eindruck der wüsten Felsen wurde überdies noch
+durch die Ungewißheit und die Einsamkeit vermehrt. Kein Mensch, von welchem man
+eine Aufklärung über das Land, wo man sich befand, hätte erhalten können.
+Zuletzt entdeckte man doch einige halbzerstörte, unbewohnte Hütten, von denen
+die eine sofort in Besitz genommen und mit den an den Strand geworfenen Trümmern
+des gescheiterten Schiffes in Stand gesetzt wurde. Glücklicher Weise hatten die
+Leute, bevor das Schiff zerstört wurde, einen genügenden Vorrath von
+Nahrungsmitteln an's Land geschafft, und am Strande fand man eine Masse
+Treibholz vor, so daß die Besatzung hoffen durfte, wenigstens einige Monate lang
+in ihrer kleinen Hütte gegen Kälte und Hunger geschützt zu sein. Später wurden
+auch die Bären, welche im Winter die Stelle besuchten, so dreist, daß sie, da
+ihnen die Thüre natürlich nicht geöffnet wurde, durch die weite Oeffnung des
+Schornsteins eine nähere Bekanntschaft mit den neuen Bewohnern der Insel zu
+machen versuchten. Der ganze Winter verfloß indessen ohne wesentliche
+Unglücksfälle und ohne daß die gefährliche Pest des Polarwinters, der Skorbut,
+sie heimsuchte. Da Bären-Eiland nunmehr selten besucht wird, so hätte es sich
+leicht ereignen können, daß die Besatzung hier noch einen Winter zubringen mußte
+und daß sie nach Verbrauch des Schiffsvorraths auf sich selber angewiesen war.
+Aber zu ihrem Glücke landete zufällig im Laufe des Sommers ein norwegischer
+Spitzbergenfahrer und nahm die Schiffbrüchigen auf.
+
+Heutzutage wird Bären-Eiland sehr selten besucht, und zwar zum großen Theile
+deshalb, weil die Insel keinen Hafen besitzt, welcher sie gegen die Seewinde
+schützt. Die sogenannten Nord- und Südhäfen sind nichts als flache Buchten, welche
+gegen das Meer auch nicht durch die kleinste Klippe oder Schäre gedeckt sind und
+überdies einen lockern, sandigen Ankergrund haben. Nur beim Landwinde können die
+Schiffe sicher in diesen Häfen liegen. Will man aber an's Land steigen, so läßt
+man das Schiff gewöhnlich draußen kreuzen und fährt in einem Boote zum Ufer.
+Aber auch dieses ist — wie die Erfahrung lehrt — nicht ohne Gefahr. Da
+Bären-Eiland gerade an der Stelle liegt, wo der Golfstrom und der nördliche
+Polarstrom auf einander treffen, so ist es während längerer Zeit oft von Nebel
+und undurchdringlichen Wolkenmassen umgeben, welche im Vereine mit den beinahe
+den ganzen Sommer hindurch anzutreffenden Treibeisfeldern das Schiff zuweilen an
+der Wiederaufnahme der an's Land gegangenen Besatzung verhindern. Während der
+ersten Jagdexpedition, welche von Hammerfest nach Bären-Eiland geschickt wurde,
+ereignete es sich, — nach Keilhau — daß die an's Land gesetzte Mannschaft von
+dem kreuzenden Schiffe aufgegeben werden mußte. Strömung, Wind und Nebel hatten
+den unkundigen Schiffer so verwirrt, daß er die Leute im Stiche ließ und nach
+Hammerfest zurückkehrte. Als jene endlich die Ueberzeugung gewannen, daß sie
+verlassen seien, beschlossen sie in ihrem gebrechlichen Boote die Rückreise nach
+Norwegen zu wagen. Nach einer Fahrt von acht Tagen erreichten sie in der That
+Nordkyn. Diese Leute gingen dann in demselben Sommer und mit demselben Schiffer
+noch einmal nach Bären-Eiland, um die auf der Insel zurückgelassene Jagdbeute
+abzuholen. Man ankerte nunmehr im Nordhafen. Nachdem man aber die Fracht
+eingenommen und im Begriff war abzusegeln, wurde die Schute von einem plötzlich
+sich erhebenden Sturme wieder an's Land geworfen und zertrümmert. Die Besatzung
+rettete zwar sich und die Fracht, besaß aber nur ein so kleines Boot, daß ein
+Theil der Leute während der Fahrt sich auf den Boden desselben, als Ballast
+gleichsam, legen mußte. Der Sommer war schon weit vorgeschritten und man durfte
+sich auf eine stürmische Fahrt gefaßt machen, aber trotzdem zog man die Gefahren
+derselben einer Ueberwinterung vor und erreichte nach zehn Tagen glücklich die
+norwegische Küste.
+
+Das innere Plateau Bären-Eilands ist äußerst wüst und öde. Kaum wagt ein
+Grashalm aus dem unfruchtbaren Steingeröll zu blicken. Nur hier und da erinnert
+eine an einem kleinen Süßwassertümpel brütende Raub- oder andere Möwe, welche
+sich von den Strandklippen hierher verirrt hat, an einiges Leben. Am Meeresufer
+ist dagegen Alles wie verwandelt. Alle Klüfte in den steilen, durch den
+Wogenschwall zum Theil in phantastische Grotten und Pfeiler umgeschaffenen
+Felswänden dienen zahlreichen Schaaren von Vögeln als Ruheplatz, oder sind von
+deren Nestern eingenommen. Nicht weniger zahlreiche Schwärme tummeln sich auf
+der Oberfläche des Wassers und suchen in dem reichen Grunde des Meeres ihre
+Nahrung, oder durchkreuzen schreiend und streitend die Lüfte. An solchen Theilen
+der Küste findet man oft in einer gegen die Seewinde geschützten, durch die
+Vögel gedüngten Kluft eine relativ sehr üppige Vegetation. Rennthiere giebt es
+hier nicht, aber Füchse, und im Winter auch wohl ein paar Bären, welche mit dem
+Treibeise von Spitzbergen herübergekommen sind.
+
+In geologischer Hinsicht hat Bären-Eiland eine große Aehnlichkeit mit gewissen
+Gegenden Spitzbergens. Das eigentliche Massiv der Insel besteht aus wechselnden
+Schichten Kalkstein, Kiesel und Schiefer, nach Süden hin vielfach gebrochen und
+verworfen, so daß man — wenigstens bei einem flüchtigen Besuche — die
+Reihenfolge der einzelnen Lagen nicht zu ermitteln vermag. Sie verrathen
+indessen eine so unzweifelhafte Gleichheit mit den Schichtungen am Hecla Mount,
+daß, obwohl nirgends Versteinerungen vorkommen, man sie durchaus für
+gleichzeitige erklären muß. Sowohl am Hecla Mount wie auf Bären-Eiland begegnet
+man einem eigenthümlichen, roth- und grüngestreiften Schiefer nebst einem
+grauen, kaum geschichteten, nach allen Richtungen hin mit weißen Adern
+durchzogenen Kalkgestein. Die Aehnlichkeit ist so groß, daß zwei von beiden
+Stellen genommene Stücke dieses sonderbaren Schiefers oder Kalks von einander
+durchaus nicht zu unterscheiden sind. Auf der Nordseite der Insel gehen die
+Schichten ganz horizontal und mögen jüngeren Ursprungs sein. Dasselbe scheint
+beim Mount Misery der Fall zu sein, welchen wir jedoch keine Gelegenheit hatten
+näher zu untersuchen; aber schon aus der Entfernung konnten wir erkennen, daß
+auch hier die Schichten vollkommen horizontal liegen, und Keilhau brachte von
+den Steinmuhren an den Seiten des Berges Versteinerungen mit, welche die
+Uebereinstimmung dieser Schichten mit der weite Strecken auf Spitzbergen
+einnehmenden Bergkalksformation außer Zweifel setzen. Auch wir fanden solche
+Versteinerungen in einzelnen Blöcken, welche auf einer Bodenerhebung zwischen
+dem Mount Misery und unserm ersten Landungsplatze zerstreut lagen.
+
+Die merkwürdigste Bildung auf Bären-Eiland sind aber die Kohlenlager, welche an
+mehreren Stellen der Nordküste zu Tage treten. Nach Keilhau bilden dieselben an
+der sogenannten Kohlenbucht vier parallele, in gleicher Entfernung von einander
+befindliche Flötze bis zu einer Elle Mächtigkeit. An einer Stelle, dem
+sogenannten Englischen Flusse, sieht man sogar zwei Flötze zu Tage treten.
+Wahrscheinlich gehören diese Kohlenlager wie die auf Spitzbergen der tertiären
+Bildung an. Auch dieser Theil des Oceans ist also in einer geologisch späten
+Epoche von einem ausgedehnten Continent mit prachtvollen Wäldern von Taxodien,
+Eichen, Platanen u. s. w. eingenommen gewesen, und zahllose Elephanten-, Tapir-
+und Antilopenheerden haben hier wahrscheinlich einmal gespielt und unter dem
+üppigen Pflanzenwuchs geweidet, auf derselben Stelle, wo jetzt die eisigen Wogen
+des Polarmeeres ihren einsamen Gang gehen.
+
+Für den Fall, daß Jemand auf Bären-Eiland magnetische Beobachtungen anstellen
+möchte, wollen wir erwähnen, daß diese Insel aller Wahrscheinlichkeit nach
+hierzu eben so ungeeignet ist wie die meisten Gegenden Spitzbergens. Die etwa in
+der Mitte des Mount Misery in unregelmäßigen aufrecht stehenden Pfeilern
+hervortretende schwarze Gesteinsschicht, welche Keilhau in seiner Reise
+beschreibt, dürfte demselben magnetischen Hyperit angehören, welcher so häufig
+im Norden Spitzbergens auftritt und daselbst im hohen Grade auf alle
+magnetischen Untersuchungen störend einwirkt.
+
+Wie wir früher gesehen, wurden die ersten Nordpolexpeditionen oft von
+Handelsgesellschaften ausgerüstet, welche aus den gemachten Entdeckungen einen
+unmittelbaren Vortheil zu ziehen hofften. Um nun die Absender zu neuen Opfern zu
+veranlassen, malte man oft unbedeutende Funde mit den lebhaftesten Farben aus.
+Frobisher's zweite großartige Expedition nach Labrador, um von dort einige
+Schiffsladungen angeblichen Golderzes zu holen, welches sich bald auf einen
+werthlosen Glimmerschiefer reducirte, mag als ein Beweis hierfür gelten. Auch
+Bären-Eiland hat in dieser Hinsicht seinen Zauber auf die Nordpolfahrer
+ausgeübt. Einige mitgebrachte Proben von Bleiglanz und gelber Zinkblende
+verschafften der Insel den Ruf, sie sei an edlen Metallen reich, und da man den
+Holm, auf welchem jene Proben der Sage nach entdeckt worden waren, nicht mehr
+auffinden konnte, so war man rasch zu der Annahme bereit, die ganze
+silberführende Inselklippe sei von den Meereswogen fortgespült worden.
+Unzweifelhaft sind die Küsten Bären-Eilands überall vom Wogenschwalle
+unterwaschen. Darum erblickt man die von der eigentlichen Insel losgetrennten,
+oft mehrere Hundert Fuß hohen Pfeiler, unter welchen besonders zu nennen: der
+durchaus nicht — wie Keilhau vermuthet — im Meere versunkene Gullholm; der von
+einer Höhle durchbohrte, 200 Fuß hohe Stappen, im Süden der Insel; der Englische
+Stör (Pfahl) auf der Nordseite, und Taggen (Zacke) in der Mitte der Westküste.
+Mehrere dieser Pfeiler werden nach Verlauf von Jahrtausenden aufgehört haben zu
+existiren, andere neu entstanden sein; man braucht aber die Phänomene dieses
+Zerstörungsprocesses kaum mit besonderer Aufmerksamkeit zu verfolgen, um zu
+erkennen, daß eine wesentliche Veränderung seit der Entdeckung der Insel nicht
+eingetreten sein kann. Auch der Bericht über den Metallreichthum Bären-Eilands
+scheint auf einer Verwechslung mit der Bäreninsel (Björnö) im Weißen Meere zu
+beruhen. In der mineralogischen Sammlung des Reichsmuseums in Stockholm befinden
+sich nämlich aus dem vorigen Jahrhunderte einige ziemlich genau etiquettirte
+Erzproben „von der Bäreninsel im Weißen Meere, 500 Werst von Archangel“, deren
+Aussehen. ganz mit der Beschreibung des auf Bären-Eiland gefundenen Erzes
+übereinstimmt.
+
+Gletscher kommen auf Bären-Eiland nicht vor, obwohl manche Thäler am Mount
+Misery sich zur Aufnahme solcher wohl eignen möchten. Es ist indessen noch nicht
+ausgemacht, ob dieses dem milderen Klima, oder der geringen Höhe des Mount
+Misery oder den heftigen Stürmen zuzuschreiben, welche dauernd über diese nach
+allen Seiten hin offene Insel wehen und den Schnee von den Bergabhängen
+fortjagen. Bei unserer Anwesenheit war allerdings das ganze Innere der Insel von
+einer beinahe ununterbrochenen, wassergetränkten Schneedecke bedeckt, so daß man
+an manchen Stellen nur mit großer Mühe dem Einsinken bis an den Gürtel entging.
+An vielen anderen Punkten, wo das Schneefeld noch hart und gefroren war,
+erblickte man runde Löcher von 1 — 3 Fuß im Durchmesser, in welchen Schnee und
+Eis bis auf den Boden fortgeschmolzen war. Stieg man aber in ein solches Loch,
+so sank man in dem wasserdurchzogenen Gruse sofort tief ein. Diese an die
+sogenannten Windwaken erinnernden Vertiefungen waren wahrscheinlich durch
+Quellen gebildet, deren Wasser natürlich einige Wärme haben mußte. Wir konnten
+den Wärmegrad indessen nicht feststellen, da das Wasser, indem es mit dem Schnee
+oder Schneewasser in Berührung kam, sofort bis auf 0° abgekühlt wurde. Als
+Keilhau aber in der zweiten Hälfte des August Bären-Eiland besuchte, war der
+Schnee bereits zergangen, und die Temperatur der Quellen wechselte zwischen
+0,~6~° und 3,~8~° Graden. Wenn die mittlere Temperatur dieser wahrscheinlich
+nicht aus großer Tiefe kommenden Quellen zugleich die der Insel ist, so scheint
+es, daß sie ein wenig über 0° betrage. Auf Spitzbergen fanden wir dergleichen
+Quellenlöcher niemals, weshalb man annehmen möchte, daß die mittlere Temperatur
+dort unter dem Nullgrad bleibe. Dagegen darf man aus den vorliegenden
+Beobachtungen schließen, daß Bären-Eiland, im Ganzen genommen, ein weit milderes
+Klima habe, als selbst die geschütztesten Gegenden Spitzbergens. Die mehr
+südliche, pelagische Lage, der Mangel an Schneebergen und Gletschern, die
+Quellen und mehrere hier auftretende Pflanzen, welche der Flora des höchsten
+Nordens eigentlich nicht angehören, sprechen für diese Annahme.
+
+:::: { .wrap-70 .caption }
+![Beeren-Eiland.](Die_schwedischen_Expeditionen_401.jpg "Beeren-Eiland."){#b401}
+::::
+
+Bären-Eiland ist im Sommer beinahe dauernd in Nebel gehüllt, und selbst an
+hellen Tagen sieht man oft die Spitze des Mount Misery von einem weißlichgrauen
+Wolkenkranze umgeben. Die Temperatur der Luft scheint Tag und Tag ziemlich
+dieselbe zu sein nämlich drei bis vier Grade über dem Gefrierpunkte. Eine
+größere Wärme im Sommer oder eine stärkere Winterkälte gehören zu den Ausnahmen.
+Ueberwintert haben hier nur russische und norwegische Jäger, und unsere Kenntniß
+der hiesigen Winter beruht ausschließlich auf ihren Berichten. Eigentliche
+Beobachungen sind erst in den letzten Jahren während der Ueberwinterung des
+Schiffers Tobiesen, über welche wir später einmal berichten werden, gemacht.
+
+Bekannt sind die Mittheilungen Keilhau's über die milden Winter Bären-Eilands
+nach den Aufzeichnungen seines damaligen Capitäns.^[^2200]^
+
+Während unseres kurzen Aufenthaltes auf Bären-Eiland bemühten wir uns umsonst,
+einige sichere Daten zum Zweck einer zu zeichnenden Karte zu erhalten. Die
+vorseitige Skizze giebt allerdings nichts weiter als ein ungefähres Bild von der
+Gestalt der Insel, dürfte sich aber von allen vorhandenen Darstellungen am
+wenigsten von der Wahrheit entfernen. Nach den Messungen von Dunér ist die
+Russenhütte am Südhafen in 74° 22´ 56“ nördl. Br. und 19° 15´ 15“ östl. L.
+belegen.
+
+:::: { .wrap-50 .caption }
+![Scoresby's Tonne. S. 27.](Die_schwedischen_Expeditionen_402.jpg "Scoresby's Tonne"){#b402}
+::::
+
+:::
+
+
+[^2200]: [Keilhau, Reise etc. S. 128-133. Uebersetzt in dem Ergänzungsheft Nr. 16 zu Petermann's Geograph. Mittheilungen S. 49, 50.]{.footnote}
