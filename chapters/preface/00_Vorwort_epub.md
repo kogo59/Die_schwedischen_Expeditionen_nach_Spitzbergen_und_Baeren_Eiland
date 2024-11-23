@@ -31,8 +31,8 @@
 * [Sortepynt auf Prinz Charles Vorland.](ch003.xhtml#b315)
 * [Bohne von Entada gigalobiuam](ch003.xhtml#b365)
 * [Danskö (dänische Insel)](ch003.xhtml#b378)
-* Axel Thordsen
-* Der „Balsfjording“ am Steuer
+* [Axel Thordsen](ch003.xhtml#b386)
+* [Der „Balsfjording“ am Steuer](ch003.xhtml#b388)
 * Beeren-Eiland (Karte)
 * Scoresby's Tonne
 * Safe Haven

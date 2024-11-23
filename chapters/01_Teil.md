@@ -1,4 +1,4 @@
-:::: { .fs-jumbo .break-after .align-center }
+:::: { .fs-jumbo .break-after .break-before .align-center }
 <br /><br /><br /><br /><br /><br /><br />
 1861
 ::::
@@ -598,10 +598,6 @@ arktisches Land vor unseren Blicken lag.
 
 :::
 
-:::: align-center
-***
-::::
-
 
 ## <small>Zweites Kapitel.</small><br />Bären-Eiland und Spitzbergen.
 
@@ -1155,10 +1151,6 @@ da auch sie wegen des Eises nicht weiter vordringen konnten. Es waren
 Walroßfänger von Hammerfest und Tromsö.
 
 :::
-
-:::: align-center
-***
-::::
 
 
 ## <small>Drittes Kapitel.</small><br /> Die Nordküste von Spitzbergen.
@@ -1955,10 +1947,6 @@ folgten vier andere Schiffe, die am Morgen in der Bucht Anker warfen; ein kluges
 Unternehmen; denn der Wind war nun vollkommen nach Norden herumgegangen.
 :::
 
-:::: align-center
-****
-::::
-
 
 ## <small>Viertes Kapitel.</small><br /> Treurenberg-Bai.
  
@@ -2621,9 +2609,6 @@ beträchtliche Verringerung erfahren.
 
 :::
 
-:::: align-center
-****
-::::
 
 ## <small>Fünftes Kapitel.</small><br /> Treurenberg-Bai.
  
@@ -3786,10 +3771,6 @@ wir durften hoffen, nicht lange hier zu bleiben; ein Jeder ging darum an seine
 Arbeit, froh, der Sorge-Bai für immer Lebewohl gesagt zu haben.
 
 :::
-
-:::: align-center
-****
-::::
 
 
 ## <small>Sechstes Kapitel.</small><br /> Der Plan einer Eisfahrt. — Walrosse.
@@ -5994,9 +5975,6 @@ Phipps besucht hatte.“
 
 :::
 
-:::: align-center
-****
-::::
 
 ## <small>Neuntes Kapitel.</small><br /> Torell's und Nordenskiöld's zweite Bootfahrt.
 
@@ -6587,9 +6565,6 @@ zum Aeolus.“
 
 :::
 
-:::: align-center
-****
-::::
 
 ## <small>Zehntes Kapitel.</small><br /> Chydenius zweite Bootfahrt.
 
@@ -7635,10 +7610,6 @@ weit hinaufgehen.“
 
 :::
 
-:::: align-center
-****
-::::
-
 
 ## <small>Elftes Kapitel.</small><br /> Die Fahrt des Aeolus bis zur Robbe-Bai. 
 
@@ -8007,11 +7978,6 @@ Endlich war unsere Einsamkeit zu Ende, indem am 9. September in der Frühe des
 Morgens Magdalena mit vollen Segeln in die Bucht steuerte.
 
 :::
-
-
-:::: align-center
-****
-::::
 
 
 ## <small>Zwölftes Kapitel.</small><br /> Wijde-Bai. 
@@ -8582,10 +8548,6 @@ Anker geworfen.
 
 :::
 
-:::: align-center 
-****
-::::
-
 
 ## <small>Dreizehntes Kapitel.</small><br /> Die norwegischen Inseln. — Magdalenen-Bai. 
 
@@ -9067,9 +9029,6 @@ starke Strömung nöthigte uns, am Abend bei dem nördlichen Ufer Anker zu werfe
 
 :::
 
-:::: align-center
-****
-:::
 
 ## <small>Vierzehntes Kapitel.</small><br /> Croß und Kings-Bai. 
 
@@ -9569,10 +9528,6 @@ könnte.
 
 :::
 
-
-:::: align-center
-****
-::::
 
 ## <small>Fünfzehntes Kapitel.</small><br /> Der Eisfjord. 
 
@@ -10274,11 +10229,6 @@ seinen Ehren geflaggt.
 ::::
 
 :::
-
-:::: align-center
-****
-::::
-
 
 
 ## <small>Sechzehntes Kapitel.</small><br /> Aus der Geschichte von Spitzbergen.
@@ -11955,9 +11905,6 @@ Fuß über dem Meere, aufgegraben wurde.
 
 :::
 
-:::: align-center
-****
-::::
 
 ## <small>Siebenzehntes Kapitel.</small><br /> Rückkehr nach Norwegen.
 
@@ -12373,12 +12320,6 @@ gewonnenen wissenschaftlichen Resultate, freudig in die Zukunft geschaut hätte.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [Hier wie später immer von Greenwich gerechnet.]{.footnote}
 
