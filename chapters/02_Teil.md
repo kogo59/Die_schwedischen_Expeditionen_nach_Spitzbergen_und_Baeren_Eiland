@@ -7,7 +7,6 @@
 
 ## <small>Erstes Kapitel.</small><br /> Vorbereitungen. — Fahrt nach Bären-Eiland.
 
-
 ::: justified
 
 :::: fs-xs
@@ -688,6 +687,693 @@ belegen.
 ::::
 
 :::
+
+
+## <small>Drittes Kapitel.</small><br /> Fahrt nach Spitzbergen. — Der Eisfjord.
+
+::: justified
+
+:::: fs-xs
+An der Westküste Spitzbergens. — Safe Haven oder Sauhamn. — Brutplätze. — Vom
+Eise eingeschlossen. — Ausflug zur Sauriehuk. — Merkwürdiger Fund fossiler
+Knochen. — Olaus und ein improvisirter Kaffee. — Nordenskiöld's Rückkehr. —
+Zweite Bootfahrt. — Das Leben auf den Eiderholmen. — Der Kampf um das Dasein. —
+Vorsicht beim Eiereinsammeln. — Verhängnißvolle Fahrt. — Große Gefahr. —
+Rettung. — Gewaltsame Fahrt durch das Eis. — Versteinerungen. — Neue
+Hindernisse. — Improvisirter Punsch. — Das Eis wird durchbrochen. — Weißwale. —
+Eine Russenhütte. — Spitzbergische Gewissenhaftigkeit. — Depots. — Engländer.
+<br /><br />
+::::
+
+Sofort nach unserer Rückkehr zum Schiffe wurde das Boot in die Höhe gewunden und
+die Fahrt nach Norden fortgesetzt. Dort erschien, in der Nähe des Horizontes,
+eine weiße, glänzende Luftschicht, welche wir anfangs für einen Eisblink
+hielten. Nachdem wir aber mehrere Stunden im offenen, eisfreien Wasser gesegelt
+waren, erklärten wir diese Ankündigung als einen bloßen Schreckschuß und
+steuerten, ohne uns durch die Erscheinung warnen zu lassen, direct nach dem
+Storfjord, in der Hoffnung, schon am folgenden Tage unsere Untersuchungen
+beginnen zu können. Unsere Geduld wurde indessen auf eine schwere Probe
+gestellt, da der anfangs frisch wehende Wind allmählich ganz nachließ und das
+Schiff, von der Dünung hin und her geworfen, nicht von der Stelle kam.
+
+Erst am Vormittage des 20. Juni erblickten wir ein Eisband im Norden, allerdings
+wenig gepackt, so daß wir unsere Fahrt fortsetzen konnten, bis zuletzt das Eis
+so dicht auftrat, daß ein Weiterkommen unmöglich wurde. Zugleich hörte auch der
+Wind zu wehen auf; es legte sich ein dichter Nebel über das Meer und hüllte alle
+Gegenstände in einen undurchdringlichen weißen Schleier. Kleine neben dem
+Schiffe schwimmende Eisstücke erschienen wie gewaltige Eisberge, oder wenn sie
+zufällig mit einer dunklen Erdmasse bedeckt waren, wie ein fernes in Schnee
+gehülltes Gebirgsland. Die Schwierigkeit, aus diesem Labyrinthe hinauszukommen,
+wurde dadurch in hohem Grade vermehrt; von einer Weiterfahrt in einer bestimmten
+Richtung konnte nicht mehr die Rede sein; wir segelten vielmehr in allen nur
+denkbaren Richtungen, je nachdem es die Kanäle zwischen den Eisblöcken
+gestatteten. Nachdem wir eine Weile auf diese Weise gekreuzt, konnte man, als
+der Nebel sich lichtete, selbst nicht vom Mastkorbe mehr eisfreies Wasser
+wahrnehmen. Wir mußten daher unsern Plan, direct zum Storfjord vorzudringen,
+aufgeben, und sahen uns dafür, um nicht mitten im Ocean eingesperrt zu werden,
+genöthigt, uns mehr und mehr nach Nordwesten zu ziehen, wo wir hoffen durften
+das Meer freier von Eis zu finden. So fuhren wir denn 48 Stunden lang, während
+eines beständigen Kampfes mit dem Eise, weiter, ohne jedoch weder den Storfjord
+noch einen der südlichen Häfen der Westküste von Spitzbergen zu erreichen. Je
+weiter nach Norden, desto mehr wurde das Eis vertheilt. Begünstigt durch eine
+starke Kühlte, gelang es uns zuletzt auf der Höhe von Prinz Charles Vorland uns
+durchzuschlagen und in die Nähe des Landes zu kommen. Schon am Tage vorher
+hatten wir, als der Nebel ein wenig fiel, einen Schimmer von den Bergen am
+Bellsund wahrgenommen. Offenbar umgab das Treibeis den ganzen südlichen Theil
+Spitzbergens, so daß wir uns genöthigt sahen, auf der Westküste Anker zu werfen
+und eine Wendung zum Bessern abzuwarten. Da wir aber schon auf unseren früheren
+Reisen mit der Windstille, welche während des Sommers hier zu herrschen pflegt
+und eine Segelfahrt, selbst bei den kürzesten Entfernungen, zu einer
+Geduldsprobe macht, bekannt geworden waren, so wollten wir nicht in einem der
+Häfen des Vorlandes ansprechen, sondern fuhren wieder nach Süden, in der längs
+dem Strande gehenden breiten, offenen Wasserrinne, um auf diesem Wege den dem
+Storfiord näheren Horn- oder Bellsund zu erreichen. Südlich vom Eisfjord zog
+sich indessen das Treibeisfeld bis zum Lande hin; es blieb uns also nichts
+Anderes übrig, als in diesem gerade in der Mitte der Westküste belegenen Fjorde
+vor Anker zu gehen. Von den vielen Häfen des Eisfjordes wählten wir natürlich
+Safe Haven, weil man von hier am leichtesten in südlicher Richtung weiter kommen
+kann. Wir warfen hier am Nachmittage des 26. Juni Anker.
+
+Während wir zwischen dem Treibeise kreuzten, hatten wir wiederholt ein Boot
+ausgesetzt, um Tiefenmessungen vorzunehmen. Wir befanden uns indessen der Küste
+zu nahe, trafen auf keine erhebliche Tiefe und mußten uns darauf beschränken,
+mit Lindquist's Apparat Wasserproben aus verschiedenen Tiefen heraufzuholen.
+Dieser Apparat erwies sich als sehr zweckentsprechend, und wir glauben den
+etwaigen späteren Expeditionen nach Spitzbergen einen Dienst zu erweisen, wenn
+wir denselben empfehlen.
+
+:::: { .wrap-70 .caption }
+![Safe Haven.](Die_schwedischen_Expeditionen_405.jpg "Safe Haven."){#b405}
+::::
+
+Safe Haven ist eine kleine Bucht an dem nördlichen Strande des Eisfjordes. Sie
+bildet einen gegen die meisten Winde gut geschützten Hafen mit weichem Thon-,
+also gutem Ankergrunde. Daher auch der alte Name, welchen die norwegischen
+Walroßjäger in Sauhamn, d. h. Schafshafen verdreht haben. Das Innere der Bucht
+wird von einem ungeheuren, vielfach gespaltenen Gletscher eingenommen, von
+welchem oft große Eisblöcke niederfallen. Ihr östlicher Strand besteht aus einem
+50 bis 100 Fuß hohen, durchaus senkrechten Felsbande, welches allmählich zu
+einem nicht erheblichen, von aufrecht stehenden Schichten gebildeten Bergkamme
+aufsteigt. In dem Kalkgestein findet man häufige Versteinerungen, namentlich
+große Exemplare der Arten Spirifer und Produetus. Die Westseite wird von einem
+ähnlichen, einer älteren, nicht Versteinerungen führenden Bildung angehörigen
+Berge eingenommen, von dessen Abhängen verschiedene kleine linsenformige
+Eismassen niederhängen. Auf der äußersten Spitze des Weststrandes steigt ein
+stattlicher Gletscher bis zum Niveau des Meeres herab. Wie so häufig bei den
+spitzbergischen Gletschern, ist er nicht blos gegen das Meer, sondern auch nach
+Norden hin, wo er noch ein Ende über einen sandigen Vorstrand reicht, quer
+durchgeschnitten, so daß man die schichtenartige Structur der Eismassen leicht
+erkennen kann. Auf der andern Seite dieses Gletschers verläuft der längs dem
+westlichen Strande des Hafens sich nach dem Eisfjorde hinziehende Bergkamm in
+einen etwa 1,500 Fuß hohen, überhängenden Berg, welcher einen Sammel- und
+Brutplatz für Hunderttausende von Alken bildet und daher den Namen Alkenhorn
+erhalten hat.
+
+Einige kleine Holme auf beiden Seiten des Einganges zum Fjorde dienen den
+Eidergänsen und Burgemeistern zum Brüten. Die ersteren sind hier, sobald das Eis
+aufgegangen, gegen den Anfall der Füchse geschützt, gleich wie die Alken und
+kleineren Möwenarten durch die unzugänglichen Felswände. Die große Graue Gans
+hält sich dagegen für stark genug, um dieses Schutzes nicht zu bedürfen; sie
+brütet daher auf dem festen Lande, und zwar auf dem obersten Rande des steilen
+Strandwalles, welcher auf der Nordostseite des Hafens in's Meer abfällt.
+
+Den 26. und 27. war die Witterung so ungünstig, daß wir nur kleinere Ausflüge in
+der Nähe des Schiffes unternahmen. Am 27. schien, nach der Richtung der schnell
+dahinjagenden Wolken zu schließen, ein Sturm aus Nordwesten draußen auf dem
+Meere zu wüthen, während im Hafen die vollste, nur von einzelnen starken
+Windstößen unterbrochene Windstille herrschte. Wie man vom Fuße des Alkenhornes
+aus wahrnehmen konnte, lagerten sich infolge dessen vor dem Eingange zum
+Eisfjorde so dichte Treibeismassen, daß alle Aussichten auf baldige Weiterfahrt
+nach Süden für uns verschwanden. Um nun während unseres unfreiwilligen
+Aufenthaltes an der Westküste die Zeit nicht umsonst hinzubringen, beschlossen
+wir nach den inneren Partien des Fjordes Bootreisen zu unternehmen und die bis
+dahin nur unvollständig bekannten, so interessanten geographischen und
+geognostischen Verhältnisse dieser Landschaft zu untersuchen. Nordenskiöld
+eröffnete diese Ausflüge, indem er mit dem englischen Boote, dem Capitän
+Hellstad und dreien Leuten eine Fahrt zu dem großen Bergzuge unternahm, welcher
+den Eisfjord in zwei Arme theilt und auf Grund dessen, ebenso wie manche andere,
+ähnlich belegene Berge, von den Spitzbergenfahrern Midterhuk genannt wird. Um
+Verwechslungen vorzubeugen, haben wir den Berg nach den dort aufgefundenen
+Knochenresten vorweltlicher Thiere Sauriehuk genannt. Ueber diesen Ausflug
+theilt Nordenskiöld Folgendes mit.
+
+„Der Fjord war noch mit Treibeis angefüllt, das Wind und Strömung bald hierhin,
+bald dorthin trieben. Da nun in den letzten Tagen die herrschenden Winde das
+Treibeisfeld nach dem südöstlichen Theile des Fjordes geführt hatten, so
+ruderten wir längs dem nordwestlichen, verhältnißmäßig eisfreien Strande hin.
+Nimmt man ein paar etwa hundert Faden tiefe Stellen aus, welche sich vor den
+senkrecht abfallenden Gletschern am Ufer hinziehen, so hat der Eisfjord, selbst
+in einer halben Meile Entfernung vom Lande, immer nur eine sehr geringe Tiefe.
+Darum liegen auch ungeheure Grundeisblöcke, welche nur bei der höchsten Fluth
+loskommen, den ganzen Sommer lang über den Fjord zerstreut und bilden eine Art
+von Schärenflur; nur daß statt der Felsen Eisklippen starren, welche dem
+Schiffer sowohl gegen die Wellen als auch gegen das Treibeis einen
+vortrefflichen Schutz gewähren. Man muß sich beim Rudern längs dem Strande daher
+sehr hüten, daß man nicht auf den flachen Grund geräth, zumal während der Ebbe.
+Dafür darf man aber auch vor den gefährlichen Treibeisfeldern, welche von Wind
+und Strömung längs den tieferen Stellen geführt werden, keine Furcht haben.
+
+„Da wir von einem ziemlich guten Winde begünstigt wurden, erreichten wir schon
+am ersten Reisetage die niedrige, breit hervortretende „Nase“, welche etwa in
+der Mitte zwischen Sauriehuk und Safe Haven sich in den Eisfjord erstreckt und
+später von uns den Namen Cap Bohemann erhielt. Während der Fahrt passirten wir
+ein vom Wasser ausgehöhltes Thor, nach Art des Burgemeisterthores auf
+Bären-Eiland, sowie einige südlich von Cap Bohemann belegene Eiderholme. Einer
+von diesen wurde geplündert, um mit den Eiern unsern Proviantvorrath zu
+vermehren. Ich hatte ausdrücklich befohlen, daß nur solche Eier genommen werden
+dürften, welche sich nach genauer Prüfung als frisch und brauchbar
+herausstellten. Die Leute überzeugten sich auch von der Zweckmäßigkeit dieser
+Anordnung und versprachen sich danach zu richten. Man hielt die Eier aus
+verschiedenen Nestern gegen das Tageslicht und erklärte sie sämmtlich für
+frisch. Wenige Augenblicke später war der mit Nestern bedeckte Holm geplündert,
+einige Eidergänseriche geschossen, und wir fuhren weiter. Als der Koch die Eier
+später zu einem Gerichte verwenden wollte, zeigte es sich indessen, daß die
+meisten bereits bebrütet und unbrauchbar geworden waren.
+
+„Am folgenden Tage ruderten wir weiter durch ein ziemlich eisfreies Wasser zum
+Eingange des östlichen Armes des Nordfjordes hin, welcher aus der Entfernung
+gesehen vollkommen offen schien. Als wir jedoch näher kamen, sahen wir, daß die
+spiegelglatte Oberfläche, welche wir für offenes Wasser gehalten hatten, eine
+fest zusammenhängende, zum größten Theile mit Aufwasser bedeckte Eisdecke sei.
+Da es uns also unmöglich war, das Ende des Nordfjordes zu erreichen sei, so
+beschlossen wir dafür an dem hohen Berge anzulegen, welcher den Nordfjord von
+der Klaas-Billen-Bucht trennt. Ich hoffte hier eine reiche Ausbeute von
+Versteinerungen zu machen, während Hellstad behauptete, ein den südöstlichen
+Theil des Bergzuges durchschneidendes Thal hege so viel Rennthiere, als nur
+irgend eines auf Spitzbergen. Erst gegen die Nacht hin erreichten wir die
+Mündung des nicht unerheblichen Flusses, welcher das Rennthierthal durchströmt,
+und zogen unser Boot nördlich von dem Strome auf den Strand.
+
+„Gleich nachdem wir an's Land gestiegen, wanderte ich zu einer Kluft, das
+Resultat eines kleinen Baches, in der Nähe unseres Rastplatzes, und sammelte
+eine Menge Versteinerungen. Sie gehörten der interessanten Triasablagerung an,
+welche am Eisund Storfjord in großer Ausdehnung auftritt. Am folgenden Tage ging
+ich zu einer etwas weiter gelegenen Kluft auf der Südwestseite der Ebene, und
+war auch hier so glücklich, verschiedene schöne Versteinerungen zu finden, unter
+welchen ich nur nenne: *Große nautilusartige Muscheln und Knochenfragmente von
+einigen krokodilartigen Thieren, von denen ein Theil eine Länge von mehr als
+zwei Ellen gehabt zu haben scheint.* Dergleichen Thiere treffen wir jetzt nur
+noch in den Tropenländern; diese unbedeutenden Knochenfragmente müssen daher für
+den Geologen bei Feststellung der einstigen Vertheilung der Wärme auf der Erde
+von der größten
+
+„Auch Hellstad war auf seinem Gebiete glücklich. Er schoß nämlich sieben recht
+fette vortreffliche Rennthiere. Das Schwerste, wie es immer bei dieser Jagd der
+Fall, war es nur, die erlegten Thiere bis zu unserm Boote zu schaffen. Sie
+hielten sich nämlich eine halbe bis eine Meile vom Lande entfernt an dem
+südwestlichen Abhange des schönen — für Spitzbergen — grasreichen Thales,
+welches von dem oben gedachten Flusse durchströmt wird. Wir hatten also die
+Jagdbeute nicht nur eine halbe Meile weit über einen sehr unebenen Boden,
+sondern auch über den sehr reißenden Fluß zu transportiren. Einer unserer Leute,
+Olaus, wäre beinahe ertrunken, da er den Fluß mit zweien auf seinen Rücken
+gebundenen Rennthieren (einer Kuh und einem Kalbe) durchwatete. Als er nämlich
+die Mitte, wo ihm das Wasser bis an die Brust ging, erreichte, verlor er
+plötzlich den festen Grund und wurde ein Ende von dem reißenden Strome abwärts
+geführt. Glücklicher Weise watete auch Hellstad gerade mit einem Rennthiere
+durch den Fluß und vermochte den beinahe schon bewußtlosen Kameraden zu retten.
+
+„Hellstad entfernte sich sofort wieder, um ein anderes Rennthier zu holen. Als
+ich nun mit den übrigen Leuten von meinem geologischen Ausfluge zurückkehrte,
+erblickte ich den armen Olaus, wie er allein, düster und erfroren, am Strande
+auf und ab rannte, in seinen nassen, anklatschenden Kleidern und mit einem
+Schlafsack, dem einzigen zu seiner Disposition stehenden trockenen Ueberwurfe,
+drapirt. Reservekleider hatten wir nämlich nicht mitgenommen. Wer daher in's
+Wasser fiel, mußte warten, bis die Kleider ihm auf dem Leibe trockneten. Die
+Theilnahme der zurückgekehrten Kameraden äußerte sich sofort theils in allerlei
+mehr oder weniger treffenden Witzen, theils in dem, vielleicht nicht ganz
+interesselosen Eifer, mit welchem sie Alle einen größeren Kaffeeschmaus in's
+Werk zu setzen sich bemühten. Schon Olaus. hatte vorher versucht ein Feuer
+anzuzünden, aber unverständig genug, den in Ermangelung von Treibholz als
+Brennmaterial zu verwendenden Talg ohne Unterlage auf den Sand gelegt, natürlich
+mit dem Erfolge, daß der geschmolzene Talg in wenigen Augenblicken im Sande
+verrann. Nachdem der Kaffee ausgetrunken worden, schoben wir das Boot wieder
+in's Wasser und fuhren mit gutem Winde längs dem noch ziemlich freien
+nordwestlichen Strande in einem Zuge bis zu unserm Schiffe, wo wir am 30. Juni
+fünf Uhr Morgens ankamen. Während dieser Fahrt waren wir mehrere Male in der
+Lage, zu bemerken, wie nicht allein die Wellenbewegung, sondern auch der Wind
+schwächer wird, wenn man in ein noch so „dünnes“ Treibeisfeld kommt, und wie
+umgekehrt beides zunimmt, sobald man das Eis verläßt. Diese den
+Spitzbergenfahrern wohlbekannten Erscheinungen beruhen darauf, daß die Wogen,
+indem sie gegen große Eisstücke stoßen, nach verschiedenen Seiten abgelenkt
+werden, auf einander treffen und dadurch ihre Kraft verlieren. Ein nach diesem
+System erbauter Wellenbrecher, der aus mehreren großen, ein Ende von einander
+schwimmenden Bojen bestände, würde unzweifelhaft mit gutem Erfolge bei einem
+nach der See zu geöffneten Hafen angewendet werden können.“ Während
+Nordenskiöld's Abwesenheit suchten Dunér und Malmgren durch regelmäßige
+Beobachtungen des Steigens und Fallens des Wassers die Gesetze, von welchen Ebbe
+und Fluth auf Spitzbergen abhängig ist, zu erkennen. Außerdem unternahmen sie
+ein paar kürzere Ausflüge, theils nach Safe Haven, um die Karte zu berichtigen,
+theils zum Alkenhorne, um sich hier über die Lage des Eises zu unterrichten. Als
+sie auf dieser letzteren Tour am Fuße des Berges anlegten, vernahmen sie in der
+Höhe einen eigenthümlichen Laut, den Uusimaa als von einem Bären herrührend
+erklärte. Hierdurch wurde der Jagdeifer natürlich in einem so hohen Grade
+geweckt, daß alle Mann in der Richtung jenes Lautes fortstürzten; doch
+entdeckten sie bald, daß er lediglich von einem Fuchse herrührte, welcher
+schleunigst die Flucht in das Gebirge ergriff. Vom Fuße des Alkenhornes konnte
+man deutlich erkennen, daß die Lage des Eises noch immer dieselbe sei; vorläufig
+gab es also noch keine Möglichkeit, aus dem Eisfjorde hinaus zu gelangen. Am 30.
+gegen Mittag nahm man an dem Eingange zum Safe Haven ein Segelboot wahr, welches
+man anfangs für das Nordenskiöld's hielt; es stellte sich indessen bald heraus,
+daß es eine kleine vom Schiffer Björvik geführte Yacht aus Tromsö war,
+demselben, welcher im Sommer 1861 als Steuermann auf der Brigg Jaen Mayen
+gedient hatte. Er war eine kurze Zeit in der Advent-Bai gewesen, um einen Leck
+auszubessern, und beabsichtigte, nachdem er in Safe Haven Wasser eingenommen,
+wieder zum Vorlandssunde zu gehen.
+
+Nach seiner Rückkehr schilderte Nordenskiöld die Reize einer Bootfahrt mit so
+lebhaften Farben und regte überdies die Reiselust der Zurückgebliebenen durch
+seinen Bericht über die Vortrefflichkeit des Jagdplatzes und die Vorzeigung der
+bei der Sauriehuk eingesammelten Versteinerungen in dem Grade an, daß Alle
+sofort darüber einverstanden waren, es seien Bootfahrten nach dem Innern des
+Fjordes unter den gegebenen Verhältnissen das Beste, was man thun könne. Hier
+war für die Forscher noch viel zu entdecken und festzustellen, während die Lage
+des Eises eine Möglichkeit der Befreiung noch immer ausschloß. Es wurde daher
+sowohl das englische Boot als auch das in Tromsö gekaufte von Neuem in Ordnung
+gebracht, die Ausrüstung und Verproviantirung mit größerer Sorgfalt als das
+erste Mal überwacht, so daß weder Zeltstangen noch — wie es damals der Fall
+gewesen die so wichtige Zugabe zum erwärmenden Kaffee, der Zucker, vergessen
+bliebe. Der Schlüssel zur Cajüte, in welcher unser Wein und die Spirituosen
+lagerten, wurde unserm zuverlässigen Begleiter von Stockholm, Johansson,
+anvertraut, Uusimaa aber während der Abwesenheit Hellstad's und des Steuermanns
+zum interimistischen Capitän ernannt. Nachdem Alles in Ordnung gebracht, gingen
+die beiden Boote am 2. Juli gleich Nachmittags zu dem südlichen Strande des
+Eisfjordes ab. In dem großen englischen Boote befanden sich Malmgren,
+Nordenskiöld, Hellstad, der Koch und zwei Mann, in dem andern, sogenannten
+„schwarzen Boote“ Dunér, der Steuermann und zwei junge Leute, welche zum ersten
+Male in ihrem Leben an einer längeren Seereise Theil nahmen und an Bord unter
+dem Namen Balsfjordinger, das heißt Bewohner vom Balsfjorde, bekannt waren.
+
+*Nordenskiöld's und Malmgren's Bootfahrt.* Anfangs folgten die beiden Boote
+einander, indem der Cours quer über den Fjord genommen wurde; nachdem wir aber
+nach etwa vierstündiger Fahrt den südlichen Strand des Eisfjordes erreicht
+hatten, steuerte Dunér mehr nach Westen, um — wie wir vermutheten — die
+Kohlenbucht zu erreichen; wir hielten dagegen auf das erste Thal östlich von
+dieser Bucht. Sodann ruderten wir am folgenden Tage weiter nach Osten durch
+einen ziemlich eisfreien Kanal neben dem Südstrande des Eisfjordes bis zur
+Sassen-Bai, woselbst wir unser Nachtquartier aufschlugen. Während wir längs dem
+hohen, fast durchweg senkrecht abfallenden Felsufer ruderten, stiegen wir
+zuweilen an's Land, um Pflanzen und Versteinerungen einzusammeln, die
+Lagerungsverhältnisse des Gebirges zu untersuchen, Rennthiere zu schießen u. s.
+w. Malmgren hatte bei einer solchen Gelegenheit das Glück, an dem hohen Felsufer
+des Flusses, welcher auf der Ostseite der Advent-Bai mündet, eine Graue Gans
+(Anser brachyrhynchus) zu schießen und einige von ihren Eiern einzusammeln.
+Hellstad erlegte an eben dieser Stelle einige Rennthiere, welche eine
+willkommene — allerdings auch schon in Aussicht genommene — Vermehrung unseres
+nur spärlichen Fleischvorrathes bildeten. Am folgenden Tage ruderten wir weiter
+nach dem südlichen Arme des Südfjordes bis zu einem kleinen, dunklen,
+hutförmigen Berge, welchen wir schon aus der Ferne für hyperitisch gehalten
+hatten. Wir stiegen daselbst an's Land, bestimmten einige durch nahe Berge und
+Vorgebirge gebildete Winkel, errichteten eine Steinpyramide und ruderten weiter
+zu einem der kleinen vor dem hohen Berge Gipshuk, der die Sassen-Bai von der
+Klaas-Billen-Bai trennt, liegenden Holme. Auch diese Inseln bestanden aus
+Hyperit und waren mit den Nestern der Eidergänse wie übersät.
+
+Wie so viele andere hochnordische Vögel brüten auch die spitzbergischen
+Eidergänse colonienweise auf gewissen an den Küsten Spitzbergens zerstreuten,
+meist niedrigen Holmen, von deren Rändern das Eis sich schon frühe loslöst, so
+daß sie dem Fuchs, welcher den Sommer über vorzugsweise von Eiern und jungen
+Vögeln lebt, unzugänglich bleiben. Vorherrschend brüten hier Eidergänse, doch
+kommen auf den mehr niedrigen Theilen auch Gänse und Meerschwalben vor, und auf
+den Spitzen einiger höher ragenden Felsen ein paar Großmöwen. Bevor das Eis
+aufgeht, lassen die Eidergänse sich selten auf einem solchen Holme nieder. Darum
+bleibt manches sonst dicht besetzte Eiderwehr den ganzen Sommer über unbesucht,
+wenn das feste Eis zwischen der Insel und dem Lande zu lange liegen bleibt. Wer
+einen solchen Holm niemals gesehen hat, wird sich kaum eine Vorstellung machen
+können von dem Leben, dem Schnattern und dem Streit, die hier beständig
+herrschen. Die Nester liegen über den ganzen Holm zerstreut, so dicht neben
+einander, daß man keinen Tritt machen kann, ohne auf Eier zu treten. Die
+Weibchen sitzen beinahe ununterbrochen auf den Eiern. Nicht weit davon hat der
+prächtige Gänserich seinen Platz eingenommen und giebt durch ängstliche Laute zu
+erkennen, wenn irgend eine Gefahr naht; er flieht zuerst und läßt seine Genossin
+im Stiche. Die Gans verläßt ihre Eier dagegen nur im äußersten Nothfall, und sie
+hat auch allen Grund dazu. Denn kaum ist sie fort, so stürzt die mit Recht so
+benannte Diebsmöwe, welche immer auf Raub lauert, sofort auf die Eier und frißt
+sie auf. Wenn zwei Nester so nahe bei einander liegen, daß die Eidergänse zu
+gleicher Zeit fortgescheucht werden, so kommt es oft vor, daß die Raubmöwe die
+Eier in dem einen Neste zerhackt, bevor der Mensch das andere ausnimmt. An
+anderen Stellen der Insel erblickt man diese Raubmöwe, wie sie unter
+kreischendem Geschrei die viel größere und stärkere Großmöwe verfolgt und sie,
+trotz deren Größe, nöthigt, ihr die gemachte Beute zu überlassen. Die Verfolgte
+weiß sich meist nicht anders zu retten, als daß sie sich auf die See wirft, aber
+unterzutauchen vermag sie nicht. Die Raubmöwe hat aber wiederum einen schlimmen
+und unversöhnlichen Feind in der kleinen aber muthigen Meerschwalbe, welche
+dieselbe mit äußerster Wuth in die Flucht schlägt, sobald die Raubmöwe so
+unvorsichtig ist, sich ihrem Neste zu nähern. Infolge des pfeilschnellen Pfluges
+der Meerschwalbe ist die Raubmöwe, die Besiegerin der großen Möwe, schutzlos
+diesem kleinen Vogel preisgegeben, obwohl er an Größe die gewöhnliche
+Hausschwalbe nur wenig übertrifft. Er nimmt sogar nicht einmal Anstand, einen
+Menschen anzugreifen, wenn derselbe sein Nest zu plündern versucht, und man
+sieht sich oft wider seinen Willen genöthigt, den kleinen, kecken Kampfhahn
+niederzuschießen, um sich nur vor seinen Angriffen zu retten. Die Eidergans mag
+gern auf recht vielen Eiern sitzen. Hat sie nun das Mißgeschick, einige durch
+die Handlungen der Menschen oder die Raubmöwen zu verlieren, so soll sie sich
+ihrerseits nicht scheuen, aus einem Nachbarneste ein paar zu stehlen. Dieselbe
+Unsitte scheint auch bei der grauen Gans zu herrschen; wenigstens fand Einer
+unserer Leute auf der ersten Bootfahrt ein solches Gänsenest, in welchem neben
+dreien Gänseeiern auch zwei von Eidergänsen lagen. Wird die letztere von ihrem
+Neste verscheucht, so scharrt sie gerne Moos oder Daunen über die Eier und
+benetzt sie überdies mit einer übelriechenden, den geflügelten Eierliebhabern
+vermuthlich sehr unangenehmen Flüssigkeit. Die eingesammelten Daunen haben daher
+anfangs einen sehr widerwärtigen Geruch, der jedoch bald verschwindet und
+offenbar von einem flüchtigen, sehr leicht vertheilbaren Stoffe herrührt. Die
+Spitzbergenfahrer wissen ganz genau, an welchen Stellen der Küsten die
+Eiderwehre belegen sind, und sie besuchen dieselben jedes Jahr in der Brütezeit,
+um Eier und Daunen einzusammeln. Anfangs pflegt man noch ein Ei in jedem Neste
+zu lassen, um nicht die Eidergänse ganz zu verscheuchen und einer reicheren
+Ausbeute verlustig zu gehen; bevor man aber weiter fährt, plündert man die Insel
+vollkommen und schießt auch die Eidergänse schonungslos nieder. Besuchen die
+Leute von mehreren Schiffen zu gleicher Zeit einen Holm, so erfolgt die
+Plünderung gemeinschaftlich und der Raub wird im Verhältniß zu der Zahl der
+Leute, die an's Land geschickt sind, vertheilt. Kaum giebt es noch einen Holm
+auf der Westküste und in den Fjorden, welcher der jährlichen Plünderung entgeht;
+so vermindert sich die Zahl dieser Vögel von Jahr zu Jahr.
+
+Bei unserm Besuche war der Sommer schon so weit vorgeschritten, daß der größere
+Theil der Eier keinen Nutzen mehr gewährte. Da indessen unser Capitän und Einige
+der Leute die Kunst verstanden, ein frisches Ei nach dem bloßen äußeren Aussehen
+von einem schon bebrüteten zu unterscheiden, so wurden nur diese an das Land
+geschickt, mit der bestimmtesten Anweisung, blos frische Eier einzusammeln.
+Dieselbe wurde diesesmal auch in der That genau befolgt. Ein und der andere
+Irrthum war freilich bei dem besten Willen nicht zu vermeiden. Vor unserer
+Abreise legten wir daher die Eier in Salzwasser, bei welcher Probe die
+untauglichen obenauf schwimmen, die brauchbaren aber untersinken. Das Resultat
+ergab, daß die Leute wirklich mit großer Sorgfalt die Auswahl getroffen hatten.
+
+Wir beabsichtigten anfangs auf diesem Holme über Nacht zu bleiben; um aber nicht
+etwa von dem „einsetzenden“ Treibeise eingesperrt zu werden, beschlossen wir
+doch lieber nach Gipshuk hinüber zu fahren. Am 5. Juli Morgens früh erreichten
+wir die vor dem Berge belegene vortretende Landspitze und zogen das Boot auf das
+Ufer.
+
+Die Landschaft war hier von einer überraschenden Schönheit. Die Spitze bestand
+aus einem niedrigen, vielfach zerspaltenen Hyperitfels, über welchem, ein Ende
+vom Strande, ein hoher Berg aufragte, zu unterst aus horizontalen grauen
+Gipsschichten bestehend, in welche hier und da weiße Alabasterkugeln, nach Art
+einer Perlenschnur, eingesprengt waren. Höher hinauf trat ein ebenfalls
+horizontales schwarzes Hyperitband auf, welches seinerseits von felde bedeckt
+wurde. Weiter im Innern der Sassen-Bai erschien ein anderer, vielleicht noch
+großartigerer Berg, der „Tempelberg“, welcher senkrecht in's Meer abfiel. Das
+mächtige Hyperitband, das die Stirne auch dieses Riesen bildete, war so
+regelmäßig zerklüftet und gefurcht, daß man gothische Bogen und einen in
+Trümmern liegenden kolossalen Dom zu erblicken glaubte. Am Fuße dieses Berges
+schwammen unzählige Treibeisblöcke in phantastischen Formen, und der Fjord
+erschien so ruhig, daß er jede Eisspitze, jede Klippe am Strande deutlich
+wiederspiegelte. Eine große Menge theils auf den Hyperitinseln, theils an den
+Bergabhängen brütende Vögel durchkreuzten die Lüfte oder schwammen zwischen den
+Eisstücken, um in der Fluth ihre Nahrung zu suchen, und brachten einen Zug von
+Leben in das sonst so starre Antlitz dieser hochnordischen Natur.
+
+Wir verweilten hier bis zum 6. Abends, theils um Versteinerungen einzusammeln,
+welche wir häufig in den Kalk- und Flintschichten der Gipshuk eingestreut
+fanden, theils um Rennthiere zu schießen, welche auf dem schmalen Uferstreifen
+an den Abhängen der Berge weideten. Das Treibeis hatte sich mittlerweile in
+solchen Massen um die Spitze, auf welcher wir uns befanden, gesammelt, daß wir
+beinahe ganz eingeschlossen waren und infolge dessen uns genöthigt sahen noch
+länger hier zu weilen. Schon war wieder von Neuem unser bereits abgenommenes
+Zelt aufgeschlagen, als sich eine Oeffnung in dem sonst überall dicht gepackten
+Treibeise zeigte. Die Erfahrung hatte uns gelehrt, wie nothwendig es in diesen
+Gegenden sei, jeden günstigen Augenblick zu benutzen, wir schoben daher sofort
+unser Boot in's Wasser, um zu dem andern Ufer zu rudern. Diese Ueberfahrt sollte
+auch zugleich unsere letzte Fahrt hier sein.
+
+Das regnerische Wetter hatte im Laufe des Tages sich verändert und einer jener
+herrlichen, sonnenglänzenden Nächte Platz gemacht, welche dem höchsten Norden
+die gepriesenen Sommertage des Südens reichlich ersetzen. Ohne etwas Besonderes
+zu erleben, bahnten wir uns auf der stillen, spiegelblanken Wasserfläche einen
+Weg durch das dichtgepackte Treibeis, und es trennte uns nur noch ein schmaler
+Eisstreifen von dem offenen Wasser an dem andern Strande. Aber schon von Weitem
+konnten wir wahrnehmen, daß die vorhandenen Oeffnungen sich mehr und mehr
+schlossen. Wir griffen deshalb alle zu den Rudern, um das Boot schleunigst
+weiter zu bringen. Trotzdem hatte der Kanal, auf welchen zu wir hielten, sich
+auch schon so weit verengt, daß nur noch die Spitze des Bootes hineinging. Es
+würde zerdrückt worden sein, hätten wir nicht sofort den Rückzug angetreten. Wir
+suchten deshalb nach einem andern Ausgange; jede Oeffnung schloß sich indessen
+wenige Minuten bevor wir sie erreichten. In Kurzem sahen wir uns in einem Felde
+von losen Eisstücken, auf die wir weiter nicht geachtet hatten, da sie ganz
+schwarz und vom Wasser durchzogen waren, vollkommen eingeschlossen. Mit starkem
+Krachen wurde dieses Eis zwischen einem großen festen Eisfelde im Innern des
+Fjordes und einer ungeheuren Treibeismasse, welche mit der Fluth in den Fjord
+hineindrang, zusammengepreßt. Die einzelnen Eisblöcke wurden theils zermalmt,
+theils mit einer unglaublichen Schnelligkeit auf die Eisdecke hinaufgeschoben.
+Von einem Regieren des Bootes war nicht die Rede, indem wir weder die Ruder
+gebrauchen konnten, noch das Eisfeld das Boot, oder auch nur uns zu tragen
+vermochte. Bald that das Eis sich unter demselben zusammen und hob es hoch in
+die Höhe, bald preßte es das Boot bis zum Rande herunter, so daß wir es nur mit
+äußerster Noth vor dem Zerdrücktwerden oder Umstürzen bewahren konnten.
+Vergebens bemühten wir uns, einen Pfad zu der andern Strandseite zu bahnen. Als
+es uns einmal mit äußerster Anstrengung gelang, das Boot einige Klafter weit zu
+schieben, verdickte sich der Eisbrei wiederum unter uns und nöthigte uns, jede
+Aktivität aufzugeben. Wir mußten uns darauf beschränken, das Boot im
+Gleichgewicht zu erhalten und, so viel als das Eis es zuließ, es zu erleichtern.
+Mit größter Unruhe sahen wir dem Augenblicke entgegen, da die heranrückende
+Treibeismasse und das feste Eisfeld mit einander zusammenstoßen würden, indem
+sie vorläufig nur die losen Eisstücke, in deren Mitte wir uns befanden,
+zusammenpreßten. Das Schicksal des Bootes wie der Menschen ließ sich dann leicht
+voraussehen.
+
+Als das lose Eis und das feste Eisfeld an einander stießen, begannen die
+Eisstücke sich mehrfach in heftigen Wirbeln zu drehen, so daß sie in kurzer Zeit
+die kleineren Stücke zermalmten. In dieser Art erregte auch in der Nähe unseres
+Bootes ein ungeheurer Gletscherblock, den man schon einen Eisberg nennen durfte,
+das Wasser, und zerdrückte und versenkte jedes Eisstück, das in seine
+gefährliche Nachbarschaft kam, so daß sich in seiner Spur eine kleine offene
+Wasserfläche bildete. Mit jeder Umdrehung kam er uns näher. Wir lagen mit unserm
+Boote im Eisbrei fest und unbeweglich, so daß es einige Augenblicke den Anschein
+hatte, dieser Eisfels werde kommen und uns zerdrücken, noch ehe das Treibeis und
+das feste Eis zusammenstießen. Statt dessen sollte er aber unser Retter werden.
+Indem nämlich der Eisberg dicht an unserm Boote vorüber kreiste, ohne dasselbe
+jedoch zu beschädigen oder auch nur zu berühren, beeilten wir uns durch Schieben
+mit Stangen so schleunig als möglich die ihm folgende Oeffnung zu erreichen,
+welche sich bis zum Rande des festen Eises erstreckte, und es gelang uns, noch
+ehe sie sich wieder schloß, nach mehreren vergeblichen Versuchen, das mit
+Steinen und dem Proviant schwer beladene Boot auf das feste Eis, dessen Kante
+mindestens eine halbe Elle die Wasserfläche überragte, zu ziehen. Wir sahen uns
+gerettet und konnten nunmehr mit Ruhe das großartige Schauspiel, welches gleich
+darauf begann, betrachten, indem das Treibeis die losen Eisstücke ganz und gar
+verdrängte und mit ungeheurem Donner und Krachen gegen das feste Eis stieß. Die
+hinaufgedrängten Blöcke bildeten einen langen Wall, durch welchen wir uns später
+einen Weg bahnen mußten, um das Boot wieder in's Wasser zu schaffen. Auch die
+Kante des festen Eises wurde bei diesem Zusammenstoße vielfach zerbrochen, so
+daß wir das Boot noch weiter hinaufzogen, um es zu sichern. Bald darauf wurde es
+wieder ganz ruhig und still; das Eisfeld war zum Stehen gekommen, oder besser,
+der Eisstrom hatte eine andere Richtung genommen.
+
+Es blieb uns nunmehr nichts Anderes übrig, als ruhig zu warten, bis das Eis mit
+der veränderten Strömung sich zertheilen werde, und uns bis dahin den Aufenthalt
+so angenehm als möglich zu machen. Es wurde das Zelt über dem Boote
+aufgeschlagen, Kaffee gekocht, und wir krochen in unsere Schlafsäcke, um uns von
+der letzten ermüdenden Anstrengung auszuruhen. Nach einigen Stunden erblickten
+wir in dem Treibeisfelde wieder ein paar offene Wasserstreifen. Wir zogen das
+Boot zur Eiskante und schoben es, als uns der günstige Moment gekommen schien,
+in eine der größeren Oeffnungen. Durch unser früheres Mißgeschick gewarnt,
+suchten wir nun so schnell als möglich Land zu erreichen und folgten sodann dem
+Ufer, bald rudernd, bald uns in einer durch die Fluth erzeugten, schmalen
+Wasserrinne weiter schiebend. Zuletzt war aber auch dieser Kanal geschlossen, so
+daß wir nicht weiter zu kommen vermochten, sondern uns genöthigt sahen, mitten
+am nördlichen Strande des Südfjordes Halt zu machen. Hier zogen wir um ein Uhr
+am Morgen des 7. Juli das Boot auf den Strand.
+
+Nachdem Malmgren und ich noch einen kurzen Ausflug zu dem Innern des Fjordes
+gemacht, einige Rennthierseiten gekocht und mit gutem Appetite verzehrt hatten,
+legten wir uns zum Schlafen nieder. Gegen Mittag begaben wir uns wieder auf
+mehrere Ausflüge nach verschiedenen Richtungen. Behufs Aufnahme einer Karte des
+Fjordes ging ich zu einer ziemlich weit nach Osten hin gelegenen Landspitze,
+weil ich hier gute Winkel zu erhalten hoffte. Ein dichter Nebel hinderte mich
+jedoch, den Strand auf der andern Seite des Fjordes wahrzunehmen, und ich mußte
+unverrichteter Sache wieder zurückkehren. Malmgren war glücklicher, indem es ihm
+gelang, ein spitzbergisches Schneehuhn zu schießen, eine zoologische Rarität,
+und eine Menge interessanter Versteinerungen einzusammeln. Später am Tage ging
+auch ich, in Begleitung eines Mannes, zu einem in der Nähe befindlichen Thale,
+um Versteinerungen zu suchen, und kehrte nach einigen Stunden mit einer guten
+Ausbeute zurück, hauptsächlich aus Korallen bestehend, welche derselben Bildung
+wie die am Cap Fanshaw angehörten. Der folgende Tag war trübe und regnerisch.
+Das Treibeis hatte sich nun um unsern Rastplatz so dicht gepackt, daß weder an
+ein Entkommen noch an Ausflüge zu denken war. Wir verbrachten deshalb den
+größten Theil des Tages in unserm Boote und verkürzten uns die Zeit mit der
+Betrachtung der zahlreichen Weißfische, welche entweder an der Oberfläche
+schnaubend dahin schwammen, oder aus der Tiefe den ihnen so eigenthümlichen Laut
+hören ließen, der so klingt, als ob eine Saite angeschlagen wird. Die meisten
+nahmen ihren Weg nach dem Innern des Fjordes, wahrscheinlich um die Mündung
+eines der dortigen größeren Flüsse zu besuchen.
+
+Da unser Proviant, trotz der Verstärkung durch das Rennthierfleisch, schon
+erheblich mitgenommen war, so mußten wir durchaus auf die Rückkehr bedacht sein;
+als sich daher bei der höchsten Fluth am 9. Juli zwischen dem Treibeise und dem
+Strande ein offener Kanal bildete, beschlossen wir die Rückreise zu unserm
+Schiffe anzutreten. Das Boot wurde wieder in's Wasser geschoben und mit Stangen
+längs dieser schmalen Rinne weiter befördert. Gleichzeitig ging Einer der Leute
+längs dem Strande, um mit einem Bootshaken die im Wege befindlichen Eisstücke zu
+entfernen. Wo wir in der angegebenen Art trotzdem nicht weiter konnten, schlugen
+wir entweder das Eis mit Aexten entzwei oder zogen das Boot darüber. Auf diese
+sehr ermüdende Weise erreichten wir zuletzt die von hohen prachtvollen Bergen
+umgebene Skansvik und zogen das Boot auf deren südlichen Strand. In der Nähe
+unserer Raststelle stürzte ein mächtiger Wasserfall von den Felsen herab in ein
+von steilen Wänden umgebenes Bassin, welches so regelmäßig ausgehöhlt war, daß
+man es für ein Werk von Menschenhänden hätte halten können. Nachdem wir hier
+unser Mittagsmahl eingenommen, die Berge photographirt und untersucht,
+Versteinerungen gesammelt hatten u. s. w., ruderten wir weiter in der noch immer
+sehr schmalen Rinne, längs dem Strande, bis zum Rennthierthale an der Sauriehuk,
+wo wir Dundr zu treffen hofften. Um dorthin zu gelangen, mußten wir indessen an
+einer Spitze vorbei, bei welcher das Treibeis bis zum Strande dicht gepackt lag,
+so daß wir unsere ermüdende Fahrt nicht länger fortzusetzen vermochten. Wir
+mußten liegen bleiben und zogen das Boot etwas östlich vom Cap Thordsen, bei den
+Trümmern einer Russenhütte — es sind nur noch die Fundamente und die Reste der
+Oefen vorhanden — auf's Land. Die Meisten von uns hatten 24 Stunden lang
+gearbeitet und waren infolge dessen äußerst ermüdet. Kaum hatten wir das Zelt
+aufgeschlagen und ein wenig kalte Speise genossen, als wir Alle die Mühen des
+Tages in den Armen des Schlafes vergaßen.
+
+Das Land oberhalb unserer Ruhestelle bildete eine gleichmäßige Terrasse, welche
+nur von einigen Hyperitklippen, oder ein paar Bächen mit ihren tiefen in den
+lockern Schiefer gegrabenen Furchen unterbrochen wurde. Sie erhebt sich erst mit
+einem 20 bis 30 Fuß hohen Absatze steil vom Meere aus und steigt dann allmählich
+5- bis 600 Fuß hoch gegen Norden und Nordosten, um sich sodann plötzlich gegen
+das Rennthierthal hinabzusenken. Der Weg von unserer Raststelle zu dem Berge,
+bei welchem ich auf der ersten Bootfahrt die Knochen des Sauriers gefunden, ging
+über diese jetzt schneefreie, sumpfige und mit großen Hyperitblöcken bedeckte
+Ebene. Diesen Weg schlugen wir am 10. Vormittags sämmtlich ein, um eine
+großartige Einsammlung von Versteinerungen vorzunehmen. Um den Eifer der Leute
+zu beleben, hatte ich demjenigen, der das beste Stück finden würde, ein Päckchen
+Tabak versprochen. Wir kehrten erst spät in der Nacht mit einer sehr reichen
+Ausbeute zurück. Der ausgesetzte Preis fiel dem Zimmermann Adrian zu, welcher
+zwei ziemlich vollständige Rückgrate von Sauriern nebst daran befindlichen
+Rippen fand. Auch in Betreff der lebenden Fauna ist diese Gegend ungewöhnlich
+interessant. Wie schon oben bemerkt, bildet sie den besten Jagdplatz für
+Rennthiere; ferner traf Hellstad ein Nest nebst Eiern von der schönen
+Wasserschnepfe (Phalaropus fulicarius) in dem feuchten Gerölle des
+Rennthierthales. Ein stattliches Schneehuhn — diesesmal unbelästigt — sah von
+der Spitze eines hohen Felsens unserm eifrigen Suchen nach Knochenresten zu. Die
+Graue Gans (Anser brachyrhynehus) fanden wir brütend an dem oberen Rande einer
+breiten Schlucht, nicht weit von unserm Rastplatze, den Schneesperling aber in
+den Klüften des Hyperits. Schließlich erblickte Malmgren hier zum ersten Male
+die für Spitzbergen neue Vogelart Stercorarius Buffoni, welche er später in der
+Advent-Bai zu schießen Gelegenheit fand.
+
+Als wir wieder zum Boote zurückkehrten, konnten wir wahrnehmen, daß das früher
+dicht gepackte Treibeis sich etwas vertheilt hatte, und wir überlegten, ob wir
+nicht sofort nach Safe Haven zurückkehren sollten. Aber theils waren wir zu
+müde, theils blieb noch ein von Hellstad geschossenes Rennthier zum Boote zu
+schaffen. Es wurde deshalb ein Mann nach dem Wilde geschickt, und wir
+beschlossen am folgenden Tage abzufahren. Aber im Laufe der Nacht sammelte sich
+das tückische Eis wieder so dicht um die Spitze, darauf wir uns befanden, daß an
+einen Aufbruch nicht zu denken war, es sei denn, daß das Treibeisfeld durch Wind
+und Strömung abermals eine Veränderung erfuhr.
+
+Sowohl das Brod als auch der sonstige vom Schiffe mitgenommene Proviant ging nun
+zu Ende, wir mußten uns daher lediglich an das Fleisch der erlegten Rennthiere
+halten. Dasselbe war mit dem Kaffee und dem Tabak der Fall, und von den
+Getränken war schon längst der letzte Tropfen verbraucht. Wir sahen uns mithin
+auf eine äußerst geringe und einförmige Kost beschränkt, indem uns alle
+Vegetabilien und anregenden Mittel durchaus fehlten. Malmgren's Vorschlag, aus
+dem zu zoologischen Zwecken mitgenommenen Spiritus, in welchem bis jetzt nur ein
+paar Aszidien und Würmer verwahrt waren,,ein „Brennsel“, eine Art Punsch zu
+bereiten, wurde daher von der Mannschaft mit großer Genugthuung aufgenommen.
+Malmgren hoffte den Aszidiengeschmack „ausbrennen“ zu können. Die Zubereitung
+wurde mit ungetheiltem Interesse verfolgt und der für fertig erklärte Trank
+einer sorgfältigen Prüfung und Kritik unterzogen. Diese fiel im Ganzen sehr zum
+Vortheile des „Brennsels“ aus. Nur zwei Personen verschmähten den lieblichen
+Trank, nämlich Malmgren und ich; wir waren eben die Einzigen, welche die
+Beschaffenheit des verwendeten Spiritus genauer kannten.
+
+Den 11. Juli lagen wir noch immer fest und blickten den ganzen Tag in die Ferne,
+um nach einer fahrbaren Oeffnung zu spähen. Aus Furcht, daß wir wieder den
+günstigen Augenblick versäumen könnten, wagten wir auch nicht eine längere
+Excursion nach dem Innern des Landes zu unternehmen. Wir blieben deshalb den
+ganzen Tag über in der Nähe unseres Ruheplatzes. Da am folgenden Morgen sich das
+Eis ein wenig vertheilt hatte, so beschlossen wir das Boot in's Wasser zu
+schieben. Anfangs ruderten wir bei dem stillen schönen Wetter durch vertheiltes
+Treibeis, bald stießen wir aber auf große Eisfelder, welche sich von einigen
+Stellen aus dem Innern des Fjordes losgelöst hatten und zwischen uns und dem so
+ziemlich offenen Wasser neben der Advent-Bai ein zusammenhängendes Eisband
+bildeten. Es blieb uns keine andere Wahl, als entweder durch das mehr und mehr
+zusammengedrängte Treibeis zurückzukehren, oder uns einen Weg durch die
+Treibeisfelder vor uns zu bahnen. Das Abenteuer in der Klaas-Billen-Bai hatte
+gelehrt, daß jeder dieser Wege seine Gefahren habe. Nach gepflogenem Rathe
+beschlossen wir doch vorzudringen, und es glückte uns, wider alles Vermuthen,
+uns durch den breiten, aber schon sehr zerfressenen Eisgürtel
+hindurchzuarbeiten. Kaum hatten wir das offene Wasser erreicht, so begann ein so
+heftiger Gegenwind zu wehen, daß wir erst nach mehreren Stunden und einer sehr
+ermüdenden Fahrt den südöstlichen Strand des Eisfjordes erreichten, wo wir eine
+Weile an Land gingen, um unser Mittagsmahl, bestehend aus Rennthiersuppe und
+gleichem auf Kohlen gerösteten Fleisch, einzunehmen. Etwas Anderes gab es nicht
+mehr. Hierauf ruderten wir weiter durch verschiedene dicht gepackte
+Treibeisfelder bis zum westlichen Strande der Advent-Bucht. Während dieser Fahrt
+folgten uns große Schaaren von Weißfischen, welche theils durch ihre
+eigenthümlichen Stimmen ihre Anwesenheit unter dem Boote zu erkennen gaben,
+theils sich rings um uns tummelten. Man trifft überhaupt diese Thiere bei
+Spitzbergen häufiger an als die Walrosse, wenn auch nicht in so großen Schaaren.
+Sie lassen sich nur schwer schießen oder harpuniren und werden deshalb nur in
+geringer Zahl erlegt. Früher dagegen, während der russischen Jagdperiode, hat
+der Weißfisch — belugan — den Gegenstand einer systematischen Verfolgung
+gebildet, und man findet am Strande noch oft Ueberreste der ungeheuren Netze,
+deren man sich damals zu dem Fange bediente. Um den Weißfisch mit einer Kugel zu
+tödten, muß man ein sehr sicheres Auge haben, damit das Thier an einer
+bestimmten Stelle des Kopfes in dem Augenblicke getroffen werde, da es
+heraufkommt, um zu athmen. So vortreffliche Schützen nun die Jäger im
+Allgemeinen auch sind, so vermögen doch nur wenige mit Erfolg diese Jagd zu
+betreiben. Den ersten Rang unter diesen Meistern in der Schützenkunst nahm
+während unserer Anwesenheit auf Spitzbergen unbestritten ein kleiner schielender
+Lappe ein, der einzig wegen dieser seiner Fertigkeit ein erheblich größeres
+Salair erhielt als die übrige Mannschaft. Seine Kugel verfehlte niemals ihr
+Ziel, und zum Zielen schien er kaum irgend einer Zeit zu bedürfen.
+
+Die einzige noch ziemlich unbeschädigte Russenhütte am Eisfjorde befindet sich
+auf der an dem Eingange der Advent-Bai hervortretenden Landspitze, auf welche
+wir nunmehr unser Boot zogen. Wie wir schon vor unserer Abfahrt vom Schiffe
+gehört, hatten drei gescheiterte Norweger diese Hütte in Besitz genommen. Sie
+glaubten mit der Rennthierjagd etwas verdienen zu können und warteten darauf,
+daß die Walroßjäger, welche vor ihrer Rückkehr nach Norwegen noch den Eisfjord
+zu besuchen pflegen, um die dann etwa noch leeren Räume ihres Schiffes mit
+Rennthierfleisch zu füllen, sie und ihre Beute abholen würden. Von dem
+gestrandeten Schiffe hatten die Colonisten genügenden Vorrath mitgenommen, wir
+hofften deshalb das seit mehreren Tagen entbehrte Brod von ihnen zu erhalten.
+Die rings um das kleine Haus gestellten Tonnen, die aufgehängten Stücke
+trockenen Rennthierfleisches und Schinken u. A. zeigten schon aus der Ferne an,
+daß die Hütte bewohnt sei. Wir trafen zufällig auch die Mannschaft zu Hause an,
+die uns gastfrei aufnahm und ihren kleinen Brodvorrath gerne mit uns theilte.
+Dafür baten sie um Pulver, daran die kleine Colonie großen Mangel litt, indem
+sie durch einen bösen Zufall den größten Theil desselben verloren hatten. Ihre
+noch sehr leichte südliche Kleidung, die sie aus dem Schiffbruche gerettet: ein
+wollenes Hemd, ein Paar Beinkleider und Schuhe, schien sie weniger zu bekümmern.
+Hier erhielten wir auch die Nachricht, daß ein englischer Schoner mit 4 bis
+5,„Lords“ in Safe Haven Anker geworfen, daß nach deren Mittheilung auch Dunér
+schon dorthin zurückgekehrt sei und daß ein Theil der Engländer gegenwärtig sich
+auf dem östlichen Strande der Advent-Bai mit der Rennthierjagd beschäftige.
+
+Schon im Jahre 1858 hatten wir diesen Fjord besucht. Die Hütte war damals
+unbewohnt, aber verschiedene norwegische Jäger benutzten sie als ein Noth-Depot,
+in welchem Brod, Mehl, Grütze, Büchsen, Pulver, Blei, Harpunen, Zündhölzchen,
+Töpfe u. s. w. verwahrt wurden. Dieses Depot war für gescheiterte Schiffer und
+für solche gegründet, die hier etwa unfreiwillig überwintern müßten, und obwohl
+die Thüre nicht verschlossen wurde, wagte es doch Niemand, der sich nicht in
+entschiedener Noth befand, die hier befindlichen Vorräthe anzugreifen. Die
+älteren Jäger wachten so strenge darüber, daß ein Harpunirer, welcher an Stelle
+seines zerbrochenen Topfes sich einen von den dortigen holte, nur mit genauer
+Noth einer Anklage wegen Diebstahls entging. Die Schwefelhölzchen, das Pulver
+und die Zündhütchen waren (wegen der feuchten Luft) nicht in hermetisch
+geschlossenen Büchsen verwahrt, erwiesen sich aber noch als vollkommen
+brauchbar. Wir wissen nicht, ob seit dem Sommer 1864 die spitzbergischen Depots
+erheblich vermehrt sind, aber bei der Expedition des Jahres 1861 wurde eine
+bedeutende Quantität hermetisch verschlossenen Pemmikans nebst einem eisernen
+Boote und Zubehör auf der Depotspitze in der Branntwein-Bucht niedergelegt.
+Außerdem befindet sich ein großes, obwohl — wie es heißt — nunmehr durch die
+Kälte zerstörtes englisches Boot, sowie eine größere für Hunde bestimmte Menge
+Pemmikans auf der Amsterdaminsel, ferner ein Depot von Pulver, Blei u. s. w. in
+einem Varde beim Cap Starastschin.
+
+Bevor wir am folgenden Morgen abfuhren, trafen wir noch mit den Engländern
+zusammen, welche in zweien Booten von der Ostseite der Advent-Bucht
+herüberkamen. Wir traten sodann bei einem außerordentlich starken Nebel die
+Rückreise an und fuhren quer über den Eisfjord nach Safe Hafen. Dunér war, durch
+unser Ausbleiben beunruhigt, schon wieder ausgegangen, um uns aufzusuchen, — ein
+vergebliches Bemühen, da wir während unserer Irrfahrten nirgends schriftliche
+Nachrichten niedergelegt hatten und das Treibeis uns überdies nöthigte, unsern
+Cours in jedem Augenblicke zu ändern. Schon am folgenden Tage kehrte er indessen
+zu unserer großen Freude zurück.
+:::
+
+
+
 
 
 [^2200]: [Keilhau, Reise etc. S. 128-133. Uebersetzt in dem Ergänzungsheft Nr. 16 zu Petermann's Geograph. Mittheilungen S. 49, 50.]{.footnote}

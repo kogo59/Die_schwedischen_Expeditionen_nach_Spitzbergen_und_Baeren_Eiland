@@ -35,7 +35,7 @@
 * [Der „Balsfjording“ am Steuer](ch004.xhtml#b388)
 * [Beeren-Eiland (Karte)](ch004.xhtml#b401)
 * [Scoresby's Tonne](ch004.xhtml#b402)
-* Safe Haven
+* [Safe Haven](ch004.xhtml#b405)
 * Gletscher am Alkenhorne
 * Westküste des Storfjordes
 * Giles' Land — das fabelhafte Land im Osten
