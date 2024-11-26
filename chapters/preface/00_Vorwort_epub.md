@@ -9,7 +9,7 @@
 * [Gletscher in der Croßbai](ch003.xhtml#b280)
 * [Scoresby's Grotte](ch003.xhtml#b292)
 * [Das Burgemeisterthor auf Bären-Eiland](ch004.xhtml#b390)
-* Green-Harbour im Eisfjord
+* [Green-Harbour im Eisfjord](ch004.xhtml#b424)
 
 ## In den Text gedruckte.
 * [Procellaria glacialis](ch003.xhtml#b017) (Mallemuck, Sturmvogel, Seepferd)
@@ -36,7 +36,7 @@
 * [Beeren-Eiland (Karte)](ch004.xhtml#b401)
 * [Scoresby's Tonne](ch004.xhtml#b402)
 * [Safe Haven](ch004.xhtml#b405)
-* Gletscher am Alkenhorne
+* [Gletscher am Alkenhorne](ch004.xhtml#b434)
 * Westküste des Storfjordes
 * Giles' Land — das fabelhafte Land im Osten
 

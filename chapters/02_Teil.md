@@ -1370,10 +1370,366 @@ vergebliches Bemühen, da wir während unserer Irrfahrten nirgends schriftliche
 Nachrichten niedergelegt hatten und das Treibeis uns überdies nöthigte, unsern
 Cours in jedem Augenblicke zu ändern. Schon am folgenden Tage kehrte er indessen
 zu unserer großen Freude zurück.
+
 :::
 
+## <small>Viertes Kapitel.</small><br /> Der Eisfjord.
+
+::: justified
+
+:::: fs-xs
+Kohlenbucht. — Der grüne Hafen. — Ein Kirchhof. — Staraftschin. — Spitzbergische
+Gastfreundschaft. — Cap Thordsen und der Wasserfall. — Kampf mit dem Eise. —
+„Sultana.“ — Cap Boheman. — Rennthierabenteuer. — Gesundes Klima. — Spitzbergen
+als klimatischer Curort. — Endliche Abreise. — Wassermarke.
+<br /><br />
+::::
 
 
+*Dunér's Bootfahrt.* Wie schon oben erwähnt, trennten sich die beiden Boote etwa
+eine halbe Meile vor der Kohlen-Bucht, zu welcher ich meinen Cours nahm. Während
+eines leichten Nebelregens wurde hier das Boot auf einen ziemlich ebenen,
+sandigen Vorstrand, nicht weit vom Ende des Fijordes, dicht neben einer fast
+schon unkenntlichen Trümmerstätte einer ehemaligen russischen Hütte, gezogen.
+Keiner der Besatzung hatte Kenntniß oder Erfahrung, wie man das Zelt aufschlage
+oder die Speisen nach der von den Engländern auf ihren letzten arktischen Reisen
+zur Anwendung gebrachten Art und Weise bereite. Aber nach ein paar mißlungenen
+Versuchen glückte uns zuletzt doch beides. Als der Regen aufhörte und das Wetter
+sich aufklärte, erschienen ein paar Rennthiere an den Bergabhängen. Ich griff
+sie sofort an und mit dem Erfolge, daß bald drei Stück zu unserm Boote gebracht
+werden konnten, und am folgenden Tage noch eines.
 
+Nachdem ich die Lage unseres Rastplatzes bestimmt, fuhren wir am folgenden
+Mittage weiter, indem wir mit dem Boote längs den Küsten, behufs deren
+Kartographirung, ruderten.
+
+Die Kohlen-Bai ist eine unbedeutende Bucht, welche auf allen Seiten, und zwar im
+Osten von sehr hohen Bergen umgeben wird. Sie steigen erst senkrecht zu einer
+Hochebene von etwa 1,000 Fuß auf, über welche sich sodann eine vielleicht 2,500
+Fuß hohe Kuppel erhebt. In der Tiefe der Bucht mögen die Berge nur 1,200 Fuß
+hoch sein, nahe dem Strande an der Westküste nur 800, aber hinter ihren Plateau
+ragen Bergspitzen bis zu 1,500 Fuß auf. Rings um die ganze Bucht, und besonders
+am Ende derselben, zieht sich ein ziemlich breiter Landstreifen hin, welcher,
+mit einer üppigen Vegetation bedeckt, den Rennthieren reichliche Nahrung
+darbietet. Was das Fahrwasser dieser Bucht anlangt, so muß der Schiffer sich vor
+dem sehr flachen Grunde an der westlichen Küste in Acht nehmen, dagegen kann man
+der östlichen Küste bis zu den Ruinen der russischen Hütte folgen, um dicht an
+derselben auf sechs Faden Tiefe Anker zu werfen. An der Mündung des neben dieser
+Hütte in die Bucht fallenden Flusses hin zu fahren, erscheint nicht rathsam.
+
+:::: { .wrap-100 .caption }
+![Green-Harbour im Eisfjord.](Die_schwedischen_Expeditionen_424.jpg "Green-Harbour im Eisfjord."){#b424}
+::::
+
+Von der Kohlen-Bucht gingen wir weiter westlich nach Green-Harbour, immer der
+Küste folgend, welche, von einer niedrigen Sandbank an der westlichen Küste
+beginnend, rasch ungefähr 30 Fuß aufsteigt, beinahe überall senkrecht abfällt
+und, mit Ausnahme einer in der Nähe von Green-Harbour befindlichen breiten aber
+flachen Bucht, in welche ein Fluß mündet, sich fast durchweg in einer geraden
+Linie hinzieht. Infolge dessen macht diese Strecke einen ermüdenden Eindruck. In
+der Nähe des Strandes ist das Wasser überall flach und der Grund mit großen
+Steinblöcken bedeckt, welche, soweit nicht die Eisblöcke alle weicheren Theile
+abgerieben haben, mit einer üppigen Vegetation von Algen bedeckt sind. Vom Boote
+aus gesehen erschien „der grüne Hafen“ ganz mit Eis belegt zu sein; als ich aber
+auf einen höheren Eisblock stieg, zeigte es sich, daß dieses eine Täuschung sei;
+denn das Fahrwasser an der Westküste war offen, wenngleich einige Eisstücke
+darin umherschwammen.
+
+Ungefähr um Mitternacht kamen wir zu dem andern Ufer und fanden glücklicher
+Weise auch eine passende Stelle für unser Boot. Nachdem wir noch ein paar
+Stunden mit der Bereitung der Speisen und mit anderen Dingen zugebracht, gingen
+wir Alle zur Ruhe und schliefen bald fest, trotz des harten, unbequemen Bodens
+unseres Bootes.
+
+Am folgenden Mittage bestieg ich einen oberhalb unseres Platzes befindlichen
+Hügel, von welchem man den Fjord in seiner ganzen Ausdehnung überschauen konnte.
+Er wird im Osten von einem ziemlich hohen Tafelberge und einer Menge, gleich
+Zinnen aufragender Bergspitzen begrenzt. In seiner Tiefe erblickt man eine große
+Rennthierweide und dahinter mehr kuppenartige Höhen; von seiner südwestlichen
+Spitze steigen einige Gletscher herab. Die Westseite wird von einer nicht sehr
+hohen Hügelkette eingenommen, hinter welcher sich, doch in ziemlicher
+Entfernung, Berge bis zu 1,500 Fuß erheben. Von diesen letzteren strömt einer
+der wasserreichsten Flüsse Spitzbergens nieder und mündet ein wenig südlich von
+dem Punkte, wo wir unser Zelt aufgeschlagen hatten, im Meere. Vor diesem Flusse
+war der Fjord noch mit Eis bedeckt. In der Nähe der Stelle, auf welcher ich
+stand, lag ein alter holländischer Kirchhof mit einem Dutzend Gräbern, an deren
+einem sich ein Kreuz mit folgender Inschrift befand: 
+
+:::: {.margin-left-xl .fs-s}
+| An 1766. Hier leyt begraaven Elbert Symon van
+| Marken out 22 yaar is gerut den 18. april op het
+| schip de Zaayerdaar op Commandur Cornelis Moy.
+::::
+
+Das Holz, auf welchem diese Inschrift stand, zeigte wie so viele andere, oft
+hundert Jahre ältere Grabkreuze, deren Trümmer wir an der Treurenberg-Bucht, der
+Amsterdam-Insel und anderswo gefunden, nicht die geringste Spur der
+Verwitterung, obwohl es so abgenutzt war, daß die ursprünglich eingeschnittenen
+und mit einer schwarzen Farbe bezeichneten Buchstaben jetzt über die Holzfläche
+erhöht hervortraten. Denn die chemische, oder vielmehr, chemisch-organische
+Umwandlung, welche die Verrottung des Holzes bedingt, bedarf einer höheren
+Temperatur, als in diesen nördlichen Regionen die vorherrschende ist.
+
+Ich fuhr im Laufe des Tages, so weit es das Eis gestattete, um den Fjord und
+landete zuletzt um Mitternacht an der am Eingange befindlichen, halb verfallenen
+Russenhütte. Diese Stelle ist nicht ohne historisches Interesse. Der russische
+Jäger-Eremit Starastschin starb hier an Altersschwäche im Jahre 1826. Er hatte
+einige 30 Winter auf Spitzbergen verlebt, darunter 15 hintereinander, und wurde
+deshalb sowohl von den russischen als auch den norwegischen Jägern mit der
+größten Achtung behandelt. Die Spitze, auf welcher die Hütte dieses alten
+arktischen Veteranen gestanden hat, ist auf der Karte mit dem Namen Cap
+Starastschin bezeichnet.
+
+Das Eis machte ein weiteres Vordringen nach Westen unmöglich. Da dasselbe
+während unserer Mahlzeit sich sogar in sehr bedenklicher Weise der Russenhütte
+näherte, beschloß ich zur Kohlen-Bucht zurückzukehren, um einer möglichen
+Einsperrung zu entgehen. Wir fuhren Nachts um ein Uhr ab und erreichten, nach
+einigem Kampfe mit dem Eise im Eingange zu Green-Harbour, die Westspitze der
+Kohlen-Bucht um sechs Uhr Morgens. Hier gingen wir, ermüdet von der
+achtzehnstündigen Arbeit, sofort zur Ruhe und schliefen bis etwa sechs Uhr
+Nachmittags, worauf wir zur AdventBai fuhren. Die Berge zwischen dieser und der
+Kohlen-Bucht sind von einer ganz sonderbaren Form. Sie steigen nämlich senkrecht
+aus dem Meere auf und theilen sich dann in verschiedene Vorsprünge, welche oft
+in zweien Reihen über einander liegen. Der zweite Berg — von der Abdvent-Bai
+gerechnet — erinnert in auffallender Weise an die Strebepfeiler einer gothischen
+Kirche. In seinen Klüften hausen Millionen von Alken und erfüllen mit ihrem
+unaufhörlichen Geschrei die Luft. Hinter diesen Strandbergen erhebt sich erst
+der bei der Kohlen-Bucht erwähnte Kuppelberg, dahinter einer von gleicher Höhe,
+aber erheblicher Breite.
+
+Die Fahrt längs dieser Küste wurde dadurch erschwert, daß das Meer bis dicht an
+die Felswände eine bedeutende Tiefe hat, so daß kein gestrandeter Eisblock das
+schwimmende Treibeis aufhält. Indessen glückte es uns doch, durch das letztere
+zu kommen und um drei Uhr Morgens die Advent-Bai zu erreichen.
+
+Um Nachrichten über unsere Genossen einzuziehen, machten wir hier sofort einen
+Besuch bei den gestrandeten Schiffern, welche in der alten Russenhütte daselbst
+wohnten. Wir wurden von ihnen mit der Gastfreiheit, welche ebenso dem Araber in
+der Wüste, wie dem Traper in den Urwäldern Amerikas und den Jägern im Polarmeere
+eigen ist, empfangen. Man setzte uns vor, was das Haus nur darbot; man tischte
+Jagdgeschichten auf, gab Rath, erging sich in Vermuthungen über die Lage des
+Eises u. s. w. Unter Anderm erfuhren wir auch, daß sie auf der Rennthierjagd zu
+einem nicht unerheblichen, ziemlich hoch über dem Meere gelegenen Süßwassersee
+gekommen wären. Die Russen hätten hier offenbar die Jagd oder den Fischfang (?)
+betrieben, denn es habe sich dort oben noch ein kleines Floß von Eichenholz
+befunden. Sie hätten dasselbe mit heruntergenommen und als Schlitten benutzt, um
+die geschossenen Rennthiere über die Schneefelder zu transportiren. Dieses Floß
+bestand, wie gewöhnlich, aus zweien ausgehöhlten und zusammengefügten
+Baumstämmen, also einer Art doppelten Bootes.
+
+Da ich hier hörte, daß meine Genossen zur Sassen-Bucht gefahren wären, so
+beschloß ich, an diesem Fijord — wenn es anginge — vorbei zu rudern und erst an
+dem Strande der Midterhuk zu rasten. Es gelang uns aber trotz aller
+Anstrengungen nicht, das Eis zu durchdringen, und wir sahen uns am 6. Vormittags
+elf Uhr genöthigt, unser Zelt an der südlichen Küste des südlichen Armes bei
+strömendem Regen aufzuschlagen. Am Nachmittage blies ein starker Wind und das
+Eis vertheilte sich erheblich. Ich fuhr deshalb um ein Uhr Morgens ab, trotz des
+anhaltenden Regens und des Nebels, welcher bald so dicht wurde, daß auf 100 Fuß
+Entfernung kein Gegenstand mehr zu erkennen war. Glücklicher Weise hatte das Eis
+sich verzogen und wir konnten ganz bequem nach dem Kompaß fahren. Als wir schon
+fast den ganzen Fjord passirt hatten, vernahmen wir vor uns ein dumpfes Brausen,
+das wahrscheinlich von einem beim Cap Thordsen mündenden Flusse herrührte. Wir
+behielten die einmal eingeschlagene Richtung bei und nahmen etwa dreiviertel
+Stunden später, hoch in der Luft, ein schneebedecktes Berghaupt wahr. Der Nebel
+hatte sich schon etwas gelichtet und das Boot befand sich kaum 1,000 Ellen vom
+Lande, trotzdem konnten wir den Fuß des Berges erst dann erkennen, da wir ihm
+ganz nahe kamen. Nachdem wir ausgeruht und das Frühstück eingenommen hatten,
+fuhren wir weiter, doch nicht ohne vom Eise behindert zu werden. Als wir um Cap
+Thordsen wandten, erblickten wir den vielleicht großartigsten Wasserfall
+Spitzbergens, welcher von einer etwa 700 Fuß hohen, fast senkrechten Felswand in
+das Meer stürzt. Es war sein Brausen, das wir schon aus der Ferne gehört hatten.
+Von hier ab wurde das Eis immer dichter und die Fahrt beschwerlicher. Hier
+genügte es nicht — wie sonst oft auf zwei Eisstücke zu steigen und sie
+auseinander zu schieben, damit das Boot passiren konnte, oft mußten sie auch
+noch mit der Eisaxt bearbeitet werden. Bei dieser Arbeit hatte unser Steuermann
+das Mißgeschick, daß die Scholle, auf welche er sprang, zerbrach und er in das
+eiskalte Wasser fiel. Wir legten deshalb auch bald darauf am Lande an, damit er,
+so weit die Umstände es zuließen, seine Kleider wechsle und sich erwärme.
+
+Ich erkletterte sofort den ziemlich steilen Strand und wanderte ein Ende längs
+der Küste, welche hier aus einer großen Menge kleiner Buchten besteht. Die
+Felsen fielen etwa 50 Fuß hoch nach dem Wasser zu ab; in den Buchten schwammen
+unzählige Eisstücke. Weiterhin schien der Fjord allerdings mehr eisfrei. Das
+Boot wurde daher von Neuem in's Wasser geschoben, und wir strengten alle Kräfte
+an, in der Hoffnung, endlich aus diesem widerwärtigen Gewirre herauszukommen.
+Der Versuch schien anfangs von Erfolg gekrönt zu werden; denn sobald wir die
+oben genannten Spitzen passirt und den niedrigen Theil des Strandes erreicht
+hatten, welcher in dem Sauriethal sich nach dem Innern des Landes fortsetzt,
+fanden wir das Wasser längs der Küste vollkommen rein. Aber dieses günstige
+Verhältniß änderte sich vollständig, sobald das von den Eisklippen geschützte
+flache Wasser am Strande aufhörte und die Tiefe neben der steilen Midterhuk
+ihren Anfang nahm. Hier trafen wir wieder auf so viel Eis, daß sich von Neuem
+die Nothwendigkeit herausstellte, das Boot zwischen den Treibeisstücken weiter
+zu „staken“. Auf diese Weise bahnten wir uns bis vier Uhr Nachmittags einen Weg,
+später aber wurde es ganz unmöglich, vorwärts zu kommen, da das Eis im
+Nordfjorde noch durchaus fest lag. Wir beschlossen daher, bis auf Weiteres an
+dem nächsten Strande anzulegen und es vom Eise abhängen zu lassen, ob wir uns
+nach dem Nordfjord oder der niedrigen Landspitze wenden sollten, welche von der
+Nordküste des Hauptfjordes in südlicher Richtung ausgeht.
+
+Der Steuermann und Jaen Mattisen begaben sich zu Lande nach dem Nordfjorde,
+theils um die Lage des Eises zu erkunden, theils um Rennthiere zu jagen. Ich
+bestieg dagegen den nächsten Berg, um eine Uebersicht über eben diesen Fjord zu
+erhalten. Es ergab sich, daß es nicht durchaus unmöglich sei, auf diesem Wege zu
+dem Schiffe zu gelangen, denn vom Südarme her erstreckte sich eine ziemlich
+breite Rinne nach dem Cap Boheman, und von der äußersten Spitze des letzteren
+zog sich eine andere offene Rinne nach dem Eise zu. Die Frage blieb also blos,
+wie der etwa eine halbe Meile breite Raum zwischen diesen beiden Kanälen zu
+passiren sei. Der größere Theil desselben erschien als eine ebene Eisfläche,
+über welche im schlimmsten Falle das Boot gezogen werden konnte. Da die
+Schützen, nachdem sie ein prächtiges Rennthier erlegt hatten, mit der Nachricht
+zurückkehrten, das Eis am Nordfjorde sei nicht zu passiren, so beschlossen wir
+die Nacht noch auf dieser Stelle zuzubringen und dafür am andern Tage zu der
+gedachten niedrigen Spitze zu rudern. Nachdem ich am folgenden Morgen noch einen
+Blick auf die Lage des Eises geworfen und sie beinahe unverändert gefunden
+hatte, ruderten wir entschlossen 
+in das Eis hinein und befanden uns bald in der ersten Rinne, welche im Boote
+viel weniger eisfrei erschien und schwerer zu erkennen war, als vom Berge aus.
+Glücklicher Weise lag das Eisfeld ziemlich ruhig und wir vermochten uns ohne
+besondere Abenteuer hindurch zu drängen, so daß wir schon um zwei Uhr
+Nachmittags das Boot auf die äußerste Spitze des Cap Boheman ziehen konnten.
+Nachdem wir hier zu Mittag gegessen und uns ausgeruht, setzten wir die Reise
+fort. Erst um Mitternacht langten wir am Schiffe an. Hier erfuhren wir, daß
+Nordenskiöld noch nicht zurückgekehrt sei. —
+
+Während wir am Eingange des Safe Haven fuhren, nahmen wir ein fremdes Schiff
+wahr, das die Leute nicht kannten. Sonst pflegen die norwegischen
+Spitzbergenfahrer schon aus weiter Ferne jedes Schiff von Tromsö bis Hammerfest
+wieder zu erkennen. Es war die englische pleasure-yacht „Sultana“, dem Mr.
+Birkbeck in Aberdeen zugehörig, ein äußerst comfortabel eingerichtetes Fahrzeug
+und ein vortrefflicher Segler, aber nur mit einer zwei Zoll dicken Bekleidung,
+und daher für das Eismeer wenig geeignet. Der Eigenthümer war mit seinen
+Begleitern hierher gekommen, um Rennthiere, Seehunde, Walrosse und Eisbären zu
+jagen. Da das Schiff sich aber nicht in's Eis wagen durfte, so haben die
+Engländer von den beiden letzten Species auch nicht einmal ein einziges Thier
+gesehen.
+
+Den 11. unternahm ich einen kurzen Ausflug zur „Todten Manns Spitze“, welche den
+Eisfjord vom Vorlandssunde trennt.
+
+Da Nordenskiöld's Boot noch immer ausblieb, obwohl die verabredete Zeit zur
+Rückkehr längst verstrichen war, so wurden wir an Bord um das Schicksal unserer
+Genossen sehr besorgt, zumal wir selber die überwundenen Schwierigkeiten noch in
+guter Erinnerung hatten. Ich beschloß deshalb am folgenden Tage eine neue Fahrt
+nach dem Fjorde anzutreten, um das Boot aufzusuchen und möglicher Weise dessen
+Besatzung zu bergen. Das schwarze Boot wurde deshalb so wie früher bemannt, ich
+fuhr längs der Nordküste und kam zum Cap Boheman am Abend des 12. Schon zweimal
+hatten wir diesen wichtigen Punkt besucht, ohne eine Ortsbestimmung zu erhalten.
+Da diesesmal die Aussichten besser waren, so blieb ich bis zum Morgen des 13.
+daselbst. Mittlerweile unternahmen wir eine Fußwanderung zu der ungefähr 200 Fuß
+hohen Landspitze und konnten von hier die Mündung des Nordfjordes bis zur
+Midterhuk übersehen. Ich fand hier die Skelete zweier Rennthiere mit sehr großem
+Geweih, welche ganz ineinander verwickelt waren. Die Leute vermutheten, daß die
+Thiere bei einem Kampfe während der Brunstzeit umgekommen seien. Das sonst so
+scheue Renn fällt dann sogar Menschen an. Einer der gestrandeten Leute in der
+Hütte an der Advent-Bai berichtete, daß er bei einer Rennthierjagd einst im
+Herbste von einem großen Rennthiere angefallen worden sei, und da sein Pulver
+naß gewesen, so habe er die Flucht über einen tiefen Fluß, dessen Wasser ihm bis
+zum Gürtel ging, ergreifen müssen. Das Thier folgte ihm und schwamm ebenfalls
+herüber, so daß der Mann von Neuem durch den Fluß mußte. Nachdem er so mehrere
+Male durch das eiskalte Wasser gesetzt, bekam er endlich die Büchse in Ordnung
+und erlegte seinen speckfetten horngezierten Gegner.
+
+Man konnte von hier deutlich erkennen, daß das Eis nach dem Fjorde zu nicht zu
+durchdringen sei; der Weg, welchen ich am 8. genommen, war nunmehr vollkommen
+gesperrt. Da es also unmöglich war, auf diesem Wege die Midterhuk, wo nach
+meiner Vorstellung das andere Boot sich befinden mußte, zu erreichen, so
+beschloß ich, nachdem ich durch Erlangung eines Rennthieres den Proviantvorrath
+so bedeutend vermehrt hatte, daß wir noch einige Tage damit versehen waren, erst
+hinüber zur Advent-Bai zu gehen und demnächst zum Cap Thordsen zu steuern; und
+da es sich möglicher Weise ereignen konnte, daß Nordenskiöld an eine der von uns
+besuchten Stellen käme, so legten wir sowohl auf der genannten äußersten
+Landspitze als auch auf der Nordspitze der Advent-Bucht einige Mittheilungen
+über unsere Fahrt nieder. Wir errichteten daher an unsern Rastplätzen Steinvarde
+und stellten mitten auf dieselben Treibholzstämme, an deren Spitze wir eine
+Flasche mit dem betreffenden Zettel befestigten.
+
+Nachdem wir weiter durch ziemlich eisfreies Wasser gerudert, kamen wir am
+Nachmittage zur Advent-Bucht und erhielten hier von den Bewohnern der
+Russenhütte die Nachricht, daß Nordenskiöld und Malmgren wenige Stunden vor
+unserer Ankunft diese Bucht verlassen hätten. Infolge dessen kehrten auch wir
+zum Safe Haven zurück und trafen daselbst um sechs Uhr Morgens ein. — —
+
+An diesem Tage waren wir zu einem Diner auf der Sultana eingeladen und machten
+daselbst mit den sämmtlichen englischen Reisenden Bekanntschaft. Es waren die
+Herren E. Birkbeck, der Eigenthümer des Schoners, Mr. Graham Manners Sutton; Mr.
+Alfred Newton, jetzt Professor der Zoologie in Cambridge, Mr. W. W. Wagstaffe,
+Arzt, und Herr H. Lorange, Norweger und Dolmetsch. Später besuchten die
+englischen und schwedischen Reisenden noch oft einander, und wir fanden
+genügende Gelegenheit, die für diese Breitengrade ungewöhnliche Eleganz und den
+Comfort zu bewundern, mit welchen Sultana ausgestattet war, freilich auch uns
+darüber zu verwundern, wie ein Mensch auf den Gedanken kommen könne, sich auf
+dieser schönen und zerbrechlichen Nußschale mitten in das Eismeer zu wagen, ohne
+ein paar taugliche Boote oder einen andern Schutz mit sich zu haben. Der Stoß
+des kleinsten Eisblocks hätte genügt, um ein Loch in die Seite des Schiffes zu
+bohren. Nur mit Pulver und Blei waren die Engländer vortrefflich versehen, in
+der Hoffnung, fleißig auf die Jagd gehen zu können. Während unseres Besuches in
+Safe Haven gelang es einigen der Herren, einen Seehund mit Schrot zu erlegen.
+Mr. Newton brachte ihn zu Malmgren, der sich schon früher mit den
+spitzbergischen Seehunden beschäftigt hatte, fiel aber leider ins Wasser, indem
+er den Versuch machte, die allerdings sehr unbequeme Treppe unserer Schute zu
+erklettern. Sie wurde sonst mehr als ein Hinderniß denn als eine Erleichterung
+beim Besteigen unseres Schiffes angesehen und daher nur bei feierlichen
+Gelegenheiten, z. B. bei den Besuchen solcher „Lords“, ausgehängt. Er wurde von
+den mehr heiter als mitleidsvoll gestimmten Leuten zwar sofort herausgezogen,
+naß vom Kopf bis zum Fuß, aber doch bei guter Laune und die ausgelöschte Pfeife
+im Munde. Gegen die zu befürchtende Erkältung verordnete der Arzt sofort Grog,
+und zwar mit dem besten Erfolge.
+
+Im Allgemeinen erkältet man sich auf Spitzbergen nicht, obwohl man sich
+fortwährend Temperaturveränderungen ausgesetzt sieht, welche in einem mehr
+südlichen Klima, früher oder später, die allerschlimmsten Folgen haben würden.
+Man darf daher dreist behaupten, daß ein gesunderes, für das Wohlbefinden des
+Körpers heilsameres Sommerklima als das Spitzbergens auf der Erde nicht mehr
+gefunden wird. Während der drei Sommer, in welchen die schwedischen Expeditionen
+diese Gegenden besucht haben, ist kein Fall von Katarrh, Diarrhöe, Fieber oder
+irgend einer andern Krankheit auf den Schiffen der Expedition vorgekommen. Wir
+standen überdies in naher Verbindung mit sämmtlichen Spitzbergenfahrern und
+brachten mit den Capitänen manche Stunde in gemüthlicher Unterhaltung hin,
+welche natürlich die polnischen, preußischen oder mexikanischen Angelegenheiten
+nicht betreffen konnte. Unsere Welt war eine beschränkte, die Zahl ihrer
+Bewohner eine geringe. Dagegen bildeten unbedeutende Ereignisse, z. B. ein
+geringerer Unglücksfall, oft den Gegenstand einer lebhaften Discussion. Da wir
+nun niemals von irgend einer Krankheit gehört haben, so kann man es für
+festgestellt annehmen, daß während der drei Sommer keiner der 2- bis 300
+Menschen, welche sich mit der Jagd auf Spitzbergen befaßten, von irgend einer
+ernstlicheren Krankheit heimgesucht worden ist. Dazu kommt, daß während des
+ganzen Zeitraumes, in welchem die Norweger Spitzbergen besuchen, das heißt
+während etwa 40 Jahren, kein einziger durch Krankheit verursachter Todesfall auf
+Spitzbergen stattgehabt hat. Und doch hat während dieser Zeit der größte Theil
+der Jäger die bald ganz kalte bald unerträglich heiße Cajüte mit einem
+Aufenthalte von mehreren Tagen in freier Luft vertauscht, ohne durch ein Zelt
+oder einen Ueberrock geschützt zu sein. Oft haben sie nach einem unfreiwilligen
+eiskalten Bade die triefenden Kleider auf ihrem Körper trocknen lassen; für alle
+sind trockene Strümpfe oder Fußlappen ein seltener Luxus gewesen. Den Grund für
+diese in hygienischer Hinsicht so beispiellos günstigen Verhältnisse glauben wir
+in der Reinheit der Luft und dem Mangel an ansteckenden Krankheitsstoffen finden
+zu müssen. Die unzähligen, kaum bei der äußersten Vergrößerung erkennbaren
+Samentheilchen, welche in südlicheren Ländern den Luftkreis erfüllen, die
+Klarheit desselben trüben und — wie man annehmen darf — die in den „irdischen
+Paradiesen“ auftretenden Epidemien verursachen, fehlen hier durchaus. Auch der
+plötzliche Wechsel der Temperatur, welcher sonst den menschlichen Körper so
+empfänglich für Fieber macht, bleibt hier ohne schädliche Folgen, da es an jenen
+so unscheinbaren Partikelchen fehlt, welche die Krankheit erzeugen und weiter
+ausbilden. Wir würden uns deshalb nicht wundern, wenn die Aerzte einst ihre
+Kranken nach diesem hohen Norden schicken sollten, damit sie Gesundheit und neue
+Kräfte wiedererlangen. —
+
+Das Eis in der Fjordmündung hatte schon einige Tage nach unserer Rückkehr zum
+Schiffe sich vertheilt, so daß das Fahrwasser nach Süden hin offen lag; aber
+eine anhaltende Windstille hinderte trotzdem unsere Abreise bis zum Abend des
+16. Juli, wo Axel Thordsen endlich die Anker lichtete, um den Storfjord
+aufzusuchen.
+
+Vor der Abreise wurde noch ein eiserner Bolzen auf der äußeren Seite des Holmes
+vor Safe Haven als Wassermarke eingeschlagen. Am 15. Juli vier Uhr Nachmittags
+befand sie sich 1,~4~ Meter über der Meeresfläche.
+
+:::: { .wrap-70 .caption }
+![Gletscher am Alkenhorne.](Die_schwedischen_Expeditionen_434.jpg "Gletscher am Alkenhorne."){#b434}
+::::
+
+
+:::
 
 [^2200]: [Keilhau, Reise etc. S. 128-133. Uebersetzt in dem Ergänzungsheft Nr. 16 zu Petermann's Geograph. Mittheilungen S. 49, 50.]{.footnote}
