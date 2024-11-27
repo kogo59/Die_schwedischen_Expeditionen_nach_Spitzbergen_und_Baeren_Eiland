@@ -37,7 +37,7 @@
 * [Scoresby's Tonne](ch004.xhtml#b402)
 * [Safe Haven](ch004.xhtml#b405)
 * [Gletscher am Alkenhorne](ch004.xhtml#b434)
-* Westküste des Storfjordes
+* [Westküste des Storfjordes](ch004.xhtml#b455)
 * Giles' Land — das fabelhafte Land im Osten
 
 :::: align-center

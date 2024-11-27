@@ -2278,6 +2278,544 @@ Norden geführt, zuletzt aber an den Felsen des Vorlandes zerschellt wäre.
 Nachdem wir so eine Weile mit einander geplaudert, kehrte unser Gast zu seinem
 Schiffe zurück, wir aber setzten unsere Fahrt nach Süden hin fort.
 
+:::
+
+
+## <small>Sechstes Kapitel.</small><br /> Der Storfjord.
+
+::: justified
+
+:::: fs-xs
+Kein Treibholz. — Whales Point. — Bosteigung des Whales Point. — Schwierige
+Wanderung. — Aussicht. — Ersteigbarkeit der Berggipfel. — Anlegen an
+Treibeisblöcken. — Die Agardh-Bucht. — Lee's Vorland. — Walroßskelete. — Ein
+Kreuz. — Walther-Thymens-Straße. — Ein Eisbär. — Versunkene Anker. — Auf der
+Verwechslungsspitze. — Schwacher Schall. — Enttäuschung. — Neue Ueberraschungen.
+— Messungen.
+<br /><br />
+::::
+
+Den 6. August gelang es uns endlich am Südcap vorbeizukommen. Wir hatten zwar
+hier Anker zu werfen beabsichtigt, aber das Eis hinderte uns daran. So segelten
+wir denn weiter längs der Ostküste von Spitzbergen in der Richtung auf Whales
+Head, dessen Felsmassen sich deutlich über den nördlichen Horizont erhoben. Auch
+hier vereitelte die Lage des Treibeises die Erreichung dieses Hafens, und es sah
+mehrere Male so aus, als sollte der Storfjord dieses Jahr uns überhaupt
+verschlossen bleiben. Nachdem wir aber eine Weile in nordöstlicher Richtung
+gesegelt, fanden wir doch, daß wenigstens der südliche Theil von Stans Vorland
+von offenem Wasser umgeben sei. Wir richteten deshalb den Cours auf Whales
+Point, welches als breite, flache Gebirgsmasse im Nordosten aufstieg, und warfen
+am 9. Abends sechs Uhr an der nordwestlich von diesem hohen Gebirge liegenden
+Hyperitspitze Anker.
+
+So waren wir denn endlich zum Storfjorde, dem eigentlichen Ziele unserer
+Expedition, gekommen. Aber der kurze Polarsommer war auch bereits so weit
+vorgeschritten, daß auf höchstens drei Wochen Arbeitszeit gerechnet werden
+konnte, wollte man nicht anders die Gefahr einer Ueberwinterung riskiren. Um den
+uns ertheilten Auftrag zu vollenden, erschien es um so nothwendiger, jeden
+günstigen Augenblick zu benutzen, als die Schilderung der Witterungsverhältnisse
+im Storfjord, welche wir von den Spitzbergenfahrern erhalten hatten, nicht
+besonders günstig lautete. Glücklicher Weise zeigte es sich bald, daß ihre
+abschreckenden Beschreibungen mehr auf die Tausend Inseln paßten als auf das
+Innere des Fjordes, in welchem uns ein verhältnißmäßig schönes Wetter erwartete.
+Man kann, wie so oft auf Spitzbergen, im Innern eines Fjordes einen wolkenfreien
+Himmel und Sonnenschein haben, während am Eingange zu demselben ein
+undurchdringlicher Nebel herrscht. Den Grund hierfür hat man in der Richtung der
+Meeresströmungen zu suchen. Während ein Arm des Golfstromes, wie die am Südcap
+und den Tausend Inseln aufgehäuften Treibeismassen ausweisen, wenigstens einen
+Theil des Jahres an dem südlichen Theile Westspitzbergens und des Stans
+Vorlandes vorüberfließt, herrscht im Innern des Storfjordes dagegen die durch
+den Helissund und die Walter-Thymens-Straße eindringende arktische Strömung vor.
+Darum fanden wir an den Ufern des Fjordes auch kein Brennholz, und mußten bei
+Bootexcursionen unser Brennmaterial mit uns führen. Dagegen konnten wir an der
+Nordküste Spitzbergens fast immer darauf rechnen, in der Nähe der Rastplätze
+trockenes und vortrefflich brennendes Holz anzutreffen.
+
+Der Hafen bei Whales Point wird von einer kleinen, auf allen Seiten geschützten
+Bucht mit gutem Ankergrunde gebildet, obwohl er wahrscheinlich für größere
+Schiffe nicht tief genug ist. Auf der Nordseite desselben stehen noch die Ruinen
+einiger Russenhütten, welche zu einer der größten russischen Niederlassungen auf
+Spitzbergen gehören. Keilhau hat die Stelle im Jahre 1827 besucht und
+beschrieben.
+
+In den letzten Jahren haben die Russen den Besuch Spitzbergens durchaus
+aufgegeben, vielleicht durch den unglücklichen Ausgang der letzten
+Ueberwinterungen abgeschreckt. Wir fanden in Hammerfest folgende schriftliche
+Erklärung eines gewissen Iwan Nikolajeff Kalinin:
+
+„Ich fuhr im letzten Jahre (1851) mit der Lodje St. Nikolai auf den Fang nach
+Spitzbergen. Den 19. Juli gelangten wir zu der Stelle, welche die Norweger „die
+kleine rothe Bucht“ nennen. Hier errichtete die Besatzung 3 bis 4 Hütten und zog
+darauf das Schiff auf das Land. Nachdem dieses geschehen, wurde die Mannschaft
+vertheilt: der Capitän mit dreien Leuten blieb in der kleinen rothen Bucht, die
+Uebrigen (14 Mann) gingen mit den Booten nach verschiedenen Richtungen auf die
+Jagd und erlegten 230 Rennthiere. Während des Winters schossen wir noch 30
+Rennthiere, 90 Füchse und eine Menge Seehunde. Am 5. December befanden sich alle
+Mann wieder in der kleinen rothen Bai und blieben daselbst den Winter über. Bald
+nach Neujahr aber brachen Krankheiten aus, besonders der Skorbut, und rafften 12
+Mann dahin, darunter den Capitän und Steuermann. Einer starb im Januar, drei im
+Februar, fünf im März, einer im April und einer im Mai. Da nun so viele von der
+Besatzung todt waren, vermochten die sechs übrigen weder auf die Jagd zu gehen,
+noch die Lodje in das Wasser zu ziehen, zumal fünf von ihnen auch krankten. Sie
+mußten sich darauf beschränken, so gut als es ging ihr Leben zu fristen, bis
+Hülfe kam. Am Anfange des Juli langten zwei norwegische Schiffe an und nahmen
+die Lodje sammt der verlassenen Mannschaft auf.“ Kalinin erklärte noch
+ausdrücklich, „daß die Arzenei, welche die norwegischen Capitäne bei sich
+führten, und der gekochte Sauerampfer die Kranken vom sichern Tode gerettet
+habe.“ Die Arzenei wird wohl darin bestanden haben, daß die Leute mit Gewalt, ja
+durch Schläge gezwungen wurden, sich zu bewegen und zu arbeiten. Wie so oft,
+dürfte der Skorbut auch hier dadurch entstanden sein, daß es den Leuten während
+der düstern Winterzeit an aller Disciplin und an Anregung fehlte.
+
+Der Hafen wird von niedrigen Klippen umgeben, welche durchweg aus Hyperit
+bestehen und wie gewöhnlich in verticale, prismenartige Säulen gespalten sind.
+Hinter denselben zieht sich auf der Südseite des Hafens eine mit Teichen
+bedeckte Ebene hin. In diesen Gewässern fand Malmgren eine Menge höchst
+interessanter Süßwasser-Crustaceen, was zu der Annahme berechtigt, daß diese
+Teiche im Winter nicht bis auf den Boden gefrieren. Um zum Whales Point selbst
+zu gelangen, mußten wir erst über diese Ebene zu einem etwa 50 Fuß hohen,
+freistehenden Hyperitfelsen, demnächst aber durch einen kleinen Sumpf wandern,
+bis wir den Fuß des nördlichen Bergabhanges erreichten. Nachdem wir endlich auf
+festen Boden gekommen, begannen wir mit dem Fernglase die Felswand zu beschauen,
+um zu erkennen, wo wir wohl am besten hinaufgelangen könnten. Wir beschlossen
+von dem Punkte, wo wir uns befanden, gerade hinauf zu steigen. Hier erwartete
+uns in ein paar Hundert Fuß Höhe zwar ein senkrechtes Hyperitband, indessen so
+zerspalten, daß wir ohne alle Schwierigkeit weiter zu kommen hofften. Außerdem
+wußten wir bereits, daß man infolge der Härte des Hyperitgesteins mit
+verhältnißmäßig großer Sicherheit selbst die steilsten Abhänge hinaufklettern
+könne. Der Abhang, auf welchem wir zuerst hinaufstiegen, bestand aus einem
+ziemlich groben Gerölle von Hyperitstücken mit einem grauen, Versteinerungen
+führenden Sandstein. Hierauf kam eine steile, hartgefrorene Schneewehe, die wir
+umgingen, der Eine nach rechts, der Andere nach links, bis wir das Hyperitband
+erreichten. Das letztere war etwa 30 Fuß mächtig. Ihm folgte ein Abhang, welcher
+zu einer Terrasse führte. Nach dem ursprünglichen, am Fuße des Berges
+ausgedachten Plane mußten wir uns nunmehr nach rechts wenden und längs der Kante
+einer andern Schneewehe, welche sich bis zur Spitze des Berges zu erstrecken
+schien, gehen; um aber diese Kante zu erreichen, waren wir genöthigt, über ein
+glattes, mit Eis bedecktes, 40 Fuß breites und unter einem Winkel von 45 Graden
+abfallendes Schneefeld zu klettern. Dieses schien durchaus unmöglich. Wir
+wählten deshalb einen andern Weg und gingen geradeaus über ein feines, unter den
+Füßen weichendes Gerölle von Sandstein. Weiter hinauf folgte ein steiles
+Eisfeld, welches eine von der Bergspitze zum Hyperit niedergehende Kluft
+ausfüllte. Zwischen diesem Eisfelde und den Hyperitfelsen kletterten wir noch
+ein paar Hundert Fuß hinauf. Zuletzt blieb keine andere Wahl, als das allerdings
+nicht breite Eisfeld zu überschreiten. Mit Hülfe unserer Messer hauten wir erst
+Stufen, oder vielmehr Löcher in das Eis, dann aber schlugen wir die Messer
+selbst hinein, um uns an ihnen mit den Händen zu halten. So kamen wir glücklich
+zu einem neuen Absatze. Demnächst stiegen wir weiter hinauf, theils über loses
+Gerölle, theils über Hyperitfelsen, bis wir zuletzt eine noch höhere Terrasse
+erreichten, über welcher uns nur noch ein einige Fuß hohes Eisplateau von dem
+Berggipfel trennte. Auch diesen Abhang kletterten wir mit Hülfe unserer Messer
+hinan. Dem Schnee folgte erst eine Sumpfebene, sodann aber eine durchaus kahle
+Steinwüste, welche allmählich und kaum wahrnehmbar zu dem Gipfel aufstieg.
+
+Da die Aussicht nach Süden hin nicht ganz frei war, so begaben wir uns weiter
+das Plateau hinauf. Kahles Gestein wechselte mit Schneefeldern ab, welche bald
+gefroren, bald so weich waren, daß wir zuweilen tief in die unter der
+Schneekruste befindlichen Wasseransammlungen einsanken. Infolge dessen wurde
+unsere Wanderung recht beschwerlich. Wir sahen uns indessen reichlich durch die
+Aussicht von der südlichen Kante des Plateaus belohnt. Sie war von
+überwältigender Größe. Im Osten lag die Deevie-Bai vor uns, in der Ferne von
+einem dunklen, steil aufragenden Gebirge begrenzt. Zur Rechten desselben konnten
+wir, durch das Fernglas gesehen, 18 zu den Tausend Inseln gehörige Holme zählen,
+die, wie es uns schien, sich in zweien Gruppen aneinander schlossen, die eine
+ganz nahe der genannten Bucht, die andere genau im Süden von Whales Point. Sie
+erschienen durchschnittlich klein und niedrig. In dem zwischen denselben
+befindlichen Sunde nahmen wir drei Schiffe wahr, darunter — wie wir später
+erfuhren — unseren alten englischen Bekannten vom Eisfjorde. Hopen-Eiland
+konnten wir nicht unterscheiden, weshalb es wahrscheinlich ist, daß dasselbe,
+wie schon Lamont bemerkt, viel weiter nach Osten hin liegt, als die Seekarten
+angeben. Mit voller Sicherheit dürfen wir dieses indessen nicht behaupten, da
+der Horizont nach dieser Seite hin neblig war und Hopen-Eiland von ihm
+eingehüllt sein konnte. Dagegen lag die ganze Westküste des Storfjordes, dessen
+südlichsten Punkt, das Südcap, wir ganz bestimmt unterscheiden konnten, in dem
+herrlichsten Sonnenscheine ausgebreitet vor uns. Sie bestand aus einem
+Labyrinthe von schneebedeckten, ziemlich gleich hohen Bergspitzen, unter denen
+sich nur ein paar auszeichnen, so daß man sie leicht wiedererkennt, z. B. die
+Berge bei Whales Head und der Agardhs-Bucht. Ueber alle die Tausende von Bergen
+aber erhob sich, wie der Glockenthurm einer Kathedrale über die Häusermassen
+einer Stadt, der gewaltige Hornsunds-Tind in seiner beinahe doppelten Höhe. Man
+konnte deutlich von hier erkennen, daß dieser gewaltige Berg in der That der
+höchste des ganzen südlichen Spitzbergens ist.
+
+:::: { .wrap-80 .caption }
+![Westküste des Storfjordes.](Die_schwedischen_Expeditionen_455.jpg "Westküste des Storfjordes."){#b455}
+::::
+
+Die Ostseite des Storfjordes war von der südlichen Kante des Plateaus nicht
+sichtbar. Wir wandten uns daher wieder zu dem schon genannten kleinen Hügel auf
+der Nordseite, maßen einige für die projectirte Gradmessung erforderlichen
+Winkel und kehrten sodann zu unserm Schiffe zurück. Das Niedersteigen war mit
+viel geringeren Schwierigkeiten verbunden als das Aufsteigen.
+
+Durch die alten Walfischjäger, besonders die an Bergbesteigungen wenig gewöhnten
+holländischen Matrosen, sind die Berge Spitzbergens wegen der vielfach
+vorgekommenen Unglücksfälle in sehr schlechten Ruf gekommen. Man muß allerdings
+zugestehen, daß die Abhänge nach dem Meere zu beinahe ohne Ausnahme sehr steil
+und überdies von dem Froste so zerklüftet und zersprengt sind, daß Fuß und Hand
+nur selten einen sichern Halt finden. Infolge dessen können sich Unglücksfälle
+leicht ereignen, zumal wenn man zwar einen guten Weg zum Aufsteigen hat, ihn bei
+der Rückkehr aber nicht wiederfindet. Als Scoresby daher einige Höhen an der
+Westküste bestieg, bezeichnete er die Steine mit einer weißen Farbe. Wer aber
+dieses allerdings nicht immer vorhandenen Mittels entbehrt, sollte sich
+wenigstens verschiedene Felsen und Steine beim Hinaufklettern merken. Wir sind
+nun der Ansicht, daß mit Ausnahme vielleicht der höchsten Bergspitzen des
+Hornsunds-Tind so ziemlich jeder Berg, so weit wir Spitzbergen besucht haben,
+besteigbar ist. Mindestens ist uns die Besteigung aller der Bergspitzen, die für
+unsere geographischen und geologischen Arbeiten von Interesse war, geglückt,
+ohne daß irgend ein Unfall sich ereignet oder Einer von uns sich genöthigt
+gesehen hat umzukehren, obwohl der zur Ersteigung geeignete Weg vorher immer nur
+mit dem Fernglase untersucht und ausgewählt worden war. Auch haben uns die
+steilsten Bergabhänge niemals von der schließlichen Erreichung der Spitze
+abgehalten.
+
+Da wir von Whales Point aus deutlich erkannten, daß das Treibeis um den
+südlichen Theil der Westküste noch dicht gepackt lag und keine Aussicht sei, zum
+Whales Head vorzudringen, so fuhren wir am 10. Nachmittags nach der
+Agardhs-Bucht ab. Als wir die Anker lichteten, war der Wind so stark, daß die
+Seeleute Bedenken trugen, den Hafen zu verlassen; nachdem wir aber ein Ende auf
+den Fjord gekommen, wurde es viel stiller. Wir nahmen ein kleines Schiff wahr,
+das längs der Eiskante nach Norden fuhr; aber wie sehr wir uns auch nach Briefen
+und Zeitungen sehnten, diesesmal hatten wir keine Lust, eine ähnliche Jagd
+anzustellen wie am Hornsund. Gegen Abend erreichten wir die ungefähr eine Meile
+lange und eben so breite Agardhs-Bucht, welche in dem Rufe steht, sehr reich an
+Blindschären zu sein und keinen guten Ankergrund zu haben. Selbst der Storfjord
+ist hier in weiter Entfernung vom Strande oft nur drei Faden tief. Zufällig
+waren die minder tiefen Stellen vortrefflich durch gestrandete Eisblöcke
+bezeichnet, während zwischen ihnen das Meer klar und spiegelblank dalag.
+
+Wie schon oben erwähnt, bilden dergleichen Eisblöcke einen ausgezeichneten
+Schutz gegen Wellen, Treibeis, und in gewisser Hinsicht auch gegen Stürme. Ihr
+Fuß verlangt immer eine so bedeutende Wassertiefe, daß man jedes Fahrwasser, in
+welchem Grundeisblöcke gestrandet sind, für rein erachten kann. Oft wird das
+Schiff an ihnen befestigt, entweder um die ausgeschickten Jagdboote zu erwarten,
+oder um während der Windstille von der Strömung nicht zurückgetrieben zu werden
+u. s. w. Selbst die ermüdeten Ruderer ruhen sich oft auf diesen Eisklippen aus.
+Freilich ist das Bett nicht gerade sicher, oft kippt der Eisberg plötzlich um,
+zerschmettert das neben ihm liegende Schiff und versenkt die schlafenden Leute
+in die Tiefe. Solches war das Schicksal des vom Capitän Gurrho geführten
+Jagdschiffes Johanna Christina, welches am 20. Juni 1859 durch einen Eisberg
+vollkommen zerstört wurde. Schon vorher hatte das Schiff bei seiner Fahrt durch
+das Treibeis von demselben so sehr gelitten, daß die Mannschaft daran dachte, es
+zu verlassen. Sie schafften deshalb Proviant und die nothwendigen Kleider auf
+einen großen Grundeisblock, welcher ihnen vollkommen sicher schien. Einige
+Stunden später setzte derselbe sich indessen in Bewegung, sein Fuß hob das
+Schiff in die Höhe und zertrümmerte es so schnell, daß die Mannschaft nur ihr
+nacktes Leben zu retten vermochte. Zwei von den Leuten bargen sich in einem
+Boote, die übrigen Vier auf den schwimmenden Schollen. So wurden sie von
+einander getrennt und trafen erst nach neun Tagen wieder zusammen. Während
+dieser Zeit hatten die Beiden in dem Boote weder irgend welche Lebensmittel noch
+Munition bei sich, sondern nährten sich einzig von dem Walroßleder, womit die
+Ruder des Bootes umgeben waren. Sie kochten dasselbe in einer zufällig im Boote
+befindlichen eisernen Pfanne, während die Ruderbänke und Aehnliches ihnen das
+Material zur Feuerung lieferten. Ihre Lage war um so schlimmer, als der Eine bei
+der Katastrophe den einen Stiefel verloren hatte, infolge dessen ihm der Fuß
+abfror, so daß er später auch nicht mehr darauf gehen konnte. Nachdem die ganze
+Besatzung sich wieder zusammengefunden, irrten sie noch zehn Tage lang, ohne
+irgend eine Aussicht auf Rettung, in den Eisfeldern umher. In dieser Zeit lebten
+sie von Vögeln, welche sie auf dem Eise schossen und roh verzehrten. Endlich
+wurden die Schiffbrüchigen von einigen norwegischen Spitzbergenfahrern
+aufgenommen.
+
+Da vorher noch keiner unserer Schiffer die Bucht besucht hatte, so mußten wir
+beim Einfahren äußerst sorgfältig sein und ununterbrochen lothen. Den 12. August
+Nachts ein Uhr warfen wir endlich Anker und ruderten sogleich mit unseren Booten
+an das Land. Dicht bei unserer Ankerstelle war der Strand vollkommen
+unzugänglich. Er bildet nämlich ebenso wie die Nordküste Bären-Eilands oder der
+nordwestliche Strand des Green-Harbour, eine einzige nach dem Meere senkrecht
+abfallende Felswand. Wir sahen uns deshalb genöthigt, noch ein Ende weiter nach
+Norden längs der Küste zu rudern, bis wir eine Stelle fanden, wo wir das Boot
+auf das Ufer ziehen und selber auf das Plateau, welches sich von dem steilen
+Strandwalle bis zum Fuße des Gebirges hinzieht, klettern konnten. Diese Ebene
+erinnerte in auffallender Weise an einen vortrefflich gepflasterten,
+reingefegten Marktplatz. Der Boden war nämlich vollkommen eben und durchweg mit
+runden, dicht aneinander gefügten Sandsteinkugeln von etwa einem Zoll im
+Durchmesser belegt. Irgend eine Wasserpfütze oder ein paar zwischen den Steinen
+sprießende Blumen und Halme suchte man vergebens.
+
+Nachdem wir einige Sonnenhöhen genommen, begannen wir die Berge zu besteigen,
+welche nicht gerade hoch sind und aus einem äußerst feinen, bröckeligen,
+Versteinerungen enthaltenden Schiefer bestehen. Weiter hinauf fanden wir
+zerstreut Kugeln eines harten, eisenhaltigen Thones, dessen frischer Bruch grau
+erschien, wogegen er an der Luft roth oxydirt war. Er enthielt außerordentlich
+viele Versteinerungen aus der Juraperiode.
+
+Ueber diese Vorberge erhebt sich das eigentliche Gebirge viel steiler, so daß
+wir seinen Gipfel erst um elf Uhr erreichten. Er bildet ein kleines rundes
+Sandsteinplateau, welches, mit Ausnahme des westlichsten Theiles, vollkommen
+schneefrei ist und einen weiten Blick über das Innere des Landes, ein wildes
+Durcheinander von Schneefeldern und dunklen Felsgipfeln, gestattet. Die
+Agardh-Bucht schien sich nach Westen in einem niedrigen, — wie man uns sagte —
+ziemlich grasreichen Thale fortzusetzen, welches sich möglicher Weise bis zu der
+Thalsenkung am Ende von van Mijen's Bucht im Bellsunde hinzieht. Ist dies der
+Fall, so kann die Tradition unter den Spitzbergenfahrern, daß man von einem der
+Fjorde an der Westküste mit Leichtigkeit zu dem Storfjorde gelangen könne, auf
+thatsächlichen Verhältnissen beruhen.
+
+Nachdem wir die zur Triangulirung des Fjordes erforderlichen Winkel gemessen und
+eine große Menge von Versteinerungen eingesammelt hatten, kehrten wir um und
+langten ganz ermüdet um drei Uhr Nachmittags bei unserm Schiffe an. Malmgren,
+welcher einen Ausflug zu dem oben genannten Thale gemacht hatte, um zu jagen und
+zu botanisiren, fand sich bald darauf auch ein und brachte eine Menge der
+stattlichsten und fettesten Rennthiere mit.
+
+Da während unserer Abwesenheit das Eis mit großer Gewalt in die Bucht gedrungen
+war und uns einzusperren drohte, so bestand Hellstad darauf, sobald als möglich
+abzusegeln. Auch wir hegten den Wunsch, weiter zu kommen, und ließen deshalb
+sofort die Anker lichten. Bei der vollkommenen Windstille mußte indessen das
+Schiff von zweien Booten bugsirt werden. Sobald wir aber aus unserer
+Eis-Schärenflur gekommen, begann der Wind zuzunehmen, wir zogen die Segel auf
+und fuhren in rascher Fahrt vorwärts. Den 13. Nachmittags zwei Uhr ankerten wir
+bei Lee's Vorland.
+
+Der dortige Hafen besteht aus einer kleinen, nach Osten von der breiten
+Gebirgsmasse des Lee-Vorlandes geschützten Bucht, im Süden von einem mäßig hohen
+Hyperitvorsprunge, im Westen von einer ebensolchen, ziemlich hohen Insel
+begrenzt. Wir gingen bei dem Vorsprunge an's Land, um Sonnenhöhen zu nehmen, und
+bestiegen sodann den Berg. An der Stelle, wo wir landeten, stießen wir auf die
+Ruinen einiger Russenhütten, von welchen freilich jetzt nur noch die Fundamente
+und ein paar Ziegelhaufen übrig waren. Wie so oft, lagen auch hier verschiedene
+zum Fange der Füchse bestimmte Geräthschaften auf dem Boden zerstreut, woraus
+wir entnahmen, daß man hier auch überwintert habe. Im Sommer lohnt es nämlich
+nicht, den spitzbergischen Fuchs zu jagen, weil sein Pelz dann ganz schlecht und
+werthlos ist, während er sich im Winter durch Dichtheit und Schönheit
+auszeichnet. Die Winterjagd auf dieses Thier hat während der russischen
+Jagdperiode überhaupt eine bedeutende Rolle gespielt. Die Russen fingen
+allerdings auch Rennthiere, Weißfische, Seehunde und ein paar Eisbären. Dagegen
+scheinen sie sich nur selten auf die Walroßjagd eingelassen zu haben.
+
+Die große Masse von aufgehäuften Walroßskeleten, welche wir am Strande liegen
+sahen, oft ziemlich fern vom Lande, erinnerten uns an den Vertilgungskrieg,
+welchen die Norweger und Lappen gegenwärtig gegen dieses so stattliche, bald
+ausgerottete Thier führen. Die Walrosse sind geselliger Natur und versammeln
+sich daher gerne in großen Schaaren, meist so, daß die verschiedenen
+Altersgenossen und Geschlechter sich aneinander schließen. Nur der alte „Stier“
+streift einsam umher und verachtet, wie so manch anderer in den Kämpfen des
+Lebens ergrauter Veteran, die Spiele und Thorheiten der Jugend.
+
+Ueber das Leben und die Erlegung der Walrosse ist schon oben ausführlich
+gehandelt worden; wir wollen hier nur noch nachholen, daß ein Harpunirer ein
+schlafendes Walroß stets mit einem Rufe erweckt, bevor er die tödtende Harpune
+in seinen Körper schleudert. Einige meinen, er trage Scheu, einen schlafenden
+Gegner zu tödten, Andere dagegen, er fürchte, das erst durch den Harpunenwurf
+erweckte Walroß könne in der Schlaftrunkenheit leicht das Boot für einen
+Kameraden ansehen und ihm einen Schlag versetzen, davon es zu Grunde gehe. Darum
+müsse es erst aufgeweckt werden.
+
+Auf einem nicht weit vom Strande befindlichen Berge trafen wir auf eine andere
+russische Erinnerung, nämlich ein hohes, halb verfallenes Kreuz, das schon von
+der See aus wahrzunehmen ist und jetzt bei dem Einfahren in den Hafen als
+Seemarke dient. Seine hohe Lage (1,000 Fuß über dem Meere) hat es wahrscheinlich
+vor dem Geschick bewahrt, — welches den meisten Kreuzen und namentlich auch den
+von Keilhau beschriebenen bei Whales Point zu Theil geworden — von den
+norwegischen Jägern umgebrochen zu werden. Die höchste Spitze, weiter im Norden,
+liegt noch ungefähr 200 Fuß darüber. Das Felsplateau am Strande war schneefrei
+und bestand wie das bei Whales Point aus großen, einzelnen Steinfliesen,
+Fragmenten einer durch den Frost zersprengten Sandsteinschicht. Auch in dieser
+fanden wir den Rücken eines saurierartigen Thieres.
+
+Wie wir schon angeführt haben, wird die Westküste des Storfjordes von
+ungeheuren, bis zum Meere niedersteigenden, nur hier und da von dunklen, oft
+konisch gestalteten Bergspitzen unterbrochenen Gletschern eingenommen. Die
+Ostküste trägt dagegen einen ganz andern Charakter zur Schau. Zwischen Whales
+Point und dem Helissunde trifft man nur einen einzigen größeren Gletscher, so
+daß die Küste aus einem so ziemlich ununterbrochenen Walle besteht, welcher
+unmittelbar aus dem Meere zu einem schneefreien Plateau von ungefähr 1,000 Fuß
+Höhe aufsteigt. Weiter nach dem Innern erhebt sich das Land noch mehr. Eine
+unermeßliche Schneedecke scheint Alles zu verhüllen. Am Fuße des Strandwalles
+ruht das Auge zuweilen auf grünen Matten, den vortrefflichsten Rennthierweiden
+Spitzbergens, aus.
+
+Auch Walther-Thymens-Straße breitete sich zu unseren Füßen aus und schien, nach
+den vielen darin befindlichen Sandbänken und der langen, wunderlich geformten,
+vom nördlichen Strande ausgehenden Sandzunge zu urtheilen, sehr „unrein“ und
+seicht zu sein. Wie man früher glaubte, hat noch kein Schiffer diesen Sund
+durchfahren. Wir haben jedoch in den Protokollen des Bürgermeisters in
+Hammerfest folgende Notiz gefunden, welche das Gegentheil bezeugt.
+
+Den 9. August 1847 segelte die Slupe Antoinette — Capitän Lund — durch Walther
+Thymen's Strat. Schon am folgenden Tage mußte das Schiff infolge von Havarie in
+der Unicorn-Bucht von der Besatzung aufgegeben werden. Die Leute retteten sich
+in einem Boote, ruderten längs der Ostküste und wurden endlich von dem Schoner
+Anna aufgenommen. Es kann dabei erwähnt werden, daß die Mannschaft der
+Antoinette zweimal — auf dem treibenden Wrack und im Boote — am Helissund
+vorüberfuhr, ohne ihn zu bemerken. Sollte er damals noch nicht existirt haben? —
+—
+
+Nachdem wir vom Berge hinuntergestiegen, nahmen wir noch einige
+Mitternachtshöhen, gingen darauf an Bord und fuhren, unter lautem Widerstreben
+der Leute, welche wenigstens die Nacht über im Hafen bleiben wollten, nach
+Norden. Wir mußten selber, gemeinschaftlich mit dem Capitän, dem Steuermanne und
+Koch, die Anker lichten und die Segel aufziehen, bevor es den Leuten gefiel zu
+gehorchen und auf Deck zu kommen. Die Gerechtigkeit nöthigt uns allerdings
+hinzuzufügen, daß eine solche Widersetzlichkeit sich späterhin nicht mehr
+ereignet hat.
+
+Der Wind war vortrefflich und wir hofften schon am folgenden Morgen bei der
+Verwechslungsspitze zu sein, fanden aber, als wir erwachten, daß wir zwar vor
+Anker lagen, aber nicht an jener Spitze, sondern neben einer kleinen Insel,
+mitten zwischen derselben und Lee's Vorland. Das Eis hinderte unser Schiff am
+Weiterkommen und der dichte Nebel machte das Aufsuchen des Hafens sehr
+schwierig. Dieser sehr sichere Hafen wird im Süden von zwei kleinen
+Hyperitinseln geschützt, im Osten von dem festen Lande, und im Norden von einer
+niedrigen Spitze, welche, nahe unserm Ankerplatze von Barents' Land ausgeht. Der
+auf der Ostküste des Storfjordes allein vorhandene Gletscher befindet sich dem
+nördlichen Ankerplatze gegenüber und zeichnet sich durch seine unerhörten
+Moränen aus.
+
+Am Nachmittage nahmen wir einen großen Eisbären wahr, welcher ganz behaglich am
+Strande auf und ab spazierte, ohne sich um unsere Nachbarschaft sonderlich zu
+bekümmern. Zuweilen blieb er doch stehen und blickte und schnoberte umher.
+Natürlich gerieth sofort Alles in die lebhafteste Bewegung. Still, aber eilig
+wurden zwei Boote hinabgelassen und bemannt; in das eine sprang Nordenskiöld, in
+das andere Dunér und Malmgren. Das letztere Boot ruderte direct nach dem Lande,
+das erstere dagegen nach der andern Seite der Insel, um dem Bären die Flucht
+über das Treibeis zwischen der Insel und dem festen Lande abzuschneiden. Als der
+Bär die beiden Boote wahrnahm, begab er sich sofort auf das Eis. Eine allzu
+hastige Flucht hätte aber seiner Würde nicht geziemt; so wanderte er denn
+feierlich zu der andern Seite der Insel, wo er leider auf Nordenskiöld's Boot
+stieß. Kaum hatten Dunér und Malmgren das Land erreicht und im eiligsten Laufe
+begonnen, den Spuren des Bären zu folgen, als zwei fast in demselben Augenblicke
+fallende Schüsse auf der andern Seite der Insel zu erkennen gaben, daß die Jagd
+beendigt sei. Der König des Eisreiches war den Kugeln der Jäger erlegen, gerade
+in dem Momente, da er sich von der steilen Höhe hinab in's Wasser werfen wollte.
+Das stattliche, blendend weiße Thier stürzte kopfüber von den Klippen auf den
+Strand, an welchem das Boot unmittelbar anlegen konnte. Man brauchte ihn gar
+nicht in die Höhe zu heben oder durch das Wasser zu ziehen; er rollte, wie er
+war, in das Boot und wurde zum Schiffe gebracht. Die ganze Jagd hatte kaum eine
+halbe Stunde gedauert.
+
+Am folgenden Tage blies ein heftiger Sturm aus Norden, und wir sahen mit
+Freuden, wie die Eisblöcke in schnellem Laufe nach Süden getrieben wurden. So
+durften wir hoffen, bald das Ende des Storfjordes zu erreichen. Am Nachmittage
+langte ein Schiff an und warf neben dem unsrigen Anker. Wir erkannten es sofort
+als die Yacht, welche wir bei unserer Einfahrt in die Agardhs-Bucht gesehen
+hatten. Wie sonst ruderten wir auch diesesmal an sie heran, um nach Briefen zu
+fragen, aber wiederum vergebens. Dennoch hatte dieser Besuch das Angenehme für
+uns, daß wir von dem Schiffe, welches die Inseln des Hornsundes besucht hatte,
+eine Menge für den Verkauf in Norwegen bestimmte Eier einhandeln konnten.
+
+Der Sturm hielt noch bis zum Nachmittage des 16. an, da wir endlich die Anker
+lichteten. Leider war letzteres äußerst zeitraubend und beschwerlich, indem die
+Anker sammt Kette in dem tiefen, außerordentlich weichen Thonboden, der in den
+meisten Häfen des Nordfjordes vorherrscht, vollkommen versunken waren. Nachdem
+wir endlich losgekommen, steuerten wir bei dem Ostnordostwinde nach der
+niedrigen Landspitze hin, die wir am folgenden Morgen erreichten. Unterweges
+liefen wir Gefahr, auf eine Klippe zu gerathen, welche mitten im Fjorde beinahe
+bis zur Oberfläche des Wassers reichte, ein auf Spitzbergen höchst seltener
+Fall, da man sonst immer sicher sein kann, in der Entfernung einer halben Meile
+vom Lande durchaus reines Fahrwasser zu haben.
+
+Nachdem wir Anker geworfen, setzten wir die Boote aus und ruderten zum südlichen
+Strande der Verwechslungsspitze, Malmgren, um zu jagen und zu botanisiren, wir,
+um von einer nahen Höhe einige Winkel zu messen. Die Küste besteht hier aus
+einer sumpfigen, im Spätsommer schneefreien Ebene, aus welcher hier und da ein
+paar grünlichgraue Halme sprießen. Matten, nach Art derer im Eisfjord, giebt es
+hier nicht. Dennoch gewähren die niedrigen Ebenen auf Barents' Land den
+Rennthierheerden reichliche Nahrung, weshalb auch die Stelle als ein
+vorzügliches Jagdterrain bekannt ist. Wir konnten denn auch bald, nachdem wir
+das Schiff verlassen hatten, mit dem Fernglase ein paar auf den Strandebenen
+weidende Rennthiere erblicken. Mehr bedurfte es nicht, um die trägen Ruderer zu
+anzufeuern. Bald befanden wir uns am Lande und begannen die Jagd, welche jedoch
+durch die Unmöglichkeit, sich den Thieren unbemerkt zu nähern, äußerst erschwert
+wurde. Man mußte sich niederkauern und oft durch den tiefen Schlamm kriechen.
+Nach einigen vergeblichen Versuchen, den Rennthieren auf Schußweite nahe zu
+kommen, gaben wir die Jagd auf, trennten uns von Malmgren und begannen den
+ziemlich niedrigen Höhenrücken zu besteigen, welcher die Mitte des Vorsprunges
+bildet, um von hier aus nach der weiter im Innern belegenen Höhe, die wir schon
+von Lee's Vorland aus zu einem Triangelpunkte ausersehen hatten, vorzudringen.
+Der Koch folgte uns mit den Instrumenten. Nach einer Stunde Wanderns erreichten
+wir ein Thal, das von Nordosten nach Südwesten die ganze Halbinsel
+durchschneidet, während seine Sohle von einem Süßwassersee eingenommen wird. Auf
+der andern Seite desselben stieß uns ein schönes Rennthier auf, das Dunér's
+Kugel zum Opfer fiel. Dieses Jagdglück setzte uns aber in nicht geringe
+Verlegenheit. Es wäre Schade gewesen, das außerordentlich große und fette Renn
+zurückzulassen, andererseits war es zu schwer, als daß man es den langen Weg bis
+zum Schiffe hätte tragen können. Da aber die Entfernung bis zur See auf der
+Nordseite der Halbinsel nur sehr unbedeutend war und das Land nach dem Wasser
+abfiel, so schickten wir den Koch nach dem Schiffe zurück, damit man das Renn in
+einem Boote abhole. Auch sollte er für uns einige Speisen mitbringen. Bevor wir
+das Wild verließen, waideten wir es erst noch aus und stopften es voll Schnee,
+eine absolut nothwendige Vorsicht, weil das Fleisch sonst schon nach einigen
+Stunden einen schlechten Geschmack bekommt und beinahe ungenießbar wird. Dann
+stiegen wir weiter die Höhe hinan und fanden, daß wir bis zum Ende des
+Storfjordes nur noch ein paar Meilen hätten. Er schien mit einer nicht sehr
+breiten Ebene abzuschließen, hinter welcher das östliche Eismeer sichtbar wurde.
+
+Nachdem wir einige Winkel gemessen hatten, errichteten wir eine ziemlich hohe
+Pyramide, theils um einen festen Punkt für die Triangulation zu haben, theils um
+uns die Zeit bis zur Ankunft des Bootes zu vertreiben. Als das stattliche
+Denkmal fertig war, kehrten wir zu der Stelle, wo das erlegte Rennthier lag,
+zurück. Aber das Warten wurde uns doch zu lang, zumal das Wetter kalt und unsere
+Füße während der Wanderung durch Wasser und Schnee ganz naß geworden waren. Wir
+beschlossen deshalb bis zur äußersten Spitze zu wandern, um von hier das Schiff
+anzurufen; wir sahen aber bald, wie das Schiff mit vollen Segeln die Küste
+verließ und nach Norden fuhr. Etwas mißmüthig ließen wir uns auf einem
+hochgelegenen, grasreichen Platze nieder, von welchem aus wir mit dem Fernglase
+sowohl den Bewegungen des Schiffes folgen, als auch unser auf einem Schneefelde
+befindliches Rennthier sehen konnten. In der Hoffnung, möglicher Weise vom Axel
+Thordsen aus, der nunmehr um die Spitze bog, bemerkt zu werden, brauchten wir
+alle nur denkbaren Mittel und Zeichen, indem wir z. B. unsere Gewehre abschossen
+u. s. w. Freilich hatten wir nur geringe Aussicht gehört zu werden, denn das
+Schiff befand sich ziemlich fern von uns und der Schall pflanzt sich — wie wir
+oft erfahren — hier nur sehr schwach fort. Man kann z. B. aus Leibeskräften
+einer Person zurufen, ohne daß sie das Mindeste vernimmt, und selbst aus einer
+so geringen Entfernung, daß sie anderswo jeden Laut verstehen würde. Darum
+verhallt der Ton hier auch spurlos, ohne ein Echo zu erwecken; darum ist es auf
+Spitzbergen immer so unheimlich still, sogar in der unmittelbaren Nähe der
+Vogelberge.
+
+Nachdem wir die Gewehre wiederholt abgeschossen, sahen wir, wie das Schiff
+scharf auf die Verwechslungsspitze zuhielt. Wir nahmen an, endlich bemerkt zu
+sein, und eilten auf die westliche Spitze, um dem Schiffe das langwierige
+Laviren zu ersparen. Das Schiff schien nämlich in die Bucht hinein zu kreuzen,
+und wir dachten nicht anders, als daß Hellstad daselbst vor Anker gehen und uns
+an Bord nehmen wolle. So kletterten wir zu dieser Bucht hinab. Man kann sich
+aber unsere Ueberraschung denken, als wir mit einem Male, trotz erneuter Rufe
+und Schüsse, das Fahrzeug weiter segeln sahen. Wir befanden uns nun schon
+dreizehn Stunden am Land, in beständiger Bewegung und ohne einen Bissen genossen
+zu haben, waren müde und naß, und überdies hatte Nordenskiöld ein Paar Stiefel
+an, welche seine Füße drückten. Als wir endlich einsahen, daß keine Hoffnung
+vorhanden sei, vom Schiffe aus erkannt zu werden, mußten wir wieder den 500 Fuß
+hohen Strandabhang hinaufklettern und uns zurück in's Land hinein begeben, um
+das Boot, das uns abholen sollte, abzuwarten. Oben angekommen, richteten wir das
+Fernglas auf das Rennthier und erkannten zu unserer Befriedigung, daß es bereits
+abgeholt sei. Es war indessen nicht so einfach, das Boot zu finden, welches von
+den hohen Strandklippen verdeckt wurde. Wir beschlossen daher uns zu trennen.
+Dunér ging längs der Kante oben am Berge, Nordenskiöld aber unten am Strande.
+Dies gab zu einem neuen Irrthum Veranlassung. Als wir nämlich eine Meile von
+einander getrennt waren, kletterte zufällig Nordenskiöld hinauf, Dunér aber
+gleichzeitig hinab, so daß wir einander nicht fanden. Als wir endlich
+zusammentrafen, war wiederum vom Boote keine Spur zu entdecken. Es dauerte aber
+nicht lange, so traf es wirklich ein. Natürlich verlangten wir zuvörderst nach
+dem für uns bestimmten Proviant. Aber auch hier erwartete uns eine neue
+Ueberraschung, wenn auch die letzte an diesem Tage. In der Meinung, wir befänden
+uns bereits an Bord, zumal sie uns auch nicht in der Nähe des Rennthieres
+angetroffen, hatten nämlich der Koch und der andere Matrose die für uns
+mitgenommenen Speisen verzehrt und auch nicht ein Krümchen Brod übrig gelassen.
+Ueberdies kam nun heraus, daß die beiden Leute, ohne Gewehre, aus Furcht vor den
+Bären, nicht gewagt hatten uns aufzusuchen, vielmehr längs dem Strande gerudert
+waren, woselbst die Felsen sie unseren Blicken entzogen. So konnten wir erst
+nach unserer Rückkehr zum Schiffe um zwei Uhr Morgens, nach einer
+ununterbrochenen Wanderung von 16 Stunden, unsern quälenden Hunger stillen.
+
+Von unserer Müdigkeit kann man sich einen Begriff machen, wenn ich sage, daß wir
+am 18. Vormittags erwachten, ohne eine Ahnung von dem Sturme gehabt zu haben,
+welcher in der Nacht so heftig aus Nordosten geweht hatte, daß das Schiff
+beinahe in die Tiefe versenkt wurde, bevor man die Segel reffen konnte. Hellstad
+mußte sich glücklich schätzen, daß er es wieder zu dem Ankerplatze bei der
+„Verwechslungsspitze“ — wir gaben ihr diesen Namen mit Rücksicht auf die
+Ereignisse des vergangenen Tages zurückzubringen vermochte. Der Sturm hielt noch
+bis zum Abend an. Während dieser Zeit machten wir den Versuch, auf Grund der
+gemessenen Winkel eine Karte des Storfjordes zu entwerfen; es zeigte sich aber
+bald, daß es unmöglich sei, die gemachten Erfahrungen mit einander in Einklang
+zu bringen. Wir gingen deshalb noch einmal an's Land und maßen eine Reihe von
+Winkeln, welche die Sache vollkommen aufklärten. Die außerordentliche Reinheit
+der Luft hatte uns verleitet, bei den Messungen vom Agardhberge die Entfernung
+einiger nach Norden hin belegenen Bergspitzen zu unterschätzen, weshalb wir bei
+den späteren Messungen von Lee's Vorland sie mit anderen näher belegenen
+verwechselt hatten.
+
 
 :::
 
