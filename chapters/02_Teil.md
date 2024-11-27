@@ -1729,7 +1729,559 @@ befand sie sich 1,~4~ Meter über der Meeresfläche.
 ![Gletscher am Alkenhorne.](Die_schwedischen_Expeditionen_434.jpg "Gletscher am Alkenhorne."){#b434}
 ::::
 
+:::
+
+
+## <small>Fünftes Kapitel.</small><br /> Der Bell- und Hornsund.
+
+::: justified
+
+:::: fs-xs
+Der weit vorgeschrittene Gletscher. — Sturm und Regen. — Ein Möwennest. — Der
+verlegene Capitän. — Dunsr. — Eine Wanderung um Mitternacht. — Weißfische. —
+Sturm. — Van Mijens-Bucht. — Sturm. — Der „Dregger“. — Volkscuren. — Die
+Hornsundstinde und die Daunen-Inseln. — Meerschwalben. Mergulus Alle. — Der
+Rattenvogel. — Verbrechen. — Ein unhöflicher Schiffer. — Ueberraschende
+Nüchternheit. — Mittheilungen des Schiffers.
+<br /><br />
+::::
+
+Am 17. Morgens kamen wir endlich aus dem Eisfjorde heraus und fuhren längs der
+langen Bergkette hin, welche diesen Fjord vom Bellsunde trennt. Vor diesem
+Gebirge zieht sich ein weites ödes Flachland hin, das ganz in der Nähe des
+Bellsundes in eine weit hervortretende Sandspitze verläuft. Um nicht auf die
+dortigen Bänke zu gerathen, sahen wir uns genöthigt, die hohe See zu halten. Der
+Wind wehte uns entgegen, nahm fortwährend an Stärke zu und war, als wir an den
+Eingang des Bellsundes kamen, zu einem vollständigen Sturm geworden, begleitet
+von Nebel, Regen und einem so heftigen Seegange, daß ein großer Theil unserer an
+Seefahrten nicht sehr gewöhnten Besatzung seekrank und dadurch außer Stand
+gesetzt wurde, irgendwie thätig zu sein. Wir versuchten zwar längere Zeit gegen
+den Sturm in der Richtung nach Süden zu kreuzen; da wir aber schließlich
+einsahen, daß damit nichts zu erreichen, wandten wir und suchten im Bellsunde
+Schutz. So warfen wir am 18. Abends bei der Midterhuk, etwas südlich von dem
+eigentlichen, von einigen Schären eingeschlossenen kleinen Hafen, welcher noch
+ganz voller Eis war, Anker.
+
+Der Sturm hielt den 19. und 20. mit unverminderter Stärke an. Trotzdem unternahm
+Nordenskiöld einen kleineren Ausflug zu dem Holme vor dem Eingange zum
+Nordfjord, um von hier aus den neuen Gletscher zu photographiren, welcher einen
+der besten und früher am häufigsten besuchten Hafen Spitzbergens vollkommen
+ausgefüllt hat. Dieser Hafen befand sich an dem nördlichen Strande der
+Mijen-Bucht (Nordfjord) gleich vor der großen Insel, welche den Fjord beinahe
+vollkommen verschließt. Sein Ankergrund war vorzüglich, und man sah sich hier
+gegen Sturm und Wellen besser geschützt als in den anderen sogenannten Häfen.
+Wenn die Spitzbergenfahrer sich im Sommer von der Nordküste zum Storfjord
+begaben, so pflegten sie diesen Hafen oft anzulaufen, um entweder günstigere
+Wind- und Eisverhältnisse abzuwarten, oder in den nahegelegenen grasreichen
+Thälern Rennthiere zu jagen. Auch für Torell bildete derselbe im Jahre 1858 eine
+der zuerst und am längsten besuchten Stationen. Während dieser Zeit hatten die
+Theilnehmer an seiner Expedition das Land ringsum durchkreuzt, so daß
+Nordenskiöld sich noch wohl erinnerte, wie dasselbe ausgesehen. Oberhalb des
+Hafens befand sich damals ein breites, von Gletscherbächen durchbrochenes
+Schlammland; im Westen begrenzten ihn hohe Berge, im Nordosten ein niedriger
+Bergrücken, auf welchem neben einem Grabe ein russisches Kreuz errichtet war.
+Weiter im Osten erschien wieder eine niedrige Ebene, von einem nicht
+unbedeutenden Flusse durchströmt, und dahinter das Kohlengebirge. Gleich
+oberhalb der ungeheuren Moränen, welche den Strand des Hafens bildeten,
+erstreckte sich ein niedriger, aber sehr breiter Gletscher, dessen Abfall so
+unbedeutend war, daß man von ihm annahm, er ziehe sich zurück. Verschiedene im
+Schlamme befindliche Seemuscheln, zum Theil noch frisch und gut erhalten,
+erregten in Torell die irrthümliche Vorstellung, er habe hier nicht Moränen,
+sondern den durch den gewaltigen Druck des Gletschers heraufgepreßten
+Meeresgrund vor sich. Im Winter von 1860 auf 1861 schritt nun der früher so
+unbedeutende Gletscher plötzlich über die Moränen und die Russenhöhe, füllte den
+ganzen Hafen aus und drang noch weit in die See vor. Er bildet gegenwärtig einen
+der größten Gletscher auf Spitzbergen, von welchem fast ununterbrochen große
+Eisblöcke niederstürzen, so daß kein Boot seinem zerklüfteten Rande zu nahen
+wagt.
+
+Leider machte das bei der Abfahrt vom Schiffe noch immer stürmische aber klare
+Wetter bald einem anhaltenden Nebelregen Platz, so daß man nur eine sehr
+ungenügende Photographie von dem neuen Gletscher erhalten konnte. Als
+Nordenskiöld zurückkehren wollte, drang die Fluth durch den südlich von der
+Insel befindlichen engen Sund mit einer solchen Gewalt ein, daß er trotz seiner
+vier Ruderer die kurze Strecke nicht zurückzulegen vermochte. Nachdem er nur mit
+großer Anstrengung einem Schiffbruche an den zahlreichen im Sunde befindlichen
+Klippen entgangen, sah er sich genöthigt, obwohl er weder mit einem Zelte noch
+mit geölten Kleidern versehen war, im strömenden Regen auf dem südlichen Strande
+von van Mijen's Bucht so lange zu warten, bis mit der Ebbe eine Veränderung in
+der Strömung einträte. In Ermangelung anderer erwärmenden Mittel, sprang die
+ganze Mannschaft, während der Regen vom Himmel strömte, am Strande auf und ab.
+Dabei wurde eine Raubmöwe von ihrem Neste aufgescheucht. Wie gewöhnlich in
+solchen Fällen, bemühte sie sich auch hier durch allerlei Manöver die
+Aufmerksamkeit der Friedensstörer auf sich zu lenken und dadurch ihre Eier zu
+retten. Auch andere Vögel machen von diesem gegen den sonst so schlauen
+spitzbergischen Fuchs gewiß ganz probaten Mittel Gebrauch; für uns war es nur
+eine Veranlassung, um so genauer nachzusuchen. In Kurzem fanden wir denn auch
+das Nest mit einigen braunen Eiern, oder vielmehr ein paar graubraune Eier,
+welche ohne Unterlage auf dem ganz mit Wasser durchzogenen Boden lagen. Geradeso
+legen auch die Meerschwalben und Schnepfen ihre Eier auf die bloße Erde, und es
+hält schwer zu begreifen, woher denn die zum Ausbrüten erforderliche Wärme
+kommt, da der untere Theil des Eies mit dem von der nahen Schneewehe
+herabsickernden Wasser in dauernder Berührung bleibt.
+
+Mittlerweile hatten Sturm und Wellen so zugenommen, daß man mehrere Stunden
+brauchte, um die ganz geringe Entfernung zwischen dem Sunde und dem Schiffe
+zurückzulegen. Bei der Rückkehr waren daher auch alle Mann vollkommen ermüdet
+und durchnäßt.
+
+Am 20. gingen Malmgren und Duner bei dem Hafen, welcher sich unter den
+gewaltigen und steilen Felsmassen der Midterhuk befindet, an's Land. Hier trafen
+sie eine für Spitzbergen außergewöhnlich üppige Vegetation an, die sich
+besonders durch ihren Reichthum an verschiedenen, sonst hier sehr seltenen Arten
+auszeichnete, z. B. das schöne blauweiße Polemonium pulehellum. Sie verdankt dem
+fruchtbaren Erdboden ihre Existenz, welcher jährlich von den an den steilen
+Felsabhängen nistenden Schaaren von Vögeln gedüngt wird. Denselben Tag kam auch
+eine Jacht von Bergen an, um auf den Bänken westlich vom Bellsund Haakjerringe
+(Seymnus mierocephalus) zu fangen. Sie hatte auf der Herreise auch Tromsö
+besucht, und der Capitän war aufgefordert worden, für unsere Expedition
+Zeitungen und Briefe mitzunehmen; er hatte es aber abgeschlagen, in der Meinung,
+Axel Thordsen befinde sich schon längst im Storfjord. Der ehrliche Mann erzählte
+uns dieses mit der größten Seelenruhe, schien aber doch nicht wenig verlegen, da
+das erste Schiff, welches er auf seiner Reise traf, gerade der Axel Thordsen
+sein mußte.
+
+Am folgenden Tage, den 21., machte, wie es so oft an der Westküste Spitzbergens
+geschieht, der heftige Sturm einer vollkommenen Windstille Platz, so daß es
+keine Möglichkeit gab, mit einem Segelschiffe vorwärts zu kommen. Um aus diesem
+neuen Aufenthalte doch wenigstens einigen Nutzen zu ziehen, wurden die Boote von
+Neuem ausgerüstet und bemannt und auf Expeditionen nach verschiedenen Richtungen
+ausgesandt.
+
+*Dunér's Bootreise.* „Um die geographische Lage des Hafens zu bestimmen, blieb
+ich bis zum Abend auf dem Schiffe und begab mich sodann quer über van Keulen's
+Bucht, in der Richtung auf einen hohen Berg hin, welcher die Bucht auf der
+Südseite begrenzt. Auch sollte sich, nach Hellstad's Versicherung, hier ein zu
+einem Ruheplatze geeignetes Vorland befinden. Der Wind wehte — wenn auch nur
+schwach — aus dem Südfjorde und begünstigte die Fahrt. Als das Boot sich dem
+Lande näherte, stellte sich die Nothwendigkeit heraus, weiter nach dem Innern
+des Fjordes zu halten, indem die starke Dünung das Anlegen an der gedachten
+Landspitze nicht räthlich erscheinen ließ. Ich steuerte deshalb zwischen einigen
+kleinen, überall von Schären umgebenen Inseln hindurch. Rings um uns brandete
+es. Oft war das Boot nahe daran, auf den Grund zu gerathen; zuletzt geschah es
+auch in der That, aber erst in ruhigerem Wasser. Nachdem wir etwa eine Stunde
+gerudert hatten, fuhren wir durch einen schmalen und flachen Sund zwischen dem
+festen Lande und einer größeren niedrigen Insel. Hier begegneten wir einem Boote
+von dem andern Schiffe, welches hierher gegangen war, um Treibholz zu holen. Die
+Mannschaft hatte im Vorbeifahren aber natürlich den Holm geplündert und alle
+Eier aus den Nestern genommen, so daß wir auch nicht eines mehr fanden. Wir
+ruderten deshalb an dieser Insel vorbei in eine schöne kleine Bucht, welche auf
+der Westseite der Spitze, die wir vor Kurzem umschifft hatten, einschnitt. Diese
+Bucht ist eine der freundlichsten auf Spitzbergen. Man findet hier genügenden
+Schutz gegen Wellen, einen bequemen Strand, darauf man das Boot ziehen kann,
+Treibholz und gutes Wasser in einem kleinen Bache, welcher hier mündet.
+Ueberdies ist die breite Ebene, welche sich ungefähr sechs Fuß über dem Meere
+erhebt, im Gegensatze zu den meisten ähnlichen Bildungen, durchaus nicht sumpfig
+oder sandig, sondern wird aus einem ebenen, festen Grusbette gebildet, bedeckt
+von purpurrothen Blumenmatten der Saxifraga oppositifolia. Ueber diese Fläche
+erheben sich einige 50 Fuß hohe Kalksteinfelsen, deren verticale von Osten nach
+Westen streichende Lagen durch ihren Reichthum an Petrefacten ausgezeichnet
+sind. In dem feinen Gerölle am Fuße eines dieser Felsen fand ich das Nest der
+Schwimmschnepfe (Phalaropus fulicarius), eines der schönsten Vögel Spitzbergens.
+Eigentlich war von einem Neste keine Spur vorhanden, indem die vier Eier
+lediglich in einer Vertiefung des Erdbodens lagen. Mitten darin befanden sich
+auch ein paar Steine, ungefähr von derselben Größe wie die Eier. Ich stellte auf
+der Höhe dieser Felsen meine Instrumente auf und bestimmte die Höhe der
+Mitternachtssonne. Einige Stunden später wollte ich die geographische Länge
+berechnen. Da ich indessen zu verschlafen fürchtete, so unternahm ich noch einen
+Spaziergang nach den höheren Bergen. Unterwegs traf ich mehrere ähnliche Klippen
+an, wie die beschriebenen. Die Entfernung des Gebirges war zwar so bedeutend,
+daß ich dieses Ziel aufgab, doch konnte ich deutlich erkennen, daß die Schichten
+den 1,200 Fuß hohen Abhang hinauf weiterstrichen, erst in gerader Linie, dann
+aber mit einer Beugung nach Westen. Die Höhe über dem Strande wird erst von
+einem Plateau gebildet, weiter aber von einer hohen Spitze, welche sich bis zu
+2,000 Fuß erhebt. Zwischen den Steinen lagen die Fetzen des weißen Felles und
+die abgenagten Knochen eines Polarfuchses. Vielleicht war er während des Winters
+verhungert und seine hungernden Genossen hatten sich an das Wenige, was noch an
+ihm zu verzehren war, gehalten. Nachdem ich von meiner Wanderung zurückgekehrt
+war, benutzte ich den übrigen Theil der Nacht, um eine Specialkarte der Bucht,
+welche selbst für größere Schiffe einen geeigneten Hafen bilden würde,
+aufzunehmen, frühstückte und fuhr bald nach sechs Uhr zu einer hohen Sandspitze,
+welche von dem südlichen Strande ausging. Die Landschaft, an welcher wir
+vorüberkamen, war so unbedeutend und öde, daß sie die Aufmerksamkeit nicht zu
+genügenden Schutz gegen Wellen, einen bequemen Strand, darauf man das Boot
+ziehen kann, Treibholz und gutes Wasser in einem kleinen Bache, welcher hier
+mündet. Ueberdies ist die breite Ebene, welche sich ungefähr sechs Fuß über dem
+Meere erhebt, im Gegensatze zu den meisten ähnlichen Bildungen, durchaus nicht
+sumpfig oder sandig, sondern wird aus einem ebenen, festen Grusbette gebildet,
+bedeckt von purpurrothen Blumenmatten der Saxifraga oppositifolia. Ueber diese
+Fläche erheben sich einige 50 Fuß hohe Kalksteinfelsen, deren verticale von
+Osten nach Westen streichende Lagen durch ihren Reichthum an Petrefacten
+ausgezeichnet sind. In dem feinen Gerölle am Fuße eines dieser Felsen fand ich
+das Nest der Schwimmschnepfe (Phalaropus fulicarius), eines der schönsten Vögel
+Spitzbergens. Eigentlich war von einem Neste keine Spur vorhanden, indem die
+vier Eier lediglich in einer Vertiefung des Erdbodens lagen. Mitten darin
+befanden sich auch ein paar Steine, ungefähr von derselben Größe wie die Eier.
+Ich stellte auf der Höhe dieser Felsen meine Instrumente auf und bestimmte die
+Höhe der Mitternachtssonne. Einige Stunden später wollte ich die geographische
+Länge berechnen. Da ich indessen zu verschlafen fürchtete, so unternahm ich noch
+einen Spaziergang nach den höheren Bergen. Unterwegs traf ich mehrere ähnliche
+Klippen an, wie die beschriebenen. Die Entfernung des Gebirges war zwar so
+bedeutend, daß ich dieses Ziel aufgab, doch konnte ich deutlich erkennen, daß
+die Schichten den 1,200 Fuß hohen Abhang hinauf weiterstrichen, erst in gerader
+Linie, dann aber mit einer Beugung nach Westen. Die Höhe über dem Strande wird
+erst von einem Plateau gebildet, weiter aber von einer hohen Spitze, welche sich
+bis zu 2,000 Fuß erhebt. Zwischen den Steinen lagen die Fetzen des weißen Felles
+und die abgenagten Knochen eines Polarfuchses. Vielleicht war er während des
+Winters verhungert und seine hungernden Genossen hatten sich an das Wenige, was
+noch an ihm zu verzehren war, gehalten. Nachdem ich von meiner Wanderung
+zurückgekehrt war, benutzte ich den übrigen Theil der Nacht, um eine
+Specialkarte der Bucht, welche selbst für größere Schiffe einen geeigneten Hafen
+bilden würde, aufzunehmen, frühstückte und fuhr bald nach sechs Uhr zu einer
+hohen Sandspitze, welche von dem südlichen Strande ausging. Die Landschaft, an
+welcher wir vorüberkamen, war so unbedeutend und öde, daß sie die Aufmerksamkeit
+nicht zu fesseln vermochte. Sie bestand aus einer Reihe beinahe
+zusammenhängender Gletscher, von denen jedoch kein einziger den Meeresspiegel
+erreichte. Den Strand bildeten flache Sandrücken. Drei hinter den Gletschern
+aufsteigende zackige Bergspitzen blieben so ziemlich das einzig Interessante auf
+dieser Fahrt.
+
+Gleich nach Mittag kamen wir zu der erwähnten Spitze, welche durch die Beugung
+des Fjordes nach Süden entsteht. Eine halbe Meile weiter endigt derselbe neben
+zweien großen Gletschern, von denen jedoch nur der im Südwesten bis zum Wasser
+hinabgeht. Ich verweilte hier bis vier Uhr Nachmittags.
+
+Das einzig Interessante, was diese unfreundliche, auf der einen Seite vom Meere,
+auf der andern von einem Sumpfe begrenzte Spitze darbot, war die große Zahl von
+Weißfischen, welche in dem trüben Wasser schwammen. Sie scheinen ein solches
+Wasser entschieden zu lieben, darum halten sie sich auch am liebsten an den
+Mündungen der Gletscherbäche auf. Wahrscheinlich suchen sie hier ihre Nahrung,
+die möglicher Weise aus denselben Lachs- oder Forellenarten besteht, wie wir sie
+im Jahre 1861 bei einem in die Wijde-Bai mündenden Flusse vorfanden. Der warme
+Sonnenschein schien auch ihnen sehr gut zu behagen, und die jungen grauen oder
+grauweißen Fische tummelten sich zwischen den älteren schneeweißen, von denen
+namentlich einer sich der lauen Luft zu erfreuen schien. Er schwamm nämlich, den
+Schwanz nach unten und den ganzen Kopf über dem Wasser, umher und wurde in
+seiner Behaglichkeit nur durch den Schuß gestört, den wir nicht unterlassen
+konnten auf ihn abzufeuern. Die Kugel traf zwar nicht, doch hatte sie dem Papa
+offenbar die Lust benommen, noch weiter dem Spiele der Kleinen zuzusehen.
+
+Während wir nach dem gegenüberliegenden Ufer fuhren, legte ich mich, von dem
+vierzigstündigen Wachen und Wandern ermüdet, auf den Boden des Bootes und
+schlief eine Stunde, bis wir an unserm neuen Rastplatze anlangten. Diesesmal
+trafen wir allerdings eine sehr ungünstige Stelle an. Sie bestand nämlich wie
+die frühere aus einer niedrigen, auf dreien Seiten von einem Sumpfe und zweien
+Gletscherbächen umgebenen Insel. Doch gelang es mir auch hier, astronomische
+Ortsbestimmungen zu machen. Am 23. Juli acht Uhr Morgens fuhren wir wiederum ab
+und hielten uns an der nördlichen Küste. Der Wind wurde frischer und ging gegen
+Mittag in eine steife Kühlte über; da er indessen aus Südosten wehte, so war er
+uns äußerst günstig. Um zwei Uhr Nachmittags befanden wir uns wieder beim
+Schiffe.“ 
+
+Die nördliche Küste der van Keulen's Bucht ist von der südlichen ganz
+verschieden. Sie wird nämlich — wenn wir von einem kleinen Gletscher neben
+unserm letzten Ruheplatze absehen — nicht von solchen Eislagern eingenommen, die
+Berge fallen vielmehr nach der See zu in senkrechten Wänden ab, über denen sich
+ein Plateau befindet, welches an einigen Stellen bis 2,000 Fuß aufsteigt.
+
+Am Nachmittage wuchs der Wind zum Sturme an und wüthete den ganzen 24. hindurch
+mit einer solchen Heftigkeit, daß unser kleines Schiff die Ankerketten zu
+zerreißen drohte. Und doch befand es sich jetzt in dem eigentlichen Hafen. Die
+mächtigen Eisblöcke wurden infolge der starken Dünung förmlich zermalmt,
+obgleich sie bis 6 Fuß dick und oft bis 20 Fuß lang und breit waren. Dennoch
+hielten die Ankerketten. Am folgenden Tage ließ der Sturm wieder nach, und die
+Gefahr war vorbei. Wir begannen nunmehr aber ernstlich für Nordenskiöld zu
+fürchten, der von seiner Bootfahrt noch nicht zurückgekehrt war. Die Besorgniß
+nahm zu, da er auch am Nachmittage des 26. nicht wiederkam. Bei dem starken
+Sturme schien es nämlich unwahrscheinlich, daß er seinen Plan ausgeführt, das
+heißt, nachdem er van Mijen's Bucht aufgenommen und an der Midterhuk
+vorbeigefahren, den Eingang des Hauptfjordes erreicht und daselbst eine
+Ortsbestimmung gemacht habe. Wir beschlossen daher für alle Fälle am 27. zu dem
+gedachten Eingange zu fahren und die Partie, für den Fall daß sie sich daselbst
+befände, aufzunehmen, wenn nicht, wieder zum Hafen zurückzukehren. Hellstad
+stieg wiederholt auf den Mast, um nach dem Boote auszuschauen. Endlich
+verkündete er, daß ein Segel in Sicht sei, und bald befand sich auch
+Nordenskiöld wieder an Bord.
+
+*Nordenskiöld's Bootreise.* Nachdem der Sturm aufgehört und der heftige Seegang
+etwas nachgelassen hatte, segelte ich am Nachmittage des 21. in dem englischen
+Boote und mit vier Mann nach dem Innern von van Mijen's Bucht im Bellsund,
+theils um diesen Fjord vollständig aufzunehmen, theils um möglicher Weise eine
+größere Zahl interessanter Blattabdrücke zu sammeln, von welchen ich schon auf
+meiner ersten Reise am Fuße der Kohlen-Bai einige Stücke gefunden hatte. Wir
+fuhren mit günstiger Strömung aus und hielten direct auf die gedachte Stelle.
+Das Boot war mit Brod und Kaffee auf acht Tage versehen, dagegen hatten wir nur
+wenig Fleisch mitgenommen in der Hoffnung auf eine gute Jagdbeute in den vielen
+grasreichen Thälern. Nachdem wir den Kohlenberg erreicht, schickten wir daher
+sofort einen Mann auf die Rennthierjagd aus, um sein Glück zu versuchen, einen
+andern aber mit einer Angelruthe zu einem Flusse, welcher ungefähr eine
+Viertelmeile von dem Eingange des Fjordes mündet, um möglicher Weise einen
+spitzbergischen Lachs zu fangen (freilich nicht für den Koch, sondern für den
+Zoologen). Auch wurde Feuer angezündet, um Essen, vor Allem Kaffee, zu kochen;
+ich selbst aber ging zwischen den Schieferschichten des Strandes auf die Jagd
+nach Versteinerungen. Die Schichten waren vom Froste so zersprengt, daß es kaum
+möglich war, in dem Gerölle ein Stück von ein paar Kubikzoll Größe zu finden;
+von Blattabdrücken entdeckte ich diesesmal aber gar nichts. Der Jäger kehrte
+bald wieder zurück, ohne die Spur von einem Renn gesehen zu haben, und der
+Angler erklärte, in einen so sumpfigen Fluß werde sich schwerlich jemals ein
+Lachs verirren. So nöthigte uns Alles, diesen ungastlichen Strand bald zu
+verlassen. Wir ruderten deshalb weiter längs dem Strande in den Fjord hinein.
+Gegen die Nacht hin wurde es ziemlich kalt, so daß sich auf der Oberfläche des
+Wassers eine dünne Eisdecke bildete, welche das Rudern ungemein erschwerte. Wir
+legten deshalb von Neuem an einer niedrigen Stelle des nördlichen Strandes an,
+um hier die Nacht zuzubringen. Am folgenden Tage ruderten wir weiter, erst zum
+Sundevallberge, sodann durch dichtes Treibeis zu dem südlichen Strande der van
+Mijen's Bucht.
+
+Der nördliche Arm dieser Bucht ist so seicht, daß man schon in einer
+Viertelmeile Entfernung vom Strande mit dem Boote kaum vorwärts kommt. Die Bucht
+findet eine Fortsetzung — ohne daß eine feste Grenze zu erkennen — in einem
+grasreichen Thale, welches eine der besten Rennthierweiden auf Spitzbergen
+bildet. Schon aus der Entfernung konnten wir einige Rudel erkennen, wie sie auf
+der Ebene oder an den Bergabhängen grasten. Wir legten an und schickten ein paar
+Mann auf die Jagd. Freilich waren es so schlechte Schützen, daß sie nur ein
+einziges Thier erbeuteten.
+
+Am 23. fuhren wir mit gutem Winde, an dem Ankerplatze unseres Schiffes vorüber,
+zu der Spitze, welche im Süden den Eingang zum Bellsund begrenzt. Auf der Höhe
+des Fjordes gingen die Wogen so hoch, daß wir nur mit äußerster Anstrengung
+durch die Brandung an den Strand gelangen konnten. Auch war es nicht ohne Mühe,
+das Boot so weit auf das Land zu ziehen, daß die Wellen es nicht mehr
+erreichten. Nachdem wir zuvörderst alle Sachen an's Land geschafft hatten,
+gelang es uns zuletzt, das leere Boot auf eine hohe, ein Ende vom Strande
+entfernte Schneewehe in Sicherheit zu bringen. Aber obwohl das Wetter kalt und
+rauh war, schmolz, oder vielmehr verdunstete doch der Schnee bei dem heftigen
+Sturme so schnell, daß wir unser Boot jeden Morgen ein Ende weiter hinauf zu
+ziehen genöthigt waren.
+
+Den ganzen 24. und 25. wüthete ein so starker Sturm, daß das Schiff nicht — wie
+verabredet worden — den Hafen bei der Midterhuk verlassen konnte, um unser Boot
+wieder aufzunehmen und weiter nach dem Süden zu gehen. Das ungünstige Wetter
+sowie die Nothwendigkeit, das Schiff abzupassen, hinderte auch mich an längeren
+Ausflügen. Nachdem die erforderlichen astronomischen Beobachtungen gemacht und
+die Gegend in der Nähe des Bootes geognostisch untersucht worden, verbrachte ich
+die Zeit ruhig im Bootzelte, um meine seit Langem vernachlässigten
+Reiseaufzeichnungen zu vervollständigen.
+
+Ein paar von den Leuten wurden zu einer von der Fijordmündung ausgehenden Spitze
+gesandt, um daselbst eine Steinpyramide zu errichten und in derselben einige
+Notizen in Betreff unseres Ausfluges niederzulegen, für den Fall, daß unser
+Schiff die Anker gelichtet haben oder genöthigt sein sollte, die hohe See zu
+suchen. Wir beabsichtigten, wenn dieses der Fall, wieder zum Sundevallberge zu
+rudern und uns daselbst mit frischem Fleische zu versorgen. Unser Rennthier war
+natürlich längst verzehrt, und in der Gegend, wo wir verweilten, gab es nicht
+einmal einen Grashalm, geschweige Rennthiere oder Vögel. Unter den
+zurückkehrenden Leuten befand sich auch unser sonst etwas großmäulige „Dregger“,
+dem ich, der Abwechslung halber, erlaubt hatte, die Partie mitzumachen, jetzt
+niedergeschlagen und hinkend. Er behauptete einen Bären gesehen, ihn verfolgt zu
+haben und dabei einen Bergabhang hinabgefallen zu sein. Seine Kameraden, die von
+seiner Herzhaftigkeit nicht viel hielten, meinten dagegen, er habe vor dem Bären
+Reißaus genommen. Am folgenden Tage klagte er über Uebelkeit. Von einem Ausfluge
+zurückkehrend, fand ich ihn „jappend“ im Boote sitzen, ihm gegenüber einen
+anderen Seemann mit einem scharfen Messer, auf dessen Spitze sich eine Dosis
+eines röthlichen Pulvers, offenbar aus meiner Cayenne-Pfeffer-Büchse, befand.
+Auf meine Frage, was das bedeute, erwiederte der Meister in der Dreggkunst mit
+überzeugter Miene, der „Wolf“ sei ihm hinuntergefallen und er müsse ihn durch
+den Pfeffer wieder in die Höhe bringen. Trotz meiner Vorstellungen wurde ihm die
+Arzenei mit dem Erfolge beigebracht, daß der Kranke sofort aus dem Zelte mußte,
+um mit Wasser den inneren Brand zu löschen. Seine sonst so lebhafte Zunge wurde
+für den Rest des Tages schweigsam, der Wolf blieb unten und der Mann ließ es bei
+der einen Dosis bewenden.
+
+Diese Geschichte erinnert mich an eine andere Cur mit schlimmerem Ausgange, von
+welcher man im Rathhause zu Hammerfest lesen kann. Mehrere Seeleute beschworen,
+daß sie im Jahre vorher, nachdem sie ihr Schiff im nördlichen Eismeere verloren,
+sich über das Eis nach Spitzbergen gerettet hätten. Bei der Ueberwinterung
+daselbst seien zwischen Weihnachten und Neujahr zwei Leute, Bergström und
+Sunder, der Erstere am Skorbut, der Letztere an der „Magenkrankheit“ gestorben.
+Nach ihrer Aussage hätte Sunder selbst angegeben, daß der Grund für die heftigen
+Schmerzen, die seinen Tod verkündeten, in dem *gestoßenen* Glase zu finden, mit
+welchem ihn der Schuhmacher Moberg habe curiren wollen. Zu dem Pulver hatte ein
+Stundenglas gedient, das der Capitän dem Schuhmacher auf dessen Ansuchen
+gegeben.
+
+Erst am 26. gestatteten Sturm und Wellen, unser auf seinem alten Ankerplatze
+befindliches Schiff aufzusuchen. Auf der Rückfahrt stieg ich bei dem Südhafen
+an's Land und sammelte verschiedene Steinkohlenstücke, welche ein fossiles,
+bernsteinartiges Harz enthielten. Dasselbe stammte wahrscheinlich von den
+Kiefern her, welche dereinst in diesen jetzt so öden und wüsten Gegenden
+wuchsen.
+
+Am Morgen des 27. Juli segelte Axel Thordsen mit einem frischen Südostwinde,
+welcher allerdings an der Südspitze des Bellsundes wieder fast ganz aufhörte,
+nach Süden. Während wir Dunder's Bucht, eine breite, aber nicht tief
+einschneidende Vik südlich vom Bellsund, passirten, nahm der Wind eine Weile zu,
+wurde sodann aber ganz schwach. Ueberdies hüllte ein dichter Nebel, der sich
+erst am 29. etwas lichtete, die ganze Landschaft in einen Schleier. Als wir das
+Land wieder erblicken konnten, ergab es sich, daß das Schiff während der zwei
+Tage langen Fahrt nicht weiter gekommen war, als bis zu der Inselgruppe, welche
+ungefähr eine Meile nördlich von der Einfahrt zum Hornsunde liegt und den
+gewöhnlichen Ankerplatz für die Schiffe, die nach diesem Sunde wollen, bildet.
+Nachdem der Nebel gefallen und aus den oberen Luftregionen verschwunden war,
+entrollte sich vor unseren Augen das großartigste Gemälde, welches Spitzbergen
+aufzuweisen hat, indem die Spitzen der Hornsundstinde im Glanze der
+Sonnenstrahlen wunderbar über die schweren Wolkenmassen zu ihren Füßen
+aufstiegen. Dieses Gebirge erhebt sich in dreien steilen spitzen Hörnern bis zu
+einer Höhe von 4,500 Fuß. Auch Scoresby bezeichnet es als das bedeutendste
+Gebirge Spitzbergens. Obwohl wir an dieser Küste schon so oft vorübergefahren,
+war die Aussicht für uns doch vollkommen neu. Den größten Theil des Jahres
+verhüllt nämlich ein dichter Nebel diese höchsten Bergspitzen des höchsten
+Nordens und entzieht sie dem Blicke des Schiffers.
+
+Am Nachmittage ließ der Wind vollkommen nach. Um daher nicht unnütz die Zeit auf
+hoher See zu verlieren, ließen wir das Schiff nach den nur eine halbe Meile
+entfernten *Dauneninseln* bugsiren. Wir warfen am Morgen des 30. Anker in dem
+hier befindlichen vortrefflichen Hafen, welcher gegen die See durch eine Menge
+Schären und drei Inseln, die man auf älteren Karten vergebens sucht, geschützt
+ist. Die Inseln sind sämmtlich niedrig und flach und von verschiedenen seichten
+Süßwasserteichen bedeckt. Sie bilden also vortreffliche Brüteplätze für die
+Eidervögel, um so mehr, als das Eis hier früher aufzubrechen pflegt als an den
+meisten übrigen Inseln Spitzbergens. Darum sind diese Inseln auch schon seit
+Langem als vortreffliche „Daunenwehre“ bekannt, und die Spitzbergenfahrer landen
+hier gerne im Junimonat, um Eier und Daunen zu sammeln. Wer zuerst ankommt,
+schwelgt förmlich in Eiern und Vögeln: man ißt Eier, Pfannkuchen in
+verschiedener Gestalt, bedient sich des Eidotters, an Stelle des Rahms, zum
+Kaffee u. s. w. Eine mit Eiern gefüllte Tonne steht immer offen auf dem Verdeck
+da. Einen Theil der Eier legt man in Salz und bringt sie sammt den Daunen nach
+Norwegen. Dieser Fang ist daher nicht ohne Bedeutung; aber das sinnlose
+Verwüsten von Eiern und Thieren hat ihn doch so geschmälert, daß er nicht
+entfernt mit demjenigen zu vergleichen ist, welcher vor 10 oder 20 Jahren hier
+betrieben wurde. Würden die Jäger die Vögel schonen und das Eiereinsammeln nur
+bis Ende Juli betreiben, oder blos die frischen Eier fortnehmen, so möchte sich
+ohne Zweifel die Zahl der Vögel wieder bald vermehren; aber wir müssen
+bezweifeln, daß eine solche rationelle Ausbeutung der Daunenwehre auf
+Spitzbergen überhaupt möglich sei. Bald wird, wie der Walfisch, auch dieser so
+nützliche Vogel, zugleich mit dem Walroß und dem Renn, nicht mehr zu den auf
+Spitzbergen häufig vorkommenden Thieren gerechnet werden können. In Norwegen, wo
+die Eidergänse jetzt geschützt werden, haben sie sich bereits wieder bedeutend
+vermehrt.
+
+Nachdem wir Anker geworfen, gingen wir sofort an's Land, theils auf die Holme,
+theils auf die zunächst vortretenden Spitzen des festen Landes, um
+Ortsbestimmungen zu machen u. s. w. Die Brütezeit war offenbar schon zu Ende.
+Selbst die wenigen Eidervögel, deren Nester der Plünderung entgangen, hatten die
+Insel bereits verlassen und schwammen mit ihren Jungen an den Küsten umher.
+Dagegen trafen wir am Lande große Schwärme von Meerschwalben, welche unter
+wildem Geschrei ihre Eier oder die nur erst mit leichtem Flaum bekleideten
+Jungen zu vertheidigen suchten. Wenn nicht der Vogel durch sein Geschrei die
+Stelle verriethe, so würde er infolge seiner gelblichgrauen Farbe nur schwer von
+dem durch die Flechten oft gelbgefleckten Steingerölle zu unterscheiden sein.
+Die Schwärme umschwirrten uns mit einer solchen Wuth, daß man den Platz nur im
+Nothfalle besuchen sollte.
+
+Auf dem festen Lande bestanden die Abhänge der Gebirge aus einem groben
+Steingetrümmer, welches sich bis hoch hinauf mit einem lebhaften Grün bedeckt
+hatte. Hier war auch das hochnordische Leben noch in voller Thätigkeit. Man
+trifft nämlich unzählige Schaaren des kleinsten spitzbergischen Schwimmvogels,
+Mergulus Alle, an. Dieser Vogel wählt die ungeheuren Steinmassen an den Abhängen
+der Berge, oft alte Moränen, zu seinem Brutplatz. Seine Zahl ist unglaublich.
+Ein Theil fliegt in der Luft umher, in so dichtgedrängten Schaaren, daß man sie
+bei flüchtigem Blicke für Wolken halten könnte; andere sitzen wieder so dicht an
+einander gedrängt auf den Steinblöcken, daß man mit einem Schuß 10 bis 20 erlegen
+kann, oder sie kriechen, nach Art der Ratten, unter der Erde in den Löchern oder
+zwischen den Steinen umher. Als Torell und Nordenskiöld im Jahre 1861
+Spitzbergen besuchten, lagen sie in der Mitte des Juni bei diesen Inseln. Sie
+wollten gerne ein paar Eier von Mergulus Alle einsammeln und durchspähten
+deshalb die Spalten und Ritzen zwischen den Steinen. Allein vergebens. Schon
+waren sie im Begriff, sich unverrichteter Dinge zu entfernen, als ein aus der
+Tiefe kommendes Kackeln ihre Aufmerksamkeit auf sich zog. Sie wühlten nun die
+Steine tiefer um und fingen eine Menge lebender Vögel nebst einigen Eiern,
+welche unmittelbar auf dem Eise zwischen den Steinen lagen. Wahrscheinlich war
+die eigentliche Brütezeit damals noch nicht eingetreten. Einen eigenthümlichen
+Eindruck machte es, aus der Tiefe den Ruf der Vögel zu vernehmen, wenn man
+denselben dicht über der Erde nachahmte. Ohne einen einzigen Vogel zu erblicken,
+hörte man ihre Antworten von allen Seiten her. Diese gaben aber wiederum
+Veranlassung zu einem weiteren und weiteren Gekackel, so daß eine einzige Frage
+eine lange dauernde Unterhaltung der gefiederten aber nach Art der Ratten unter
+der Erde lebenden Bewohner zur Folge hatte. Der Vogel ist zugleich der
+Krammetsvogel Spitzbergens, sein Fleisch wohlschmeckend und ohne Thrangeruch.
+Wir schossen ihrer am Hornsunde eine so große Menge, daß jeder Schuß für
+verfehlt angesehen wurde, wenn nicht mindestens 7 bis 10 Vögel fielen.
+
+Weiter am Tage gingen Nordenskiöld und Dunér in einem Boote zum Hornsund, um
+auch diesen Fjord aufzunehmen. Wir hatten verabredet, daß Einer von uns zu dem
+Südpunkte desselben rudern, dort eine Ortsbestimmung machen und sodann seine
+Fahrt längs der Küste fortsetzen solle, bis er mit dem andern Boote vom
+Nordstrande her zusammenträfe. Indessen scheiterte dieses Unternehmen an einem
+Umstande, der an der Westküste Spitzbergens so oft eintrit. Beim Südostwinde hat
+man nämlich an den Küsten oft vollkommene Windstille, während in den Fjorden ein
+heftiger Wind weht. Besonders sind der Bell- und Hornsund, und bei östlichem
+Winde auch die Magdalenen-Bucht rechte Windlöcher. So war es auch diesesmal der
+Fall. In der Nähe des Ankerplatzes unseres Schiffes herrschte Windstille mit
+starker Dünung, in der Nähe des Hornsundes dagegen heftiger Gegenwind und hoher
+Seegang. Wir mußten deshalb unsern ursprünglichen Plan aufgeben, an dem
+Nordstrande des Fjordes anlegen und uns glücklich preisen, daß wir durch die
+schäumende Brandung ohne einen andern Unfall an's Land kamen, als daß eine Welle
+in Dunér's Boot schlug und es füllte. Am folgenden Tage gelang es uns doch,
+vermittels einer Triangulirung vom Nordstrande des Fjordes aus einen ziemlich
+guten Beitrag für dessen Aufnahme zu erlangen, und wir kehrten zum Schiffe
+zurück, froh, wenigstens nicht ganz unsern Zweck verfehlt zu haben.
+
+Auf dem Rückwege besuchten wir den innersten Holm beim Hafen. An seinem Strande
+lagen auf einer kleinen Erhebung neun Schädel von Russen, welche — wie wir
+erfuhren — einst von einer englischen Besatzung beraubt und ermordet worden
+waren. Die Räuber entgingen allerdings der Strafe. Infolge einer wunderbaren
+Fügung aber kam ein anderes ähnliches Verbrechen an's Licht und der Verbrecher
+wurde bestraft. Die Besatzung einer russischen Lodge erzählte nämlich bei ihrer
+Rückkehr nach Archangel, daß sie infolge eines Unglücksfalles ihren Capitän und
+zwei Matrosen auf Spitzbergen verloren hätten. Dieses Ereigniß ging ziemlich
+unbeachtet vorüber, bis einige Jahre später (1853) ein jetzt noch lebender
+Spitzbergenfahrer aus Norwegen einen Flintenkolben neben einem Menschengerippe
+fand. Auf diesem Kolben befanden sich Worte eingeritzt, des Inhalts, daß der
+Eigenthümer desselben mit noch zwei oder drei Mann von seiner Besatzung am Lande
+ausgesetzt worden und daß seine Gefährten bereits dem Hunger erlegen wären. Auch
+dem Capitän war offenbar dasselbe Schicksal zu Theil geworden. Das
+eigenthümliche Tagebuch schloß mit dem 3. März. Der Norweger sandte den Kolben
+nach Archangel, das Verbrechen wurde entdeckt und die Verbrecher nach Sibirien
+geschickt. —
+
+Am 3. August fuhren wir bei sehr schwachem Winde weiter nach Süden. Nachmittags
+stießen wir auf bedeutende Massen von Treibeis, welche uns sehr bald umgaben und
+ein weiteres Vordringen unmöglich machten. Wir nahmen im Westen ein Schiff wahr,
+das sich, wie es schien, unbehindert nach Norden bewegte. Wir vermutheten daher,
+daß das Wasser dort offen sei, und fuhren ihm entgegen. Als wir uns dem Schiffe
+näherten, erkannten wir es als eine Galeas von Tromsö, welche bei unserer
+Abreise noch abgetakelt im Hafen lag, mithin die Küsten Norwegens viel später
+als unser Axel verlassen hatte. Unsere Signale, anzuhalten, beantwortete es
+einfach damit, daß es seine Flagge aufzog und weiter fuhr. Uns aber kam es
+darauf an, wenn auch nicht Briefe und Zeitungen, so doch einige Nachrichten aus
+der cultivirten Welt, über den Krieg in Amerika und Dänemark zu erhalten, vor
+Allem zu erfahren, ob unser Vaterland Krieg oder Frieden habe. Wir setzten daher
+alle Segel bei, verbanden sogar die Bootssegel zu einem einzigen und begannen
+eine förmliche Jagd auf den Schiffer, der — ungleich dem sonst auf Spitzbergen
+üblichen Benehmen — sich so wenig gentlemanlike betrug. Die Verfolgung war nicht
+ohne Schwierigkeiten; unsern Weg sperrten mehrere Eisbänder, welche mit Gewalt
+durchbrochen werden mußten; schließlich kamen wir aber doch dem Schiffe so nahe,
+daß wir ein Boot aussetzten und zu demselben hinanrudern konnten. Malmgren ging
+nun sofort mit einigen Leuten an Bord und lud den Capitän, trotz der allgemeinen
+Erbitterung — die sich während der Fahrt unter Anderem in der lauten Drohung
+Luft machte, dem Schiffe eine Kugel in den Bauch zu jagen — zu einer Flasche auf
+den Axel ein.
+
+Nüchternheit kann man eigentlich nicht zu den sonst so vielen löblichen
+Eigenschaften der norwegischen Spitzbergenfahrer rechnen. Ausnahmen giebt es
+gewiß hier wie überall, in der Regel hält es aber der Walroßjäger für seine
+Schuldigkeit, die langen Winternächte in Saus und Braus zu verleben und die im
+Sommer erworbenen Speciesthaler zu verjubeln. Dieses Leben ist natürlich in den
+Augen der übrigen Leute, welche sich gegenwärtig durch ihre streng pietistische
+Richtung auszeichnen, ein wahrer Greuel. Am Anfange nahm man auch Spirituosen
+auf den Jagdschiffen mit, um entweder eine glückliche Jagd zu feiern oder sich
+gegen Kälte und Nässe zu schützen. Seitdem dieses aber zu vielen
+beklagenswerthen Unglücksfällen Veranlassung gegeben, befolgt man das Princip,
+den Branntwein von dem spitzbergischen Schiffe vollkommen zu verbannen. Dies
+wird denn auch so gewissenhaft beobachtet, daß mit dem Momente, da die Leute die
+Küsten Norwegens verlassen, eine vollkommene Unterbrechung der Winterdiät
+erfolgt. Darum ist aber ein Glas Grog, oder eine andere ähnliche
+Herzensstärkung, ein Labsal, bei dessen Anblick die finsterste Stirne hell, die
+trägste Zunge beredt wird. Auch diesesmal wurde unserer freundlichen Einladung
+gerne Folge gegeben, und bald saßen wir mit dem fremden Capitän in unserer engen
+Cajüte, sprachen über Politik und bemühten uns aus seiner unzusammenhängenden
+Darstellung ein Bild von der Lage Europas zu entwerfen. Kein Brief, keine
+Zeitung war für uns da, wohl aber die Trauerpost von der Einnahme Alsens.
+
+Im Uebrigen erzählte er uns, daß es nach Süden hin nicht gerade viel Eis gebe,
+und daß er selber weniger auf den Fang ausgegangen sei, als um Planken, Anker u.
+s. w. von einem mit Holz beladenen Schiffe zu bergen, welches von seiner
+Besatzung in südlicheren Regionen verlassen worden und von dem Golfstrom nach
+Norden geführt, zuletzt aber an den Felsen des Vorlandes zerschellt wäre.
+
+Nachdem wir so eine Weile mit einander geplaudert, kehrte unser Gast zu seinem
+Schiffe zurück, wir aber setzten unsere Fahrt nach Süden hin fort.
+
 
 :::
+
+
+
 
 [^2200]: [Keilhau, Reise etc. S. 128-133. Uebersetzt in dem Ergänzungsheft Nr. 16 zu Petermann's Geograph. Mittheilungen S. 49, 50.]{.footnote}
