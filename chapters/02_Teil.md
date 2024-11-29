@@ -2816,10 +2816,733 @@ einiger nach Norden hin belegenen Bergspitzen zu unterschätzen, weshalb wir bei
 den späteren Messungen von Lee's Vorland sie mit anderen näher belegenen
 verwechselt hatten.
 
+:::
+
+
+## <small>Siebtes Kapitel.</small><br /> Fahrt bis zum Weißen Berge. — Rückkehr.
+
+::: justified
+
+:::: fs-xs
+Ueberkühltes Wasser. — Der Edlundberg. — Intermittirender Gletscherfluß. — Das
+Innere des Landes. — Der „Balsfjording“. — Der weiße Berg. — Giles' Land. — Der
+Helissund. — Der Bär als Visitator. — Zweiter Besuch des Bären. — Bärenfleisch.
+— Umschiffung Spitzbergens. — E. Karlsen's Fahrt. — Giles' Land. —
+Schiffbrüchige. — Mattila's Bericht. — Die Geretteten. — Eine Ueberwinterung. —
+Die übrigen Schiffbrüchigen. — Die Lappen. — Noch ein Schiffbruch. —
+Abenteuerlicher Ausgang. — Rückkehr.
+<br /><br />
+::::
+
+
+Dem heftigen Sturme folgte vollkommene Windstille, und wir lichteten die Anker,
+um noch einmal den Versuch zu machen, einen Hafen an der Nordküste des
+Storfjordes zu erreichen. Den ganzen 19. trieben wir im Nebelwetter, zwischen
+einzelnen Eisschollen, hierhin und dorthin, ohne den ersehnten, nur einige
+Meilen entfernten Hafen zu erreichen. Unter Anderem lagen wir einige Stunden an
+einem Eisberge fest, welcher von der Strömung durch das übrige Eis getrieben
+wurde und ein breites eisfreies Fahrwasser hinter sich ließ. Es kommt nämlich
+sehr oft vor, daß das Eis sich in zweien entgegengesetzten Richtungen bewegt,
+das flache, wenige Fuß unter die Oberfläche reichende Buchteneis nach der einen,
+und die hohen, tiefgehenden Gletschereisblöcke nach der andern Seite. Die
+Spitzbergenfahrer lassen sich deshalb bei der Windstille oft von einem solchen
+tiefer gehenden Eisblocke in's Schlepptau nehmen.
+
+Wenn man auf Spitzbergen von Eisbergen redet, so hat man allerdings nur an
+größere, von den Gletschern herabgefallene Eisblöcke zu denken, aber obwohl
+dieselben oft ungeheuer sind, so lassen sie sich doch durchaus nicht mit den
+grönländischen Eisbergen vergleichen, welche eine Höhe von 1,000 Fuß erreichen
+sollen. Schon der Absturz der dortigen Gletscher ist weit höher als der der
+spitzbergischen; dieser Unterschied genügt aber nicht, die so bedeutende
+Differenz zu erklären. Professor Edlund's Annahme, die größeren Eisberge
+entstünden dadurch, daß ein Gletscherblock mit seinem unteren Theile in
+Berührung mit einer Schicht „überkühlten“^[^2700]^ Wassers komme, welches bekanntlich
+in solchem Falle sofort in Eis verwandelt wird, hat daher eine große
+Wahrscheinlichkeit für sich. Solche „Ueberkühlung“ kann infolge des Golfstromes
+auf Spitzbergen nur ausnahmsweise stattfinden, während sie in den fast
+ausschließlich von der arktischen Strömung durchflossenen Gewässern Grönlands
+sehr oft vorkommen muß. So finden nur in Grönland die von den Gletschern
+gefallenen Eiskörner einen fruchtbaren Boden für die Weiterentwickelung, und
+wachsen zu jenen ungeheuren Eisbergen an, welche den Schiffern oft ebenso zum
+Staunen wie zum Entsetzen gereichen.
+
+Während das Schiff mit der Strömung trieb, schickten wir das Jagdboot aus,
+theils um einen geeigneten Hafen aufzusuchen, theils um die großen Seehunde zu
+jagen, welche sich auf den Eisflarden behaglich ausruhten und sich offenbar an
+dem stillen warmen Wetter erfreuten. Infolge der nebeligen Luft gelang es
+indessen nicht, ihnen in Schußweite zu kommen. Während des Nebels sind nämlich
+sowohl die Walrosse als auch die Seehunde so scheu, daß sie bei dem geringsten
+Geräusche entfliehen. So kam auch jetzt das Boot ohne erhebliche Ausbeute
+zurück. Dafür brachte es allerdings die erfreuliche Nachricht mit, daß es am
+Fuße des Edlundberges, zwischen einer Insel im Osten und einer flachen Spitze im
+Westen einen vortrefflichen Hafen gebe, der im Norden von dem festen Lande
+eingeschlossen, im Süden aber durch Grundeisblöcke geschützt werde. Von der
+Besatzung des Axel Thordsen hatte bis dahin noch Keiner in diesem Theile des
+Storfjordes geankert, wir nahmen die Nachricht daher mit großer Freude auf und
+ließen das Schiff durch die Boote in den ersehnten Hafen bugsiren. Nach einigen
+Stunden Arbeit warfen wir daselbst Anker und fanden die Aussage der Jäger
+durchweg richtig. Am folgenden Tage, als der am Vormittage herrschende Nebel
+sich ein wenig verzogen hatte, machten wir den Versuch, über den östlich vom
+Edlundberge befindlichen Gletscher den Gipfel desselben zu besteigen. Unser
+Unternehmen war anfangs vom Wetter begünstigt. Als wir aber so weit
+hinaufgekommen waren, daß wir vor dem Nordwinde keinen Schutz mehr fanden,
+empfing uns ein so eisiger, heftiger Sturm mit Nebel, daß wir uns kaum aufrecht
+zu halten vermochten. An eine weitere Aussicht war natürlich gar nicht zu
+denken. So kehrten wir denn zum Schiffe zurück. Als wir beim Niedersteigen
+wieder den Gletscher passirten, kamen wir zu einer kleinen Eisspalte und
+vernahmen, während wir noch nach einer Stelle zum Ueberspringen suchten,
+oberhalb ein dumpfes Brausen. Gleich darauf aber stürzte eine bedeutende
+Wassermasse durch die Spalte und verrann in wenigen Secunden. Dieses Schauspiel
+wiederholte sich mehrere Male. Neugierig setzten wir uns an der Eiskante nieder
+und begannen, den Chronometer in der Hand, das Phänomen genauer zu beobachten,
+wobei es sich denn herausstellte, daß wir es hier mit einem intermittirenden
+Gletscherflusse zu thun hatten; die Pause zwischen jedem Schwalle betrug 40 bis
+60 Secunden. Der Grund für diese Erscheinung war wahrscheinlich derselbe wie bei
+der Intermittenz des aus dem engen Halse einer Flasche strömenden Wassers.
+
+Am 21. August klärte sich das Wetter so vollkommen auf, daß wir wiederum an's
+Land fuhren, um den Edlundberg zu besteigen. Wir legten am Rande des Gletschers
+an, welcher ohne Absturz hinabsteigt. Parallel mit dem Strande, in einer
+Entfernung von etwa 1,000 Ellen, zieht sich eine breite Moränenbank hin, worauf
+der eigentliche Gletscher folgt, dessen unterster Theil aus einem hügeligen, —
+zuweilen von kleinen, meist mit Wasser angefüllten Spalten durchschnittenen, —
+Eisfelde besteht. Die Besteigung war leicht und bequem, und wir erreichten bald
+das unterste Plateau des Berges. Darauf folgte ein geneigter Grasplan, welcher
+erst weiter nach oben steiler wurde, zuletzt aber, nahe dem obersten Plateau, in
+ein senkrechtes, in vierkantige Pfeiler zerklüftetes Hyperitband überging. Das
+letztere war zwar 50 Fuß hoch und senkrecht abgeschnitten, aber auch fest und
+sicher, und konnte daher ohne Schwierigkeit erklettert werden. So erreichten wir
+die Spitze. Die Aussicht von hier entsprach unserer Erwartung vollkommen. Im
+Nordwesten breiteten sich, so weit der Blick reichte, endlose Schneeflächen und
+Hügel aus, nur durch einzelne mehr oder weniger freistehende Bergspitzen
+unterbrochen. Von diesen verdienen in erster Reihe mehrere entferntere Berge,
+welche wahrscheinlich den südlichen Strand von der Wijde-Bai umgeben, genannt zu
+werden, ferner eine Kette von Bergspitzen, welche weiter im Nordosten den
+Horizont unterbrach. Der Chydenius-Berg bildete den nördlichsten und höchsten
+dieser gewaltigen Bergriesen. Nach Süden hin vermochten wir den ganzen Storfjord
+zu übersehen, von Whales Point und Whales Head ab bis zu seiner tiefsten
+Einbuchtung in der Nähe des Weißen Berges. Im Westen ragten lauter von Eis
+umgebene Bergmassen auf. Den Blick über Heenlopen Strat hinderte dichter Nebel,
+welcher — wie so oft — nur über dieser Straße und ihren Strandbergen zu liegen
+schien.
+
+Um die nach Nordwesten sich erstreckende Bergkette noch weiter verfolgen zu
+können und uns zu überzeugen, ob eine Wanderung über die Schneefelder mit
+Schwierigkeiten verbunden sei, gingen wir von der Spitze weiter nach dem Innern
+des Landes, welches sich fast zu derselben Höhe erhob. Es war vollkommen eben
+und mit hartgefrorenem Schnee bedeckt, auf welchem es sich wie auf einem Tische
+wandern ließ. Dieser Schneeplan schien sich bis zum Chydenius-Berg zu
+erstrecken, so daß derselbe, behufs einer Triangulation, leicht zu erreichen
+wäre. Nachdem wir bis zu einem kleinen, entfernteren Schneehügel gekommen, ohne
+ein anderes Resultat, als daß immer neue Bergspitzen aus der Schneefläche
+auftauchten, beschlossen wir zurückzukehren.
+
+Der kürzeste Weg zum Schiffe führte neben einem ziemlich steil abfallenden
+Eisstrome, welcher, zwischen zweien Bergen eingezwängt, von der Stelle, wo wir
+uns befanden, zu einem breiten, ebenen Gletscher niederfloß, demselben, über
+welchen wir beim Hinaufsteigen gewandert waren. Die eigentliche Quelle des
+letztern war eben dieser mit dem Binneneise im Zusammenhange stehende Eisstrom.
+Wir standen eine Weile an seinem Rande, mit dem Fernglase in der Hand, um uns zu
+überzeugen, ob es möglich sei, diesen anscheinend sehr bequemen Weg
+hinabzusteigen, oder ob wir wieder zu dem weiteren, beim Hyperitabsatze überdies
+etwas gefährlichen, zurückkehren müßten. Ein junger „Balsfjording“, der unsere
+Instrumente trug und in seiner Heimath gewiß schon manchen Berg erklettert
+hatte, aber wahrscheinlich noch niemals über einen Gletscher gewandert war,
+betrachtete uns, als wir ihn um seine Meinung fragten, mit großen Augen. Seine
+Mienen schienen auszudrücken: „Wie kann man in einer so klaren Sache noch
+zweifeln?“ — und ohne ein Wort zu sagen sprang er plötzlich, den Theodoliten in
+der Hand, den Eisabhang hinab, zu unserm großen Schrecken, indem wir fürchteten,
+der Gletscher werde wie gewöhnlich von Spalten durchsetzt, also schwer zu
+passiren sein. Es dauerte indessen nicht lange, so sahen wir ihn Halt machen,
+und zwar noch zur rechten Zeit, denn als wir näher kamen, zeigte es sich, daß
+ein ungeheurer Eisabgrund ihm den Weg versperrte. Wir krochen zu seinem Rande
+und blickten in die unheimliche, bodenlose Tiefe hinab, deren Wände aus
+azurblauen Eisklippen bestanden, nur hier und da mit weißen, tropfsteinartigen
+Bildungen bekleidet. Weiter verlor sich Alles in einem schwarzblauen Dunkel.
+Diese Spalte erstreckte sich beinahe quer über den ganzen Gletscher, so daß wir,
+um darüber zu kommen, einen ganz bedeutenden Umweg zu machen gezwungen waren.
+Auch später noch stießen wir auf eine große Zahl solcher Spalten, welche wir
+theils umgingen, theils übersprangen, theils auf einem darüber befindlichen
+Eisgewölbe passirten. Erst dann, als wir die Hauptmasse des eigentlichen
+Gletschers erreichten, nahmen die Spalten ein Ende und das Herabsteigen erfolgte
+rasch und ohne Anstrengung. Der intermittirende Bach, welchen wir am Tage vorher
+gesehen hatten, war jetzt beinahe beständig, so daß wir nur noch ein schwaches
+Pulsiren wahrnehmen konnten.
+
+Schon bevor wir das Schiff verlassen, hatten wir den Auftrag ertheilt, das
+englische Boot auszurüsten und zur Fahrt von einigen Tagen zu bemannen. Wir
+fuhren deshalb gleich nach unserer Rückkehr mit dem Boote zu dem kleinen Sunde
+ab, welcher das östliche Eismeer mit dem Storfjord verbindet. Bei der weiten
+Entfernung und zwischen dem Treibeise, das hier und da den Weg versperrte, wurde
+das Rudern recht ermüdend. Als wir unsern Bestimmungsort erreicht und das Boot
+auf die Ebene zwischen dem Helissund und dem Gletscher, welcher den Weißen Berg
+umgiebt, gezogen, auch das Zelt aufgeschlagen hatten, krochen wir daher sofort
+in unsere Schlafsäcke, um erst am folgenden Tage mit frischen Kräften unsere
+Arbeiten zu beginnen.
+
+Als wir erwachten, fanden wir den Himmel klar und beinahe wolkenfrei. Nachdem
+das Frühstück eingenommen, begannen wir sofort in Gemeinschaft mit Hellstad den
+Weißen Berg zu besteigen. Die Mannschaft sollte sich dagegen während unserer
+Abwesenheit der Rennthierjagd am nördlichen Strande des Helissundes hingeben.
+Wir wanderten zunächst über die bedeutenden Moränen, welche der Gletscher vor
+sich hergeschoben hatte, und bestiegen sodann das langsam abfallende Eisfeld,
+eine wider Erwarten sehr ermüdende und unbehagliche Wanderung, indem die
+Oberfläche aus erst aufgethautem und dann wieder gefrorenem Schnee bestand, so
+daß er von einer pfeifenartigen, vom Winde gefurchten Kruste bedeckt war, welche
+unter unsern Füßen oft zusammenbrach. Infolge dessen sank der Fuß in den
+darunter befindlichen lockern Schnee tief ein und konnte nur mit Anstrengung
+wieder durch die Eiskruste, deren scharfe Kanten in das Schuhwerk schnitten,
+gezogen werden. Erst nachdem wir eine Stunde lang hinaufgewandert, erblickten
+wir den Gipfel des Berges, welcher bis dahin von den Höckern des Gletschers
+verdeckt gewesen war, aber wir befanden uns noch immer weit von dem Ziele
+unserer Wanderung. Stunden lang mußten wir noch über Schnee von ähnlicher
+Beschaffenheit weiter gehen, bevor wir den Gipfel, ein kleines, von fußtiefem
+pulverartigen Schnee, darunter sich festes Eis befand, bedecktes Plateau
+erreichten.
+
+Die Aussicht von hier ist vielleicht die großartigste, welche man auf
+Spitzbergen finden kann. Im Osten, in etwa 20 Meilen Entfernung, erblickten wir
+ein hohes Gebirgsland mit zweien die übrigen Berge überragenden Kuppeln. Es war
+der am weitesten nach Westen vortretende Theil eines großen, noch beinahe ganz
+unbekannten arktischen Continents, welcher, obwohl schon im Jahre 1707 vom
+Commandeur Giles entdeckt, seitdem ganz vergessen und auf den neuesten Karten
+übergangen worden ist. Zwischen diesem Lande und Spitzbergen lag ein von großen,
+zusammenhängenden Eisfeldern bedecktes Meer, das offenbar von keinem Schiffe
+durchsegelt werden konnte. Unser Lieblingsplan, nach beendigter Untersuchung des
+Storfjordes uns dorthin zu wenden, mußte daher aufgegeben werden. Im Nordosten
+und Norden erschienen, so weit der Blick reichte, die Berge des Nordostlandes
+und der Heenlopen Strat, und dazwischen die letztere selbst mit ihren Inseln,
+welche — wie es den Anschein hatte — jetzt von eisfreiem Wasser umgeben waren.
+Nordenskiöld erkannte den von ihm im Jahre 1861 besuchten Lovénberg wieder.
+Zwischen diesem und dem Weißen Berge erhoben sich die schneebedeckten
+Berghäupter von Thumb Point, dahinter aber schnitt ein langer, stark gebogener
+Sund, in welchem mehrere Gletscher mündeten, tief in das Land ein. Das Innere
+des Landes lag ebenfalls vor unseren Blicken da, eine endlose, unermeßliche
+Schneewüste, aus welcher hier und da eine dunkle, gegen den blendend weißen
+Grund stark contrastirende Felsmasse herausragte. Erst weiter im Westen und
+Nordwesten erschienen mehr zusammenhängende Bergketten. Ueberdies war die ganze
+West- und Nordküste des Storfjordes sichtbar und der nördliche Theil von
+Barents' Land, dessen äußerste Spitze aus einem bedeutenden, steil in's Meer
+abstürzenden, stark zerklüfteten Schneeberge besteht. Zu unseren Füßen lag der
+kleine von norwegischen Walroßjägern im Jahre 1858 entdeckte Sund, welchen wir
+mit dem schon auf holländischen Karten vorkommenden Namen Helissund bezeichnet
+haben. Mr. Lamont nennt ihn zwar Ginevrasund, aus seiner Beschreibung ist aber
+zu entnehmen, daß er nur bis zu der Verwechslungsspitze gedrungen, den
+eigentlichen Sund also gar nicht zu Gesicht bekommen hat. Derselbe macht sich
+übrigens noch eines andern Irrthums schuldig, indem er die zu Parry's berühmter
+Reise publicirte Karte des nordöstlichen Spitzbergen nicht zu kennen scheint,
+auch selber keine Ortsbestimmungen gemacht hat. Er läßt nämlich seinen
+Ginevrasund da münden, wo sich etwa die Lommebucht befindet; sein Irrthum
+beträgt mithin nicht weniger als 50 Minuten.
+
+Wie gewöhnlich maßen wir, bevor wir zurückkehrten, eine Menge Winkel mit dem
+Theodoliten, aber diesesmal unter ganz besonders erschwerenden Umständen. Irgend
+ein Stativ hatten wir natürlich nicht bei uns, und im Allgemeinen bedarf es auch
+eines solchen nicht, da die meisten Bergspitzen auf Spitzbergen, selbst
+diejenigen, welche über die in 1,000 bis 1,500 Fuß liegende Schneegrenze
+aufsteigen, schneefrei sind, so daß man bei Messungen die Instrumente leicht auf
+einem Steine oder einem Varde aufstellen kann. Hier aber fanden wir weder Steine
+noch andere zu einer Unterlage passende Gegenstände vor. Wir mußten deshalb erst
+einen großen Schneehaufen zusammenschaufeln, ihn so fest als möglich stampfen
+und den Theodoliten darin bis zum Horizontalkreise niederdrücken. Sodann legte
+sich Einer von uns in den Schnee und maß die Winkel, während der Andere sie
+aufzeichnete. Die Aufstellung erwies sich als ganz fest; aber nach der
+anstrengenden Bergbesteigung schweißtriefend im lockern Schnee zu liegen,
+während ein eisiger Wind den Berggipfel fegte, war doch so unbehaglich, daß nur
+ein paar Winkel gemessen und die Beobachtungen rascher als sonst abgebrochen
+wurden.
+
+Auch das Hinabsteigen war sehr ermüdend, theils infolge des großen Abstandes der
+Bergspitze von der See, theils aus denselben Gründen, welche schon das
+Aufsteigen erschwert hatten. Aber sie fand doch, wenigstens am Anfange, wo der
+Abhang steiler war, in lebhaftem, von verschiedenen Purzelbäumen begleitetem
+Wettlaufe statt, und mit einer solchen Hast, daß wir schon am Abend um zehn Uhr
+das Boot erreichten.
+
+Während unserer Abwesenheit war, wie schon erwähnt, die Mannschaft auf der
+Rennthierjagd gewesen und hatte das Glück gehabt, zwei außerordentlich fette und
+stattliche Thiere zu schießen. Sie kamen einige Augenblicke vor uns zu dem Boote
+und fanden Alles in der größten Unordnung. Offenbar hatte ein Bär eine
+Hausvisitation bei uns abgehalten und sich dabei schlimmer benommen, als ein
+diensteifriger Thorcontroleur in den goldenen Zeiten des Zoll- und Paßzwanges.
+Durch den Schlag seiner Tatzen war das Bootzelt an zweien Stellen von oben bis
+unten zerrissen. Zwei wollene Jacken, sowie einen Dunér gehörigen Nachtsack
+hatte er als unbrauchbar blos umgekehrt, dagegen einer gebratenen Rennthierseite
+größere Achtung erwiesen, indem er sie bis auf die Knochen aufgefressen. Und da
+er offenbar gefunden, daß sie nicht gehörig in Fett geschmort worden, hatte er
+als Zukost etwa die Hälfte einer Talgbütte verzehrt, welche wir für den Fall,
+daß es uns an Feuerung fehlen sollte, mitgenommen. Eine rohe Rennthierhälfte,
+zum Schutze gegen hungrige Füchse und Mövwen in das Bootssegel gewickelt, mochte
+ihm zu gewöhnlich und simpel erschienen sein, denn sie lag unberührt, das Segel
+dagegen war zerrissen. Endlich hatte er noch einen Sack mit Schiffszwieback
+geöffnet und seinen Inhalt auf dem Strande ausgeschüttet. Aber das dadurch
+verursachte Geräusch schien — nach den Spuren im Sande zu urtheilen — den
+vierbeinigen Fiskal schleunigst verscheucht zu haben.
+
+Es verging über eine Stunde, bis wir das Zelt in Ordnung gebracht und die rings
+umhergestreuten Sachen gesammelt hatten. Da wir indessen dem Bären, wenn er
+wiederkehren sollte, eine gehörige Strafe zudachten, so luden wir alle Gewehre
+und legten, nachdem wir unser Abendbrod gekocht, einige Stücke Rennthierfleisch
+auf die Kohlen, damit der Duft ihm recht verlockend in die Nase ziehe. Kurz
+darauf krochen wir Alle in das Zelt, um in der warmen Hülle des Schlafsacks Ruhe
+und Schlaf zu finden. Aber nun entstand die große Frage, wie wir aufwachen
+sollten, wenn unser Gast wiederkäme? Die Bergbesteigung, die Rennthierjagd und
+die darauf folgende reichliche Mahlzeit hatten uns so sehr ermüdet und schläfrig
+gemacht, daß an ein ordentliches Wachehalten nicht zu denken war. Es wurden eine
+Menge Vorschläge gemacht, unter Anderm, daß man das eine Ende eines Strickes um
+die geröstete Rennthierseite oder um einen Schinken, und das andere um das Bein
+des Kochs, dessen Würde durch den Besuch des Bären ganz besonders gekränkt war,
+binden solle. Aber obwohl er auf den Bären am meisten ergrimmt war und sonst
+jede Mißachtung seines Muthes und des ihm gewordenen Mandats auf's
+Empfindlichste rügte, weigerte er sich, trotz des lauten Beifalls der übrigen
+Besatzung, doch ganz entschieden, hierauf einzugehen. Er fürchtete offenbar
+zuerst fortgeschleppt zu werden. So fiel der Vorschlag, ohne daß — wie so oft
+der Fall — ein besserer an seine Stelle gesetzt wurde. Alle Mann krochen in ihre
+Schlafsäcke und vergaßen in den Armen des Schlafes sowohl Rennthiere als auch
+Bären, Sturm und Treibeis.
+
+Wir lagen noch eine Weile halb wachend, plaudernd von Gradmessungen,
+geographischen Aufnahmen, Fahrten zu unerhörten nördlichen Breiten, und waren im
+Begriffe einzuschlafen, als wir draußen vor dem Boote ein leises Geräusch
+vernahmen. Wir meinten indeß, daß es nur eine Fortsetzung des Scherzes sei, den
+man mit dem Koch getrieben, und hüteten uns auf die Sache einzugehen, um nicht
+selber in die Falle zu gerathen. Plötzlich hörten wir aber doch einen heftigeren
+Lärm, der uns veranlaßte, die Zeltleinwand aufzuheben und hinauszublicken. Ein
+großer Bär sprang eben, so schnell er nur konnte, davon und war, bevor wir noch
+ein paar Schüsse auf ihn abfeuern konnten, verschwunden. Als wir hinaustraten,
+wurde uns der Schmerz, zu sehen, daß der Bär nicht blos das auf den Kohlen
+geröstete Fleisch, sondern auch das zum Frühstück bestimmte gekochte Fleisch,
+welches auf einer Schüssel über einer Menge zur Hälfte mit Rennthiersuppe
+gefüllter Becher lag, dicht neben der Bootkante, aufgezehrt hatte. Bei seinem
+Versuche, zu dieser Fleischsuppe zu kommen, hatte er sich offenbar ungeschickt
+benommen und dadurch das Geräusch verursacht. Wir beschlossen jetzt wenigstens
+eine Stunde lang zu wachen; da der Bär aber während dieser Zeit nicht erscheinen
+wollte, schliefen wir wieder ein. Als wir nach einem zehnstündigen festen
+Schlafe erwachten, fanden wir, daß unser Boot mit keinem neuen Besuche beehrt
+worden war. Auch das zweite Mal hatte der offenbar ungewöhnlich civilisirte Bär
+das rohe Rennthierfleisch unberührt gelassen, das geröstete und gekochte dagegen
+vollständig verzehrt. Wir gingen aus dieser Affaire also in der That als die
+Geschlagenen davon, und waren ein wenig verstimmt, daß wir uns das bereits zu
+zweien Decken vor dem Schreibtische bestimmte Bärenfell nicht theilen konnten.
+Ueberdies hatten wir dem Bärenfleische, und besonders den leckeren Schinken,
+Geschmack abgewonnen. Die Leute dagegen legen auf dieses Fleisch kein Gewicht;
+ja es giebt Viele unter ihnen, die für keinen Preis sich zu seinem Genusse
+verstehen würden, obwohl es sehr gut schmeckt und beinahe vollkommen an fettes,
+grobfaseriges Rindfleisch — vielleicht mit einem geringen Beigeschmack von
+Schweinefleisch — erinnert. Dieses Vorurtheil scheint sich theils auf die — wie
+es scheint — richtige Tradition von der Giftigkeit der Bärenleber, theils darauf
+zu gründen, daß das Bärenfleisch zuweilen in der That einen üblen Geruch und
+Geschmack bekommt. Ueberdies fürchten die jüngeren Seeleute, daß man infolge
+seines Genusses frühzeitig ergraut.
+
+Nachdem wir das Boot in's Wasser geschoben, ruderten wir zur Schute zurück und
+erreichten sie in der Nacht, zum 24. August.
+
+Die Untersuchungen zum Zweck einer Gradmessung durften nunmehr als abgeschlossen
+angesehen werden, und es entstand deshalb die Frage, in welcher Weise wir den
+Rest der noch vorhandenen Arbeitszeit wohl am besten anwenden könnten.
+Ursprünglich hatten wir beabsichtigt, sobald die Arbeiten im Storfjorde
+abgeschlossen wären, nach Osten hin zu segeln und die Lage von Giles' Land zu
+bestimmen, vielleicht eine Karte davon zu entwerfen. Von der Spitze des Weißen
+Berges konnte man indessen wahrnehmen, daß dieser Plan für dieses Jahr
+unausführbar sei. Wir beschlossen daher, anstatt dessen so weit als möglich nach
+Norden zu fahren, um wenigstens eine sichere Beobachtung, betreffend die Lage
+des Eises in der ersten Hälfte des September, zu machen. Es darf nämlich als
+ziemlich wahrscheinlich angenommen werden, daß in diesem Monat das Meer im
+Norden und Westen Spitzbergens, infolge des Einflusses des Golfstromes, bis zu
+einer ganz erheblichen Breite eisfrei wird. Von der Stelle, wo wir vor Anker
+lagen, führten zwei Wege nach der nördlichen Küste, der eine durch den Helissund
+und die Heenlopen-Straße an Verlegen-Hoek vorbei, der andere nach Süden um das
+Südcap und sodann längs der westlichen Küste nach Norden. Der erste Weg hätte
+wegen seiner Kürze unbedingt den Vorzug verdient, wenn unser Schiff ein
+Dampfboot oder wenigstens für den Winter verproviantirt gewesen wäre. Denn wenn
+auch der nördliche Theil von Heenlopen Strat durch Eis gesperrt wurde, so hätte
+man doch durch den Storfjord zurückkehren können, bevor ihn das von Osten her
+kommende Eis verschloß. Mit einem Segelschiffe aber mußte dieser Weg äußerst
+gefährlich erscheinen, da ein Ostwind in wenigen Stunden das zwischen
+Spitzbergen und Giles' Land befindliche Eisfeld gegen die Küste pressen und die
+Rückkehr unmöglich machen konnte. Der zweite Weg war dagegen mit keinem
+besondern Risico verbunden und verschaffte uns überdies die Möglichkeit, die
+Lage des Südpunktes von Spitzbergen zu bestimmen. So verzichteten wir auf die,
+im Ganzen genommen auch nur in der Vorstellung vorhandene, Ehre einer
+Umschiffung Spitzbergens und wandten uns wieder nach Süden.
+
+Die Spitzbergenfahrer sprechen oft davon, daß sie Spitzbergen umschifft haben;
+sie verstehen darunter aber immer nur, daß sie in verschiedenen Jahren zu
+demselben Punkte in der HeenlopenStraße gekommen, das eine Mal längs der West-
+und Nord-, das andere Mal längs der Ostküste. Nur ein einziges norwegisches
+Schiff hat, so viel wir wissen, wirklich die ganze Inselgruppe umschifft,
+nämlich die Brigg Jaen Mayen unter Führung des Capitäns E. Karlsen. Wir geben
+hier nach der Tromsöer Stiftszeitung den Bericht über seine interessante Reise.
+
+„Nachdem wir am 7. Juli 1863 Prinz Charles Vorland und den folgenden Tag die
+nordwestliche Spitze Spitzbergens passirt hatten, setzten wir die Reise nach
+Nordosten zur Heenlopen-Straße fort. Auf dieser ganzen Strecke zeigte sich nur
+sehr wenig Treibeis, und wir hatten im Norden, so weit wir nur sehen konnten,
+offenes Wasser. Wir lavirten nun nach Süden durch die Heenlopen-Straße, die noch
+voll von Eis war, und trafen mit mehreren anderen Schiffen zusammen. Den 27.
+erreichten wir die südliche Spitze des Nordostlandes und erlegten ungefähr 40
+Walrosse und eben so viele Seehunde. Ich versuchte hierauf erst die Fahrt nach
+Süden längs der Ostküste Spitzbergens fortzusetzen, vermochte aber das
+dichtgepackte Eis nicht zu durchdringen, wandte deshalb um und begann nach
+Nordosten um das Nordostland zu segeln. Aber auch dieses ließ sich wegen des
+Eises nicht ausführen. So mußte ich wieder durch die Heenlopen-Straße zurück.
+Den 1. August verließ ich diesen Sund, und da das Fahrwasser nach Osten hin
+offen war, so dachte ich einmal zu versuchen, ob sich nicht das Nordostland von
+Norden her unmschiffen ließe, und begann auch gleich gegen den Ostwind zu
+kreuzen. Am 2. August befand ich mich nördlich von Little Table Island und
+erreichte lavirend den 81. Grad. Von hier war das Wasser, so weit wir mit dem
+Fernglase vom Maste aus sehen konnten, nach Norden hin eisfrei. In der Nähe
+schwammen ein paar Eisfelder. Weiter im Osten zeigte sich zwar mehr Eis, doch
+ziemlich vertheilt, so daß es nicht schwer hielt, vorwärts zu kommen. Den 9.
+August befanden wir uns bei der Walroßö, der äußersten Insel an der
+nordöstlichen Spitze des Nordostlandes. Wir ließen die Boote hinab und gingen
+auf die Jagd. Wegen der starken Strömung nach Nordosten warfen wir näher dem
+Lande, bei einigen Inseln, und zwar an einer Stelle, welche auf den Seekarten
+Dove-Bai genannt wird, obwohl hier gar keine Bucht vorhanden, Anker. Wir lagen
+hier bis zum 13. August und hatten eine gute Jagd; aber das Treibeis und der
+Strom zwangen uns wieder unter Segel zu gehen. Wir wurden sehr schnell nach
+Osten hin geführt. Ebbe und Fluth waren hier sehr unbedeutend; letztere betrug
+nur 3 Fuß, wogegen sie an der Nordwestküste Spitzbergens eine Höhe von 6 bis 8
+Fuß erreicht. Wir kreuzten demnächst nach Süden an der Storö vorbei und weiter
+längs der Ostküste des Nordostlandes. Dieselbe besteht aus zusammenhängenden
+Gletschern, welche sich weit in das Meer hinein erstrecken, und zwar, wie es
+scheint, viel weiter als zu der Zeit, da die Karten aufgenommen wurden, denn die
+sogenannten Frozen Islands sind jetzt vollkommen verschwunden. Ebenso ist die
+Entfernung zwischen dem Nordostlande und der Storö (Große Insel), welche nach
+der Karte 3 norwegische Meilen betragen soll, jetzt so verringert, daß sie nur
+noch ein enger Sund, welchen ich zu passiren nicht für räthlich fand, von
+einander trennt.
+
+„Am 16. August, etwa eine halbe Meile vom Nordostlande entfernt, in 79° 34´
+nördl. Br., nahmen wir im Ostsüdost die südlichste Spitze von Giles' Land wahr,
+welche sich nach der Karte in 80° 10´ nördl. Br. befinden soll. Ich schätzte die
+Entfernung auf 8 Seemeilen; das Land liegt also etwa in 79° 5´ nördl. Br. was
+auch mit späteren Messungen übereinstimmt. Wir behielten es nämlich noch in
+Sicht, bis wir zur Walther Thymen's Strat, in 78° 30´, kamen, wo wir es im
+Nordosten hatten. Giles' Land ist übrigens wiederholt von mir und anderen
+Spitzbergenfahrern gesehen worden. Einmal kam ich ihm bis auf eine Meile
+Entfernung nahe, da aber der Fang hier nicht sehr lohnend war, so mochte ich
+nicht weiter gehen. Es ist ein großes, „weitläufiges“ Land mit hohen Bergen und
+großen Fjorden, geradeso wie Spitzbergen.
+
+„Nachdem wir das Ende der Heenlopen-Straße passirt hatten, setzten wir die Reise
+nach Süden längs der Ostküste Spitzbergens fort, machten gute Beute und kamen
+überall, wo wir einen Monat vorher nicht durchzudringen vermocht hatten, leicht;
+hindurch. Am 20. segelten wir zwischen Ryk Yses Inseln und Stans Vorland, sodann
+längs der Südküste des Südostlandes und kehrten nach Norwegen zurück.“ — —
+
+Am 26. lichtete Axel Thordsen die Anker, um nach Süden zu fahren. Der Wind war
+schwach, und nur die Strömung brachte uns vorwärts. Gerade da wir für immer den
+Nordstrand des Storfjordes verlassen sollten, zeigte sich auf seiner äußersten
+Spitze ein Rudel Rennthiere. Natürlich wurde das Jagdboot sofort ausgesetzt. Es
+dauerte nicht lange, so kehrten die Leute mit einem halben Dutzend sehr großer
+und fetter Thiere zurück. Sie waren auf der niedrigen Hyperitspitze unter dem
+Walroßberge, welchen wir zwei Tage vorher in allen Richtungen durchkreuzt
+hatten, ohne auch nur die Spur eines Rennthieres wahrzunehmen, geschossen
+worden. Es scheint deshalb, daß sie über das Binneneis, welches von der
+Landseite die Spitze umgab, gekommen.
+
+Die Fahrt wurde längs der Ostküste des Storfjordes meist bei schwachem Winde und
+unter starkem Nebel fortgesetzt. Am Morgen des 26. erlegte Hellstad einen Bären
+auf dem Eise, Nachmittags aber schossen Malmgren und Dunér vom Schiffsdeck aus
+eine Menge der kleinen Seehunde, welche neugierig unser Fahrzeug umschwärmten.
+Sie waren so fett, daß sie nicht, wie es sonst der Fall zu sein pflegt, zu
+Grunde gingen, wenn sie getödtet wurden.
+
+Als wir uns den Tausend Inseln näherten, fanden wir sie in dem Grade durch Eis
+versperrt, daß weder wir noch drei andere Schiffe, welche ebenfalls dorthin zu
+gehen beabsichtigten, vorwärts kommen konnten. Wir richteten deshalb den Cours
+erst auf das Südcap und später mehr nach Norden. Zwar hatte es in unserm Plane
+gelegen, bei dieser Spitze an's Land zu steigen, aber der Wind wehte mit einer
+solchen Gewalt, daß an das Aussetzen eines Bootes nicht zu denken war. Wir
+fuhren deshalb ohne Aufenthalt weiter längs der Westküste Spitzbergens, und
+erreichten, von einem guten Winde begünstigt, schon am Morgen des 30. die Höhe
+von Prinz Charles Vorland. Hier sollte aber unsere Reise infolge eines
+unerwarteten Hindernisses zum Abschlusse gelangen. Wir erblickten nämlich
+draußen im Vorlandssunde ein mit Leuten überfülltes Boot, welches, eine große
+Fahne an seinem Hinterende, mit aller Kraft nach unserm Schiffe zu gerudert kam.
+Offenbar waren es Schiffbrüchige, welche ihre Rettung auf einem der wenigen noch
+nicht nach Norwegen zurückgekehrten Schiffe suchten, und wir hielten deshalb
+gerade auf das Boot zu. Bald befand sich die Besatzung an unserm Bord und
+bekräftigte unsere Vermuthung. Sie berichteten aber, daß wir uns auf noch
+weitere sechs Boote mit 37 Mann, welche zum Schoner Aeolus, geführt vom Capitän
+Tobiesen, der Yacht Anna Elisabeth, geführt von unserm alten Freunde, dem Quänen
+Mattilas, und der Yacht Danolina, geführt vom Schiffer Janne Aström, gefaßt
+machen müßten.
+
+Die protokollarische Erklärung Mattilas' über den Schiffbruch lautet
+folgendermaßen:
+
+„Am 19. April verließen wir bei gutem Südwinde Norwegen. Das Schiff war mit
+Booten und Jagdgeräthschaften gut ausgerüstet. Die Besatzung bestand Alles in
+Allem aus 11 Mann. Das Schiff war leicht und stark und für alle Verhältnisse
+wohl eingerichtet. Den 28. April kamen wir Spitzbergen, in der Gegend des
+Bellsundes, nahe, doch hielt uns das vorhandene Eis mindestens zwei Meilen davon
+entfernt. Wir setzten unsere Fahrt längs der Westküste nach Norden hin fort und
+hatten am 30. die Nordspitze von Prinz Charles Vorland vor uns. Da wir uns hier
+vergebens bemühten, einen Fang zu machen, segelten wir noch weiter. Am 2. Mai
+lagen wir bei der Amsterdam-Insel, fingen aber auch hier nichts. Darauf fuhren
+wir längs der Nordküste von Spitzbergen, gingen in die Weite Bucht und froren
+daselbst einige Tage ein. Wir hauten uns indessen hinaus und segelten nach
+Moffen, mußten wegen des hereinbrechenden Sturmes aber wieder in die Wijde-Bai.
+Hier warfen wir an der Ostküste Anker und blieben bis zum 19. Juni
+eingeschlossen. In dieser ganzen Zeit erbeuteten wir, mit Ausnahme einiger
+Seehunde, nichts. Den 19. arbeiteten wir uns hindurch und segelten längere Zeit
+an der Nordküste Spitzbergens, indem wir jagten. Am 20. Juli warfen wir bei Low
+Island Anker. Sodann hielten wir uns kurze Zeit in der Heenloopen Strat auf. Da
+wir aber nichts erbeuteten, fuhren wir wieder hinaus und richteten den Cours
+nach Nordosten, in der Hoffnung, hier mehr Glück zu haben. Hier trafen wir die
+Yacht Danolina und blieben mit derselben auch später zusammen. Am 25. Juli
+befanden wir uns bei den Sieben Inseln und jagten Seehunde und Walrosse. Den 4.
+August trafen wir mit dem Aeolus zusammen. Dann warfen wir alle drei an der
+nordöstlichen Spitze des Nordostlandes Anker, machten gute Beute, und fuhren
+weiter zur Storö, wo Walrosse in solcher Menge auf dem Lande lagen, daß wir so
+viele tödten konnten, als wir nur wollten.
+
+„Am 11. fuhren wir nordwärts und trafen mit Tobiesen zusammen, welcher, nach
+einem vergeblichen Versuche in die Heenloopen-Straße zu gelangen, von Süden her
+kam. Ich theilte ihm mit, daß noch eine Menge von getödteten Walrossen, die wir
+nicht mehr hätten mitnehmen können, auf der Storö lägen, und segelte weiter nach
+Norden. Den 12. hinderte uns das vom Nordwinde dicht gepackte Eis am
+Weiterkommen. Wir segelten nun mehrere Tage hin und her, in der Hoffnung, das
+Eis werde sich vertheilen, statt dessen häufte es sich aber immer mehr an, so
+daß wir zuletzt die Hoffnung aufgaben und nach dem Nordostlande zurückkehrten.
+Nun segelten wir mit den anderen Schiffen nach Süden, um möglicher Weise hier
+eine Durchfahrt zu finden, erreichten auch am 16. die Südostspitze des
+Nordostlandes, vermochten aber wegen des Eises nicht weiter zu kommen. Wir
+hatten nur noch einige Meilen bis zur Heenloopen-Straße, aber die ganze See lag
+voller Eis, und um das Unglück voll zu machen, begann dasselbe von Osten her
+nach der Gletscherküste zu drängen, so daß uns keine andere Rettung blieb als
+die Boote.
+
+„Nachdem wir dieselben einige Meilen über die Eisfelder geschleppt, kamen wir zu
+einer ziemlich eisfreien Rinne längs einem Gletscher. Während wir gerade in
+derselben ruderten, stürzte von der oberen Gletscherkante ein Eisblock herab und
+verursachte eine so gewaltige Dünung, daß eines der Boote umgeworfen wurde und
+mit dem Kiele nach oben schwamm. Die darin befindliche Mannschaft verlor ihre
+Sachen und allen Proviant, rettete sich aber in den anderen Booten. Nachdem wir
+den endlosen Gletscher passirt hatten, ruderten wir in eisfreiem Wasser durch
+die Heenloopen-Straße längs der Nord- und Nordwestküste Spitzbergens bis zu dem
+Eingange des Eisfjordes, wo wir Schiffer, die daselbst auf Rennthiere jagten,
+anzutreffen hofften. Im schlimmsten Falle wollten wir in einzelnen Abtheilungen
+in den Hütten an der Advent-, Red- und Wijde-Bai überwintern.“  — —
+
+Als wir mit den Leuten im Vorlandssunde zusammentrafen, hatten sie in 14 Tagen
+eine Entfernung von 100 geographischen Meilen, im Boote, rudernd, zurückgelegt.
+Es machte einen eigenthümlichen Eindruck, die Freude auf den wettergebräunten
+Gesichtern der Menschen zu sehen, da sie von ihrem Boote aus über die Brüstung
+des Axel Thordsen kletterten. Sahen sie sich doch von einer Ueberwinterung —
+ohne die nothwendigste Ausrüstung und ohne Lebensmittel — ja von einem ziemlich
+gewissen oder mindestens wahrscheinlichen Tode durch Hunger oder Skorbut
+gerettet! Unter den Schiffbrüchigen befand sich auch ein elf Jahre alter Knabe,
+ein Neffe Mattilas', welcher den Burschen bei einem Besuche seiner Verwandten in
+Finland mit sich genommen. Sein Benehmen offenbarte auch sofort den quänischen
+Ursprung. Er war verschlossen, einsilbig, kühn und verwegen, und ließ vermuthen,
+daß ihm in den Kämpfen des Lebens Entschlossenheit und Selbstvertrauen nicht
+fehlen werde.
+
+Wenn die Spitzbergenfahrer sich so sehr vor einer Ueberwinterung fürchten, so
+hat das seinen guten Grund. Der größere Theil der von den Westeuropäern
+gemachten Versuche (denn die Russen scheinen dem spitzbergischen Klima bessern
+Widerstand leisten zu können) haben meist den Ausgang gehabt, daß die ganze
+Wintercolonie dem Skorbut erlegen ist, und sonderbarer Weise scheint dieses
+vorherrschend das Schicksal derjenigen Partien gewesen zu sein, welche so
+vortrefflich ausgerüstet waren, daß sie sich während der langen Polarnacht
+ungestört dem Schlafe und dem Nichtsthun überlassen konnten. Diejenigen dagegen,
+welche infolge des Verlustes ihres Schiffes eine Ueberwinterung durchzumachen
+hatten und ohne Vorräthe, ohne luxuriöse Ausrüstung durch die Noth zu
+anhaltender Arbeit, zum Einsammeln von Holz, zur Rennthier- und Seehundsjagd
+gezwungen wurden, sind dadurch, sowie durch die frische Nahrung, vom Untergange
+verschont geblieben.
+
+Zu den vielen schon bekannten Beispielen der Art können wir noch einige Notizen
+in Betreff einer Ueberwinterung in der Croß-Bai 1843—1844 mittheilen, welche
+wir von einem der Theilnehmer, dem Schweden Andreas Lindström, erhalten haben.
+
+Das Schiff, auf welchem sich Lindström befand, ging am 10. Juli im Treibeise bei
+Moffen verloren. Man rettete sich zwar auf ein anderes Schiff, doch wurde auch
+dieses einige Stunden später so plötzlich zerdrückt, daß nur das Nothwendigste
+geborgen werden konnte. Es befanden sich nun zusammen 24 Mann, mit geringem
+Proviant, in zweien gebrechlichen Booten fern vom Lande, mitten im Treibeise,
+welches so dicht gepackt war, daß von einem Rudern nicht die Rede sein konnte.
+Sie schleppten deshalb die Boote über das Eis nach der Verlegen-Huuk, die sie
+nach achttägiger ermüdender Arbeit erreichten. Wieder vergingen drei Wochen,
+bevor man zur Croß-Bai kam. Glücklicher Weise stieß man unterwegs auf ein von
+Parry zurückgelassenes Depot von Fleisch in Blechbüchsen und etwas Rum, was zu
+ihrer Erfrischung und Belebung nicht wenig betrug. Ein Theil der Schiffbrüchigen
+blieb in der Croß-Bai zurück, ein anderer ging nach Süden, um irgend ein Schiff
+aufzusuchen. Es glückte ihnen auch, bis zum Norden des Bellsundes vorzudringen,
+von wo sie eine nach Süden kreuzende Schute wahrnahmen. Aber trotz aller
+verzweifelten Versuche gelang es ihnen nicht, das dazwischen liegende Treibeis
+zu durchbrechen. So blieb nichts übrig, als unverrichteter Dinge zur Croß-Bai
+zurückzukehren. Die Mannschaft aber sah sich genöthigt, sich auf eine
+Ueberwinterung in den beiden daselbst befindlichen Hütten vorzubereiten.
+Glücklicher Weise fanden sie in der einen etwas Mehl vor, das für solche Fälle
+zurückgelassen war. Man sammelte Treibholz, schoß Seehunde und Rennthiere und
+suchte sich in steter Bewegung zu erhalten. Trotzdem starben schon im Januar
+Dreie von ihnen am Skorbut, welcher auch mehrere von den Anderen überfiel,
+indessen durch den Genuß von Seehundsblut gemildert wurde. Am Anfange des Juni
+holte ein Schiff die Ueberlebenden ab. Die Kälte begann erst um Neujahr und
+erreichte ihre größte Höhe mit dem Ende der langen Winternacht. Im Winter
+herrschten Nordwinde vor, im Herbste und Frühling West- und Südwinde. Die See
+blieb bis Neujahr offen, da das Treibeis ankam. Nun fror bei dem stillen Wetter
+auch die See zu, sie wurde aber von Zeit zu Zeit wieder durch Stürme
+aufgerissen. Zur Zeit als sie am weitesten zugefroren war, konnte man selbst von
+den höchsten Bergspitzen kein offenes Wasser wahrnehmen. Nordlichter waren im
+Winter etwas ganz Gewöhnliches. — —
+
+Schon am Nachmittage nahmen wir die Mannschaft eines zweiten Bootes auf; es war
+aber noch die von fünfen übrig. Sie hatten sich nach verschiedenen Seiten
+zerstreut, um Schiffe aufzusuchen und eine schließliche Zusammenkunft in Safe
+Haven im Eisfjorde verabredet. So beschlossen auch wir in diesem Hafen die
+Rückkehr der schiffbrüchigen Besatzungen abzuwarten, wurden jedoch durch den von
+hohen Wellen begleiteten Wind aus Südosten am Einlaufen verhindert und
+gezwungen, im Vorlandssunde Schutz zu suchen, woselbst wir vor der St. Johns-Bai
+Anker warfen.
+
+In der Nacht vom 2. zum 3. September kamen wieder vier mit 21 Leuten bemannte
+Boote an. Sie hatten sogar einen Hund bei sich, der sich auf unserm Schiffsdeck
+sofort ganz ungenirt benahm, wie ein Wesen etwa, das sein ganzes Leben an Bord
+zugebracht hatte. Als dieser Hund später dagegen bei Tromsö an das Land kam, war
+er äußerst unruhig und wild. Sah er doch zum ersten Male Wohnhäuser, bellende
+Hunde und deren Junge!
+
+Das siebente Boot, welches unter Tobiesen's Führung nach dem Vorlande gerudert
+war, blieb noch immer aus und versetzte uns in die größte Unruhe. Um ihm
+entgegen zu gehen, lichteten wir am 3. Morgens die Anker, fuhren zum südlichen
+Theile des Vorlandes und hielten uns der Küste so nahe als möglich. Nachdem wir
+einige Stunden lang vergeblich nach dem vermißten Boote gespäht, hielten wir auf
+den Eingang des Eisfjordes zu, wohin Tobiesen, der Verabredung gemäß, sich
+möglicher Weise schon begeben hatte. Am Abende kamen wir bei einem laberen Winde
+in den Fjord, am 4. Morgens traf endlich auch Tobiesen ein, mit der erfreulichen
+Nachricht, daß mindestens 10 Mann auf zweien englischen Jagdschiffen, welche
+noch im Eisfjorde lagen, untergebracht werden könnten. So blieben denn nur 27
+Mann auf unserm Schiffe zurück, zusammen mit der eigenen Besatzung immerhin 42,
+eine Zahl, die uns nothwendig zur Rückkehr zwang, da es uns sowohl an dem
+genügenden Proviante als auch an Wasser fehlte. Die 42 Leute repräsentirten alle
+Nationalitäten Schwedens, Norwegens und Finlands. Wir fanden also genügende
+Gelegenheit, nichts blos den nationalen Charakter, sondern auch den
+individuellen Ausdruck, welchen das oft wechselvolle Geschick den Einzelnen
+verliehen hatte, zu studiren.
+
+Ein großer Theil der Schiffbrüchigen bestand aus Lappen, kenntlich an ihrer
+kurzen, untersetzten Figur, ihren halb mongolischen Zügen, der dunkelbraunen
+Gesichtsfarbe und der durch das Jagdleben auf Spitzbergen wenig veränderten
+Nationaltracht. Durch den Schiffbruch hatten sie ihren ganzen Lohn, von welchem
+sie den Winter über leben sollten, verloren, so daß sie eine schwere Zeit
+erwartete. Aber trotzdem sah man sie immer bei guter Laune. Nur ein junger
+Lappenbursche mit schiefstehenden Augen und kohlschwarzen Haaren rechnete uns
+wiederholt wehmüthig vor, wie viele Silberspecies er verloren. Ein anderer
+älterer Lappe hatte schon in diesem Sommer auf dem Jaen Mayen und früher
+unzählige Male Schiffbruch erlitten. Er wurde denn auch als ein wahrer
+Unglücksbringer bezeichnet, den kein Schiffer mehr mitzunehmen wagen dürfe. Im
+Allgemeinen brachten die Lappen auf unserer Rückreise die ganze Zeit auf ihrem
+Lager zu und waren nur bei den Mahlzeiten sichtbar.
+
+Erst die neueste Zeit hat den Lappen vermocht, seine Fischereigeräthgeschaften
+und Schären zu verlassen und an den Fahrten nach Spitzbergen Theil zu nehmen.
+Wird er dabei von einem Norweger oder Quänen mit gehörigem Nachdruck zur Arbeit
+angehalten, so erscheint er dazu auch ganz geeignet. Besonders sind sie als
+vortreffliche Schützen bekannt. Sehr Viele von ihnen sind in den letzten Jahren
+nach Amerika ausgewandert. Das Merkwürdigste aber ist, daß selbst ein
+*Gebirgslappe* mit seiner Familie in die neue Welt gezogen ist, um dort sein
+Glück zu suchen.
+
+Die drei Capitäné der untergegangenen Schiffe: der energische Norweger Tobiesen,
+der gefällige und allgemein beliebte Schwede Äström und der vielerfahrene
+spitzbergische Veteran, der Quäne Mattilas, repräsentirten die in
+culturhistorischer Hinsicht so nahe verwandten, den höchsten Norden bewohnenden
+Völkerschaften. Sowohl bei ihnen wie bei den schwedischen, norwegischen und
+finnischen Seeleuten waren die verschiedenen Charaktere der drei Nationalitäten
+deutlich und bestimmt ausgeprägt; zugleich aber hatte die Beschäftigung mit dem
+blutigen Jagdhandwerk und dem Hazardspiele des Fanges, sowie die unzähligen
+Gefahren und Abeneuer in dem ewigen Kampfe mit Sturm und Treibeis, ihren Zügen
+einen gewissen gemeinsamen, unvertilgbaren Stempel fast von Wildheit, jedenfalls
+von Muth, Selbstvertrauen und — wenn wir es so nennen dürfen — Herrschbegier
+verliehen. Und in der That, es ist ein schweres, abenteuerliches Dasein das
+Leben der spitzbergischen Jagdfahrer.
+
+Mit Gefahr den Leser zu ermüden, wollen wir, bevor wir den Bericht über unsere
+eigene Reise abschließen, noch einen der vielen Unglücksfälle, welche die Leute
+in einem schlimmen Eisjahre bedrohen, erzählen. Der Bericht gründet sich auch
+diesesmal auf eine beschworene Aussage.
+
+Am 7. Mai 1850 segelte der vom Schiffer Börresen geführte Schoner Karl Johann
+nach Spitzbergen, erreichte am 9. Bären-Eiland und fuhr sodann längs der Küste
+eines Eisfeldes bis Prinz Charles Vorland, welches er am 17. Mai wahrnahm.
+Nachdem man verschiedene Häfen an der Westküste besucht, beschloß man in
+Gesellschaft mit der Yacht die „Brüder“ — Capitän Henriksen zu der Ostküste
+Spitzbergens, woselbst man bessern Fang zu machen hoffte, zu fahren. Oestlich
+vom Südcap trafen sie am 25. Juli wieder auf Eis, welches anfangs vertheilt war,
+infolge eines südlichen Sturmes mit Nebel aber sich zu verdichten begann. Man
+setzte nun so viel Segel als möglich bei, um heraus zu kommen, indessen ohne
+Erfolg. Die Strömung und der Wind häuften das Eis zu immer dichteren und
+festeren Massen zusammen, und die beiden Schiffe, besonders aber der Schoner,
+wurden so beschädigt, daß man am 15. August, nach gehaltenem Schiffsrath, das
+eine Fahrzeug, welches auch bald darauf sank, aufzugeben beschloß. Man hatte
+damals im Südosten in einer Entfernung von etwa 2 Meilen Walther Thymen's Strat.
+Alle Mann begaben sich nun an Bord der „Brüder“, drei Tage später wurde aber
+auch dieses Schiff zerdrückt, so daß man die Rettung auf dem Eise zu suchen
+gezwungen war. Nachdem sie mehrere Tage umhergeirrt, nahmen sie ein Schiff wahr
+und schickten vier Mann mit einer kleinen Jolle ab, um Hülfe zu bitten. Es war
+die Slup Fortuna — Capitän E. Meier, — und sie erreichten dieselbe ohne
+besondere Schwierigkeiten, aber einige Stunden darauf ging auch Fortuna unter,
+und zwar so plötzlich, daß man sich wiederum auf das Eis retten mußte, ohne auch
+nur das Nothwendigste mitnehmen zu können. Von Proviant barg man nur 8 bis 9
+Roggen-Zwiebacke und einen Sack mit Grütze, welcher überdies im Salzwasser und
+Thran gelegen hatte. Auch rettete man zwei Boote und zwei Gewehre, doch ohne
+Munition, und zog sie auf dasselbe Eisstück, auf welchem sich die Leute
+befanden. Nachdem sie mehrere Tage lang am Südcap vorbei bis zum Hornsund
+getrieben, trafen sie auf ebenes, niedriges Eis und begannen die Boote auf das
+Land zu ziehen. Die Leute waren aber von dem Hunger so geschwächt, daß man das
+eine Boot im Stich lassen mußte, das zweite schleppte man weiter fort, bis man
+am 26. Abends von einem hohen Eisblocke wieder ein Schiff in Sicht bekam,
+welches in 2 bis 3 Meilen Entfernung im Eise lag. Die am wenigsten Geschwächten
+wurden nun zu Fuß über das in anhaltender Bewegung befindliche Treibeis zu dem
+Schiffe geschickt, das sie auch erreichten, obwohl sie oft nur mit Hülfe einer
+Stange — zugleich ihrer einzigen Waffe — über die breiten Oeffnungen im Eise
+springen konnten und sich auf ihrer Wanderung die Begleitung einiger
+verwunderten und neugierigen Eisbären, welche sie allerdings nicht weiter
+beunruhigten, gefallen lassen mußten. Sie kehrten nach 24 Stunden mit Speise und
+Munition zurück und berichteten, daß das Schiff von seiner Besatzung verlassen
+sei, aber Proviant und Anderes in Fülle enthalte. Nachdem sie sich mit den
+mitgebrachten Speisen gestärkt, begaben sie sich nun sämmtlich über das Eis zu
+der verlassenen Schute, pumpten sie aus und fuhren nach Norwegen zurück.
+
+Meier ist jetzt ein wohlhabender Kaufmann in Tromsö, von dem wir vielfache
+Beweise von Wohlwollen erhielten, aber die Erinnerung an die ausgestandenen
+Leiden ist noch jetzt, nach 14 Jahren, bei ihm so lebhaft, daß er ungerne von
+seinen Abenteuern im Eise sprechen mag. — —
+
+Aber es ist Zeit, daß wir zum Axel zurückkehren.
+
+Am 4. September verließen wir den Eisfjord. Der Wind war so schwach und
+ungünstig, daß wir uns noch am 6. vor dem Bellsund befanden. Wir legten hier
+bei, um aus einem in die Dunder-Bai mündenden Flusse die Wasserfässer zu füllen,
+und segelten weiter nach Süden.
+
+An der Westküste Spitzbergens war der Wind wie gewöhnlich sehr schwach, so daß
+wir erst in der Nacht vom 7. zum 8. September des Südcap passirten, bald darauf
+begann aber ein frischer Wind aus Osten zu wehen, welcher am 9. zum Sturme
+anschwoll. Am 10. Mittags befanden wir uns in 72° 54´, zugleich stieg die
+Temperatur des Wassers plötzlich von +3° auf +8° C., ein deutlicher Beweis, daß
+wir das Gebiet des eigentlichen Eismeeres verlassen hatten. Das wärmere Wasser
+brachte uns auch bald Nebel, welcher zusammen mit dem Dunkel der Herbstnächte
+die Einfahrt in die Schärenflur Norwegens, die wir in der Nacht zwischen dem 11.
+und 12. September in Sicht bekamen, hinderte. Am 12. klärte sich das Wetter zwar
+auf, es trat aber zugleich eine vollkommene Windstille ein. Ungeduldig, endlich
+Nachrichten aus der Heimath zu erhalten, ließen wir ein Boot aussetzen und
+erreichten Tromsö, rudernd, am frühen Morgen des 13. September. Axel Thordsen
+langte erst am Abende des folgenden Tages an.
+
+:::: { .wrap-70 .caption }
+![Giles' Land. <br />— Das sagenhafte Land im Osten. —](Die_schwedischen_Expeditionen_489.jpg "Giles' Land. <br />— Das sagenhafte Land im Osten. —"){#b489}
+:::
 
 :::
 
 
-
-
 [^2200]: [Keilhau, Reise etc. S. 128-133. Uebersetzt in dem Ergänzungsheft Nr. 16 zu Petermann's Geograph. Mittheilungen S. 49, 50.]{.footnote}
+
+[^2700]: [Unter überkühltem Wasser versteht man bekanntlich dasjenige, dessen Temperatur unter den Gefrierpunkt gesunken ist, ohne daß es zu einer Eisbildung gekommen. Wenn solches Wasser geschüttelt wird oder in Berührung mit einem kantigen Gegenstande kommt, einem Eisstücke z. B., so wird ein bedeutender Theil desselben in einem Augenblicke in Eis verwandelt und die Temperatur steigt bis zu dem gewöhnlichen Gefrierpunkte. Auf diese Art bildet sich also auch das „Grundeis“ in unseren Strömen.]{.footnote}

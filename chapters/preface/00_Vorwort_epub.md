@@ -38,7 +38,7 @@
 * [Safe Haven](ch004.xhtml#b405)
 * [Gletscher am Alkenhorne](ch004.xhtml#b434)
 * [Westküste des Storfjordes](ch004.xhtml#b455)
-* Giles' Land — das fabelhafte Land im Osten
+* [Giles' Land — das fabelhafte Land im Osten. —](ch004.xhtml#b489)
 
 :::: align-center
 ***
