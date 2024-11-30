@@ -4,7 +4,8 @@
 
 der Abhandlungen, welche sich auf die Resultate der schwedischen Expeditionen
 nach Spitzbergen gründen, sowie der hauptsächlichsten Thiere und Pflanzen, so
-weit sie daselbst vorkommen.
+weit sie daselbst vorkommen.<br /><br />
+:::
 
 :::: {.fs-xs }
 |         „In gewisser Beziehung können wir jetzt Spitzbergen zu den
@@ -17,7 +18,7 @@ A. J. Malmgren.
 ::::
 
 
-## <small>Physik, Geographie und Geodäsie.</small>
+## Physik, Geographie und Geodäsie.
 
 :::: fs-xs
 
@@ -65,7 +66,7 @@ D. G. Lindhagen.
 ::::
 
 
-## <small>Geologie.</small>
+## Geologie.
 
 :::: fs-xs
 
@@ -110,9 +111,9 @@ Spitzbergen (46 S. mit 2 Tafeln).
 
 
 
-## <small>Zoologie.</small>
+## Zoologie.
 
-### <small>Säugethiere.</small>
+### Säugethiere.
 
 :::: fs-xs 
 13. *C. H. Andersén:* Ueber das spitzbergische Renn, Cervus tarandus, forma Spitsbergensis.
@@ -165,7 +166,7 @@ Spitzbergen (46 S. mit 2 Tafeln).
 ::::
 
 
-###  <small>Vögel.</small>
+###  Vögel.
 
 :::: fs-xs 
 17. *A. J. Malmgren:* Bemerkungen zur Vogelfauna Spitzbergens.
@@ -188,7 +189,7 @@ Spitzbergen (46 S. mit 2 Tafeln).
 
 ::::
 
-
+<br /><br />
 :::: align-center
 *A. Vögel, welche jedes Jahr auf Spitzbergen brüten.*
 ::::
@@ -234,7 +235,7 @@ Spitzbergen (46 S. mit 2 Tafeln).
 ::::
 
 
-###  <small>Fische.</small>
+###  Fische.
 
 :::: fs-xs
 
@@ -269,7 +270,7 @@ Spitzbergen (46 S. mit 2 Tafeln).
 23. Seymnus miceroeephalus (Bloch) = Seymnus borealis (Nilss.)
 ::::
 
-### <small>Insekten.</small>
+### Insekten.
 
 :::: fs-xs
 
@@ -288,7 +289,7 @@ Spitzbergen (46 S. mit 2 Tafeln).
 ::::
 
 
-### <small>Crustaceen.</small>
+### Crustaceen.
 
 :::: fs-xs
 23. *A. v. Goes:* Crustacea decapoda padophthalma marina Sveciaa, iuter-
@@ -308,7 +309,7 @@ speciebus aliis arcticis (mit 6 Tafeln).
 ::::
 
 
-### <small>Mollusken.</small>
+### Mollusken.
 
 :::: fs-xs
 
@@ -321,7 +322,7 @@ speciebus aliis arcticis (mit 6 Tafeln).
 
 ::::
 
-### <small>Bryozoen.</small>
+### Bryozoen.
 
 :::: fs-xs
 26. *F. A. Smitt:* Kritisches Verzeichniß der skandinavischen Meeres-Bryozoen.
@@ -335,7 +336,7 @@ speciebus aliis arcticis (mit 6 Tafeln).
 ::::
 
 
-### <small>Annulaten.</small>
+### Annulaten.
 
 :::: fs-xs
 27. *A. J. Malmgren:* Nordische Meer-Annulate (mit 20 Tafeln in 4^to.^)
@@ -352,7 +353,7 @@ speciebus aliis arcticis (mit 6 Tafeln).
 
 ::::
 
-### <small>Echinodermen.</small>
+### Echinodermen.
 
 :::: fs-xs
 
@@ -365,7 +366,7 @@ speciebus aliis arcticis (mit 6 Tafeln).
 ::::
 
 
-## <small>Botanik.</small>
+## Botanik.
 
 :::: fs-xs
 
@@ -387,7 +388,7 @@ Das in der Arbeit ad Nr. 30 gegebene Verzeichniß hat *Charles Martins* in seine
 ::::
 
 
-### <small>Phanerogamen.</small>
+### Phanerogamen.
 
 :::: fs-xs
 
@@ -499,7 +500,7 @@ Festuca  ovina  𝛾, vilolacea (Gaud.).
 :::: 
 
 
-### <small>Filices.</small>
+### Filices.
 
 :::: fs-xs
 
@@ -512,7 +513,7 @@ Malmgren hat in seiner Abhandlung: Uebersicht der phanerogamen Flora Spitzbergen
 
 ::::
 
-### <small>Moose.</small>
+### Moose.
 
 :::: fs-xs
 32. *S. O. Lindberg's:* Die im Jahre 1858 von A. E. Nordenskiöld auf Spitzbergen gesammelten Moose.
@@ -524,13 +525,13 @@ Malmgren hat in seiner Abhandlung: Uebersicht der phanerogamen Flora Spitzbergen
 ::::
 
 
-### <small>Algen.</small>
+### Algen.
 
 :::: fs-xs
 33. *J. G. Agardh:* Ueber die Algen Spitzbergens. Lund 1862.
 ::::
 
-### <small>Flechten.</small>
+### Flechten.
 
 :::: fs-xs
 34. Th. M. Fries: Liehenes Spitzbergenses.
@@ -538,6 +539,7 @@ Malmgren hat in seiner Abhandlung: Uebersicht der phanerogamen Flora Spitzbergen
 ::::: margin-left-xl
 — Abhandlungen der Königl. Akademie etc. Bd. VII, 1867.
 :::::
+<br /><br />
 
 Die Zahl ihrer Arten beträgt 247, das heißt sie übertrifft die der Phanerogamen
 um mehr als das Doppelte, wogegen in Skandinavien auf ungefähr 1300 Phanerogamen
@@ -546,20 +548,19 @@ Baumflechten sämmtlich.
 
 ::::
 
-### <small>Pilze.</small>
+### Pilze.
 
 :::: fs-xs
 Es kommen nur wenige Arten vor, diese treten aber ziemlich häufig auf, z. B. an
 der Advent-Bai im Eisfjorde.
 ::::
 
-:::
 
 :::: { .break-before .wrap-100 .caption }
 ![](Die_schwedischen_Expeditionen_999.jpg ){#b999}
 ::::
 
-Im Verlage von **Hermann Costenoble** in Jena erschienen ferner folgende neue Werke:
+Im Verlage von **Hermann Costenoble** in Jena erschienen ferner folgende neue Werke:<br /><br />
 
 **Pasqué, Ernst,**  *Drei Gesellen.* Eine heitere und ernste Geschichte. 4 Bde. 8. broch. 4½ Thlr.
 
@@ -579,7 +580,7 @@ Im Verlage von **Hermann Costenoble** in Jena erschienen ferner folgende neue We
 
 **Wickede, Jul. von,**  *Aus alten Tagebüchern.* Im Anschluß an „Eine deutsche Bürgerfamilie“. 3 Bde. 8. broch. 4 Thlr.
 
-**Robiano, L. Gräfin von,**  *Gustav Wasa.** Historischer Roman. 2 Bde. 8. broch. 3¾ Thlr. 
+**Robiano, L. Gräfin von,**  *Gustav Wasa.* Historischer Roman. 2 Bde. 8. broch. 3¾ Thlr. 
 
 **Bibra, Ernst Freiherr von,**  *Aus jungen und alten Tagen.* Erinnerungen. 3 Bde. 8. broch. 2½ Thlr.
 
@@ -603,7 +604,7 @@ Im Verlage von **Hermann Costenoble** in Jena erschienen ferner folgende neue We
 
 **Bibra, Ernst Freiherr von,**  *Die Schatzgräber.* Roman. 3 Bde. 8. broch. 4 Thlr.
 
-**Wickede, Jul. von,**  *Eine deutsche Bürgerfamilie.** Nach einer Familienchronik bearbeitet. 3 Bde. 8. broch. 4½ Thlr.
+**Wickede, Jul. von,**  *Eine deutsche Bürgerfamilie.* Nach einer Familienchronik bearbeitet. 3 Bde. 8. broch. 4½ Thlr.
 
 **Sacher-Masoch, Leopold von,**  *Der letzte König der Magyaren.* Historischer Roman. 3 Bde. 8. broch. 4 Thlr.
 
@@ -639,8 +640,7 @@ Abtheilung: *Deutschland gegen Frankreich.* Historischer Roman. 4 Bde. 8. broch.
 
 **Andreä, Wilhelm,** *Die Sturmvögel.* Cultur- und sittengeschichtlicher Roman aus dem Anfange des 16. Jahrhunderts. 2 Bde. 8. broch. 2½ Thlr.
 
-
-
 :::: { .fs-xxs .align-center }
 *Druck von G. Pätz in Naumburg ^a^/~S~*
 ::::
+
