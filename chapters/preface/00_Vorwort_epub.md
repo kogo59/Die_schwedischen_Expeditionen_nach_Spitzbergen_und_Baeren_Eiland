@@ -29,7 +29,7 @@
 * [Im Innern der Kingsbai](ch003.xhtml#b289)
 * [Westseite der Kingsbai](ch003.xhtml#b293)
 * [Sortepynt auf Prinz Charles Vorland.](ch003.xhtml#b315)
-* [Bohne von Entada gigalobiuam](ch003.xhtml#b365)
+* [Bohne von Entada gigalobiuam](ch003.xhtml#b364)
 * [Danskö (dänische Insel)](ch003.xhtml#b378)
 * [Axel Thordsen](ch004.xhtml#b386)
 * [Der „Balsfjording“ am Steuer](ch004.xhtml#b388)
