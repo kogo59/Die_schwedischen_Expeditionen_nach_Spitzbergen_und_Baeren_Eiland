@@ -189,10 +189,9 @@ Spitzbergen (46 S. mit 2 Tafeln).
 
 ::::
 
-<br /><br />
-:::: align-center
-*A. Vögel, welche jedes Jahr auf Spitzbergen brüten.*
-::::
+::::: align-center
+<br /><br />*A. Vögel, welche jedes Jahr auf Spitzbergen brüten.*
+:::::
 
 :::: fs-xs
 
