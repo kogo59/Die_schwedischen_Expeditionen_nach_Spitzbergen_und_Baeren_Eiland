@@ -555,7 +555,7 @@ der Advent-Bai im Eisfjorde.
 ::::
 
 
-:::: { .break-before .wrap-100 .caption }
+:::: { .break-before .break-after .wrap-100 .caption }
 ![](Die_schwedischen_Expeditionen_999.jpg ){#b999}
 ::::
 
@@ -639,7 +639,8 @@ Abtheilung: *Deutschland gegen Frankreich.* Historischer Roman. 4 Bde. 8. broch.
 
 **Andreä, Wilhelm,** *Die Sturmvögel.* Cultur- und sittengeschichtlicher Roman aus dem Anfange des 16. Jahrhunderts. 2 Bde. 8. broch. 2½ Thlr.
 
+
 :::: { .fs-xxs .align-center }
-*Druck von G. Pätz in Naumburg ^a^/~S~*
+<br /><br />*Druck von G. Pätz in Naumburg ^a^/~S~*
 ::::
 
